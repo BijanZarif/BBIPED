@@ -1,0 +1,4 @@
+<map id="ParserFiles" name="ParserFiles">
+<area shape="rect" id="node2" href="$da/dfd/class_configuration_file_parser.html" title="{ConfigurationFileParser\n|&#45; _currentParsedValues\l&#45; _parsedVirtualMRFData\l|+ ConfigurationFileParser()\l+ getParsedVirtualMRFData()\l+ parseFileProcess()\l&#45; analyseLine()\l&#45; findVirtualMRFPositionBy\lZoneName()\l&#45; isCommentedLine()\l&#45; removeCommentedPart()\l&#45; saveDomainClippingValue()\l&#45; saveTokenElements()\l&#45; saveVirtualMRFValue()\l}" alt="" coords="5,235,200,474"/>
+<area shape="rect" id="node3" href="$dc/d6c/class_mesh_file_parser.html" title="{MeshFileParser\n|&#45; _currentParsedValues\l&#45; _found3DMesh\l&#45; _id\l&#45; _is3dMesh\l|+ MeshFileParser()\l+ is3DMesh()\l+ parseFileProcess()\l&#45; analyseLine()\l&#45; containsKeyTagName()\l&#45; saveTokenElements()\l}" alt="" coords="225,257,391,452"/>
+</map>

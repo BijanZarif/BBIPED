@@ -1,0 +1,6 @@
+<map id="MainWindow::initializeHelper" name="MainWindow::initializeHelper">
+<area shape="rect" id="node3" href="$db/dc7/class_input_data_tab_helper.html#adf3e20befe5c78da098b003ea6392678" title="This function register the main Buttons of the Solver tab to controls their behaviour. " alt="" coords="256,5,395,51"/>
+<area shape="rect" id="node5" href="$db/dc7/class_input_data_tab_helper.html#a01a3a2f1860383a6240a5f0082e95009" title="This function register the main Line Edits of the Solver tab to controls their behaviour. " alt="" coords="256,74,395,121"/>
+<area shape="rect" id="node7" href="$d6/deb/class_project_menu_tree_helper.html#a8f699d08abc552203cd14c90574969d2" title="ProjectMenuTreeHelper\l::registerMenuTree" alt="" coords="247,143,404,190"/>
+<area shape="rect" id="node9" href="$db/dc7/class_input_data_tab_helper.html#a3c7ab2ceccc68754079e8120d05d8176" title="This function register the the Solver tab to controls their behaviour. " alt="" coords="256,213,395,259"/>
+</map>

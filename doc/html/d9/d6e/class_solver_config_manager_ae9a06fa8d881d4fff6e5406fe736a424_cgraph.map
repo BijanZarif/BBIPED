@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="297,5,551,35"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file." alt="" coords="297,59,551,88"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#a28c8b02ecd944c15bed783117056d1cc" title="This function allows to change the visibility of a variable." alt="" coords="324,112,524,141"/>
+</map>

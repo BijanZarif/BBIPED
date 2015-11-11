@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver-template>
+<section-node>
+	<title> Direct, Adjoing and Linearized problem definition </title>
+	<sec-id>0</sec-id>
+	<variable id="0">
+		<name> Physical governing equations </name>
+		<help> Possible Values: POTENTIAL_FLOW,EULER,NAVIER_STOKES,MULTI_SPECIES_NAVIER_STOKERS,TWO_PHASE_FLOW,COMBUSTION 			</help>
+		<value name="PHYSICAL_PROBLEM"> EULER </value>
+	</variable>
+	<variable id="1">
+		<name> If Naiver-Stokes, kind of turbulent model </name>
+		<help> NONE, SA </help>
+		<value name="KIND_TURB_MODEL"> 	NONE </value>
+	</variable>
+	<variable id="2">
+		<name> Mathematical problem </name>
+		<help> (DIRECT, ADJOINT, LINEARIZED, ONE_SHOT_ADJOINT) </help>
+		<value name="MATH_PROBLEM"> DIRECT </value>
+	</variable>
+	<variable id="3">
+		<name> Incompressible flow using artificial compressibility </name>
+		<help>  (NO, YES) </help>
+		<value name="INCOMPRESSIBLE_FORMULATION"> NO </value>
+	</variable>
+	<variable id="4">
+		<name> Gravity force </name>
+		<help>  (NO, YES) </help>
+		<value name="GRAVITY_FORCE"> NO </value>
+	</variable>
+	<variable id="5">
+		<name> Restart Solution </name>
+		<help>  (NO, YES) </help>
+		<value name="RESTART_SOL"> NO </value>
+	</variable>
+</section-node>
+		
+<section-node>
+	<title> INCOMPRESSIBLE FREE-STREAM DEFINITION </title>
+	<sec-id>1</sec-id>
+	<variable id="0">
+		<name> Free-stream density  </name>
+		<help> (1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water)) </help>
+		<value name="FREESTREAM_DENSITY"> 1.2886 </value>
+	</variable>
+	<variable id="1">
+		<name> Free-stream velocity  </name>
+		<help> (m/s) </help>
+		<value name="FREESTREAM_VELOCITY"> (0.0, 0.00, -17.18 ) </value>
+	</variable>
+	<variable id="2">
+		<name> Free-stream viscosity  </name>
+		<help>(1.853E-5 Ns/m^2 (air), 0.798E-3 Ns/m^2 (water)) </help>
+		<value name="FREESTREAM_VISCOSITY"> 1.853E-5</value>
+	</variable>
+
+</section-node>
+
+<section-node>
+	<title> ROTATING FRAME </title>
+	<sec-id>2</sec-id>
+	<variable id="0">
+		<name> Rotating frame problem  </name>
+		<help> (NO, YES) </help>
+		<value name="ROTATING_FRAME"> NO </value>
+	</variable>
+</section-node>
+
+<section-node>
+	<title> GAS DEFINITION </title>
+	<sec-id>3</sec-id>
+	<variable id="0">
+		<name> Mach number in the farfield  </name>
+		<help>  0.050087 </help>
+		<value name="MACH_NUMBER"> 0.050087 </value>
+	</variable>
+	<variable id="1">
+		<name> Angle of attack  </name>
+		<help> (degrees) </help>
+		<value name="AoA">0 </value>
+	</variable>
+	<variable id="2">
+		<name> Side-slip angle </name>
+		<help> (degrees) </help>
+		<value name="SIDESLIP_ANGLE"> 0 </value>
+	</variable>
+	<variable id="3">
+		<name> Ratio of specific heats </name>
+		<help> ...</help>
+		<value name="GAMMA_VALUE"> 1.4 </value>
+	</variable>
+	<variable id="4">
+		<name> Specific gas constant </name>
+		<help> ( J/(kg*K) ) </help>
+		<value name="GAS_CONSTANT"> 287.87 </value>
+	</variable>
+	<variable id="5">
+		<name> Total pressure  </name>
+		<help> (N/m^2) </help>
+		<value name="FREESTREAM_PRESSURE"> 101325.0 </value>
+	</variable>
+	<variable id="6">
+		<name> Total temperature  </name>
+		<help> (Kelvin) </help>
+		<value name="FREESTREAM_TEMPERATURE"> 273.15 </value>
+	</variable>
+	<variable id="7">
+		<name> Reynolds number  </name>
+		<help> (0.0 implies no definition)115.2e+05 </help>
+		<value name="REYNOLDS_NUMBER"> 300000.0 </value>
+	</variable>
+	<variable id="8">
+		<name> Reynolds length </name>
+		<help> (dimensional) </help>
+		<value name="REYNOLDS_LENGTH">1.0 </value>
+	</variable>
+	<variable id="9">
+		<name> Laminar Prandtl number  </name>
+		<help> .... </help>
+		<value name="PRANDTL_LAM"> 0.72 </value>
+	</variable>
+	<variable id="10">
+		<name> Turbulent Prandtl number </name>
+		<help> ... </help>
+		<value name="PRANDTL_TURB"> 0.9 </value>
+	</variable>	
+</section-node>
+<section-node>
+	<title> REFERENCE VALUE DEFINITION </title>
+	<sec-id>4</sec-id>
+	<variable id="0">
+		<name>  Conversion factor for converting the grid to meters  </name>
+		<help>  .... </help>
+		<value name="CONVERT_TO_METER"> 1.0 </value>
+	</variable>
+	<variable id="1">
+		<name> Reference origin for moment computation  </name>
+		<help> .... </help>
+		<value name="REF_ORIGIN_MOMENT"> ( 0.9, 0.8, 0.1 ) </value>
+	</variable>
+	<variable id="2">
+		<name> Reference area for non-dimensionalization </name>
+		<help>(0 implies automatic calculation) </help>
+		<value name="REF_AREA"> 0 </value>
+	</variable>
+	<variable id="3">
+		<name> Reference length for pitching, rolling, and yawing momentum. </name>
+		<help> ...</help>
+		<value name="REF_LENGTH_MOMENT"> 1.0 </value>
+	</variable>
+	<variable id="4">
+		<name> Reference pressure </name>
+		<help> ... </help>
+		<value name="REF_PRESSURE"> 1.0 </value>
+	</variable>
+	<variable id="5">
+		<name> Reference temperature  </name>
+		<help> .... </help>
+		<value name="REF_TEMPERATURE"> 1.0 </value>
+	</variable>
+	<variable id="6">
+		<name> Reference density  </name>
+		<help> (1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water))  </help>
+		<value name="REF_DENSITY"> 1.0 </value>
+	</variable>
+</section-node>
+<section-node>
+	<title> UNSTEADY SIMULATION </title>
+	<sec-id>5</sec-id>
+	<variable id="0">
+		<name> Unsteady simulation  </name>
+		<help>  (NO, TIME_STEPPING, DUAL_TIME_STEPPING) </help>
+		<value name="UNSTEADY_SIMULATION"> NO </value>
+	</variable>
+	<variable id="1">
+		<name> Time Step for dual time stepping simulations  </name>
+		<help> .... </help>
+		<value name="UNST_TIMESTEP"> 5.0 </value>
+	</variable>
+	<variable id="2">
+		<name> Total Physical Time for dual time stepping simulations  </name>
+		<help>.... </help>
+		<value name="UNST_TIME"> 50.0</value>
+	</variable>
+
+</section-node>
+
+<section-node>
+	<title> BOUNDARY CONDITION DEFINITION </title>
+	<sec-id>6</sec-id>
+	<variable id="0">
+		<name> Marker of the Navier-Stokes boundary  </name>
+		<help> (NONE = no marker) </help>
+		<value name="MARKER_NS">( BOUNDARY4 BOUNDARY5 ) </value>
+	</variable>
+	<variable id="1">
+		<name> MARKER_EULER  </name>
+		<help> .... </help>
+		<value name="MARKER_EULER">( wall) </value>
+	</variable>
+	<variable id="2">
+		<name> MARKER_CUSTOM  </name>
+		<help> ... </help>
+		<value name="MARKER_CUSTOM">(Rot_part) </value>
+	</variable>
+	<variable id="3">
+		<name> Marker_RotB </name>
+		<help> ...</help>
+		<value name="Marker_RotB">( BOUNDARY3 ) </value>
+	</variable>
+	<variable id="4">
+		<name> Marker of the far field </name>
+		<help> (NONE = no marker) </help>
+		<value name="MARKER_FAR">  ( BOUNDARY1, BOUNDARY2 ) </value>
+	</variable>
+	<variable id="5">
+		<name> MARKER_INTERFACE  </name>
+		<help> .... </help>
+		<value name="MARKER_INTERFACE"> (BOUNDARY2 ) </value>
+	</variable>
+	<variable id="6">
+		<name> MARKER_PERIODIC  </name>
+		<help> .... </help>
+		<value name="MARKER_PERIODIC">  ( BOUNDARY1, BOUNDARY2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BOUNDARY2, BOUNDARY1,  0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0) </value>
+	</variable>
+	<variable id="7">
+		<name> Marker of symmetry boundary  </name>
+		<help> (NONE = no marker)</help>
+		<value name="MARKER_SYM"> ( BOUNDARY1 ) </value>
+	</variable>
+	<variable id="8">
+		<name> Inlet boundary marker(s)  </name>
+		<help> (NONE = no marker). Format: ( inlet marker, total temperature, total pressure, flow_direction_x, 
+           flow_direction_y, flow_direction_z, ... ) where flow_direction is
+           a unit vector. </help>
+		<value name="MARKER_INLET">( inlet, 273.15, 111325.0, -1.0, 0, 0.0 )</value>
+	</variable>
+	<variable id="9">
+		<name> Outlet boundary marker(s)  </name>
+		<help> (NONE = no marker). Format: ( outlet marker, back pressure (static), ... ) </help>
+		<value name="MARKER_OUTLET"> ( outlet, 101325.0 ) </value>
+	</variable>
+	<variable id="10">
+		<name> Marker of the surface which is going to be plotted or designed </name>
+		<help> ... </help>
+		<value name="MARKER_PLOTTING"> ( wall ) </value>
+	</variable>	
+	<variable id="11">
+		<name>  Marker of the surface where the functional (Cd, Cl, etc.) will be evaluated </name>
+		<help> ... </help>
+		<value name="MARKER_MONITORING"> ( wall ) </value>
+	</variable>
+</section-node>
+<section-node>
+	<title>COMMON PARAMETERS TO DEFINE THE NUMERICAL METHOD </title>
+	<sec-id>7</sec-id>
+	<variable id="0">
+		<name> Numerical method for spatial gradients  </name>
+		<help>  GREEN_GAUSS, LEAST_SQUARES,   WEIGHTED_LEAST_SQUARES)</help>
+		<value name="NUM_METHOD_GRAD">  WEIGHTED_LEAST_SQUARES </value>
+	</variable>
+	<variable id="1">
+		<name> Courant-Friedrichs-Lewy condition of the finest grid  </name>
+		<help> .... </help>
+		<value name="CFL_NUMBER"> 1.25 </value>
+	</variable>
+	<variable id="2">
+		<name> CFL ramp </name>
+		<help>(factor, number of iterations, CFL limit)</help>
+		<value name="CFL_RAMP"> ( 1.00, 50, 1.25 )</value>
+	</variable>
+	<variable id="3">
+		<name> Number of total iterations  </name>
+		<help>.... </help>
+		<value name="EXT_ITER"> 8000</value>
+	</variable>
+</section-node>
+
+<section-node>
+	<title> MULTIGRID PARAMETERS </title>
+	<sec-id>8</sec-id>
+	<variable id="0">
+		<name> Multi-Grid Levels  </name>
+		<help> (0 = no multi-grid)</help>
+		<value name="MGLEVEL">  0 </value>
+	</variable>
+	<variable id="1">
+		<name> Multi-Grid Cycle  </name>
+		<help> (0 = V cycle, 1 = W Cycle) </help>
+		<value name="MGCYCLE"> 0 </value>
+	</variable>
+	<variable id="2">
+		<name>  Multi-Grid PreSmoothing Level </name>
+		<help>.....</help>
+		<value name="MG_PRE_SMOOTH"> ( 1, 1, 1, 1 )</value>
+	</variable>
+	<variable id="3">
+		<name> Multi-Grid PostSmoothing Level  </name>
+		<help>.... </help>
+		<value name="MG_POST_SMOOTH"> ( 1, 1, 1, 1 )</value>
+	</variable>
+	<variable id="4">
+		<name> Jacobi implicit smoothing of the correction  </name>
+		<help>.... </help>
+		<value name="MG_CORRECTION_SMOOTH"> ( 1, 1, 1, 1 )</value>
+	</variable>
+	<variable id="5">
+		<name> Damping factor for the residual restriction  </name>
+		<help>.... </help>
+		<value name="MG_DAMP_RESTRICTION"> 0.85</value>
+	</variable>
+	<variable id="6">
+		<name> Damping factor for the correction prolongation  </name>
+		<help>.... </help>
+		<value name="MG_DAMP_PROLONGATION"> 0.85</value>
+	</variable>
+	<variable id="7">
+		<name> Restart Multi-Grid cycle with the interpolated solution  </name>
+		<help>(NO, YES)</help>
+		<value name="MG_RESTART_CYCLE"> NO </value>
+	</variable>
+</section-node>
+<section-node>
+	<title> FLOW NUMERICAL METHOD DEFINITION </title>
+	<sec-id>9</sec-id>
+	<variable id="0">
+		<name> Convective numerical method   </name>
+		<help> (JST, LAX-FRIEDRICH, ROE-1ST_ORDER, ROE-2ND_ORDER, HLLC-1ST_ORDER, HLLC-2ND_ORDER, ) </help>
+		<value name="CONV_NUM_METHOD_FLOW">  HLLC-1ST_ORDER </value>
+	</variable>
+	<variable id="1">
+		<name> Viscous numerical method </name>
+		<help>(AVG_GRAD, AVG_GRAD_CORRECTED,  GALERKIN)  </help>
+		<value name="VISC_NUM_METHOD_FLOW">AVG_GRAD_CORRECTED</value>
+	</variable>
+	<variable id="2">
+		<name> time discretization  </name>
+		<help> (RUNGE-KUTTA_EXPLICIT, EULER_IMPLICIT, EULER_EXPLICIT) </help>
+		<value name="TIME_DISCRE_FLOW"> EULER_EXPLICIT</value>
+	</variable>
+	<variable id="3">
+		<name> Slope limiter  </name>
+		<help> (NONE, VENKATAKRISHNAN) </help>
+		<value name="SLOPE_LIMITER_FLOW"> BARTH </value>
+	</variable>
+	<variable id="4">
+		<name> Coefficient for the limiter  </name>
+		<help>(smooth regions)</help>
+		<value name="LIMITER_COEFF"> 0.1</value>
+	</variable>
+	<variable id="5">
+		<name> 1st, 2nd and 4th order artificial dissipation coefficients  </name>
+		<help>( 0.15, 0.5, 0.02 ) </help>
+		<value name="AD_COEFF_FLOW">( 0.00, 0.224, 0.01)</value>
+	</variable>
+	<variable id="6">
+		<name> Runge-Kutta Alpha Coefficients  </name>
+		<help>.... </help>
+		<value name="RK_ALPHA_COEFF"> (0.66667,0.66667,1.00000)</value>
+	</variable>
+	<variable id="7">
+		<name> Runge-Kutta Beta Coefficients   </name>
+		<help>....</help>
+		<value name="RK_BETA_COEFF"> (1.00000,0.00000,1.00000) </value>
+	</variable>
+</section-node>
+
+<section-node>
+	<title>TURBULENT NUMERICAL METHOD DEFINITION </title>
+	<sec-id>10</sec-id>
+	<variable id="0">
+		<name> Convective numerical method </name>
+		<help>  (SCALAR_UPWIND-1ST_ORDER,SCALAR_UPWIND-2ND_ORDER)</help>
+		<value name="CONV_NUM_METHOD_TURB"> SCALAR_UPWIND-1ST_ORDER </value>
+	</variable>
+	<variable id="1">
+		<name> Viscous numerical method </name>
+		<help> (AVG_GRAD, AVG_GRAD_CORRECTED) </help>
+		<value name="VISC_NUM_METHOD_TURB"> AVG_GRAD_CORRECTED </value>
+	</variable>
+	<variable id="2">
+		<name> Source term numerical method  </name>
+		<help>(PIECEWISE_CONSTANT)</help>
+		<value name="SOUR_NUM_METHOD_TURB">  PIECEWISE_CONSTANT </value>
+	</variable>
+	<variable id="3">
+		<name> Time discretization  </name>
+		<help>(EULER_IMPLICIT) </help>
+		<value name="TIME_DISCRE_TURB"> EULER_IMPLICIT </value>
+	</variable>
+</section-node>
+
+<section-node>
+	<title>PARTITIONING STRATEGY</title>
+	<sec-id>11</sec-id>
+	<variable id="0">
+		<name>Write a paraview file for each partition </name>
+		<help> (NO, YES) </help>
+		<value name="VISUALIZE_PART">NO </value>
+	</variable>
+	<variable id="1">
+		<name> Number of partitions of the domain </name>
+		<help> ...</help>
+		<value name="NUMBER_PART"> 0 </value>
+	</variable>
+
+
+</section-node>
+
+<section-node>
+	<title>  CONVERGENCE PARAMETERS </title>
+	<sec-id>12</sec-id>
+	<variable id="0">
+		<name>Convergence criteria  </name>
+		<help> (CAUCHY, RESIDUAL) </help>
+		<value name="CONV_CRITERIA"> RESIDUAL</value>
+	</variable>
+	<variable id="1">
+		<name> Function to apply the criteria   </name>
+		<help>(LIFT, DRAG, SENS_GEOMETRY, SENS_MACH,  DELTA_LIFT, DELTA_DRAG) </help>
+		<value name="CAUCHY_FUNC_FLOW"> DRAG</value>
+	</variable>
+	<variable id="2">
+		<name>  Residual reduction  </name>
+		<help> (order of magnitude with respect to the initial value) </help>
+		<value name="RESIDUAL_REDUCTION"> 6 </value>
+	</variable>
+	<variable id="3">
+		<name> Min value of the residual  </name>
+		<help>(log10 of the residual)</help>
+		<value name="RESIDUAL_MINVAL">-8</value>
+	</variable>
+	<variable id="4">
+		<name> Start convergence criteria at iteration number </name>
+		<help>... </help>
+		<value name="STARTCONV_ITER">50</value>
+	</variable>
+	<variable id="5">
+		<name>Number of elements to apply the criteria </name>
+		<help>....  </help>
+		<value name="CAUCHY_ELEMS">100</value>
+	</variable>
+	<variable id="6">
+		<name>Epsilon to control the series convergence </name>
+		<help> ... </help>
+		<value name="CAUCHY_EPS"> 1E-4</value>
+	</variable>
+	<variable id="7">
+		<name> Epsilon for One-Shot method evaluation </name>
+		<help>....</help>
+		<value name="ONESHOT_CAUCHY_EPS"> 1E-5 </value>
+	</variable>
+	<variable id="8">
+		<name> Epsilon for full multigrid method evaluation </name>
+		<help>....</help>
+		<value name="FULLMG_CAUCHY_EPS">1E-4</value>
+	</variable>
+</section-node>
+
+<section-node>
+	<title> INPUT/OUTPUT INFORMATION </title>
+	<sec-id>13</sec-id>
+	<variable id="0">
+		<name>Mesh input file format </name>
+		<help> (SU2, CGNS, NETCDF_ASCII) </help>
+		<value name="MESH_FORMAT">SU2 </value>
+	</variable>
+	<variable id="1">
+		<name>Output file format </name>
+		<help>  (PARAVIEW, TECPLOT) </help>
+		<value name="OUTPUT_FORMAT"> PARAVIEW </value>
+	</variable>
+	<variable id="2">
+		<name> Mesh input file  </name>
+		<help> ....</help>
+		<value name="MESH_FILENAME">test.su2 </value>
+	</variable>
+	<variable id="3">
+		<name>Restart flow input file</name>
+		<help> ... </help>
+		<value name="SOLUTION_FLOW_FILENAME">solution_flow.dat</value>
+	</variable>
+	<variable id="4">
+		<name> Output file convergence history  </name>
+		<help> (w/o extension)  </help>
+		<value name="CONV_FILENAME">  history </value>
+	</variable>
+	<variable id="5">
+		<name>  Output file residual </name>
+		<help> .... </help>
+		<value name="RESIDUAL_FILENAME"> residual.vtk</value>
+	</variable>
+	<variable id="6">
+		<name> Output file restart flow </name>
+		<help> .... </help>
+		<value name="RESTART_FLOW_FILENAME">  restart_flow.dat </value>
+	</variable>
+	<variable id="7">
+		<name> Output file flow (w/o extension) variables </name>
+		<help> ...</help>
+		<value name="VOLUME_FLOW_FILENAME"> flow </value>
+	</variable>
+	<variable id="8">
+		<name>Output file gradient conservative variables  </name>
+		<help> ... </help>
+		<value name="GRAD_FILENAME"> gradient.vtk</value>
+	</variable>
+	<variable id="9">
+		<name> Output file surface flow coefficient  </name>
+		<help>  (w/o extension)</help>
+		<value name="SURFACE_FLOW_FILENAME"> surface_flow </value>
+	</variable>
+	<variable id="10">
+		<name> Writing solution file frequency</name>
+		<help> ... </help>
+		<value name="WRT_SOL_FREQ"> 200 </value>
+	</variable>
+	<variable id="11">
+		<name>  Writing convergence history frequency </name>
+		<help> ... </help>
+		<value name="WRT_CON_FREQ"> 1 </value>
+	</variable>
+</section-node>
+
+
+</solver-template>

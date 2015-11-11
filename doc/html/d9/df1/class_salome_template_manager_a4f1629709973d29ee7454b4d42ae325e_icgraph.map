@@ -1,0 +1,5 @@
+<map id="SalomeTemplateManager::restoreToDefaultTemplate" name="SalomeTemplateManager::restoreToDefaultTemplate">
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a1afbef1dd3784e856b686d3f3eb1531b" title="SalomeTemplateDialog\l::restoreTemplateDefaults" alt="" coords="235,14,408,61"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#a7474f31839b3ce6c0662902ba046c9e0" title="SalomeTemplateDialog\l::resetValuesToDefault" alt="" coords="456,14,613,61"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#a646af96264ec053dcd1bc7def9548968" title="SalomeTemplateDialog\l::on_reset2DefaultButton\l_clicked" alt="" coords="663,5,828,69"/>
+</map>

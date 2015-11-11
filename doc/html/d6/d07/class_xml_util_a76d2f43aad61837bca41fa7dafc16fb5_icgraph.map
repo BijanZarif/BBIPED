@@ -1,0 +1,15 @@
+<map id="XmlUtil::getSU2Information" name="XmlUtil::getSU2Information">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#af3d7010239a924237681fb0d79342d43" title="Function to read the XML Project file. " alt="" coords="238,81,421,108"/>
+<area shape="rect" id="node3" href="$db/d28/class_util_files.html#af9edcfdbd2ef232848243b8cdd05a1e5" title="Obtains the data stored in the file project (.prj) returning the data into the Project data object..." alt="" coords="469,81,669,108"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="718,81,893,108"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="944,15,1136,57"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="942,81,1138,108"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1187,70,1370,111"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1419,70,1602,111"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1419,5,1602,46"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1651,99,1869,141"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1918,99,2106,141"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1667,5,1853,46"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1922,5,2102,46"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="2155,12,2335,39"/>
+</map>

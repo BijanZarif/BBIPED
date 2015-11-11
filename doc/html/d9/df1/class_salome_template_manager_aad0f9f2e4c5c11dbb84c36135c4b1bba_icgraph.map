@@ -1,0 +1,8 @@
+<map id="SalomeTemplateManager::loadTemplate" name="SalomeTemplateManager::loadTemplate">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#a26c766492f7bd56f4076037c6397f773" title="SalomeTemplateDialog\l::initializeDialog" alt="" coords="233,5,391,46"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a1ce9754ec9edd238af1649c8cc8d856e" title="SalomeOptimizationDialog\l::initializeDialog" alt="" coords="224,70,400,111"/>
+<area shape="rect" id="node3" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="448,12,675,39"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="739,5,928,46"/>
+<area shape="rect" id="node6" href="$d0/d3b/class_tools_helper.html#a5786cd77608aab228d628ba372124515" title="ToolsHelper::createAutomatic\lMeshWithOptimization" alt="" coords="464,70,659,111"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a1bf08ce8fdda9c822f7490db60578517" title="This function is to create automatic mesh using Salome but with optimization parameters. " alt="" coords="723,70,943,111"/>
+</map>

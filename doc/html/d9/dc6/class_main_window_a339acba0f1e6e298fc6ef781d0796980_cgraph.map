@@ -1,0 +1,8 @@
+<map id="MainWindow::launchSalomeMeshTool" name="MainWindow::launchSalomeMeshTool">
+<area shape="rect" id="node2" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome) " alt="" coords="278,5,426,46"/>
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="259,71,445,97"/>
+<area shape="rect" id="node4" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a20f59c53d740e39c5affd216a6090d36" title="MeshingToolConfiguration\lWarningDialog::initializeStructures" alt="" coords="241,122,463,163"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a66c68c6b53718d97b43982eebd40bc01" title="Slot function that captures the error if something goes wrong in the process. " alt="" coords="251,188,453,215"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="513,188,727,215"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="776,188,995,215"/>
+</map>

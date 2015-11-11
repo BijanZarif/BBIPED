@@ -1,0 +1,7 @@
+<map id="PreferencesManager::getProjectList" name="PreferencesManager::getProjectList">
+<area shape="rect" id="node2" href="$d1/d59/class_preferences_manager.html#a583edb783de2d33b98b59bc9b3f7a898" title="PreferencesManager\l::getRecentProjects" alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="389,5,536,46"/>
+<area shape="rect" id="node4" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="584,5,731,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="779,5,959,46"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1009,12,1189,39"/>
+</map>

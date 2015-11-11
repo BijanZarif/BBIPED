@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=BBIPED_platform
+Comment=BBIPED Platfrom Launcher
+Exec=/home/BCAMATH/calonso/workspace/BaltogarUIRepo/BBIPED_platform
+Icon=/home/BCAMATH/calonso/workspace/BaltogarUIRepo/logo/BBiped6.gif
+Terminal=false
+Type=Application
+Categories=Qt;Utility;Application;

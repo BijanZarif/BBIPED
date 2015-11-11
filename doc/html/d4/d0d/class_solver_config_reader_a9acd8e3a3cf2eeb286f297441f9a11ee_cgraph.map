@@ -1,0 +1,15 @@
+<map id="SolverConfigReader::createVariableSection" name="SolverConfigReader::createVariableSection">
+<area shape="rect" id="node2" href="$dc/d7e/class_solver_variable_v_o.html#a69ecca7fa85353471b777ac8ac9f3c6a" title="Set the list of associated variables. " alt="" coords="220,5,436,46"/>
+<area shape="rect" id="node3" href="$dc/d7e/class_solver_variable_v_o.html#a819ab77c61bb0afaec95bd439c68dd87" title="Set the current value of the variable. " alt="" coords="231,70,425,111"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#a01ffb2ec00aa903b834fa57a74c11ce6" title="set the Associated default value " alt="" coords="231,135,425,177"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a9976fb553e099b40d444c670ec2f0d55" title="Set the associated Help Contents. " alt="" coords="239,201,417,242"/>
+<area shape="rect" id="node6" href="$dc/d7e/class_solver_variable_v_o.html#ac04fef7e890ef02fdbfe94370163e0dd" title="Set the possibility for a variable to be optional in the configuration file. By default is false;..." alt="" coords="229,267,427,293"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#aea4a92e34504c84fcf58858d6f908455" title="Set the possibility to repeat a variable in the configuration file. By default is false;..." alt="" coords="219,317,437,344"/>
+<area shape="rect" id="node8" href="$dc/d7e/class_solver_variable_v_o.html#a5c2aa38b90a317eeb2ec78d8a0bfc01e" title="Set the list of associated subvariables for this SolverVariableVO. " alt="" coords="241,369,415,410"/>
+<area shape="rect" id="node9" href="$dc/d7e/class_solver_variable_v_o.html#a2973cd46d05406cca8dd5981c766e49f" title="This function is used to set the value for unique selection or multiple selection of the COMBOBOX val..." alt="" coords="232,434,424,475"/>
+<area shape="rect" id="node10" href="$dc/d7e/class_solver_variable_v_o.html#a7fa61c5ff506d2ea41c8683924f546aa" title="Set the value of the (metric) units. " alt="" coords="241,499,415,541"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#aef061538904702c97693bef5ccb79bbb" title="Set the variable name as it appears in the configuration file. " alt="" coords="229,565,427,606"/>
+<area shape="rect" id="node12" href="$dc/d7e/class_solver_variable_v_o.html#ae33a15058aaf915b610ee81a234d7736" title="Set the Variable Name. " alt="" coords="211,631,445,657"/>
+<area shape="rect" id="node13" href="$dc/d7e/class_solver_variable_v_o.html#a09232d385e0d0aa269018a8322bce005" title="SolverVariableVO::setVariable\lSelectable" alt="" coords="229,682,427,723"/>
+<area shape="rect" id="node14" href="$dc/d7e/class_solver_variable_v_o.html#ae2fe92aa39572b24b5e8125e732fc8c1" title="Set the visibility of a variable in the configuration file. By default is true;. " alt="" coords="233,747,423,789"/>
+</map>

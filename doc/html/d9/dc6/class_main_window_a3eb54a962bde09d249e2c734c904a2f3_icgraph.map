@@ -1,0 +1,5 @@
+<map id="MainWindow::saveMeshVariables" name="MainWindow::saveMeshVariables">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="272,63,467,89"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="515,5,714,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="517,70,712,111"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="SolverResidualVO::getResRhoeEnabled" name="SolverResidualVO::getResRhoeEnabled">
+<area shape="rect" id="node2" href="$de/d2e/class_output_solver_parser.html#ab9e13d27e7decd08d0fe95d43cb09f95" title="OutputSolverParser\l::checkNanValues" alt="" coords="257,129,393,170"/>
+<area shape="rect" id="node3" href="$de/d2e/class_output_solver_parser.html#ad287bc9571a047ca1606701885ddba01" title="OutputSolverParser\l::getValidElementsToPrint" alt="" coords="238,194,413,235"/>
+<area shape="rect" id="node4" href="$d3/de5/class_solver_plotter.html#a65e214b67ed7900832eaedb33a7a5762" title="SolverPlotter::resetLegend" alt="" coords="237,260,413,287"/>
+<area shape="rect" id="node23" href="$d3/de5/class_solver_plotter.html#a2e2c06c5e5813b1e05f5c5124bfc9f1a" title="Function that shows the points of the read curve. " alt="" coords="469,369,643,396"/>
+<area shape="rect" id="node27" href="$d3/de5/class_solver_plotter.html#a05a8a13d3ed79cf066ab6a435d2037d7" title="SolverPlotter::updateLegend\lItemsInGraphic" alt="" coords="232,362,419,403"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="467,203,645,229"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="693,173,877,214"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="929,121,1119,148"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="927,173,1121,214"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1947,351,2135,393"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="928,55,1120,97"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="2184,83,2376,125"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="926,239,1122,265"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1185,59,1356,85"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1179,110,1363,151"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1179,231,1362,273"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1434,227,1617,269"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1434,293,1617,334"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1680,227,1899,269"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="1954,176,2129,203"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1696,293,1883,334"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1951,286,2131,327"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="2190,355,2370,381"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a4f4b098bc95b31d3e505c3b7a30ded3e" title="Slot that allows to capture the standard output and redirect to the console text entry. " alt="" coords="715,399,855,425"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a185cfd57062afdf15a6a1b6795e5b471" title="Connecting the Process Signal Slots. " alt="" coords="1171,410,1370,451"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#af2a6bad130ca70ecfcfb62f5f8dd1080" title="Initialize Main Window structures. " alt="" coords="1419,417,1631,444"/>
+</map>

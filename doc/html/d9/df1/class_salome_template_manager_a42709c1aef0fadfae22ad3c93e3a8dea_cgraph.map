@@ -1,0 +1,7 @@
+<map id="SalomeTemplateManager::saveVariableData" name="SalomeTemplateManager::saveVariableData">
+<area shape="rect" id="node2" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="224,5,365,46"/>
+<area shape="rect" id="node3" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="get the default value " alt="" coords="224,70,365,111"/>
+<area shape="rect" id="node4" href="$d3/d5b/class_salome_variable_data.html#ab5739efa71d2b4a07f3b1b376371d88c" title="get the file name of the template " alt="" coords="224,135,365,177"/>
+<area shape="rect" id="node5" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="224,201,365,242"/>
+<area shape="rect" id="node6" href="$d3/d5b/class_salome_variable_data.html#ab8d2eed346047e56fefa9d9af461ff04" title="get the optimized values " alt="" coords="224,266,365,307"/>
+</map>

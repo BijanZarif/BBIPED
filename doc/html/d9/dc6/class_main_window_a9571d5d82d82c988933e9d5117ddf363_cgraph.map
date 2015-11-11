@@ -1,0 +1,7 @@
+<map id="MainWindow::enableSolverRunAction" name="MainWindow::enableSolverRunAction">
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name. " alt="" coords="271,5,417,51"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="235,75,453,104"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#a5d14e41e5639d7f22523fb7b4e7a9e2c" title="Returns true if the object has both config file and mesh file paths. " alt="" coords="235,128,453,157"/>
+<area shape="rect" id="node9" href="$d2/deb/class_solver_v_o.html#a49f38b6fa747ba7a212ec42948e7a1cd" title="Checks if the values of the config file are empty. " alt="" coords="503,101,695,131"/>
+<area shape="rect" id="node11" href="$d2/deb/class_solver_v_o.html#a794c05608d9e8ee9b603a1163a10f119" title="Checks if the Mesh File Path is empty. " alt="" coords="505,155,692,184"/>
+</map>

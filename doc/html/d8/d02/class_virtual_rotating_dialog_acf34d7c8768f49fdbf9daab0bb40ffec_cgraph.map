@@ -1,0 +1,51 @@
+<map id="VirtualRotatingDialog::on_zoneInfoTable_cellClicked" name="VirtualRotatingDialog::on_zoneInfoTable_cellClicked">
+<area shape="rect" id="node2" href="$d8/d02/class_virtual_rotating_dialog.html#ab6d7f3fbef55ef9308cc7ff59b286ca7" title="VirtualRotatingDialog\l::buildAssociatedHelp" alt="" coords="264,494,413,535"/>
+<area shape="rect" id="node23" href="$d8/d02/class_virtual_rotating_dialog.html#a9564e0e29987eb422c00b1689b87dc24" title="VirtualRotatingDialog\l::createVirtualMRFData" alt="" coords="259,671,419,713"/>
+<area shape="rect" id="node28" href="$d8/d02/class_virtual_rotating_dialog.html#a969164216bf9378d2257e453653c32bd" title="VirtualRotatingDialog\l::deleteRow" alt="" coords="266,737,411,778"/>
+<area shape="rect" id="node29" href="$d8/d02/class_virtual_rotating_dialog.html#aa0598f72ee39385e2e951bcdd9473c2e" title="VirtualRotatingDialog\l::launchCurveDialog" alt="" coords="266,1227,411,1269"/>
+<area shape="rect" id="node3" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents. " alt="" coords="488,370,667,411"/>
+<area shape="rect" id="node20" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="471,435,684,477"/>
+<area shape="rect" id="node21" href="$df/de6/class_help_dialog.html#accdf8309612d2a1f027afb50368ec77e" title="Load the help text. " alt="" coords="492,501,663,528"/>
+<area shape="rect" id="node22" href="$df/de6/class_help_dialog.html#a779fb4ddf118d3b4e9e8f8d6fe040b40" title="Set the help text. " alt="" coords="495,552,660,579"/>
+<area shape="rect" id="node4" href="$d4/da5/class_html_formatter.html#a976a3dd8b4688bd3677b793420a233dc" title="This fucntion adds a paragraph with the correspondent html tags. " alt="" coords="746,5,961,32"/>
+<area shape="rect" id="node5" href="$d4/da5/class_html_formatter.html#a0c27e4810a567d095974891f20dd1f28" title="This fucntion adds a table with the correspondent html tags. " alt="" coords="759,56,947,83"/>
+<area shape="rect" id="node6" href="$d4/da5/class_html_formatter.html#ab55bcd47fa13e157e581eba5315912d8" title="This fucntion adds a title (header 1) with the correspondent html tags. " alt="" coords="763,107,944,133"/>
+<area shape="rect" id="node7" href="$d4/da5/class_html_formatter.html#a11bf3057628a8a69b5c5c28365044519" title="This fucntion adds a paragraph (header 2, image, title) with the correspondent html tags..." alt="" coords="763,158,944,199"/>
+<area shape="rect" id="node8" href="$d4/da5/class_html_formatter.html#aaaaedc1af21d24c5ae03b3bacf76e474" title="This fucntion adds a the footer of the html document. " alt="" coords="755,224,952,251"/>
+<area shape="rect" id="node10" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list. " alt="" coords="757,275,950,317"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value " alt="" coords="757,341,950,382"/>
+<area shape="rect" id="node12" href="$da/d51/class_solver_var_help_v_o.html#a2d350f71806d4aa6eaed067462e69d07" title="This function returns the definition content. " alt="" coords="737,407,969,433"/>
+<area shape="rect" id="node13" href="$da/d51/class_solver_var_help_v_o.html#a8b48448bb484eba5d24df9f0f2aa390f" title="This function returns the details associated in the help of the variable. " alt="" coords="744,457,963,484"/>
+<area shape="rect" id="node14" href="$d4/da5/class_html_formatter.html#a7604c9cd1243a3ae687040dc2462c56e" title="This function returns the Html formated text. " alt="" coords="747,508,960,535"/>
+<area shape="rect" id="node15" href="$da/d51/class_solver_var_help_v_o.html#aa039fbf20ba99411d047179fd089b399" title="This function returns these values. " alt="" coords="745,559,962,585"/>
+<area shape="rect" id="node16" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="754,610,953,651"/>
+<area shape="rect" id="node17" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="737,676,970,703"/>
+<area shape="rect" id="node18" href="$d4/da5/class_html_formatter.html#a20c7c3ec9392c414f2b5ed9557ac708a" title="Destructor. " alt="" coords="752,727,955,753"/>
+<area shape="rect" id="node9" href="$d4/da5/class_html_formatter.html#ad85c9778bcdd7967c6bb8a41ef1ed960" title="This fucntion gets the Html footer. " alt="" coords="1022,224,1191,251"/>
+<area shape="rect" id="node19" href="$d4/da5/class_html_formatter.html#a0e8dc747da1add67407829e07a8e2fa5" title="This fucntion gets the Html header. " alt="" coords="1019,727,1194,753"/>
+<area shape="rect" id="node24" href="$d5/dc9/class_virtual_mrf_v_o.html#aa223af4b7402fb58bc7ad1dccf9f0870" title="Set Axis Center. " alt="" coords="483,603,671,629"/>
+<area shape="rect" id="node25" href="$d5/dc9/class_virtual_mrf_v_o.html#a9bc6d8e62c6bec5d2af3eaf07192237b" title="Set Axis Normal. " alt="" coords="482,653,673,680"/>
+<area shape="rect" id="node26" href="$d5/dc9/class_virtual_mrf_v_o.html#af4686d0908780a5dab280237780cca99" title="Set omega. " alt="" coords="495,704,660,731"/>
+<area shape="rect" id="node27" href="$d5/dc9/class_virtual_mrf_v_o.html#a38d1fd19fa48708d2692de2b014975ab" title="Set Zone name. " alt="" coords="484,755,671,781"/>
+<area shape="rect" id="node30" href="$d5/dc9/class_virtual_mrf_v_o.html#a6a3ed1726a493d13c807b304e04b9e8c" title="get Inner curve points (list) " alt="" coords="484,806,671,847"/>
+<area shape="rect" id="node31" href="$de/d2b/class_virtual_curve_dialog.html#a8439674725bd3f796b80cec76de5c507" title="VirtualCurveDialog\l::getInnerValues" alt="" coords="512,871,643,913"/>
+<area shape="rect" id="node32" href="$d5/dc9/class_virtual_mrf_v_o.html#a288004e57b1f917d2f469c2e5d590c5e" title="get Outer curve points (list) " alt="" coords="482,937,673,978"/>
+<area shape="rect" id="node33" href="$de/d2b/class_virtual_curve_dialog.html#a19e3320e484207b80fa3e981d3358d52" title="VirtualCurveDialog\l::getOuterValues" alt="" coords="512,1002,643,1043"/>
+<area shape="rect" id="node34" href="$de/d2b/class_virtual_curve_dialog.html#aad7579dc0cc7d9a58a98db70dcf0c95b" title="VirtualCurveDialog\l::hasUserModifiedValues" alt="" coords="493,1067,661,1109"/>
+<area shape="rect" id="node35" href="$de/d2b/class_virtual_curve_dialog.html#a5f209fe471844762779de690a7cf6d57" title="VirtualCurveDialog\l::initializeDialog" alt="" coords="512,1133,643,1174"/>
+<area shape="rect" id="node42" href="$de/d2b/class_virtual_curve_dialog.html#a5a41827938696038a0a204ea55d16e3c" title="VirtualCurveDialog\l::is3DCoordinates" alt="" coords="512,1198,643,1239"/>
+<area shape="rect" id="node43" href="$d5/dc9/class_virtual_mrf_v_o.html#ade34944b4490b0cdb3162b5945af138c" title="Check if all the elements are empty. " alt="" coords="501,1264,654,1291"/>
+<area shape="rect" id="node44" href="$de/d2b/class_virtual_curve_dialog.html#a44f2664a8ebec20594391f202ee1cf83" title="VirtualCurveDialog\l::set3DCoordinates" alt="" coords="510,1315,645,1357"/>
+<area shape="rect" id="node45" href="$d5/dc9/class_virtual_mrf_v_o.html#aaa997fbf928eb71f988c86eaa93092e8" title="True if the coordinates are in 3D, false otherwise. " alt="" coords="467,1381,688,1408"/>
+<area shape="rect" id="node46" href="$d5/dc9/class_virtual_mrf_v_o.html#a3c2da7f3f1ebff7c14ee6a6431efbfd8" title="Set the list of inner curve points. " alt="" coords="484,1433,671,1474"/>
+<area shape="rect" id="node47" href="$de/d2b/class_virtual_curve_dialog.html#a9a9643c90158911e6e526e24e4f3011c" title="VirtualCurveDialog\l::setInnerValues" alt="" coords="512,1498,643,1539"/>
+<area shape="rect" id="node48" href="$d5/dc9/class_virtual_mrf_v_o.html#a787ec6b4f6612a85f2a3133e7835e345" title="Set the list of outer curve points. " alt="" coords="482,1563,673,1605"/>
+<area shape="rect" id="node49" href="$de/d2b/class_virtual_curve_dialog.html#a175aad12fa1e93f7f502b80ffaba243b" title="VirtualCurveDialog\l::setOuterValues" alt="" coords="512,1629,643,1670"/>
+<area shape="rect" id="node50" href="$de/d2b/class_virtual_curve_dialog.html#adb67e716d532f3dcfdb453562ae759ad" title="VirtualCurveDialog\l::setSolverSection" alt="" coords="512,1694,643,1735"/>
+<area shape="rect" id="node36" href="$de/d2b/class_virtual_curve_dialog.html#afd317e289bdaf50760ab29f2ce641e78" title="VirtualCurveDialog\l::addSignals2D" alt="" coords="788,1099,919,1141"/>
+<area shape="rect" id="node38" href="$de/d2b/class_virtual_curve_dialog.html#a5579e7b55ed1b65f80f101d9276b2b23" title="VirtualCurveDialog\l::fillTable" alt="" coords="788,1165,919,1206"/>
+<area shape="rect" id="node37" href="$de/d2b/class_virtual_curve_dialog.html#a36161e0ec2a251815898457aeba66cf6" title="VirtualCurveDialog\l::textChangedSlot2D" alt="" coords="1035,1099,1179,1141"/>
+<area shape="rect" id="node39" href="$de/d2b/class_virtual_curve_dialog.html#a5cdd3cb17a432a41f5ed9e5143e5f2df" title="VirtualCurveDialog\l::addRow" alt="" coords="1041,1165,1172,1206"/>
+<area shape="rect" id="node40" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table. " alt="" coords="1267,1147,1426,1173"/>
+<area shape="rect" id="node41" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="1243,1197,1450,1224"/>
+</map>

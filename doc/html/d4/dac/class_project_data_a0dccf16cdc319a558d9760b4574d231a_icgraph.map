@@ -1,0 +1,51 @@
+<map id="ProjectData::getProjectPath" name="ProjectData::getProjectPath">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a4d24598e3fe98d88c66eaa0e0c50dc9c" title="This function checks whether the path of the open project and the current project path is equal..." alt="" coords="263,57,444,99"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="538,65,713,91"/>
+<area shape="rect" id="node6" href="$d4/dac/class_project_data.html#aeeb9602cbf13720a3b84cc45c90b685c" title="This function makes a hard (in depth) copy from one object to the other. " alt="" coords="290,123,417,150"/>
+<area shape="rect" id="node7" href="$db/d28/class_util_files.html#a3fa2c51be04f8f7b28b5c7e04017b0fb" title="Copy all the files from one project to other, regarding the content of the tool folders. " alt="" coords="266,174,441,201"/>
+<area shape="rect" id="node9" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="240,662,467,689"/>
+<area shape="rect" id="node11" href="$d0/d3b/class_tools_helper.html#a5786cd77608aab228d628ba372124515" title="ToolsHelper::createAutomatic\lMeshWithOptimization" alt="" coords="256,713,451,755"/>
+<area shape="rect" id="node13" href="$db/d28/class_util_files.html#aaa35dacd377b117853200e064c627f3e" title="UtilFiles::createLink" alt="" coords="284,881,423,907"/>
+<area shape="rect" id="node14" href="$db/d1a/class_solver_util.html#ac9d0760cd201fe98fdd0cd4d4f3092b5" title="Function to import an existent mesh file. " alt="" coords="540,845,711,887"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="800,826,1016,853"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="811,881,1005,907"/>
+<area shape="rect" id="node19" href="$db/d28/class_util_files.html#ae8f6d7628e58135e37beefe392dbaf78" title="Functionality to import a file and update the correspondent values in the project data and copying th..." alt="" coords="286,1081,421,1107"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a339acba0f1e6e298fc6ef781d0796980" title="This internal function controls how to launch the Salome tool, specially due to the path of this tool..." alt="" coords="260,1233,447,1275"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="1091,387,1282,443"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="260,1299,447,1340"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="1342,565,1543,607"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file. " alt="" coords="785,444,1031,485"/>
+<area shape="rect" id="node35" href="$d9/dc6/class_main_window.html#ad58adf42ebda6ebbb124daade40eee34" title="Run the current Solver project. " alt="" coords="253,553,454,579"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="812,330,1004,357"/>
+<area shape="rect" id="node43" href="$d9/dc6/class_main_window.html#ab1cdfb5cf07b89f524bc9ca2a16aae16" title="This internal function controls if the Paraview is opened passing a file or to open a new instance of..." alt="" coords="241,1441,466,1467"/>
+<area shape="rect" id="node46" href="$d4/dac/class_project_data.html#a6ee97c45279af26539aa5755b06f0749" title="This function is to update the data from another object. " alt="" coords="250,1531,457,1558"/>
+<area shape="rect" id="node48" href="$db/d28/class_util_files.html#a988a6cfe4fa0a03229ee7f741f6d2451" title="Update the project Data object values into the correspondent file and save it to disk. " alt="" coords="274,276,433,317"/>
+<area shape="rect" id="node50" href="$db/d28/class_util_files.html#aa70274124ccf9082396e90c9975c497a" title="Returns a ProjectData object with the updated path values. " alt="" coords="265,225,441,251"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="812,91,1004,132"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="810,39,1006,66"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="530,211,721,252"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="531,663,720,704"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a1bf08ce8fdda9c822f7490db60578517" title="This function is to create automatic mesh using Salome but with optimization parameters. " alt="" coords="515,728,735,769"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="1089,826,1284,853"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="1343,819,1542,860"/>
+<area shape="rect" id="node20" href="$da/d1e/class_multizone_project_dialog.html#abfd3a5d2212e147775889ce63da74b25" title="Function that actually build the project files into the correspondent project folder. " alt="" coords="547,1107,703,1148"/>
+<area shape="rect" id="node22" href="$db/d1a/class_solver_util.html#a666d637883ee697bdeb40368eb5add62" title="Function to import an existent solver configuration file. " alt="" coords="540,1172,711,1213"/>
+<area shape="rect" id="node23" href="$db/d1a/class_solver_util.html#a24f3a45342c260094127b08c1a484f01" title="SolverUtil::uiImportSolver\lMeshInfoFile" alt="" coords="540,1237,711,1279"/>
+<area shape="rect" id="node24" href="$d9/d2e/class_multizone_individual_tab_form.html#aa28a24b7dd9649d4568f64f5e451da66" title="MultizoneIndividualTabForm\l::on_importMeshFileButton\l_clicked" alt="" coords="533,962,718,1018"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a93bc55c33696dfdd179ae714204f0e83" title="MainWindow::updateMultizone\lUserData" alt="" coords="525,1041,725,1083"/>
+<area shape="rect" id="node21" href="$da/d1e/class_multizone_project_dialog.html#ab7c8b49ca061b1c0064f5c7cece5e4d4" title="MultizoneProjectDialog\l::accept" alt="" coords="830,1107,986,1148"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#aeabd282171bfe931d86ab5988f79aad0" title="MainWindow::on_multizone\lNewButton_clicked" alt="" coords="817,1041,999,1083"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#af28c14693c0b3e59d19ebf84ff164c85" title="This action is the Menu action for lauching Salome. " alt="" coords="523,1303,728,1344"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a996ee17cf1235b1b2253d98231044879" title="This function launchs the Salome tool. " alt="" coords="522,1368,729,1409"/>
+<area shape="rect" id="node34" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="1081,467,1293,508"/>
+<area shape="rect" id="node36" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="529,545,722,587"/>
+<area shape="rect" id="node37" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="1095,533,1279,559"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="1098,206,1275,233"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="1091,323,1282,364"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#ad550c61cfa05c7e528dedc6cf636ed10" title="Save a Project. " alt="" coords="1091,140,1282,181"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="1086,257,1287,299"/>
+<area shape="rect" id="node44" href="$d9/dc6/class_main_window.html#a3d97ae6697109a86ae452aeb5d01bf46" title="Launching the paraview application. " alt="" coords="518,1433,733,1475"/>
+<area shape="rect" id="node45" href="$d9/dc6/class_main_window.html#abc5d9f29762653dd596349935315ceee" title="This function launchs the Paraview tool from the button click. " alt="" coords="517,1499,733,1540"/>
+<area shape="rect" id="node47" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="537,1564,714,1605"/>
+<area shape="rect" id="node49" href="$d9/dc6/class_main_window.html#aa0a16eb58c9cbf3ad7842f6751e5471b" title="Update Project Data Paths. " alt="" coords="533,276,718,317"/>
+</map>

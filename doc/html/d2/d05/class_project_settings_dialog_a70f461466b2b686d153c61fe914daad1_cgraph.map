@@ -1,0 +1,7 @@
+<map id="ProjectSettingsDialog::setProjectDetailsData" name="ProjectSettingsDialog::setProjectDetailsData">
+<area shape="rect" id="node2" href="$d2/d05/class_project_settings_dialog.html#a6e67cd11458ef3601eb62a427a6b050c" title="Update the values of the project details in the tab view. " alt="" coords="213,67,416,123"/>
+<area shape="rect" id="node3" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="469,5,661,32"/>
+<area shape="rect" id="node4" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="481,56,649,83"/>
+<area shape="rect" id="node5" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="464,107,667,133"/>
+<area shape="rect" id="node6" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="484,158,647,199"/>
+</map>

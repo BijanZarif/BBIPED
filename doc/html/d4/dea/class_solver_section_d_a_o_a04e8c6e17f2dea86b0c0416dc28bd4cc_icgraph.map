@@ -1,0 +1,30 @@
+<map id="SolverSectionDAO::findValueNameByVariableName" name="SolverSectionDAO::findValueNameByVariableName">
+<area shape="rect" id="node2" href="$d4/dfe/class_warning_multizone_dialog.html#a7955e809b0c75077653c52b70051730c" title="Slot that controls the change of values by the user in the combos. " alt="" coords="261,13,459,54"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#a9bc5f51bb5426acfd26da00ed9df5ac2" title="This function checks if the value stored in a row is a default value, returning a true..." alt="" coords="289,143,431,185"/>
+<area shape="rect" id="node10" href="$d3/d40/class_solver_basic_dialog.html#acd2d5aeae01be26d2fb7cf12ac281c7d" title="This function returns teh associated value name of a variable in the correspondent row..." alt="" coords="263,274,457,315"/>
+<area shape="rect" id="node12" href="$d3/d40/class_solver_basic_dialog.html#a5cbec9fe1995383ced93a57c396b213e" title="SolverBasicDialog::\llaunchSpecificWindow" alt="" coords="543,339,697,381"/>
+<area shape="rect" id="node14" href="$d5/d05/class_mesh_dialog.html#a2a8756c92a88496a09f79b3733644c46" title="Function that checks if it is needed to open the Specific boundary dialog. " alt="" coords="250,457,470,498"/>
+<area shape="rect" id="node20" href="$d3/d40/class_solver_basic_dialog.html#a9ad0399804916909575911a387cea409" title="SolverBasicDialog::\lresetToDefaultValue" alt="" coords="289,78,431,119"/>
+<area shape="rect" id="node21" href="$d4/dae/class_file_comparison_dialog.html#abbf1c07a1b6f3649b04cc64135ac48a8" title="This function saves the changes made by the user. " alt="" coords="285,535,435,577"/>
+<area shape="rect" id="node27" href="$d3/d40/class_solver_basic_dialog.html#a105900ce25b7d9434b3313f46b6b9abf" title="Function to save the user changes made in the session. " alt="" coords="291,209,429,250"/>
+<area shape="rect" id="node29" href="$d3/d40/class_solver_basic_dialog.html#af79fee34db8adc286e4ac8fcfe6e7421" title="SolverBasicDialog::\lsaveUserChangesSpecificWindow" alt="" coords="248,339,472,381"/>
+<area shape="rect" id="node3" href="$d4/dfe/class_warning_multizone_dialog.html#a2b1551161d7414396e7a9335d7592c23" title="Function that fills the data in the table for repairing the values. " alt="" coords="539,13,701,54"/>
+<area shape="rect" id="node4" href="$d4/dfe/class_warning_multizone_dialog.html#a063b9775fdb9c584db395227286c1db3" title="Function that controls when the user clicks the update radio button. " alt="" coords="769,5,932,61"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#a9816ec59297e2d1af8c161b017bf8317" title="Slot to control when the text is changed. " alt="" coords="551,143,689,185"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#a84cf8cf0def57a5c6cd908f79bf52aaf" title="Function to add the signals. " alt="" coords="782,209,919,250"/>
+<area shape="rect" id="node8" href="$d3/d40/class_solver_basic_dialog.html#a8c0bb203410630e0748b662e14f142fb" title="This fucntion fills the table widget according user selection. " alt="" coords="989,209,1126,250"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="1193,209,1377,250"/>
+<area shape="rect" id="node11" href="$d3/d40/class_solver_basic_dialog.html#a13b25d743c53c3450d72ab4d52b641d3" title="Slot to control the change of the combo value by the user. " alt="" coords="525,274,715,315"/>
+<area shape="rect" id="node13" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="769,332,933,388"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="525,470,715,511"/>
+<area shape="rect" id="node19" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="528,405,712,446"/>
+<area shape="rect" id="node16" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="769,477,932,504"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="985,477,1129,504"/>
+<area shape="rect" id="node18" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1182,470,1389,511"/>
+<area shape="rect" id="node22" href="$d4/dae/class_file_comparison_dialog.html#ad8c97b5e668889fc5af4ea6f4d4a367e" title="Slot: Controls if the user change the value in a combo. " alt="" coords="521,535,719,577"/>
+<area shape="rect" id="node26" href="$d4/dae/class_file_comparison_dialog.html#ab9043e2c850aee4195aa0591d2db404a" title="Slot: Controls if the user change the value of a line Edit. " alt="" coords="545,601,695,642"/>
+<area shape="rect" id="node23" href="$d4/dae/class_file_comparison_dialog.html#af2d12026e626a2bcff4d19140e208a33" title="Add signals to the combos and the line edits to control user input. " alt="" coords="775,567,926,609"/>
+<area shape="rect" id="node24" href="$d4/dae/class_file_comparison_dialog.html#a4b18498221b6dc59808d0be183286788" title="This function shows those values that are different in the table. " alt="" coords="982,567,1133,609"/>
+<area shape="rect" id="node25" href="$d4/dae/class_file_comparison_dialog.html#a8c64ed49bb328df2b5f2b2becfc349f5" title="This function allows to compare the files. " alt="" coords="1192,567,1379,609"/>
+<area shape="rect" id="node28" href="$d3/d40/class_solver_basic_dialog.html#ac12cf4c84648676ecd9437b1d90d2652" title="This function handles the selection of the checkitems to be saved. " alt="" coords="551,209,689,250"/>
+</map>

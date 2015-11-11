@@ -1,0 +1,51 @@
+<map id="MainWindow::on_savePhysicsButton_clicked" name="MainWindow::on_savePhysicsButton_clicked">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a9571d5d82d82c988933e9d5117ddf363" title="Enable the action buttons for running the simulation according with the current status of the applica..." alt="" coords="266,89,446,130"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#af1dc11c2b896183d56f21ca8b0870d6b" title="This function removes those variables loaded from the configuration file which value corresponds to t..." alt="" coords="518,271,709,313"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="260,1020,452,1047"/>
+<area shape="rect" id="node49" href="$d9/dc6/class_main_window.html#a7e6e64a0ab3aa5d812846f376d8ccbb5" title="Activate the save Congifuration elements and save config as from the menu. " alt="" coords="256,1071,456,1113"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#aa01564cc30dbdcb6d8b6ad3cabd58aa7" title="Enable all the Save actions fo the project. " alt="" coords="259,1137,453,1178"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name. " alt="" coords="540,5,687,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="504,71,723,97"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a5d14e41e5639d7f22523fb7b4e7a9e2c" title="Returns true if the object has both config file and mesh file paths. " alt="" coords="504,121,723,148"/>
+<area shape="rect" id="node6" href="$d2/deb/class_solver_v_o.html#a49f38b6fa747ba7a212ec42948e7a1cd" title="Checks if the values of the config file are empty. " alt="" coords="771,121,965,148"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#a794c05608d9e8ee9b603a1163a10f119" title="Checks if the Mesh File Path is empty. " alt="" coords="775,71,961,97"/>
+<area shape="rect" id="node9" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="795,173,941,214"/>
+<area shape="rect" id="node10" href="$d9/d6e/class_solver_config_manager.html#ade5faa8b388d670166cc924d91f5ca3f" title="Function that gets all the sections to be shown in the menu list. " alt="" coords="788,238,948,279"/>
+<area shape="rect" id="node11" href="$d4/dea/class_solver_section_d_a_o.html#a7c1a6d78095888f561ff4a2e3d4e9f61" title="Checks if the current value of a variable is the default value. " alt="" coords="772,303,964,345"/>
+<area shape="rect" id="node12" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="1277,333,1491,374"/>
+<area shape="rect" id="node13" href="$d4/dea/class_solver_section_d_a_o.html#aa4ecdd8245b0eacd06f61da2e5e27fb2" title="Find a variable by its value name. " alt="" coords="1017,274,1225,315"/>
+<area shape="rect" id="node14" href="$dc/d7e/class_solver_variable_v_o.html#a61978d1d0d6f1511a5cad7432d625c58" title="Returns true if the object is empty. " alt="" coords="1293,252,1475,279"/>
+<area shape="rect" id="node15" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value " alt="" coords="1025,157,1218,198"/>
+<area shape="rect" id="node17" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="1030,987,1213,1029"/>
+<area shape="rect" id="node18" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="1295,895,1473,937"/>
+<area shape="rect" id="node19" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="1029,1307,1214,1333"/>
+<area shape="rect" id="node20" href="$d9/d6e/class_solver_config_manager.html#ad59d2050960f89dfb88841633426610f" title="Function that uptades teh values of the DOM tree according to the Map values. " alt="" coords="540,1275,687,1317"/>
+<area shape="rect" id="node22" href="$d2/deb/class_solver_v_o.html#a893fc1f41af948ea04d54b7a83b2dbcf" title="Returns the solver map values. " alt="" coords="524,1341,703,1382"/>
+<area shape="rect" id="node23" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="1289,1053,1479,1080"/>
+<area shape="rect" id="node24" href="$dd/d2b/class_mesh_info_v_o.html#a60e430e3d4576a765bda8eed227791a5" title="MeshInfoVO::getMeshPath" alt="" coords="523,1407,703,1433"/>
+<area shape="rect" id="node25" href="$dd/d2b/class_mesh_info_v_o.html#a39483391c6c960085d70899d4b547736" title="MeshInfoVO::getMeshFileName" alt="" coords="509,693,718,720"/>
+<area shape="rect" id="node26" href="$db/dc7/class_input_data_tab_helper.html#a3d0bc3055175fedaa7bd63dbd6d7306e" title="Dialog to save with a different name a configuration file. " alt="" coords="544,795,683,837"/>
+<area shape="rect" id="node28" href="$d9/d6e/class_solver_config_manager.html#aa30655c16464ccdef4ac6543c69878d7" title="Functions that save the user configuration values into the file. " alt="" coords="795,554,941,595"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#aa0a16eb58c9cbf3ad7842f6751e5471b" title="Update Project Data Paths. " alt="" coords="521,1210,706,1251"/>
+<area shape="rect" id="node21" href="$d4/d0d/class_solver_config_reader.html#a410ad218bff1c8dc56054a5f0c649a24" title="Function taht updates all the values of the DOM tree. " alt="" coords="799,1415,937,1457"/>
+<area shape="rect" id="node27" href="$db/d28/class_util_files.html#aac95fdbeb2b63d8f21db5f3f26cbdcb7" title="Checks if the file (absolute path + filename) contains the _extension, returning true, otherwise false. " alt="" coords="779,737,957,764"/>
+<area shape="rect" id="node36" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path. " alt="" coords="1295,722,1473,763"/>
+<area shape="rect" id="node37" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object. " alt="" coords="777,671,959,713"/>
+<area shape="rect" id="node40" href="$db/dc7/class_input_data_tab_helper.html#a48aff8fdf66097b7c84f19f8ee124aa5" title="Update the file path in the line edit of the current configuration file. " alt="" coords="771,788,965,844"/>
+<area shape="rect" id="node29" href="$df/dba/class_solver_config_writer.html#a0d81822e60c7f0bcbc9b213fe482870b" title="Function that set up the user value map. " alt="" coords="1055,391,1187,433"/>
+<area shape="rect" id="node30" href="$df/dba/class_solver_config_writer.html#ac7e0cfb0e12235b77cacf2de2bb030d1" title="SolverConfigWriter\l::setOptionalVariableList" alt="" coords="1039,457,1203,498"/>
+<area shape="rect" id="node31" href="$d4/dea/class_solver_section_d_a_o.html#aad17d99016ee4f37ea96379e54fab5f6" title="SolverSectionDAO::getOptional\lVariables" alt="" coords="1018,587,1225,629"/>
+<area shape="rect" id="node34" href="$df/dba/class_solver_config_writer.html#ac2a2f1d0b54b8e82f4811542e7e061c8" title="SolverConfigWriter\l::setVirtualMRFUserValues" alt="" coords="1030,522,1213,563"/>
+<area shape="rect" id="node35" href="$df/dba/class_solver_config_writer.html#aa0c7e4fe6c6dc0536422ba060c511d75" title="Function to write the values of the configuration values provided by the user in the correspondent co..." alt="" coords="1036,653,1207,694"/>
+<area shape="rect" id="node32" href="$dc/d7e/class_solver_variable_v_o.html#abc9d2b7aa91cbc26e7767a9341646e4e" title="Check if a variable can be optional (if optional and the user does not give a value, it is not written in the configuration file) " alt="" coords="1289,624,1479,651"/>
+<area shape="rect" id="node33" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="1285,558,1483,599"/>
+<area shape="rect" id="node38" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other. " alt="" coords="1064,797,1179,824"/>
+<area shape="rect" id="node39" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="1289,797,1479,824"/>
+<area shape="rect" id="node42" href="$db/d28/class_util_files.html#a988a6cfe4fa0a03229ee7f741f6d2451" title="Update the project Data object values into the correspondent file and save it to disk. " alt="" coords="789,1143,947,1185"/>
+<area shape="rect" id="node45" href="$db/d28/class_util_files.html#abf266a68416aef239c8217fce17d7f4b" title="Update the multizone project Data object values into the correspondent file and save it to disk..." alt="" coords="781,1350,955,1391"/>
+<area shape="rect" id="node43" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="1014,1256,1229,1283"/>
+<area shape="rect" id="node44" href="$d6/d07/class_xml_util.html#a343995f6dd6f482c0fe4a273bc242e62" title="Function that creates and updates if needed the XML project file. " alt="" coords="1024,1155,1219,1181"/>
+<area shape="rect" id="node46" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name. " alt="" coords="1311,1454,1457,1495"/>
+<area shape="rect" id="node47" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="1311,1375,1457,1417"/>
+<area shape="rect" id="node48" href="$d6/d07/class_xml_util.html#af491d4e7e8423dd3d455c7463ca8dbfd" title="Function that creates the multizone project details element from the xml. " alt="" coords="1027,1409,1215,1450"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="343,5,724,35"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file." alt="" coords="381,59,685,88"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder." alt="" coords="773,59,1072,88"/>
+</map>

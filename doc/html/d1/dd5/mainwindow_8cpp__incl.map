@@ -1,0 +1,30 @@
+<map id="mainwindow.cpp" name="mainwindow.cpp">
+<area shape="rect" id="node2" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="151,88,256,115"/>
+<area shape="rect" id="node7" href="$d0/dad/solverconfigmanager_8h.html" title="Solver/solverconfigmanager.h" alt="" coords="419,179,613,205"/>
+<area shape="rect" id="node19" href="$de/d95/utilfiles_8h.html" title="Utility/utilfiles.h" alt="" coords="2509,88,2620,115"/>
+<area shape="rect" id="node20" href="$d1/d83/solverutil_8h.html" title="Solver/solverutil.h" alt="" coords="1935,179,2061,205"/>
+<area shape="rect" id="node21" href="$d8/d44/solverconfigwriter_8h.html" title="Solver/solverconfigwriter.h" alt="" coords="577,88,753,115"/>
+<area shape="rect" id="node22" href="$d9/d8b/solvermarkermenuhelper_8h.html" title="WindowHelper/Dialog\l/SolverDialog/solvermarkermenuhelper.h" alt="" coords="739,171,996,213"/>
+<area shape="rect" id="node23" href="$d0/d76/parserfiles_8h.html" title="Parser/parserfiles.h" alt="" coords="1174,179,1308,205"/>
+<area shape="rect" id="node24" href="$da/d06/configurationfileparser_8h.html" title="Parser/Solver/configurationfileparser.h" alt="" coords="1509,88,1752,115"/>
+<area shape="rect" id="node25" href="$d8/d55/_solver_defines_8h.html" title="Defines/Tool/Solver\l/SolverDefines.h" alt="" coords="1537,171,1673,213"/>
+<area shape="rect" id="node26" href="$da/d6b/meshfileparser_8h.html" title="Parser/Solver/meshfileparser.h" alt="" coords="1035,88,1236,115"/>
+<area shape="rect" id="node27" href="$d7/d2b/showmessagehelper_8h.html" title="Utility/showmessagehelper.h" alt="" coords="2086,179,2276,205"/>
+<area shape="rect" id="node28" href="$d2/da7/filecomparisondialog_8h.html" title="Forms/SolverMenuDialog\l/filecomparisondialog.h" alt="" coords="2265,81,2433,122"/>
+<area shape="rect" id="node29" href="$d9/d2d/warningclosingdialog_8h.html" title="Forms/WarningDialog\l/warningclosingdialog.h" alt="" coords="4232,81,4389,122"/>
+<area shape="rect" id="node30" href="$d0/d58/solversectiondao_8h.html" title="Data/solversectiondao.h" alt="" coords="2524,179,2687,205"/>
+<area shape="rect" id="node31" href="$da/dda/preferencesmanager_8h.html" title="Preferences/preferencesmanager.h" alt="" coords="4414,88,4639,115"/>
+<area shape="rect" id="node37" href="$d1/d4d/_general_defines_8h.html" title="Defines/General/GeneralDefines.h" alt="" coords="2876,179,3097,205"/>
+<area shape="rect" id="node38" href="$d9/dc3/preferencedialog_8h.html" title="Forms/EditMenuDialog\l/preferencedialog.h" alt="" coords="2747,81,2900,122"/>
+<area shape="rect" id="node39" href="$da/d43/multizoneprojectdialog_8h.html" title="Forms/ProjectDialog\l/multizoneprojectdialog.h" alt="" coords="845,81,1011,122"/>
+<area shape="rect" id="node40" href="$d2/dc2/projectsettingsdialog_8h.html" title="Forms/EditMenuDialog\l/projectsettingsdialog.h" alt="" coords="5302,81,5457,122"/>
+<area shape="rect" id="node41" href="$d0/d14/warningmultizonedialog_8h.html" title="Forms/WarningDialog\l/warningmultizonedialog.h" alt="" coords="1313,81,1484,122"/>
+<area shape="rect" id="node42" href="$de/d51/aboutusdialog_8h.html" title="Forms/aboutusdialog.h" alt="" coords="5483,88,5636,115"/>
+<area shape="rect" id="node43" href="$dd/d56/helpmanager_8h.html" title="Help/helpmanager.h" alt="" coords="3172,179,3311,205"/>
+<area shape="rect" id="node44" href="$db/d60/templatedialog_8h.html" title="Forms/SolverMenuDialog\l/templatedialog.h" alt="" coords="313,81,481,122"/>
+<area shape="rect" id="node45" href="$dc/d7b/salometemplatedialog_8h.html" title="Forms/ToolsDialog/salometemplatedialog.h" alt="" coords="3335,179,3608,205"/>
+<area shape="rect" id="node46" href="$dc/dc5/salomeoptimizationdialog_8h.html" title="Forms/ToolsDialog/salomeoptimizationdialog.h" alt="" coords="3633,179,3927,205"/>
+<area shape="rect" id="node48" href="$de/dc2/warningrestartdialog_8h.html" title="Forms/WarningDialog\l/warningrestartdialog.h" alt="" coords="5839,81,5992,122"/>
+<area shape="rect" id="node49" href="$d6/df6/meshinfofilereader_8h.html" title="Data/Solver/MeshInfo\l/meshinfofilereader.h" alt="" coords="6017,81,6165,122"/>
+<area shape="rect" id="node50" href="$dc/d6e/plottermanager_8h.html" title="Plotter/plottermanager.h" alt="" coords="1698,179,1859,205"/>
+</map>

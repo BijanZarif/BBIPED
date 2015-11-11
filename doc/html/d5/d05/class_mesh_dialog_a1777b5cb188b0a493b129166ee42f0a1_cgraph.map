@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d40/class_solver_config_menu_helper.html#a531ed471f5cd19b036cf86087e946daf" title="Function that gets the correspondent help text of a variable Name." alt="" coords="261,325,571,355"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents." alt="" coords="628,352,857,381"/>
+<area shape="rect" id="node41" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="289,429,543,459"/>
+<area shape="rect" id="node43" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="255,549,577,579"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="919,5,1151,35"/>
+<area shape="rect" id="node9" href="$d4/da5/class_html_formatter.html#a20c7c3ec9392c414f2b5ed9557ac708a" title="Destructor." alt="" coords="933,59,1136,88"/>
+<area shape="rect" id="node13" href="$d4/da5/class_html_formatter.html#ab55bcd47fa13e157e581eba5315912d8" title="This fucntion adds a title (header 1) with the correspondent html tags." alt="" coords="944,112,1125,141"/>
+<area shape="rect" id="node16" href="$d4/da5/class_html_formatter.html#a11bf3057628a8a69b5c5c28365044519" title="This fucntion adds a paragraph (header 2, image, title) with the correspondent html tags..." alt="" coords="915,165,1155,195"/>
+<area shape="rect" id="node18" href="$d4/da5/class_html_formatter.html#a976a3dd8b4688bd3677b793420a233dc" title="This fucntion adds a paragraph with the correspondent html tags." alt="" coords="928,219,1141,248"/>
+<area shape="rect" id="node20" href="$da/d51/class_solver_var_help_v_o.html#a2d350f71806d4aa6eaed067462e69d07" title="This function returns the definition content." alt="" coords="919,272,1151,301"/>
+<area shape="rect" id="node22" href="$da/d51/class_solver_var_help_v_o.html#aa039fbf20ba99411d047179fd089b399" title="This function returns these values." alt="" coords="927,325,1143,355"/>
+<area shape="rect" id="node24" href="$da/d51/class_solver_var_help_v_o.html#a8b48448bb484eba5d24df9f0f2aa390f" title="This function returns the details associated in the help of the variable." alt="" coords="925,379,1144,408"/>
+<area shape="rect" id="node26" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list." alt="" coords="908,432,1161,461"/>
+<area shape="rect" id="node28" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value" alt="" coords="921,485,1148,515"/>
+<area shape="rect" id="node30" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file." alt="" coords="908,539,1161,568"/>
+<area shape="rect" id="node32" href="$d4/da5/class_html_formatter.html#a0c27e4810a567d095974891f20dd1f28" title="This fucntion adds a table with the correspondent html tags." alt="" coords="941,592,1128,621"/>
+<area shape="rect" id="node34" href="$d4/da5/class_html_formatter.html#aaaaedc1af21d24c5ae03b3bacf76e474" title="This fucntion adds a the footer of the html document." alt="" coords="936,645,1133,675"/>
+<area shape="rect" id="node38" href="$d4/da5/class_html_formatter.html#a7604c9cd1243a3ae687040dc2462c56e" title="This function returns the Html formated text." alt="" coords="928,699,1141,728"/>
+<area shape="rect" id="node11" href="$d4/da5/class_html_formatter.html#a0e8dc747da1add67407829e07a8e2fa5" title="This fucntion gets the Html header." alt="" coords="1212,59,1385,88"/>
+<area shape="rect" id="node36" href="$d4/da5/class_html_formatter.html#ad85c9778bcdd7967c6bb8a41ef1ed960" title="This fucntion gets the Html footer." alt="" coords="1215,645,1383,675"/>
+<area shape="rect" id="node45" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="629,684,856,713"/>
+<area shape="rect" id="node47" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="911,752,1159,781"/>
+</map>

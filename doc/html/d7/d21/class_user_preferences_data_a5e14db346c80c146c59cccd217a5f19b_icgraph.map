@@ -1,0 +1,18 @@
+<map id="UserPreferencesData::getTemplateConfigPath" name="UserPreferencesData::getTemplateConfigPath">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae8820e37fa876185d8538ea5f5304a54" title="Initialize Solver manager, user Preferences data manager. " alt="" coords="1214,48,1423,75"/>
+<area shape="rect" id="node4" href="$d7/d4e/class_preference_dialog.html#a7fa4c6f39f18e9d891ce3dad44d6618c" title="Initialize the template associated data according user selection. " alt="" coords="225,49,402,90"/>
+<area shape="rect" id="node6" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="454,114,653,156"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="239,166,387,208"/>
+<area shape="rect" id="node10" href="$d1/d59/class_preferences_manager.html#a36365cea08a3848675650076cb4dae76" title="PreferencesManager\l::writeTemplatePreferences" alt="" coords="222,232,405,273"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1473,103,1653,130"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="465,56,642,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="702,49,933,90"/>
+<area shape="rect" id="node8" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="702,114,933,170"/>
+<area shape="rect" id="node11" href="$d1/d59/class_preferences_manager.html#a379493229bb891a7b62d3a8e32730730" title="PreferencesManager\l::saveUserPreferences" alt="" coords="475,232,631,273"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="722,194,913,220"/>
+<area shape="rect" id="node15" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="744,248,891,289"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="988,132,1159,159"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="981,184,1165,225"/>
+<area shape="rect" id="node16" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="1000,249,1147,290"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1229,149,1409,190"/>
+</map>

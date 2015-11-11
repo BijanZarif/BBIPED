@@ -1,0 +1,11 @@
+<map id="SalomeOptimizationDialog::getVariablesList" name="SalomeOptimizationDialog::getVariablesList">
+<area shape="rect" id="node2" href="$dc/def/class_salome_template_data.html#aa820294d355cf8cff98e1f41b12486e9" title="Find any SalomeVariable Data by his name. " alt="" coords="243,5,391,46"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#aed474625d7159a967fb40f7e8a7dba12" title="SalomeOptimizationDialog\l::getPosMenu" alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node7" href="$d9/df1/class_salome_template_manager.html#a3e5bd6c1823f45a840f6be7e88501359" title="SalomeTemplateManager\l::getTemplates" alt="" coords="232,135,403,177"/>
+<area shape="rect" id="node8" href="$d9/df1/class_salome_template_manager.html#a9a95e9184b44ed8b5c6e759b6c86553e" title="SalomeTemplateManager\l::getUserTemplates" alt="" coords="232,201,403,242"/>
+<area shape="rect" id="node9" href="$d3/d5b/class_salome_variable_data.html#a9674d3d668bde55d6738b926a247a51b" title="Set the current value of the variable. " alt="" coords="247,266,388,307"/>
+<area shape="rect" id="node3" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="476,5,617,46"/>
+<area shape="rect" id="node5" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="461,70,632,111"/>
+<area shape="rect" id="node6" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="453,135,640,177"/>
+<area shape="rect" id="node10" href="$d3/d5b/class_salome_variable_data.html#ac47b585c6bff753c41f8a61f2bb79f13" title="Remove white spaces. " alt="" coords="471,266,622,307"/>
+</map>

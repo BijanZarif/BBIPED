@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d15/class_search_pair_helper.html#a488ee2de7196baf841f6b9f192bc7679" title="This function allows to refresh the highligt according the search." alt="" coords="223,59,444,88"/>
+<area shape="rect" id="node11" href="$d7/d15/class_search_pair_helper.html#a8619df9759f15af6fc20b9f426b4ece9" title="This function searchs the items." alt="" coords="232,139,435,168"/>
+<area shape="rect" id="node5" href="$d7/d15/class_search_pair_helper.html#aded755dab06d9b6bc4128823b93a27cc" title="SearchPairHelper::refreshSearchInTree" alt="" coords="591,32,841,61"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user." alt="" coords="997,5,1296,35"/>
+<area shape="rect" id="node9" href="$da/d07/class_template_dialog.html#a00e3bdbafce905ea426896d01fec6ef1" title="This function controls when a menu item is clicked on the tree to show teh associated variables..." alt="" coords="987,59,1307,88"/>
+<area shape="rect" id="node13" href="$d3/d40/class_solver_basic_dialog.html#af4584ca22aab5ef33b0603d01f83155f" title="This method provides the functionality of the search button." alt="" coords="575,85,857,115"/>
+<area shape="rect" id="node15" href="$d3/d40/class_solver_basic_dialog.html#a61494603f7e81dedb6e61e5c3a0836a4" title="This function controls the return to search function." alt="" coords="493,139,939,168"/>
+<area shape="rect" id="node17" href="$da/d07/class_template_dialog.html#a5b2d93a42f37d70be436047e3f3b9b40" title="This function controls the search functionality." alt="" coords="583,192,849,221"/>
+<area shape="rect" id="node19" href="$da/d07/class_template_dialog.html#a029900507791ee64545b7de0239137f5" title="This function controls the search functionality on key pressed." alt="" coords="559,245,873,275"/>
+</map>

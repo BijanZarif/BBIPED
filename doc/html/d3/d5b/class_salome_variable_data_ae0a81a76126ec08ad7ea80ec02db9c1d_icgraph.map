@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/df1/class_salome_template_manager.html#a73363294d32059e7519a679653865535" title="SalomeTemplateManager::buildVariableData" alt="" coords="293,5,573,35"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog::createTemplateFromUserValues" alt="" coords="257,59,609,88"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog::on_saveAsButton_clicked" alt="" coords="660,59,975,88"/>
+</map>

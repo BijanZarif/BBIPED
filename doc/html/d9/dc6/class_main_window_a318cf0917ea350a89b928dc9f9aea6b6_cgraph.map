@@ -1,0 +1,6 @@
+<map id="MainWindow::getSalomePathSlot" name="MainWindow::getSalomePathSlot">
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome) " alt="" coords="300,5,447,51"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a66c68c6b53718d97b43982eebd40bc01" title="Slot function that captures the error if something goes wrong in the process. " alt="" coords="272,75,475,104"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="524,75,737,104"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="787,75,1005,104"/>
+</map>

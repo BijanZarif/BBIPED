@@ -1,0 +1,4 @@
+<map id="MainWindow::multizoneSaveAll" name="MainWindow::multizoneSaveAll">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="262,5,455,46"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a9386e2986f79d60c125008527a59a9da" title="MainWindow::on_multizone\lSaveAllButton_clicked" alt="" coords="267,70,450,111"/>
+</map>

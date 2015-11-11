@@ -1,0 +1,5 @@
+<map id="EditHelper::launchSettingsDialog" name="EditHelper::launchSettingsDialog">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="233,38,413,79"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="467,5,658,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="461,70,664,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TemplateDialog::addVariable" name="TemplateDialog::addVariable">
+<area shape="rect" id="node2" href="$da/d07/class_template_dialog.html#a45f787ddc1e416b88d3fd3c1569e00c9" title="Load all teh values of the template. " alt="" coords="243,19,442,45"/>
+<area shape="rect" id="node3" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="491,11,693,53"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#afb8669037c48bf81b6475f61ccb316cd" title="This function allows to edit existing configuration templates. " alt="" coords="741,4,925,60"/>
+</map>

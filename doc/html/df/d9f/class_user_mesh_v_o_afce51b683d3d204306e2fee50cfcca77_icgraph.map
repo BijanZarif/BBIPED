@@ -1,0 +1,8 @@
+<map id="UserMeshVO::setHasAssociatedMeshVariables" name="UserMeshVO::setHasAssociatedMeshVariables">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#a06c246713734b5716761b5ab2a9330e9" title="MeshDialog::createMeshVariables" alt="" coords="269,45,491,72"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="539,38,717,79"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="765,45,920,72"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="969,12,1167,39"/>
+<area shape="rect" id="node7" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="975,63,1161,119"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="1216,5,1451,46"/>
+</map>

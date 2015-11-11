@@ -1,0 +1,9 @@
+<map id="SolverBasicDialog::saveUserChangesSpecificWindow" name="SolverBasicDialog::saveUserChangesSpecificWindow">
+<area shape="rect" id="node2" href="$d4/dea/class_solver_section_d_a_o.html#a04e8c6e17f2dea86b0c0416dc28bd4cc" title="Find the value name associated to a variable name. " alt="" coords="280,78,475,119"/>
+<area shape="rect" id="node6" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu. " alt="" coords="278,173,477,214"/>
+<area shape="rect" id="node3" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="536,5,749,46"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="526,71,759,97"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="543,122,742,163"/>
+<area shape="rect" id="node7" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list " alt="" coords="551,187,735,229"/>
+<area shape="rect" id="node8" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name. " alt="" coords="808,195,1056,221"/>
+</map>

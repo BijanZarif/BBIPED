@@ -1,0 +1,5 @@
+<map id="FileComparisonDialog::fillRowWithData" name="FileComparisonDialog::fillRowWithData">
+<area shape="rect" id="node3" href="$d4/dae/class_file_comparison_dialog.html#a7a4a5f6ad6c49566eee422f914059776" title="This function build the individual rows according with the data. " alt="" coords="207,5,356,51"/>
+<area shape="rect" id="node5" href="$d4/dae/class_file_comparison_dialog.html#a4b18498221b6dc59808d0be183286788" title="This function shows those values that are different in the table. " alt="" coords="407,5,556,51"/>
+<area shape="rect" id="node7" href="$d4/dae/class_file_comparison_dialog.html#a8c64ed49bb328df2b5f2b2becfc349f5" title="This function allows to compare the files. " alt="" coords="605,5,792,51"/>
+</map>

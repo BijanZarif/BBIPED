@@ -1,0 +1,9 @@
+<map id="MainWindow::checkMeshNames" name="MainWindow::checkMeshNames">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="296,5,491,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="285,56,501,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file. " alt="" coords="270,107,517,149"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="575,56,769,83"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="829,15,1024,57"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="827,81,1026,122"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="566,107,778,149"/>
+</map>

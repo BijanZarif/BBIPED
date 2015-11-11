@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/dd7/class_template_manager.html#a74f4ae073a98a9843b30355d7c409df2" title="Gets the list of sections." alt="" coords="729,5,967,35"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#a65c18421d023cdcd96f0af8258ba1a69" title="get the SubSectionames associated to a section" alt="" coords="316,59,671,88"/>
+<area shape="rect" id="node5" href="$d7/dd7/class_template_manager.html#ae0de99c33f8d01c301997f07a1a70ed1" title="Save the template values in a file." alt="" coords="1629,33,1845,63"/>
+<area shape="rect" id="node7" href="$da/d07/class_template_dialog.html#a43252abba12840a5be7bca4863a48a63" title="This function controls the acceptance by the user." alt="" coords="1893,33,2155,63"/>
+<area shape="rect" id="node11" href="$d7/dd7/class_template_manager.html#aa7859f66124b213f94af59dbbfa86db0" title="Writes the subsection element." alt="" coords="720,59,976,88"/>
+<area shape="rect" id="node13" href="$d7/dd7/class_template_manager.html#aece0d1806c8375c202dfc24bcd58b13c" title="Writes the section element." alt="" coords="1025,59,1287,88"/>
+<area shape="rect" id="node15" href="$d7/dd7/class_template_manager.html#a000eb64d81d7f15dd9d0144237f892b2" title="Write the template file according the list of variables." alt="" coords="1336,59,1581,88"/>
+</map>

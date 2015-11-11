@@ -1,0 +1,10 @@
+<map id="SolverConfigManager::saveConfigFile" name="SolverConfigManager::saveConfigFile">
+<area shape="rect" id="node2" href="$d4/dea/class_solver_section_d_a_o.html#aad17d99016ee4f37ea96379e54fab5f6" title="SolverSectionDAO::getOptional\lVariables" alt="" coords="201,63,407,105"/>
+<area shape="rect" id="node6" href="$df/dba/class_solver_config_writer.html#ac7e0cfb0e12235b77cacf2de2bb030d1" title="SolverConfigWriter\l::setOptionalVariableList" alt="" coords="222,129,386,170"/>
+<area shape="rect" id="node7" href="$df/dba/class_solver_config_writer.html#a0d81822e60c7f0bcbc9b213fe482870b" title="Function that set up the user value map. " alt="" coords="238,194,370,235"/>
+<area shape="rect" id="node8" href="$df/dba/class_solver_config_writer.html#ac2a2f1d0b54b8e82f4811542e7e061c8" title="SolverConfigWriter\l::setVirtualMRFUserValues" alt="" coords="213,259,395,301"/>
+<area shape="rect" id="node9" href="$df/dba/class_solver_config_writer.html#aa0c7e4fe6c6dc0536422ba060c511d75" title="Function to write the values of the configuration values provided by the user in the correspondent co..." alt="" coords="219,325,389,366"/>
+<area shape="rect" id="node3" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="456,5,669,46"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#abc9d2b7aa91cbc26e7767a9341646e4e" title="Check if a variable can be optional (if optional and the user does not give a value, it is not written in the configuration file) " alt="" coords="467,71,658,97"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="463,122,662,163"/>
+</map>

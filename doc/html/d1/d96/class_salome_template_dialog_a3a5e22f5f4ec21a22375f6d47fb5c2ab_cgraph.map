@@ -1,0 +1,8 @@
+<map id="SalomeTemplateDialog::addRow" name="SalomeTemplateDialog::addRow">
+<area shape="rect" id="node2" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="211,5,418,32"/>
+<area shape="rect" id="node3" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table. " alt="" coords="235,56,394,83"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="211,107,418,133"/>
+<area shape="rect" id="node5" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="244,158,385,199"/>
+<area shape="rect" id="node6" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="get the default value " alt="" coords="244,223,385,265"/>
+<area shape="rect" id="node7" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="244,289,385,330"/>
+</map>

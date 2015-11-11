@@ -1,0 +1,8 @@
+<map id="VirtualCurveDialog::initializeDialog" name="VirtualCurveDialog::initializeDialog">
+<area shape="rect" id="node2" href="$de/d2b/class_virtual_curve_dialog.html#afd317e289bdaf50760ab29f2ce641e78" title="VirtualCurveDialog\l::addSignals2D" alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node4" href="$de/d2b/class_virtual_curve_dialog.html#a5579e7b55ed1b65f80f101d9276b2b23" title="VirtualCurveDialog\l::fillTable" alt="" coords="184,70,315,111"/>
+<area shape="rect" id="node3" href="$de/d2b/class_virtual_curve_dialog.html#a36161e0ec2a251815898457aeba66cf6" title="VirtualCurveDialog\l::textChangedSlot2D" alt="" coords="363,5,507,46"/>
+<area shape="rect" id="node5" href="$de/d2b/class_virtual_curve_dialog.html#a5cdd3cb17a432a41f5ed9e5143e5f2df" title="VirtualCurveDialog\l::addRow" alt="" coords="369,70,500,111"/>
+<area shape="rect" id="node6" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table. " alt="" coords="579,52,738,79"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="555,103,762,129"/>
+</map>

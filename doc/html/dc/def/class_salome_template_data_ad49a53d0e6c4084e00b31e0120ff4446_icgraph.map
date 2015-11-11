@@ -1,0 +1,21 @@
+<map id="SalomeTemplateData::getVariableList" name="SalomeTemplateData::getVariableList">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog\l::createTemplateFromUserValues" alt="" coords="203,13,421,54"/>
+<area shape="rect" id="node4" href="$d1/d96/class_salome_template_dialog.html#a56b60248836aea073429712c3748c051" title="SalomeTemplateDialog\l::fillTable" alt="" coords="233,86,391,127"/>
+<area shape="rect" id="node6" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog\l::fillTable" alt="" coords="224,161,400,202"/>
+<area shape="rect" id="node8" href="$d3/d0e/class_salome_python_file_util.html#a91bd36b392ef131f2eb5ccb417bacde7" title="This function gets the variables names in a QString format from a specifi template (variable name + c..." alt="" coords="219,229,405,270"/>
+<area shape="rect" id="node12" href="$d1/d96/class_salome_template_dialog.html#a7474f31839b3ce6c0662902ba046c9e0" title="SalomeTemplateDialog\l::resetValuesToDefault" alt="" coords="767,323,924,365"/>
+<area shape="rect" id="node14" href="$d9/df1/class_salome_template_manager.html#a4f1629709973d29ee7454b4d42ae325e" title="SalomeTemplateManager\l::restoreToDefaultTemplate" alt="" coords="221,346,403,387"/>
+<area shape="rect" id="node16" href="$d9/df1/class_salome_template_manager.html#a6dd8f9f05b9d21c30f4debc25ffcd988" title="SalomeTemplateManager\l::saveTemplateData" alt="" coords="227,411,397,453"/>
+<area shape="rect" id="node17" href="$d1/d96/class_salome_template_dialog.html#af16bc3fcee963b220bcb957dc23028cf" title="SalomeTemplateDialog\l::updateTemplateValues" alt="" coords="231,477,393,518"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="501,5,683,46"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#ae96b667e11c1f6155d63dbe47d0be74f" title="SalomeTemplateDialog\l::on_templateSelComboBox\l_currentIndexChanged" alt="" coords="499,69,685,125"/>
+<area shape="rect" id="node7" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog\l::on_templateComboBox_currentIndex\lChanged" alt="" coords="469,149,715,205"/>
+<area shape="rect" id="node9" href="$d3/d0e/class_salome_python_file_util.html#ac8928a74e9de8e40fb15ba1bd5b10278" title="This funciton buillds the python file Main Body. " alt="" coords="518,229,666,270"/>
+<area shape="rect" id="node10" href="$d3/d0e/class_salome_python_file_util.html#a472a19d6107cbf3fc37af9ab0a0b6bb5" title="This funciton buillds the python file. " alt="" coords="771,229,919,270"/>
+<area shape="rect" id="node11" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a24cd67bac05c7093ee70cc05b88b6777" title="SalomeToolCreateMeshDialog\l::on_createMeshButton_clicked" alt="" coords="976,229,1181,270"/>
+<area shape="rect" id="node13" href="$d1/d96/class_salome_template_dialog.html#a646af96264ec053dcd1bc7def9548968" title="SalomeTemplateDialog\l::on_reset2DefaultButton\l_clicked" alt="" coords="995,316,1162,372"/>
+<area shape="rect" id="node15" href="$d1/d96/class_salome_template_dialog.html#a1afbef1dd3784e856b686d3f3eb1531b" title="SalomeTemplateDialog\l::restoreTemplateDefaults" alt="" coords="505,346,679,387"/>
+<area shape="rect" id="node18" href="$d1/d96/class_salome_template_dialog.html#ae60d776de2590edab980870bdeb1a0f7" title="SalomeTemplateDialog\l::saveData" alt="" coords="513,477,671,518"/>
+<area shape="rect" id="node19" href="$d1/d96/class_salome_template_dialog.html#a4818b780db157de1bc7ee995fdc326f8" title="SalomeTemplateDialog\l::on_saveButton_clicked" alt="" coords="763,441,928,482"/>
+<area shape="rect" id="node20" href="$d1/d96/class_salome_template_dialog.html#a2a7a8ca761a8c4657f1ea68628caddc3" title="SalomeTemplateDialog\l::on_createMeshButton\l_clicked" alt="" coords="767,505,924,561"/>
+</map>

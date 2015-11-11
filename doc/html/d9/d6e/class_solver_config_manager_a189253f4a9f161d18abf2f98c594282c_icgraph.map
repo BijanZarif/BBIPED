@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#af4c43c41f8ee22204a58f36f2d94576b" title="This function builds the correspondent menus." alt="" coords="373,32,661,61"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a83adc3f24c19b04d9fb4074052209dfb" title="Slot to control when the user check/uncheck the unsteady menu element." alt="" coords="327,85,708,115"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#a7a27f58ab3c053a63a0036572c96998b" title="Function that restore the elements for the BASIC VIEW." alt="" coords="760,5,1099,35"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#abd1bc03e252061b685652e3ec173967d" title="Function that restore the elements for the ADVANCED VIEW." alt="" coords="759,59,1100,88"/>
+</map>

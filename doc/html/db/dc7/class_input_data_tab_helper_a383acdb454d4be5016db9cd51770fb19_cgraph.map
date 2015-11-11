@@ -1,0 +1,14 @@
+<map id="InputDataTabHelper::saveAsConfigFile" name="InputDataTabHelper::saveAsConfigFile">
+<area shape="rect" id="node3" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="659,5,837,51"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="199,213,380,259"/>
+<area shape="rect" id="node7" href="$db/d28/class_util_files.html#aac95fdbeb2b63d8f21db5f3f26cbdcb7" title="Checks if the file (absolute path + filename) contains the _extension, returning true, otherwise false. " alt="" coords="200,283,379,312"/>
+<area shape="rect" id="node9" href="$d9/d6e/class_solver_config_manager.html#a65d353dc1d5a7afeb21725dd32d2e42f" title="Functions that save the user configuration values into the file. " alt="" coords="216,335,363,382"/>
+<area shape="rect" id="node15" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path. " alt="" coords="659,181,837,227"/>
+<area shape="rect" id="node17" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object. " alt="" coords="199,93,380,139"/>
+<area shape="rect" id="node27" href="$db/dc7/class_input_data_tab_helper.html#a48aff8fdf66097b7c84f19f8ee124aa5" title="Update the file path in the line edit of the current configuration file. " alt="" coords="192,405,387,469"/>
+<area shape="rect" id="node11" href="$df/dba/class_solver_config_writer.html#a0d81822e60c7f0bcbc9b213fe482870b" title="Function that set up the user value map. " alt="" coords="455,301,585,347"/>
+<area shape="rect" id="node13" href="$df/dba/class_solver_config_writer.html#aa0c7e4fe6c6dc0536422ba060c511d75" title="Function to write the values of the configuration values provided by the user in the correspondent co..." alt="" coords="435,370,605,417"/>
+<area shape="rect" id="node19" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other. " alt="" coords="463,101,577,131"/>
+<area shape="rect" id="node23" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="653,75,843,104"/>
+<area shape="rect" id="node25" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="653,128,843,157"/>
+</map>

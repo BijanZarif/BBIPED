@@ -1,0 +1,7 @@
+<map id="PreferenceDialog::setCustomizedPostProcessorViewerSelectedPath" name="PreferenceDialog::setCustomizedPostProcessorViewerSelectedPath">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a207f5b2501f5788829fd4fc7819c9733" title="Initialize post processor Viewer Data. " alt="" coords="294,5,471,46"/>
+<area shape="rect" id="node4" href="$d7/d4e/class_preference_dialog.html#a98186aa6cc292db079a4e2bed8ef0b0d" title="Launchs the dialog to get the path of the postprocessor viewer. " alt="" coords="280,69,485,125"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a5216f2f621b9905f9d35764c09268372" title="Reset the postprocessor viewer tab to its defaults. " alt="" coords="289,149,476,190"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="557,12,734,39"/>
+<area shape="rect" id="node6" href="$d7/d4e/class_preference_dialog.html#a2c0ca0f947753628d252c98ed1f27ace" title="Reset all the tabs to their default values. " alt="" coords="534,141,757,197"/>
+</map>

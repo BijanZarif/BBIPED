@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a7b6f010a2d197b23fc95a8a975f3dcfa" title="SalomeOptimizationDialog::addvarToSelectedTable" alt="" coords="463,59,783,88"/>
+<area shape="rect" id="node9" href="$db/dbb/class_salome_optimization_dialog.html#a752b1daad991600ec565e0f3a0267a94" title="SalomeOptimizationDialog::removevarFromSelectedTable" alt="" coords="444,112,801,141"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table." alt="" coords="924,5,1081,35"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table." alt="" coords="900,59,1105,88"/>
+<area shape="rect" id="node11" href="$db/dbb/class_salome_optimization_dialog.html#afdeac0db98e21e10cf92c030a1b27f0f" title="SalomeOptimizationDialog::findRowByVarName" alt="" coords="852,112,1153,141"/>
+</map>

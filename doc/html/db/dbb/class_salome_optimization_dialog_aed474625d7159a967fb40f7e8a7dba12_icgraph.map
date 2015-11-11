@@ -1,0 +1,6 @@
+<map id="SalomeOptimizationDialog::getPosMenu" name="SalomeOptimizationDialog::getPosMenu">
+<area shape="rect" id="node2" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog\l::fillTable" alt="" coords="229,13,405,54"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#af16ef4fa6f85eb4ae77e72a602a243ab" title="SalomeOptimizationDialog\l::getVariablesList" alt="" coords="229,78,405,119"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="488,110,664,151"/>
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog\l::on_templateComboBox_currentIndex\lChanged" alt="" coords="453,5,699,61"/>
+</map>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marker-menu>
+<marker>
+        <name>Wall</name>
+        <filename>BC_WALL</filename>
+        <help>If the problem is NS you need to fix Heatflux </help>
+        <parameters>
+                <parameter default_value="0" type="Number" unit="NONE">Heatflux Value</parameter>
+         </parameters>
+</marker>
+<marker>
+    <name>Farfield</name>
+    <filename>BC_FARFIELD</filename>
+    <help>You can set a boundary to Pressure Farfield condition. It could be repeated by other boundary names. The differences between this command and MARKER_FAR are that the details of the condition is must be provided through command but in MARKER_FAR they are entered by MACH_NUMBER,</help>
+    <parameters>            
+            <parameter default_value="0.6" type="Number" unit="NONE">Mach</parameter>
+            <parameter default_value="101325" type="Number" unit="Pascal (Pa)">Pressure</parameter>
+            <parameter default_value="300" type="Number" unit="Kelvin (K)">Temperature</parameter>
+            <parameter default_value="1" type="Number" unit="NONE">Flow Dir X</parameter>
+            <parameter default_value="0" type="Number" unit="NONE">Flow Dir Y</parameter>
+            <parameter default_value="0" type="Number" unit="NONE">Flow Dir Z</parameter>
+    </parameters>
+</marker>
+</marker-menu>
+<!-- Note: These are the old MARKER filenames of SU2 Kept here just in case is needed in the future ...
+<marker>
+        <name>Inlet boundary marker(s)</name>
+        <filename>MARKER_INLET</filename>
+        <help>(NONE = no marker). Format: ( inlet marker, total temperature, total pressure, flow_direction_x, flow_direction_y, flow_direction_z, ... ) where flow_direction is a unit vector. </help>
+        <parameters>
+                <parameter default_value="0" type="Number" unit="Kelvin (K)">Total temperature</parameter>
+                <parameter default_value="0" type="Number" unit="Pascal (Pa)">Total Pressure</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Flow direction X</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Flow direction Y</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Flow direction Z</parameter>
+        </parameters>
+</marker>
+<marker>
+        <name>Outlet boundary marker(s)</name>
+        <filename>MARKER_OUTLET</filename>
+        <help>(NONE = no marker). Format: ( outlet marker, back pressure (static), ... )</help>
+        <parameters>
+                <parameter default_value="0" type="Number" unit="Pascal (Pa)">Back Pressure</parameter>
+        </parameters>
+</marker>
+<marker>
+        <name>MARKER_PERIODIC</name>
+        <filename>MARKER_PERIODIC</filename>
+        <help>( BOUNDARY1, BOUNDARY2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BOUNDARY2, BOUNDARY1,  0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0)</help>
+        <parameters>
+                <parameter default_value="NONE" type="MeshList" unit="NONE">Periodic marker</parameter>
+                <parameter default_value="NONE" type="MeshList" unit="NONE">Donor marker</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation center x</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation center y</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation center z</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation angle x-axis</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation angle y-axis</parameter>
+                <parameter default_value="0" type="Number" unit="rad/s">Rotation angle z-axis</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Translation x</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Translation y</parameter>
+                <parameter default_value="0" type="Number" unit="NONE">Translation z</parameter>
+        </parameters>
+</marker>
+-->

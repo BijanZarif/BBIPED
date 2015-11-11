@@ -1,0 +1,11 @@
+<map id="SalomeTemplateData::getTemplateFileName" name="SalomeTemplateData::getTemplateFileName">
+<area shape="rect" id="node2" href="$d3/d0e/class_salome_python_file_util.html#ac8928a74e9de8e40fb15ba1bd5b10278" title="This funciton buillds the python file Main Body. " alt="" coords="271,5,419,46"/>
+<area shape="rect" id="node5" href="$d3/d0e/class_salome_python_file_util.html#a855efe338e90815a62de1d07c11d8a00" title="This funciton buillds the python file Main Body for Optimization. " alt="" coords="257,70,434,111"/>
+<area shape="rect" id="node8" href="$d9/df1/class_salome_template_manager.html#a62060e0d0d823d7ed40de8219322ca0f" title="SalomeTemplateManager\l::getTemplateFileNameByTemplateName" alt="" coords="214,135,477,177"/>
+<area shape="rect" id="node10" href="$d9/df1/class_salome_template_manager.html#a6dd8f9f05b9d21c30f4debc25ffcd988" title="SalomeTemplateManager\l::saveTemplateData" alt="" coords="260,201,431,242"/>
+<area shape="rect" id="node3" href="$d3/d0e/class_salome_python_file_util.html#a472a19d6107cbf3fc37af9ab0a0b6bb5" title="This funciton buillds the python file. " alt="" coords="557,5,705,46"/>
+<area shape="rect" id="node4" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a24cd67bac05c7093ee70cc05b88b6777" title="SalomeToolCreateMeshDialog\l::on_createMeshButton_clicked" alt="" coords="784,5,989,46"/>
+<area shape="rect" id="node6" href="$d3/d0e/class_salome_python_file_util.html#ae060b8e0c4d0d0dfdf932c1c94b916de" title="This funciton buillds the python file for the Optimization menu. " alt="" coords="525,70,736,111"/>
+<area shape="rect" id="node7" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="799,70,975,111"/>
+<area shape="rect" id="node9" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="540,135,721,177"/>
+</map>

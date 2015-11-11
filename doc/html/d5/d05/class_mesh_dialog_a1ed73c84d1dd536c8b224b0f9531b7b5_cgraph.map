@@ -1,0 +1,51 @@
+<map id="MeshDialog::on_meshTreeView_clicked" name="MeshDialog::on_meshTreeView_clicked">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="288,543,432,569"/>
+<area shape="rect" id="node49" href="$d5/d05/class_mesh_dialog.html#a7a17239e67b7dbd04fde91e7450e5a93" title="Function that loads the table Header. " alt="" coords="261,593,459,620"/>
+<area shape="rect" id="node50" href="$d5/d05/class_mesh_dialog.html#a68d413cd2db69f52786972db285aa093" title="Function that resets the table contents. " alt="" coords="280,644,440,671"/>
+<area shape="rect" id="node3" href="$da/dfd/class_solver_marker_menu_helper.html#a84717e7d94decf4d25369fd977bb69ce" title="This function adds an extra column. " alt="" coords="525,190,694,231"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="528,568,691,595"/>
+<area shape="rect" id="node9" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="1556,773,1769,814"/>
+<area shape="rect" id="node10" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu. " alt="" coords="1563,1095,1762,1137"/>
+<area shape="rect" id="node34" href="$d5/d05/class_mesh_dialog.html#a07690e6ec5598dca321848f36992a0a9" title="Function to build up all the tooltips. " alt="" coords="514,1229,705,1256"/>
+<area shape="rect" id="node35" href="$da/dfd/class_solver_marker_menu_helper.html#a256cd2e13436150f3982efa4fe8578bc" title="This funtcion allow to fill the specific marker menu table in the Solver Basic dialog. " alt="" coords="525,419,694,461"/>
+<area shape="rect" id="node43" href="$d5/d05/class_mesh_dialog.html#a57c24d6215952013b96c3b2a09bf539d" title="MeshDialog::removeNonVisible\lVariables" alt="" coords="507,1281,712,1322"/>
+<area shape="rect" id="node45" href="$d5/d05/class_mesh_dialog.html#aa554bb99ea4bea2bb32987ab8f469363" title="MeshDialog::updateTableWith\lUserValues" alt="" coords="1288,299,1485,341"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="1021,53,1227,80"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="767,619,958,661"/>
+<area shape="rect" id="node33" href="$d5/d05/class_mesh_dialog.html#ab8373e18ed3d0e1cdd9e1cac980baeaa" title="MeshDialog::handleItem" alt="" coords="781,568,944,595"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="1032,718,1216,759"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#a0606bccd0ad1ceac4cbcf2e75b7fee29" title="Function to save the user changes. " alt="" coords="1283,416,1490,443"/>
+<area shape="rect" id="node31" href="$d5/d05/class_mesh_dialog.html#ab7f67a54cd8058cee4148c6cb2830efc" title="Function to show the values that comes from the specific window. " alt="" coords="1851,14,2032,55"/>
+<area shape="rect" id="node32" href="$d5/d05/class_mesh_dialog.html#a2a8756c92a88496a09f79b3733644c46" title="Function that checks if it is needed to open the Specific boundary dialog. " alt="" coords="1014,931,1234,973"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="1287,1077,1486,1104"/>
+<area shape="rect" id="node13" href="$df/db2/class_specific_boundary_variable_dialog.html#a12ce72f59712518a632b4ccceb26b301" title="Returns the configured Boundary list. " alt="" coords="1285,1011,1488,1053"/>
+<area shape="rect" id="node14" href="$df/db2/class_specific_boundary_variable_dialog.html#ab65543f287afc364b56ad088f0da5cbb" title="Function that load the values. " alt="" coords="1301,619,1472,661"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a1e0dbbe416dbf49ee49fbbe5f880f9f8" title="Function to restore the values in the row. " alt="" coords="1297,568,1476,595"/>
+<area shape="rect" id="node26" href="$df/db2/class_specific_boundary_variable_dialog.html#ae874f18a5fbe8d4044f438c0144dda5f" title="Set the boundary name. " alt="" coords="1299,750,1474,791"/>
+<area shape="rect" id="node27" href="$df/db2/class_specific_boundary_variable_dialog.html#a36091718ec9e6edf58439f3dc706988e" title="Set the boundary type. " alt="" coords="1301,815,1472,857"/>
+<area shape="rect" id="node28" href="$df/db2/class_specific_boundary_variable_dialog.html#a7333b016245a0dfc9fc9cb68f26c81f7" title="SpecificBoundaryVariable\lDialog::setCurrentValues" alt="" coords="1301,881,1472,922"/>
+<area shape="rect" id="node29" href="$df/db2/class_specific_boundary_variable_dialog.html#a406d6afaef39f564548887ea8654db32" title="Function to set the help content. " alt="" coords="1301,946,1472,987"/>
+<area shape="rect" id="node30" href="$df/db2/class_specific_boundary_variable_dialog.html#aa4c1195ecac642032f432a34c7c551e5" title="set the marker menu manager " alt="" coords="1283,685,1490,726"/>
+<area shape="rect" id="node11" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list " alt="" coords="1849,1095,2033,1137"/>
+<area shape="rect" id="node12" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name. " alt="" coords="2096,1103,2344,1129"/>
+<area shape="rect" id="node16" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="1546,721,1779,748"/>
+<area shape="rect" id="node18" href="$d5/d05/class_mesh_dialog.html#a52df955cd935bfab86478c0b9a9b4dfb" title="MeshDialog::findMeshVariable\lToUpdate" alt="" coords="1563,291,1762,333"/>
+<area shape="rect" id="node20" href="$df/d9f/class_user_mesh_v_o.html#ab4f00bd22b83b2378b6a7e4a1f69a816" title="Get the user name. " alt="" coords="1846,299,2037,325"/>
+<area shape="rect" id="node21" href="$df/d9f/class_user_mesh_v_o.html#af74d8e230aa1fafdeec1722cb6ef1b72" title="Check if it has associated Mesh variables (by default false) " alt="" coords="1565,474,1760,515"/>
+<area shape="rect" id="node22" href="$d5/d05/class_mesh_dialog.html#a78643c6506d2fdfd65ac40fc42d2d0ac" title="MeshDialog::isAllowedThe\lAssociatedMeshVariables" alt="" coords="1574,539,1751,581"/>
+<area shape="rect" id="node23" href="$df/d9f/class_user_mesh_v_o.html#ac030419619a5104ef6ee6b6861f39715" title="Get the list of associated mesh variables. " alt="" coords="1567,605,1759,646"/>
+<area shape="rect" id="node24" href="$df/d9f/class_user_mesh_v_o.html#a670440cb52ca5e2cd30720fcc8e50520" title="Get the list of the associated values. " alt="" coords="1539,409,1786,450"/>
+<area shape="rect" id="node25" href="$df/d9f/class_user_mesh_v_o.html#a7c0daff13b5d0d762dbda620c0b2516f" title="the the list of boundary names " alt="" coords="1543,357,1782,384"/>
+<area shape="rect" id="node19" href="$df/d9f/class_user_mesh_v_o.html#a1b31434c6d82eaa5f95f94dda58c1ad6" title="Get the name of the parent menu. " alt="" coords="1843,219,2040,245"/>
+<area shape="rect" id="node36" href="$d4/dea/class_solver_section_d_a_o.html#a9c2fd8d7ee07745c06eb9457ac26e0b8" title="Get the list fo variables. " alt="" coords="760,451,965,493"/>
+<area shape="rect" id="node37" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list. " alt="" coords="766,386,959,427"/>
+<area shape="rect" id="node38" href="$da/dfd/class_solver_marker_menu_helper.html#a9032989805759caf99dcb551680e83f7" title="This function creates the Row in the correspondent table for a Marker Variable. " alt="" coords="778,175,947,217"/>
+<area shape="rect" id="node39" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="1021,155,1227,181"/>
+<area shape="rect" id="node40" href="$d3/d4b/class_qtable_util.html#aba3521570883be2bc4f6002e093fb1fa" title="QtableUtil::addCombo" alt="" coords="1049,205,1199,232"/>
+<area shape="rect" id="node41" href="$d3/d4b/class_qtable_util.html#a4711ee46146b667420d56ffc08599dcf" title="Function that creates edit default text cell to the table. " alt="" coords="1041,256,1207,283"/>
+<area shape="rect" id="node42" href="$d3/d4b/class_qtable_util.html#ad24ffa6244a1f6ffd0632cf6ab755896" title="Function that creates a help icon widget cell element to be added to the table. " alt="" coords="1057,104,1191,131"/>
+<area shape="rect" id="node44" href="$dc/d7e/class_solver_variable_v_o.html#aef4d1ca44415267a03ece40c78dbf639" title="Check if a variable is visible in the Menu (by default true) " alt="" coords="771,1281,954,1322"/>
+<area shape="rect" id="node46" href="$d5/d05/class_mesh_dialog.html#adb0a3616f860cb8043b5b8e9536d1263" title="MeshDialog::updateTable" alt="" coords="1577,72,1748,99"/>
+<area shape="rect" id="node48" href="$d5/d05/class_mesh_dialog.html#a35de556e7afdac476109ffa7fdeef51a" title="MeshDialog::updateTableWith\lYesNoValues" alt="" coords="1564,123,1761,165"/>
+<area shape="rect" id="node47" href="$d5/d05/class_mesh_dialog.html#a17023bddca6c8936832d49cd5291cb8c" title="Function to update the combo value with previous values. " alt="" coords="1835,105,2048,132"/>
+</map>

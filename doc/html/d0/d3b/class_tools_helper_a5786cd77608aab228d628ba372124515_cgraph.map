@@ -1,0 +1,17 @@
+<map id="ToolsHelper::createAutomaticMeshWithOptimization" name="ToolsHelper::createAutomaticMeshWithOptimization">
+<area shape="rect" id="node2" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome) " alt="" coords="282,5,430,46"/>
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="249,71,463,97"/>
+<area shape="rect" id="node4" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="263,121,449,148"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a1ce9754ec9edd238af1649c8cc8d856e" title="SalomeOptimizationDialog\l::initializeDialog" alt="" coords="268,173,444,214"/>
+<area shape="rect" id="node12" href="$d0/d3b/class_tools_helper.html#a6f812576490ca984454bbfead4960ca7" title="ToolsHelper::launchSalome\lWarning" alt="" coords="265,238,447,279"/>
+<area shape="rect" id="node14" href="$db/dbb/class_salome_optimization_dialog.html#aca3815af9156600a5720b13c5a9c9b01" title="SalomeOptimizationDialog\l::setMeshViewerPath" alt="" coords="268,303,444,345"/>
+<area shape="rect" id="node15" href="$db/dbb/class_salome_optimization_dialog.html#af715f21ee8abf86ad7f794436e801b84" title="SalomeOptimizationDialog\l::setProjectName" alt="" coords="268,369,444,410"/>
+<area shape="rect" id="node16" href="$db/dbb/class_salome_optimization_dialog.html#a23684adf9eeb54cd6673ed66a4c074b2" title="SalomeOptimizationDialog\l::setProjectPath" alt="" coords="268,434,444,475"/>
+<area shape="rect" id="node6" href="$d9/df1/class_salome_template_manager.html#ae2e3d9fe854468303c2a2e7bd9a84f26" title="SalomeTemplateManager\l::isInitialized" alt="" coords="515,75,685,117"/>
+<area shape="rect" id="node7" href="$d9/df1/class_salome_template_manager.html#aad0f9f2e4c5c11dbb84c36135c4b1bba" title="SalomeTemplateManager\l::loadTemplate" alt="" coords="515,141,685,182"/>
+<area shape="rect" id="node8" href="$db/dbb/class_salome_optimization_dialog.html#a99476430b45657e1903805efb8e99dae" title="SalomeOptimizationDialog\l::loadTemplateMenu" alt="" coords="512,206,688,247"/>
+<area shape="rect" id="node9" href="$db/dbb/class_salome_optimization_dialog.html#a9bff35cb9f9fefe8e33bfd18f89bc009" title="SalomeOptimizationDialog\l::refreshComboTemplates" alt="" coords="736,206,912,247"/>
+<area shape="rect" id="node10" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="968,173,1139,214"/>
+<area shape="rect" id="node11" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="960,238,1147,279"/>
+<area shape="rect" id="node13" href="$d2/dfb/class_show_message_helper.html#a4a86755ef2171e38f55213f0991bfe8c" title="Default WARNING Message. " alt="" coords="523,271,677,313"/>
+</map>

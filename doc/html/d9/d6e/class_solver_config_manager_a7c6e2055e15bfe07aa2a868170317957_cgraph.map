@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d40/class_solver_config_menu_helper.html#a221ac04d835de8a053a05659b7ca1b99" title="Function that add elements to the menu." alt="" coords="347,5,629,35"/>
+<area shape="rect" id="node5" href="$db/d40/class_solver_config_menu_helper.html#a3a50e49efe9a1c98ded7cd01ed83d0a6" title="Function that removes an elemente name by its name." alt="" coords="313,59,663,88"/>
+<area shape="rect" id="node7" href="$db/d40/class_solver_config_menu_helper.html#aba2862b86b3e2a3f8ebf1065b03c4bb8" title="Removes teh correspondent subsection element." alt="" coords="297,112,679,141"/>
+</map>

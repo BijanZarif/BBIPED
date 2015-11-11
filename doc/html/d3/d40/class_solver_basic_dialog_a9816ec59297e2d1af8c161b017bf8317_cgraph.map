@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#a9bc5f51bb5426acfd26da00ed9df5ac2" title="This function checks if the value stored in a row is a default value, returning a true..." alt="" coords="288,165,547,195"/>
+<area shape="rect" id="node30" href="$d3/d40/class_solver_basic_dialog.html#a9ad0399804916909575911a387cea409" title="SolverBasicDialog::resetToDefaultValue" alt="" coords="289,112,545,141"/>
+<area shape="rect" id="node34" href="$d3/d40/class_solver_basic_dialog.html#a105900ce25b7d9434b3313f46b6b9abf" title="Function to save the user changes made in the session." alt="" coords="295,59,540,88"/>
+<area shape="rect" id="node5" href="$d4/dea/class_solver_section_d_a_o.html#a04e8c6e17f2dea86b0c0416dc28bd4cc" title="Find the value name associated to a variable name." alt="" coords="596,112,921,141"/>
+<area shape="rect" id="node13" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="597,59,920,88"/>
+<area shape="rect" id="node19" href="$d4/dea/class_solver_section_d_a_o.html#a7c1a6d78095888f561ff4a2e3d4e9f61" title="Checks if the current value of a variable is the default value." alt="" coords="611,267,907,296"/>
+<area shape="rect" id="node7" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="1300,215,1553,244"/>
+<area shape="rect" id="node9" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="995,112,1227,141"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file." alt="" coords="984,59,1237,88"/>
+<area shape="rect" id="node15" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="997,5,1224,35"/>
+<area shape="rect" id="node17" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="1303,5,1551,35"/>
+<area shape="rect" id="node22" href="$d4/dea/class_solver_section_d_a_o.html#aa4ecdd8245b0eacd06f61da2e5e27fb2" title="Find a variable by its value name." alt="" coords="971,267,1251,296"/>
+<area shape="rect" id="node25" href="$dc/d7e/class_solver_variable_v_o.html#a61978d1d0d6f1511a5cad7432d625c58" title="Returns true if the object is empty." alt="" coords="1336,293,1517,323"/>
+<area shape="rect" id="node28" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value" alt="" coords="997,371,1224,400"/>
+</map>

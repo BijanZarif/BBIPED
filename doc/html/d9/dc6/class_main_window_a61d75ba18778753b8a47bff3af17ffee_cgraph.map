@@ -1,0 +1,14 @@
+<map id="MainWindow::on_actionSynchronise_all_files_triggered" name="MainWindow::on_actionSynchronise_all_files_triggered">
+<area shape="rect" id="node2" href="$dd/ddd/class_solver_helper.html#a54aba77c5bbb02e77e35461f85d29300" title="This function launchs the dialog for the comparison dialog. " alt="" coords="289,187,453,229"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files. " alt="" coords="536,5,683,46"/>
+<area shape="rect" id="node4" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="502,71,717,97"/>
+<area shape="rect" id="node5" href="$d4/dae/class_file_comparison_dialog.html#a8a40c47f7b0c2d4798ca6af4939b1917" title="Set the list of files to be compared. " alt="" coords="534,122,685,163"/>
+<area shape="rect" id="node10" href="$d4/dae/class_file_comparison_dialog.html#aadfbeec6852612f018e480550a1135aa" title="Set the section Menu List. " alt="" coords="534,187,685,229"/>
+<area shape="rect" id="node11" href="$d9/d6e/class_solver_config_manager.html#ade5faa8b388d670166cc924d91f5ca3f" title="Function that gets all the sections to be shown in the menu list. " alt="" coords="529,253,689,294"/>
+<area shape="rect" id="node12" href="$d4/dae/class_file_comparison_dialog.html#acde367a9f756d925d37396431c0bae80" title="Set the project details. " alt="" coords="534,318,685,359"/>
+<area shape="rect" id="node13" href="$d4/dae/class_file_comparison_dialog.html#a7cc741d3e6770fab7cd7e387fda0b60d" title="FileComparisonDialog\l::setVirtualMRFData" alt="" coords="534,383,685,425"/>
+<area shape="rect" id="node6" href="$d4/dae/class_file_comparison_dialog.html#ae4eb41c96d32d02a87bf86c41c4c94e0" title="This function insert the Header titles. " alt="" coords="766,57,917,98"/>
+<area shape="rect" id="node8" href="$d4/dae/class_file_comparison_dialog.html#a63d93daa1fde1057ffd1150095ef6d91" title="This function reset the table values. " alt="" coords="766,122,917,163"/>
+<area shape="rect" id="node9" href="$d4/dae/class_file_comparison_dialog.html#ab96f7ceebd88a9154cf48665acb4db05" title="This function updates the Header table. " alt="" coords="766,187,917,229"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="966,129,1173,156"/>
+</map>

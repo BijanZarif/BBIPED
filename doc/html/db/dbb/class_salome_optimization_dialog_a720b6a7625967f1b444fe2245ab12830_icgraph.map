@@ -1,0 +1,5 @@
+<map id="SalomeOptimizationDialog::outlogtext" name="SalomeOptimizationDialog::outlogtext">
+<area shape="rect" id="node2" href="$db/dbb/class_salome_optimization_dialog.html#ae32cabba16b69277d9cbe4601272debe" title="SalomeOptimizationDialog\l::outputConsole" alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#ae12a4dce8245acc92ccca246d9b3f3b2" title="SalomeOptimizationDialog\l::runPythonFile" alt="" coords="453,5,629,46"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="677,5,853,46"/>
+</map>

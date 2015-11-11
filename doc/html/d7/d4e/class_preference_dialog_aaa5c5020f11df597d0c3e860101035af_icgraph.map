@@ -1,0 +1,7 @@
+<map id="PreferenceDialog::initialize" name="PreferenceDialog::initialize">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a7ed051f10bc19889e50e9402ba1abcb7" title="Initialize the solver data. " alt="" coords="243,5,421,46"/>
+<area shape="rect" id="node4" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="233,70,431,111"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="507,12,685,39"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="481,66,711,107"/>
+<area shape="rect" id="node6" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="481,131,711,187"/>
+</map>

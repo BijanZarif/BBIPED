@@ -1,0 +1,5 @@
+<map id="SalomeTemplateManager::saveTemplateData" name="SalomeTemplateManager::saveTemplateData">
+<area shape="rect" id="node2" href="$dc/def/class_salome_template_data.html#a293119f3ae20cdcb4a3b8184ff902075" title="Gets the name of the file associated to the template. " alt="" coords="225,5,383,46"/>
+<area shape="rect" id="node3" href="$dc/def/class_salome_template_data.html#a87199f91e472ddac32f95f80276cec5d" title="Gets the template Name (the one shown to the user) " alt="" coords="230,70,378,111"/>
+<area shape="rect" id="node4" href="$dc/def/class_salome_template_data.html#ad49a53d0e6c4084e00b31e0120ff4446" title="Get the list of variables of the template. " alt="" coords="230,135,378,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="PreferencesManager::writeTemplatePreferences" name="PreferencesManager::writeTemplatePreferences">
+<area shape="rect" id="node2" href="$d1/d59/class_preferences_manager.html#a379493229bb891a7b62d3a8e32730730" title="PreferencesManager\l::saveUserPreferences" alt="" coords="238,87,394,129"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="443,64,634,91"/>
+<area shape="rect" id="node6" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="465,118,612,159"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="689,5,860,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="683,57,867,98"/>
+<area shape="rect" id="node7" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="701,122,848,163"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="915,122,1095,163"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1145,129,1325,156"/>
+</map>

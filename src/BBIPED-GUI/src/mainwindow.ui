@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1247</width>
+    <height>905</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>BBIPED Platform</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="toolbarIcons.qrc">
+    <normaloff>:/logo/images/icon_8x16.png</normaloff>:/logo/images/icon_8x16.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_11">
+    <item>
+     <widget class="QGroupBox" name="groupBox">
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="title">
+       <string>Process</string>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <item>
+        <layout class="QHBoxLayout" name="horizontalButtonToolLayout">
+         <item>
+          <widget class="QPushButton" name="salomeButton">
+           <property name="font">
+            <font>
+             <family>Ubuntu</family>
+            </font>
+           </property>
+           <property name="styleSheet">
+            <string notr="true"/>
+           </property>
+           <property name="text">
+            <string>Meshing</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="solverButton">
+           <property name="text">
+            <string>Solver</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="paraviewButton">
+           <property name="text">
+            <string>Results with Paraview</string>
+           </property>
+           <property name="icon">
+            <iconset resource="toolbarIcons.qrc">
+             <normaloff>:/new/toolbarIcons/images/pvIcon-PNG.png</normaloff>:/new/toolbarIcons/images/pvIcon-PNG.png</iconset>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item>
+     <widget class="QSplitter" name="horizontalMainBodySplitter">
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+      <widget class="QSplitter" name="verticalTreeInputSplitter">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="mouseTracking">
+        <bool>true</bool>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::NoFrame</enum>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="opaqueResize">
+        <bool>false</bool>
+       </property>
+       <widget class="QTreeView" name="projectTreeView">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="minimumSize">
+         <size>
+          <width>50</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="contextMenuPolicy">
+         <enum>Qt::CustomContextMenu</enum>
+        </property>
+        <property name="styleSheet">
+         <string notr="true"/>
+        </property>
+        <property name="midLineWidth">
+         <number>1</number>
+        </property>
+        <property name="editTriggers">
+         <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
+        </property>
+        <property name="dragEnabled">
+         <bool>true</bool>
+        </property>
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="selectionBehavior">
+         <enum>QAbstractItemView::SelectItems</enum>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+        <attribute name="headerCascadingSectionResizes">
+         <bool>true</bool>
+        </attribute>
+        <attribute name="headerShowSortIndicator" stdset="0">
+         <bool>true</bool>
+        </attribute>
+       </widget>
+       <widget class="QTabWidget" name="solverTabwidget">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="MinimumExpanding" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="currentIndex">
+         <number>0</number>
+        </property>
+        <widget class="QWidget" name="gridConfigurationFile">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <attribute name="icon">
+          <iconset>
+           <normalon>:/messageBoxIcons/images/interface_preferences2.png</normalon>
+          </iconset>
+         </attribute>
+         <attribute name="title">
+          <string>Input Data</string>
+         </attribute>
+         <layout class="QVBoxLayout" name="verticalLayout_7">
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout">
+            <item>
+             <layout class="QVBoxLayout" name="verticalLayout_5">
+              <item>
+               <widget class="QLabel" name="label_4">
+                <property name="maximumSize">
+                 <size>
+                  <width>1000</width>
+                  <height>50</height>
+                 </size>
+                </property>
+                <property name="font">
+                 <font>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="text">
+                 <string>Step 1: Configure your problem</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QGroupBox" name="setMeshPropertiesGroup">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>1000</width>
+                  <height>200</height>
+                 </size>
+                </property>
+                <property name="title">
+                 <string>Boundary Conditions</string>
+                </property>
+                <layout class="QVBoxLayout" name="verticalLayout_2">
+                 <item>
+                  <layout class="QHBoxLayout" name="importMeshHorizConfig">
+                   <item>
+                    <widget class="QLabel" name="importMeshLabel">
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="minimumSize">
+                      <size>
+                       <width>279</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="maximumSize">
+                      <size>
+                       <width>235</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="text">
+                      <string>Import Mesh File</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QPushButton" name="importMeshFileButton">
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="toolTip">
+                      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Import configuration file (.su2)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                     </property>
+                     <property name="text">
+                      <string/>
+                     </property>
+                     <property name="icon">
+                      <iconset resource="toolbarIcons.qrc">
+                       <normaloff>:/new/toolbarIcons/images/document_import.png</normaloff>:/new/toolbarIcons/images/document_import.png</iconset>
+                     </property>
+                    </widget>
+                   </item>
+                  </layout>
+                 </item>
+                 <item>
+                  <layout class="QHBoxLayout" name="configBoundaryMeshHorizConfig">
+                   <item>
+                    <widget class="QLabel" name="setMeshPropertiesLabel">
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="minimumSize">
+                      <size>
+                       <width>279</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="maximumSize">
+                      <size>
+                       <width>235</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="text">
+                      <string>Configure the Boundary Conditions</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QPushButton" name="setMeshPropertiesButton">
+                     <property name="enabled">
+                      <bool>false</bool>
+                     </property>
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="toolTip">
+                      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Configure the Boundary conditions for the correspondent Mesh File&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                     </property>
+                     <property name="text">
+                      <string/>
+                     </property>
+                     <property name="icon">
+                      <iconset resource="toolbarIcons.qrc">
+                       <normaloff>:/solverIcons/images/script_edit.png</normaloff>:/solverIcons/images/script_edit.png</iconset>
+                     </property>
+                    </widget>
+                   </item>
+                  </layout>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+              <item>
+               <widget class="QGroupBox" name="viewGroupBox">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>1000</width>
+                  <height>100</height>
+                 </size>
+                </property>
+                <property name="title">
+                 <string>Physics Conditions</string>
+                </property>
+                <layout class="QVBoxLayout" name="verticalLayout">
+                 <item>
+                  <layout class="QHBoxLayout" name="PhysicsConfigHorizLayout">
+                   <item>
+                    <widget class="QLabel" name="setPhysicisConfigLabel">
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="minimumSize">
+                      <size>
+                       <width>279</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="maximumSize">
+                      <size>
+                       <width>279</width>
+                       <height>27</height>
+                      </size>
+                     </property>
+                     <property name="text">
+                      <string>Set  Physics Configuration </string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QPushButton" name="basivViewEditButton">
+                     <property name="enabled">
+                      <bool>false</bool>
+                     </property>
+                     <property name="sizePolicy">
+                      <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                      </sizepolicy>
+                     </property>
+                     <property name="toolTip">
+                      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Edit Physic Configuration&lt;span style=&quot; font-weight:600;&quot;&gt; (Basic Mode)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                     </property>
+                     <property name="text">
+                      <string/>
+                     </property>
+                     <property name="icon">
+                      <iconset>
+                       <normalon>:/solverIcons/images/script_edit.png</normalon>
+                      </iconset>
+                     </property>
+                     <property name="checkable">
+                      <bool>false</bool>
+                     </property>
+                    </widget>
+                   </item>
+                  </layout>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <widget class="Line" name="line_4">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <layout class="QVBoxLayout" name="verticalLayout_8">
+              <item>
+               <widget class="QLabel" name="label_9">
+                <property name="maximumSize">
+                 <size>
+                  <width>500</width>
+                  <height>30</height>
+                 </size>
+                </property>
+                <property name="font">
+                 <font>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="text">
+                 <string>Your Current Simulation Files. </string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <layout class="QVBoxLayout" name="verticalLayout_9">
+                <item>
+                 <layout class="QHBoxLayout" name="horizontalLayout_8">
+                  <item>
+                   <widget class="QLabel" name="confFileLabel">
+                    <property name="sizePolicy">
+                     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                      <horstretch>0</horstretch>
+                      <verstretch>0</verstretch>
+                     </sizepolicy>
+                    </property>
+                    <property name="minimumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="maximumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="font">
+                     <font>
+                      <weight>50</weight>
+                      <bold>false</bold>
+                     </font>
+                    </property>
+                    <property name="text">
+                     <string>Configuration File</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item>
+                   <widget class="QLabel" name="configFileLineLabel">
+                    <property name="maximumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="text">
+                     <string>.....</string>
+                    </property>
+                   </widget>
+                  </item>
+                 </layout>
+                </item>
+                <item>
+                 <layout class="QHBoxLayout" name="horizontalLayout_7">
+                  <item>
+                   <widget class="QLabel" name="meshFileLabel">
+                    <property name="sizePolicy">
+                     <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                      <horstretch>0</horstretch>
+                      <verstretch>0</verstretch>
+                     </sizepolicy>
+                    </property>
+                    <property name="minimumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="maximumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="text">
+                     <string>Mesh File</string>
+                    </property>
+                   </widget>
+                  </item>
+                  <item>
+                   <widget class="QLabel" name="meshFileLineLabel">
+                    <property name="maximumSize">
+                     <size>
+                      <width>200</width>
+                      <height>27</height>
+                     </size>
+                    </property>
+                    <property name="text">
+                     <string>.....</string>
+                    </property>
+                   </widget>
+                  </item>
+                 </layout>
+                </item>
+               </layout>
+              </item>
+              <item>
+               <layout class="QVBoxLayout" name="verticalLayout_6">
+                <item>
+                 <widget class="QPushButton" name="seeSummaryChangesButton">
+                  <property name="enabled">
+                   <bool>false</bool>
+                  </property>
+                  <property name="sizePolicy">
+                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                    <horstretch>0</horstretch>
+                    <verstretch>0</verstretch>
+                   </sizepolicy>
+                  </property>
+                  <property name="minimumSize">
+                   <size>
+                    <width>200</width>
+                    <height>27</height>
+                   </size>
+                  </property>
+                  <property name="maximumSize">
+                   <size>
+                    <width>250</width>
+                    <height>27</height>
+                   </size>
+                  </property>
+                  <property name="toolTip">
+                   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;See the Summary of the changes made by the user in both Physics and Boundary conditions&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                  </property>
+                  <property name="text">
+                   <string>See Summary of Changes  </string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QPushButton" name="savePhysicsButton">
+                  <property name="enabled">
+                   <bool>false</bool>
+                  </property>
+                  <property name="sizePolicy">
+                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                    <horstretch>0</horstretch>
+                    <verstretch>0</verstretch>
+                   </sizepolicy>
+                  </property>
+                  <property name="minimumSize">
+                   <size>
+                    <width>250</width>
+                    <height>27</height>
+                   </size>
+                  </property>
+                  <property name="maximumSize">
+                   <size>
+                    <width>200</width>
+                    <height>27</height>
+                   </size>
+                  </property>
+                  <property name="toolTip">
+                   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the current values&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                  </property>
+                  <property name="text">
+                   <string>Save All</string>
+                  </property>
+                  <property name="icon">
+                   <iconset resource="toolbarIcons.qrc">
+                    <normaloff>:/new/toolbarIcons/images/script_save.png</normaloff>:/new/toolbarIcons/images/script_save.png</iconset>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <widget class="Line" name="horizontalLineButtons_simFiles">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_5">
+            <property name="maximumSize">
+             <size>
+              <width>1000</width>
+              <height>100</height>
+             </size>
+            </property>
+            <property name="font">
+             <font>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Step 2. Configure your number of processors (in case of Parallel Execution)</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_5">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_10">
+              <item>
+               <widget class="QLabel" name="label_7">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>200</width>
+                  <height>27</height>
+                 </size>
+                </property>
+                <property name="font">
+                 <font>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="text">
+                 <string>Parallel Run Configuration</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLabel" name="label_8">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="minimumSize">
+                 <size>
+                  <width>100</width>
+                  <height>27</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>100</width>
+                  <height>27</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>No. Processors</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="noProcessorslineEdit">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="minimumSize">
+                 <size>
+                  <width>50</width>
+                  <height>27</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>50</width>
+                  <height>27</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <widget class="Line" name="line">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_6">
+            <property name="font">
+             <font>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Step 3. Run your simulation</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <item>
+             <widget class="QPushButton" name="runSimulationButton">
+              <property name="enabled">
+               <bool>false</bool>
+              </property>
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="minimumSize">
+               <size>
+                <width>200</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>200</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="toolTip">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Start the current simulation from scratch&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="text">
+               <string>Run simulation</string>
+              </property>
+              <property name="icon">
+               <iconset resource="toolbarIcons.qrc">
+                <normaloff>:/runIcons/images/control_play_blue.png</normaloff>:/runIcons/images/control_play_blue.png</iconset>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="stopButton">
+              <property name="enabled">
+               <bool>false</bool>
+              </property>
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="minimumSize">
+               <size>
+                <width>200</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>200</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Stop</string>
+              </property>
+              <property name="icon">
+               <iconset resource="toolbarIcons.qrc">
+                <normaloff>:/runIcons/images/control_stop_blue.png</normaloff>:/runIcons/images/control_stop_blue.png</iconset>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="restartButton">
+              <property name="enabled">
+               <bool>false</bool>
+              </property>
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="minimumSize">
+               <size>
+                <width>100</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>100</width>
+                <height>27</height>
+               </size>
+              </property>
+              <property name="toolTip">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Restart from the previous solution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="text">
+               <string>Restart</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+         <zorder>label_6</zorder>
+         <zorder></zorder>
+         <zorder>horizontalLineButtons_simFiles</zorder>
+         <zorder>label_5</zorder>
+         <zorder>line</zorder>
+        </widget>
+        <widget class="QWidget" name="MultizoneTab">
+         <attribute name="title">
+          <string>Multizone Input Data</string>
+         </attribute>
+         <layout class="QVBoxLayout" name="verticalLayout_4">
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="font">
+             <font>
+              <pointsize>16</pointsize>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Multizone Project Files</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="Line" name="line_3">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_2">
+            <property name="text">
+             <string>Current Files of this project. </string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QGridLayout" name="gridLayout_2">
+            <item row="0" column="0" colspan="2">
+             <widget class="QTableWidget" name="multizoneFilesTable">
+              <property name="maximumSize">
+               <size>
+                <width>616</width>
+                <height>200</height>
+               </size>
+              </property>
+              <column>
+               <property name="text">
+                <string>Selected</string>
+               </property>
+              </column>
+              <column>
+               <property name="text">
+                <string>Configuration File </string>
+               </property>
+              </column>
+              <column>
+               <property name="text">
+                <string>Mesh File</string>
+               </property>
+              </column>
+             </widget>
+            </item>
+            <item row="0" column="2">
+             <layout class="QVBoxLayout" name="verticalLayout_3">
+              <item>
+               <widget class="QPushButton" name="multizoneNewButton">
+                <property name="maximumSize">
+                 <size>
+                  <width>150</width>
+                  <height>30</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>New/Import</string>
+                </property>
+                <property name="icon">
+                 <iconset resource="toolbarIcons.qrc">
+                  <normaloff>:/new/toolbarIcons/images/add.png</normaloff>:/new/toolbarIcons/images/add.png</iconset>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QPushButton" name="multizoneOpenEditButton">
+                <property name="maximumSize">
+                 <size>
+                  <width>150</width>
+                  <height>30</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Open/Edit</string>
+                </property>
+                <property name="icon">
+                 <iconset resource="toolbarIcons.qrc">
+                  <normaloff>:/new/toolbarIcons/images/open_folder.png</normaloff>:/new/toolbarIcons/images/open_folder.png</iconset>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QPushButton" name="multizoneDeleteButton">
+                <property name="maximumSize">
+                 <size>
+                  <width>150</width>
+                  <height>30</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Delete</string>
+                </property>
+                <property name="icon">
+                 <iconset resource="toolbarIcons.qrc">
+                  <normaloff>:/new/toolbarIcons/images/cross.png</normaloff>:/new/toolbarIcons/images/cross.png</iconset>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item row="1" column="0">
+             <widget class="QPushButton" name="multizoneSummaryAllConfigButton">
+              <property name="maximumSize">
+               <size>
+                <width>300</width>
+                <height>30</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Summary of Configuration Data</string>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="1" colspan="2">
+             <widget class="QPushButton" name="multizoneSaveAllButton">
+              <property name="maximumSize">
+               <size>
+                <width>300</width>
+                <height>30</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Save All Changes</string>
+              </property>
+              <property name="icon">
+               <iconset resource="toolbarIcons.qrc">
+                <normaloff>:/new/toolbarIcons/images/disk_multiple.png</normaloff>:/new/toolbarIcons/images/disk_multiple.png</iconset>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <widget class="Line" name="line_2">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_3">
+            <property name="font">
+             <font>
+              <pointsize>16</pointsize>
+              <weight>75</weight>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Simulation actions</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_4">
+            <item>
+             <widget class="QPushButton" name="multizoneRunSimulationButton">
+              <property name="maximumSize">
+               <size>
+                <width>200</width>
+                <height>30</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Run Simulation</string>
+              </property>
+              <property name="icon">
+               <iconset resource="toolbarIcons.qrc">
+                <normaloff>:/runIcons/images/control_play_blue.png</normaloff>:/runIcons/images/control_play_blue.png</iconset>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="multizoneStopSimulationButton">
+              <property name="maximumSize">
+               <size>
+                <width>200</width>
+                <height>30</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Stop Simulation</string>
+              </property>
+              <property name="icon">
+               <iconset resource="toolbarIcons.qrc">
+                <normaloff>:/runIcons/images/control_stop_blue.png</normaloff>:/runIcons/images/control_stop_blue.png</iconset>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="multizoneRestartSimulation">
+              <property name="enabled">
+               <bool>false</bool>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>200</width>
+                <height>30</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Restart Simulation</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </widget>
+       </widget>
+      </widget>
+      <widget class="QTextEdit" name="textEdit">
+       <property name="styleSheet">
+        <string notr="true"/>
+       </property>
+       <property name="readOnly">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout"/>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_9"/>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1247</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <widget class="QMenu" name="menuRecent_Projects">
+     <property name="title">
+      <string>Recent Projects</string>
+     </property>
+     <addaction name="action_Empty"/>
+    </widget>
+    <addaction name="actionNew_Project"/>
+    <addaction name="actionOpen_Project"/>
+    <addaction name="actionNew_Multizone_Project"/>
+    <addaction name="actionOpen_Multizone_Project"/>
+    <addaction name="menuRecent_Projects"/>
+    <addaction name="separator"/>
+    <addaction name="actionSave"/>
+    <addaction name="actionSave_As"/>
+    <addaction name="actionSave_Temporal"/>
+    <addaction name="separator"/>
+    <addaction name="actionClose_Project"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <widget class="QMenu" name="menuDeveloper_Guide">
+     <property name="enabled">
+      <bool>false</bool>
+     </property>
+     <property name="title">
+      <string>Developer Guide</string>
+     </property>
+     <addaction name="actionOnline_Help"/>
+     <addaction name="actionDeveloper_Guide_2"/>
+    </widget>
+    <widget class="QMenu" name="menuUser_GuideLine">
+     <property name="title">
+      <string>User GuideLine</string>
+     </property>
+     <addaction name="actionUser_GuideLine_2"/>
+    </widget>
+    <addaction name="menuDeveloper_Guide"/>
+    <addaction name="menuUser_GuideLine"/>
+    <addaction name="actionHelp_Contents"/>
+    <addaction name="separator"/>
+    <addaction name="actionAbout"/>
+   </widget>
+   <widget class="QMenu" name="menuSolver">
+    <property name="title">
+     <string>Solver</string>
+    </property>
+    <addaction name="actionConfigurator"/>
+    <addaction name="actionResidual"/>
+    <addaction name="separator"/>
+    <addaction name="separator"/>
+    <addaction name="actionCreate_New_Configuration_File"/>
+    <addaction name="actionLoad_Configuration_File"/>
+    <addaction name="separator"/>
+    <addaction name="actionRun_Project"/>
+    <addaction name="actionStop_Execution"/>
+    <addaction name="actionSave_Residual_Image"/>
+    <addaction name="separator"/>
+    <addaction name="actionImport_Mesh_File"/>
+    <addaction name="actionSave_Configuration_File"/>
+    <addaction name="actionSave_Configuration_File_As"/>
+    <addaction name="separator"/>
+    <addaction name="actionCompare_Configuration_Files"/>
+    <addaction name="actionSynchronise_all_files"/>
+    <addaction name="separator"/>
+    <addaction name="actionCreate_Configuration_Template"/>
+    <addaction name="actionLoad_Configuration_Template"/>
+    <addaction name="actionEdit_Configuration_Template"/>
+   </widget>
+   <widget class="QMenu" name="menuView">
+    <property name="title">
+     <string>View</string>
+    </property>
+    <addaction name="actionParaview_File"/>
+    <addaction name="actionSalome_Mesh"/>
+   </widget>
+   <widget class="QMenu" name="menuEdit">
+    <property name="title">
+     <string>Edit</string>
+    </property>
+    <addaction name="actionPreferences"/>
+    <addaction name="separator"/>
+    <addaction name="actionProject_Settings"/>
+   </widget>
+   <widget class="QMenu" name="menuTools">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="title">
+     <string>Tools</string>
+    </property>
+    <widget class="QMenu" name="menuSalome_Tools">
+     <property name="enabled">
+      <bool>false</bool>
+     </property>
+     <property name="title">
+      <string>Salome Tools</string>
+     </property>
+     <addaction name="actionLoad_Templates"/>
+     <addaction name="actionAutomatic_Optimization"/>
+    </widget>
+    <addaction name="separator"/>
+    <addaction name="menuSalome_Tools"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuEdit"/>
+   <addaction name="menuView"/>
+   <addaction name="menuSolver"/>
+   <addaction name="menuTools"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionNew_Project"/>
+   <addaction name="actionOpen_Project"/>
+   <addaction name="actionNew_Multizone_Project"/>
+   <addaction name="actionOpen_Multizone_Project"/>
+   <addaction name="actionClose_Project"/>
+   <addaction name="separator"/>
+   <addaction name="actionSave"/>
+   <addaction name="actionSave_As"/>
+   <addaction name="actionSave_Temporal"/>
+   <addaction name="separator"/>
+   <addaction name="actionRun_Project"/>
+   <addaction name="actionStop_Execution"/>
+   <addaction name="actionSave_Configuration_File"/>
+   <addaction name="separator"/>
+   <addaction name="actionParaview_File"/>
+   <addaction name="separator"/>
+   <addaction name="actionProject_Settings"/>
+   <addaction name="actionCompare_Configuration_Files"/>
+   <addaction name="separator"/>
+   <addaction name="actionHelp_Contents"/>
+   <addaction name="actionAbout"/>
+   <addaction name="separator"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar">
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(178, 196, 198);</string>
+   </property>
+  </widget>
+  <action name="actionNew_Project">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../../../../Documents/Images/Icons/fatcow-hosting-icons-3000/16x16/add.png</normaloff>
+     <normalon>:/new/toolbarIcons/images/page_white.png</normalon>../../../../../Documents/Images/Icons/fatcow-hosting-icons-3000/16x16/add.png</iconset>
+   </property>
+   <property name="text">
+    <string>New Project</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
+  </action>
+  <action name="actionOpen_Project">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/folder.png</normaloff>
+     <normalon>images/folder.png</normalon>:/new/toolbarIcons/images/folder.png</iconset>
+   </property>
+   <property name="text">
+    <string>Open Project</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/toolbarIcons/images/disk.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Save</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+   <property name="iconVisibleInMenu">
+    <bool>true</bool>
+   </property>
+  </action>
+  <action name="actionSave_As">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/save_as.png</normaloff>
+     <normalon>:/new/toolbarIcons/images/disk_multiple.png</normalon>:/new/toolbarIcons/images/save_as.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save As</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+S</string>
+   </property>
+  </action>
+  <action name="actionSave_Temporal">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/page_save.png</normaloff>
+     <normalon>images/page_save.png</normalon>:/new/toolbarIcons/images/page_save.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save Temporal</string>
+   </property>
+   <property name="visible">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionClose_Project">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/toolbarIcons/images/cross.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Close Project</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+C</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/door_out.png</normaloff>
+     <normalon>images/door_out.png</normalon>:/new/toolbarIcons/images/door_out.png</iconset>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+X</string>
+   </property>
+  </action>
+  <action name="actionRun_Project">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/runIcons/images/control_play_blue.png</normaloff>
+     <normalon>images/script_go.png</normalon>:/runIcons/images/control_play_blue.png</iconset>
+   </property>
+   <property name="text">
+    <string>Run</string>
+   </property>
+   <property name="shortcut">
+    <string>F5</string>
+   </property>
+  </action>
+  <action name="actionStop_Execution">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/runIcons/images/control_stop_blue.png</normaloff>
+     <normalon>images/clock_stop.png</normalon>:/runIcons/images/control_stop_blue.png</iconset>
+   </property>
+   <property name="text">
+    <string>Stop</string>
+   </property>
+   <property name="shortcut">
+    <string>Pause</string>
+   </property>
+  </action>
+  <action name="actionHelp_Contents">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/help.png</normaloff>
+     <normalon>images/help.png</normalon>:/new/toolbarIcons/images/help.png</iconset>
+   </property>
+   <property name="text">
+    <string>Help Contents</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+H</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/star.png</normaloff>
+     <normalon>images/star.png</normalon>:/new/toolbarIcons/images/star.png</iconset>
+   </property>
+   <property name="text">
+    <string>About ...</string>
+   </property>
+  </action>
+  <action name="actionConfigurator">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Input Data</string>
+   </property>
+   <property name="visible">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionResidual">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Residual</string>
+   </property>
+   <property name="visible">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionImport_Mesh_File">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/toolbarIcons/images/document_import.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Import Mesh File</string>
+   </property>
+  </action>
+  <action name="actionSave_Configuration_File">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/toolbarIcons/images/script_save.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Save Configuration File</string>
+   </property>
+  </action>
+  <action name="actionSave_Configuration_File_As">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/toolbarIcons/images/save_as.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Save Configuration File As ..</string>
+   </property>
+  </action>
+  <action name="actionOnline_Help">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/firefox.png</normaloff>:/new/toolbarIcons/images/firefox.png</iconset>
+   </property>
+   <property name="text">
+    <string>Online Help</string>
+   </property>
+  </action>
+  <action name="actionDeveloper_Guide_2">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/file_extension_pdf.png</normaloff>:/new/toolbarIcons/images/file_extension_pdf.png</iconset>
+   </property>
+   <property name="text">
+    <string>Developer Guide</string>
+   </property>
+  </action>
+  <action name="actionUser_GuideLine_2">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/file_extension_pdf.png</normaloff>:/new/toolbarIcons/images/file_extension_pdf.png</iconset>
+   </property>
+   <property name="text">
+    <string>User GuideLine</string>
+   </property>
+   <property name="shortcut">
+    <string>F1</string>
+   </property>
+  </action>
+  <action name="actionParaview_File">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/pvIcon-PNG.png</normaloff>:/new/toolbarIcons/images/pvIcon-PNG.png</iconset>
+   </property>
+   <property name="text">
+    <string>Paraview File</string>
+   </property>
+  </action>
+  <action name="actionPreferences">
+   <property name="text">
+    <string>Preferences</string>
+   </property>
+   <property name="shortcut">
+    <string>F3</string>
+   </property>
+  </action>
+  <action name="actionSalome_Mesh">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/salome_logo.jpeg</normaloff>:/new/toolbarIcons/images/salome_logo.jpeg</iconset>
+   </property>
+   <property name="text">
+    <string>Salome Mesh</string>
+   </property>
+  </action>
+  <action name="actionNew_Multizone_Project">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/page_white_stack.png</normaloff>:/new/toolbarIcons/images/page_white_stack.png</iconset>
+   </property>
+   <property name="text">
+    <string>New Multizone Project</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+N</string>
+   </property>
+  </action>
+  <action name="actionOpen_Multizone_Project">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/folder_page_white.png</normaloff>:/new/toolbarIcons/images/folder_page_white.png</iconset>
+   </property>
+   <property name="text">
+    <string>Open Multizone Project</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+O</string>
+   </property>
+  </action>
+  <action name="actionProject_Settings">
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/wishlist_add.png</normaloff>:/new/toolbarIcons/images/wishlist_add.png</iconset>
+   </property>
+   <property name="text">
+    <string>Project Settings</string>
+   </property>
+   <property name="shortcut">
+    <string>F2</string>
+   </property>
+  </action>
+  <action name="actionCompare_Configuration_Files">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/document_inspector.png</normaloff>:/new/toolbarIcons/images/document_inspector.png</iconset>
+   </property>
+   <property name="text">
+    <string>Compare Configuration Files</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+C</string>
+   </property>
+  </action>
+  <action name="actionSynchronise_all_files">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Synchronise all files</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+C</string>
+   </property>
+  </action>
+  <action name="action_Empty">
+   <property name="text">
+    <string>&lt;&lt;Empty&gt;&gt;</string>
+   </property>
+  </action>
+  <action name="actionSave_Residual_Image">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Save Residual Image</string>
+   </property>
+  </action>
+  <action name="actionCreate_Configuration_Template">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Create Configuration Template</string>
+   </property>
+  </action>
+  <action name="actionLoad_Configuration_Template">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Load Configuration Template</string>
+   </property>
+  </action>
+  <action name="actionEdit_Configuration_Template">
+   <property name="text">
+    <string>Edit Configuration Template</string>
+   </property>
+  </action>
+  <action name="actionLoad_Templates">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Automatic Mesh Creator Templates</string>
+   </property>
+  </action>
+  <action name="actionAutomatic_Optimization">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Automatic Optimization</string>
+   </property>
+  </action>
+  <action name="actionCreate_New_Configuration_File">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/add.png</normaloff>:/new/toolbarIcons/images/add.png</iconset>
+   </property>
+   <property name="text">
+    <string>Create New Configuration File</string>
+   </property>
+  </action>
+  <action name="actionLoad_Configuration_File">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="toolbarIcons.qrc">
+     <normaloff>:/new/toolbarIcons/images/open_folder.png</normaloff>:/new/toolbarIcons/images/open_folder.png</iconset>
+   </property>
+   <property name="text">
+    <string>Load Configuration File</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="toolbarIcons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

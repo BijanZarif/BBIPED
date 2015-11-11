@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/df1/class_salome_template_manager.html#ae2e3d9fe854468303c2a2e7bd9a84f26" title="SalomeTemplateManager::isInitialized" alt="" coords="320,5,563,35"/>
+<area shape="rect" id="node5" href="$d9/df1/class_salome_template_manager.html#aad0f9f2e4c5c11dbb84c36135c4b1bba" title="SalomeTemplateManager::loadTemplate" alt="" coords="313,59,569,88"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#acac4764823488ba6de3e45343d8bcab9" title="SalomeTemplateDialog::loadTemplateMenu" alt="" coords="304,112,579,141"/>
+<area shape="rect" id="node9" href="$d1/d96/class_salome_template_dialog.html#af84b8fe8d7740cd72de2288db89d88ca" title="SalomeTemplateDialog::refreshComboTemplates" alt="" coords="628,112,935,141"/>
+<area shape="rect" id="node11" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager::getTemplateNameList" alt="" coords="999,85,1305,115"/>
+<area shape="rect" id="node13" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager::getUserTemplateNameList" alt="" coords="985,139,1319,168"/>
+</map>

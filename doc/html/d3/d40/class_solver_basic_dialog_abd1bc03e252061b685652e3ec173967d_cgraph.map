@@ -1,0 +1,11 @@
+<map id="SolverBasicDialog::on_expertViewRadioButton_clicked" name="SolverBasicDialog::on_expertViewRadioButton_clicked">
+<area shape="rect" id="node2" href="$d3/d40/class_solver_basic_dialog.html#a124b650fb15856cc459baead624b69e3" title="Load the corresponding Tree menu according with the user selection (basic view or advanced view) ..." alt="" coords="271,169,409,210"/>
+<area shape="rect" id="node8" href="$d3/d40/class_solver_basic_dialog.html#ad86b552bc601e6728fcdb0dcb74951a4" title="Function to reset the table. " alt="" coords="271,282,409,323"/>
+<area shape="rect" id="node10" href="$d3/d40/class_solver_basic_dialog.html#a122e2dea00a8b697ae6652e24d582e11" title="Function that updates the radio button status. " alt="" coords="235,347,445,389"/>
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#a64fddc6db24284d39d218a6472bb5139" title="Function that returns the Advanced Menu List elements. " alt="" coords="507,5,666,46"/>
+<area shape="rect" id="node4" href="$d9/d6e/class_solver_config_manager.html#ac3660a6cd422e6311217a158f849ae28" title="Function that returns the Basic Menu List elements. " alt="" coords="513,70,660,111"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="513,135,660,177"/>
+<area shape="rect" id="node6" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="513,201,660,242"/>
+<area shape="rect" id="node7" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager. " alt="" coords="493,266,680,307"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a08a551b0d2cb7528233ae671c547bef8" title="Loads the common table header values. " alt="" coords="518,331,655,373"/>
+</map>

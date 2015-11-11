@@ -1,0 +1,51 @@
+<map id="SolverVO::setSolverConfigFilePath" name="SolverVO::setSolverConfigFilePath">
+<area shape="rect" id="node2" href="$db/d81/class_multizone_manager.html#ad779b01ce528bb367748a0b341da5290" title="This function builds the project data for a specific config file in a multizone project. " alt="" coords="690,121,894,162"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file. " alt="" coords="950,103,1197,145"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a4d24598e3fe98d88c66eaa0e0c50dc9c" title="This function checks whether the path of the open project and the current project path is equal..." alt="" coords="701,741,883,782"/>
+<area shape="rect" id="node15" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other. " alt="" coords="260,436,375,463"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="1257,5,1447,61"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="699,806,885,847"/>
+<area shape="rect" id="node23" href="$db/dc7/class_input_data_tab_helper.html#a3d0bc3055175fedaa7bd63dbd6d7306e" title="Dialog to save with a different name a configuration file. " alt="" coords="723,186,861,227"/>
+<area shape="rect" id="node47" href="$db/d28/class_util_files.html#aa70274124ccf9082396e90c9975c497a" title="Returns a ProjectData object with the updated path values. " alt="" coords="704,872,880,899"/>
+<area shape="rect" id="node49" href="$d6/d07/class_xml_util.html#a76d2f43aad61837bca41fa7dafc16fb5" title="Function to get the Solver information. " alt="" coords="451,367,634,393"/>
+<area shape="rect" id="node50" href="$db/d1a/class_solver_util.html#a666d637883ee697bdeb40368eb5add62" title="Function to import an existent solver configuration file. " alt="" coords="232,653,403,694"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="1246,85,1458,126"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="1522,661,1697,688"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="1763,562,1955,603"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="1761,631,1957,657"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="2006,623,2189,665"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="2238,625,2421,666"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="2238,559,2421,601"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="2469,625,2688,666"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="2737,563,2925,605"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="2485,559,2672,601"/>
+<area shape="rect" id="node16" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object. " alt="" coords="451,434,634,475"/>
+<area shape="rect" id="node17" href="$d4/dac/class_project_data.html#aeeb9602cbf13720a3b84cc45c90b685c" title="This function makes a hard (in depth) copy from one object to the other. " alt="" coords="1010,697,1137,724"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="695,471,889,497"/>
+<area shape="rect" id="node21" href="$d6/d07/class_xml_util.html#af3d7010239a924237681fb0d79342d43" title="Function to read the XML Project file. " alt="" coords="701,252,883,279"/>
+<area shape="rect" id="node37" href="$d9/dc6/class_main_window.html#a3eb54a962bde09d249e2c734c904a2f3" title="SOLVER: Save Mesh variables values, changed by the user. " alt="" coords="683,521,901,548"/>
+<area shape="rect" id="node41" href="$d4/dac/class_project_data.html#a6388141246a8f3828a90029eec304031" title="This function saves all the project information. " alt="" coords="708,573,876,614"/>
+<area shape="rect" id="node42" href="$d4/dac/class_project_data.html#a6ee97c45279af26539aa5755b06f0749" title="This function is to update the data from another object. " alt="" coords="689,639,895,665"/>
+<area shape="rect" id="node45" href="$d2/d05/class_project_settings_dialog.html#aa6649f94b74cd7e60c9a78dfd2d70c8d" title="This function updates the project data information according user changes. " alt="" coords="718,405,866,446"/>
+<area shape="rect" id="node22" href="$db/d28/class_util_files.html#af9edcfdbd2ef232848243b8cdd05a1e5" title="Obtains the data stored in the file project (.prj) returning the data into the Project data object..." alt="" coords="973,343,1173,369"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="977,281,1169,308"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="1263,332,1441,359"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="1257,383,1447,425"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#ad550c61cfa05c7e528dedc6cf636ed10" title="Save a Project. " alt="" coords="1257,150,1447,191"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="1251,215,1453,257"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="1260,281,1444,308"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="1517,442,1701,483"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="1763,391,1954,417"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="1761,442,1956,483"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="1763,325,1955,366"/>
+<area shape="rect" id="node34" href="$d9/dc6/class_main_window.html#acf43a4f8c3c268a2987dd118b80876c9" title="Run Solver Project. " alt="" coords="1517,209,1702,250"/>
+<area shape="rect" id="node35" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="1509,274,1710,315"/>
+<area shape="rect" id="node36" href="$d9/dc6/class_main_window.html#ac04e6aade12e8a6e72a1d2b4f824dfce" title="SOLVER: Run the current simulation. " alt="" coords="1507,339,1712,381"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="976,559,1171,585"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="1253,501,1451,542"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="1255,566,1449,607"/>
+<area shape="rect" id="node43" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="985,631,1162,673"/>
+<area shape="rect" id="node44" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="1262,631,1442,673"/>
+<area shape="rect" id="node46" href="$d2/d05/class_project_settings_dialog.html#a95f42032d930b4018fd21a805de5e22e" title="Action when the user accepts the changes. " alt="" coords="988,405,1159,446"/>
+<area shape="rect" id="node48" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="978,865,1169,906"/>
+</map>

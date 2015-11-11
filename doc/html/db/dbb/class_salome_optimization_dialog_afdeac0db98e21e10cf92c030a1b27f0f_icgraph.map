@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a752b1daad991600ec565e0f3a0267a94" title="SalomeOptimizationDialog::removevarFromSelectedTable" alt="" coords="359,5,716,35"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a7657c5c46f1d490552192693c74c2e2c" title="SalomeOptimizationDialog::on_variablesListTable_cellChanged" alt="" coords="765,5,1155,35"/>
+</map>

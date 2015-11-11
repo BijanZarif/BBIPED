@@ -1,0 +1,5 @@
+<map id="SalomeToolCreateMeshDialog::outlogtext" name="SalomeToolCreateMeshDialog::outlogtext">
+<area shape="rect" id="node2" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a70fdecf5ea3ff926bf0d86730978fb5a" title="SalomeToolCreateMeshDialog\l::outputConsole" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node3" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#add5552532dacc77b50b18ac2503aac4b" title="SalomeToolCreateMeshDialog\l::runPythonFile" alt="" coords="502,5,701,46"/>
+<area shape="rect" id="node4" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a24cd67bac05c7093ee70cc05b88b6777" title="SalomeToolCreateMeshDialog\l::on_createMeshButton_clicked" alt="" coords="749,5,955,46"/>
+</map>

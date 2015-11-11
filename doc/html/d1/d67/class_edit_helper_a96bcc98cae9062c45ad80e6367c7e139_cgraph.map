@@ -1,0 +1,51 @@
+<map id="EditHelper::launchSettingsDialog" name="EditHelper::launchSettingsDialog">
+<area shape="rect" id="node2" href="$d2/d05/class_project_settings_dialog.html#a0622fe3d807b0b615f246e3ed03a4b19" title="Returns the multizone data. " alt="" coords="249,237,423,278"/>
+<area shape="rect" id="node3" href="$d2/d05/class_project_settings_dialog.html#a40fbf6f6e05407d5b493ee53217baa3a" title="Returns the project data. " alt="" coords="262,302,410,343"/>
+<area shape="rect" id="node4" href="$d2/d05/class_project_settings_dialog.html#a1380200dc188d47633e2612267b6b1df" title="Returns the project Details. " alt="" coords="257,367,415,409"/>
+<area shape="rect" id="node5" href="$d2/d05/class_project_settings_dialog.html#a882657484f8fa7b0d511c77f86aacc70" title="Set the multizone project data and update the correspondent views. " alt="" coords="249,433,423,474"/>
+<area shape="rect" id="node21" href="$d2/d05/class_project_settings_dialog.html#a10616ee586043ef8486cce4e17a4bf49" title="Set the project data and update the correspondent views. " alt="" coords="262,498,410,539"/>
+<area shape="rect" id="node22" href="$d2/d05/class_project_settings_dialog.html#a70f461466b2b686d153c61fe914daad1" title="Store the project Details. " alt="" coords="257,970,415,1011"/>
+<area shape="rect" id="node28" href="$da/d69/class_multizone_project_data.html#aca22f8a4a939001320daeff84b12c7b3" title="This function is to update the data from another object. " alt="" coords="239,905,433,946"/>
+<area shape="rect" id="node37" href="$d4/dac/class_project_data.html#a6ee97c45279af26539aa5755b06f0749" title="This function is to update the data from another object. " alt="" coords="233,564,439,591"/>
+<area shape="rect" id="node45" href="$d1/d82/class_project_details.html#a37cb6ff776d934729af78b7e32509817" title="This function is to update the data from another object. " alt="" coords="500,1343,692,1385"/>
+<area shape="rect" id="node50" href="$d2/d05/class_project_settings_dialog.html#ad146fec9470af18c08f92bec0b58cbea" title="Returns true if the user accept the changes. " alt="" coords="262,1087,410,1129"/>
+<area shape="rect" id="node6" href="$d2/d05/class_project_settings_dialog.html#a1a43b31a5ff9c03c108bb71896de3f41" title="This fucntion updates the project information in the Dialog. " alt="" coords="503,357,689,413"/>
+<area shape="rect" id="node11" href="$d2/d05/class_project_settings_dialog.html#a4c8e9810e351e0dd61dfe0510a3e0d78" title="This function updates the information in teh table. " alt="" coords="491,274,701,315"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty. " alt="" coords="787,323,933,349"/>
+<area shape="rect" id="node8" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="753,505,967,532"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name. " alt="" coords="787,374,933,415"/>
+<area shape="rect" id="node10" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name. " alt="" coords="787,557,933,598"/>
+<area shape="rect" id="node12" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="769,439,951,481"/>
+<area shape="rect" id="node13" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="1021,214,1200,255"/>
+<area shape="rect" id="node14" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="1016,407,1205,433"/>
+<area shape="rect" id="node15" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path) " alt="" coords="775,141,945,182"/>
+<area shape="rect" id="node16" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path) " alt="" coords="778,206,942,247"/>
+<area shape="rect" id="node17" href="$d2/d05/class_project_settings_dialog.html#a87983a92dbbf63f4f7ba02b96624b660" title="This function add the values to the table. " alt="" coords="786,23,934,65"/>
+<area shape="rect" id="node18" href="$d2/d05/class_project_settings_dialog.html#a1d1b48ff9f884e3ecb6156856bf80e34" title="ProjectSettingsDialog\l::addRowToTable" alt="" coords="1037,23,1185,65"/>
+<area shape="rect" id="node19" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="1254,5,1461,32"/>
+<area shape="rect" id="node20" href="$d3/d4b/class_qtable_util.html#ad24ffa6244a1f6ffd0632cf6ab755896" title="Function that creates a help icon widget cell element to be added to the table. " alt="" coords="1290,56,1425,83"/>
+<area shape="rect" id="node23" href="$d2/d05/class_project_settings_dialog.html#a6e67cd11458ef3601eb62a427a6b050c" title="Update the values of the project details in the tab view. " alt="" coords="495,1264,697,1320"/>
+<area shape="rect" id="node24" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="764,1289,956,1316"/>
+<area shape="rect" id="node25" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="776,1340,944,1367"/>
+<area shape="rect" id="node26" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="759,1172,961,1199"/>
+<area shape="rect" id="node27" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="779,1223,941,1265"/>
+<area shape="rect" id="node29" href="$da/d69/class_multizone_project_data.html#a9ba768abefefe0f328358c30d71fa9e3" title="Set the project Path. " alt="" coords="523,807,669,849"/>
+<area shape="rect" id="node30" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="523,938,669,979"/>
+<area shape="rect" id="node31" href="$da/d69/class_multizone_project_data.html#abad1e15ad5bf7e3bbbcd6efb1185c6ef" title="Set the project name. " alt="" coords="523,1003,669,1045"/>
+<area shape="rect" id="node32" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files. " alt="" coords="523,1069,669,1110"/>
+<area shape="rect" id="node34" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files. " alt="" coords="523,1134,669,1175"/>
+<area shape="rect" id="node35" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files. " alt="" coords="523,873,669,914"/>
+<area shape="rect" id="node36" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files. " alt="" coords="523,1199,669,1241"/>
+<area shape="rect" id="node33" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths) " alt="" coords="784,970,936,1011"/>
+<area shape="rect" id="node38" href="$d4/dac/class_project_data.html#a2b1eee2c51ef8f0ba562a501b9cd383d" title="Establish the file path of the project file. " alt="" coords="489,539,703,565"/>
+<area shape="rect" id="node39" href="$d4/dac/class_project_data.html#a5459bf2305f7aa9cf9c9ac13ead94a3d" title="Establish the path of the project. " alt="" coords="503,589,689,616"/>
+<area shape="rect" id="node40" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="503,640,689,667"/>
+<area shape="rect" id="node41" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object. " alt="" coords="505,742,687,783"/>
+<area shape="rect" id="node42" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other. " alt="" coords="803,623,917,649"/>
+<area shape="rect" id="node43" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path. " alt="" coords="1021,645,1200,686"/>
+<area shape="rect" id="node44" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="1016,593,1205,620"/>
+<area shape="rect" id="node46" href="$d1/d82/class_project_details.html#ad253779637db59dd78c0bb991befe405" title="This function sets the project title. " alt="" coords="764,1391,956,1417"/>
+<area shape="rect" id="node47" href="$d1/d82/class_project_details.html#ade4988a77020e503adf38a39ad367528" title="This function sets the author name. " alt="" coords="776,1441,944,1468"/>
+<area shape="rect" id="node48" href="$d1/d82/class_project_details.html#a7b4c91b43d86f9a816bbef2e613e7210" title="This function sets the starting data added by the user. " alt="" coords="759,1492,961,1519"/>
+<area shape="rect" id="node49" href="$d1/d82/class_project_details.html#aa6cbec40c380783be1ad56a273455a54" title="This function set the other details field. " alt="" coords="779,1543,941,1585"/>
+</map>

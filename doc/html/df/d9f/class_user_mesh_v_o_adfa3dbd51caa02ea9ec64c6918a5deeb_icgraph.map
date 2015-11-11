@@ -1,0 +1,10 @@
+<map id="UserMeshVO::updateBndValue" name="UserMeshVO::updateBndValue">
+<area shape="rect" id="node2" href="$df/d9f/class_user_mesh_v_o.html#a415e9dd1b382d469838d1c72a2f57c44" title="Add a Boundary and its value. " alt="" coords="259,41,445,68"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#a0606bccd0ad1ceac4cbcf2e75b7fee29" title="Function to save the user changes. " alt="" coords="494,41,701,68"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="982,5,1173,46"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="749,63,933,105"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1221,12,1384,39"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1432,12,1576,39"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1625,5,1831,46"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="985,70,1169,111"/>
+</map>

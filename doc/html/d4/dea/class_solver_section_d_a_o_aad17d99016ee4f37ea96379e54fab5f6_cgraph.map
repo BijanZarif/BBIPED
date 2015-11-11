@@ -1,0 +1,5 @@
+<map id="SolverSectionDAO::getOptionalVariables" name="SolverSectionDAO::getOptionalVariables">
+<area shape="rect" id="node2" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="261,5,475,46"/>
+<area shape="rect" id="node3" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="269,70,467,111"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#abc9d2b7aa91cbc26e7767a9341646e4e" title="Check if a variable can be optional (if optional and the user does not give a value, it is not written in the configuration file) " alt="" coords="273,136,463,163"/>
+</map>

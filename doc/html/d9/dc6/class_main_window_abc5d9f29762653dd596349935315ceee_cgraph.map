@@ -1,0 +1,8 @@
+<map id="MainWindow::on_paraviewButton_clicked" name="MainWindow::on_paraviewButton_clicked">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ab1cdfb5cf07b89f524bc9ca2a16aae16" title="This internal function controls if the Paraview is opened passing a file or to open a new instance of..." alt="" coords="271,67,495,96"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="553,5,737,35"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#abfa205d14a4ece22db52420786e90842" title="get the postProcessor viewer path (e.g. Paraview) " alt="" coords="545,58,745,105"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a66c68c6b53718d97b43982eebd40bc01" title="Slot function that captures the error if something goes wrong in the process. " alt="" coords="544,128,747,157"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="796,128,1009,157"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="1059,128,1277,157"/>
+</map>

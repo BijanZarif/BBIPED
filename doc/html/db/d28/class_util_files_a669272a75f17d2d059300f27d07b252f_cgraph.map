@@ -1,0 +1,8 @@
+<map id="UtilFiles::openProjectDetails" name="UtilFiles::openProjectDetails">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#ab8e800dd1a85cf7f62253c01c7862e25" title="Function to read the XML Project Details file. " alt="" coords="243,81,439,108"/>
+<area shape="rect" id="node3" href="$d6/d07/class_xml_util.html#ac7317375a64656dd1ed947333f59ec13" title="Function to get the XML Project Details file. " alt="" coords="488,74,661,115"/>
+<area shape="rect" id="node4" href="$d1/d82/class_project_details.html#ad253779637db59dd78c0bb991befe405" title="This function sets the project title. " alt="" coords="715,5,907,32"/>
+<area shape="rect" id="node5" href="$d1/d82/class_project_details.html#ade4988a77020e503adf38a39ad367528" title="This function sets the author name. " alt="" coords="727,56,895,83"/>
+<area shape="rect" id="node6" href="$d1/d82/class_project_details.html#a7b4c91b43d86f9a816bbef2e613e7210" title="This function sets the starting data added by the user. " alt="" coords="709,107,912,133"/>
+<area shape="rect" id="node7" href="$d1/d82/class_project_details.html#aa6cbec40c380783be1ad56a273455a54" title="This function set the other details field. " alt="" coords="729,158,892,199"/>
+</map>

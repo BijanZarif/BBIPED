@@ -1,0 +1,21 @@
+<map id="SalomeTemplateDialog::on_templateSelComboBox_currentIndexChanged" name="SalomeTemplateDialog::on_templateSelComboBox_currentIndexChanged">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#a333a1d1556f1a510f67c15f510b7df95" title="SalomeTemplateDialog\l::addSignals" alt="" coords="248,198,405,239"/>
+<area shape="rect" id="node4" href="$d1/d96/class_salome_template_dialog.html#a56b60248836aea073429712c3748c051" title="SalomeTemplateDialog\l::fillTable" alt="" coords="248,322,405,363"/>
+<area shape="rect" id="node18" href="$d3/d4b/class_qtable_util.html#a50b34f7ea8c3b9981915bb98d7df9f9f" title="QtableUtil::isInitialized" alt="" coords="250,453,403,480"/>
+<area shape="rect" id="node19" href="$d1/d96/class_salome_template_dialog.html#ab9d2be4f4e5b3505fff37afb2093dcc4" title="SalomeTemplateDialog\l::isUserTemplateSelected" alt="" coords="240,387,413,429"/>
+<area shape="rect" id="node20" href="$d3/d4b/class_qtable_util.html#adc81888bcbe7811ef47f1bb75d3914e2" title="QtableUtil::resetTable" alt="" coords="252,504,401,531"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a4e5c51b4ee37306aa2fac95df819b36a" title="SalomeTemplateDialog\l::textChangedSlot" alt="" coords="468,107,625,149"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#a3a5e22f5f4ec21a22375f6d47fb5c2ab" title="SalomeTemplateDialog\l::addRow" alt="" coords="468,173,625,214"/>
+<area shape="rect" id="node12" href="$d1/d96/class_salome_template_dialog.html#ae6b1645116f31f24c7b31a7366ff3ce2" title="SalomeTemplateDialog\l::getPosMenu" alt="" coords="468,355,625,397"/>
+<area shape="rect" id="node13" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="699,421,869,462"/>
+<area shape="rect" id="node15" href="$d9/df1/class_salome_template_manager.html#a3e5bd6c1823f45a840f6be7e88501359" title="SalomeTemplateManager\l::getTemplates" alt="" coords="461,290,632,331"/>
+<area shape="rect" id="node16" href="$d9/df1/class_salome_template_manager.html#a9a95e9184b44ed8b5c6e759b6c86553e" title="SalomeTemplateManager\l::getUserTemplates" alt="" coords="461,421,632,462"/>
+<area shape="rect" id="node17" href="$dc/def/class_salome_template_data.html#ad49a53d0e6c4084e00b31e0120ff4446" title="Get the list of variables of the template. " alt="" coords="473,486,621,527"/>
+<area shape="rect" id="node6" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="681,304,887,331"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table. " alt="" coords="705,5,863,32"/>
+<area shape="rect" id="node8" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="681,56,887,83"/>
+<area shape="rect" id="node9" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="713,107,855,149"/>
+<area shape="rect" id="node10" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="get the default value " alt="" coords="713,173,855,214"/>
+<area shape="rect" id="node11" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="713,238,855,279"/>
+<area shape="rect" id="node14" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="691,355,877,397"/>
+</map>

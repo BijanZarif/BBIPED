@@ -1,0 +1,9 @@
+<map id="MeshInfoVO::getMeshDetailsFileName" name="MeshInfoVO::getMeshDetailsFileName">
+<area shape="rect" id="node2" href="$d7/de4/class_mesh_info_file_writer.html#ab0e13a4f8c6e318230c283dc071315a1" title="MeshInfoFileWriter\l::writeMeshFileWriter" alt="" coords="248,63,395,105"/>
+<area shape="rect" id="node3" href="$dd/d2b/class_mesh_info_v_o.html#a7aedf04a4716ea4c33ee6a1ef4e6ea7b" title="MeshInfoVO::saveMeshInfoFile" alt="" coords="443,71,650,97"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="699,45,915,72"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="709,96,904,123"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="963,45,1157,72"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="1206,5,1405,46"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="1208,70,1403,111"/>
+</map>

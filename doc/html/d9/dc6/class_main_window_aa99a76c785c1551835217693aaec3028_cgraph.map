@@ -1,0 +1,10 @@
+<map id="MainWindow::on_actionCreate_Configuration_Template_triggered" name="MainWindow::on_actionCreate_Configuration_Template_triggered">
+<area shape="rect" id="node2" href="$dd/ddd/class_solver_helper.html#a3b7c86657c3c1e3e88c993f0f24c0353" title="SolverHelper::createConfiguration\lTemplateByUser" alt="" coords="253,129,472,170"/>
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#a606624556ca57185d5a04a144d5abbd8" title="Function that sets the Solver Config manager to set the Menu List to be used. " alt="" coords="520,129,696,170"/>
+<area shape="rect" id="node4" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="767,5,913,46"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="767,70,913,111"/>
+<area shape="rect" id="node6" href="$da/d07/class_template_dialog.html#a03305c7855cca5b6fc8f4063c3ace87b" title="This function sets the menu list. " alt="" coords="744,136,936,163"/>
+<area shape="rect" id="node8" href="$d9/d6e/class_solver_config_manager.html#aa9a50e0d0820314b9599e8cf8592c0bf" title="Returns the complete menu list from the Xml document. " alt="" coords="767,187,913,229"/>
+<area shape="rect" id="node9" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager. " alt="" coords="747,253,933,294"/>
+<area shape="rect" id="node7" href="$da/d07/class_template_dialog.html#a5e36baa84ca2de638619514d5b002fc9" title="This function loads teh menu list. " alt="" coords="985,136,1162,163"/>
+</map>

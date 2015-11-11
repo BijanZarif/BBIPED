@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#a2a672a6fe104f8865b3f2a83f325f66e" title="Function to build all the tooltips." alt="" coords="447,5,676,35"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content." alt="" coords="463,59,660,88"/>
+<area shape="rect" id="node22" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="367,112,756,141"/>
+<area shape="rect" id="node24" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="387,165,736,195"/>
+<area shape="rect" id="node26" href="$da/d07/class_template_dialog.html#aacf24afa26c633e060298192937870db" title="TemplateDialog::on_variablesToSelectTableWidget_cellClicked" alt="" coords="367,219,756,248"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user." alt="" coords="819,5,1117,35"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window." alt="" coords="807,59,1129,88"/>
+<area shape="rect" id="node19" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked." alt="" coords="1179,111,1475,140"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user." alt="" coords="1193,57,1460,87"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals." alt="" coords="1523,57,1685,87"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks." alt="" coords="1733,57,1877,87"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1927,57,2180,87"/>
+</map>

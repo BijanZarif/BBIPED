@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/db2/class_specific_boundary_variable_dialog.html#a6fae8781c90b92de1fba3f005d8af056" title="Function that adds the signals." alt="" coords="392,32,672,61"/>
+<area shape="rect" id="node5" href="$df/db2/class_specific_boundary_variable_dialog.html#a9c802ab5a80bc7d4f9767f0c9afe77d4" title="Function that loads the correspondent table." alt="" coords="721,32,1116,61"/>
+<area shape="rect" id="node7" href="$df/db2/class_specific_boundary_variable_dialog.html#ab65543f287afc364b56ad088f0da5cbb" title="Function that load the values." alt="" coords="1165,32,1445,61"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window." alt="" coords="1495,32,1817,61"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user." alt="" coords="1881,5,2148,35"/>
+<area shape="rect" id="node19" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked." alt="" coords="1867,59,2163,88"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals." alt="" coords="2211,5,2373,35"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks." alt="" coords="2421,5,2565,35"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="2615,5,2868,35"/>
+</map>

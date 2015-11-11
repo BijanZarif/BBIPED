@@ -1,0 +1,51 @@
+<map id="MainWindow::importMeshInfoFile" name="MainWindow::importMeshInfoFile">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a445c9bd59170fd71490caac421f5236f" title="This function checks the mesh boundary names. " alt="" coords="530,609,745,636"/>
+<area shape="rect" id="node7" href="$dd/d2b/class_mesh_info_v_o.html#a39483391c6c960085d70899d4b547736" title="MeshInfoVO::getMeshFileName" alt="" coords="806,239,1015,265"/>
+<area shape="rect" id="node8" href="$dd/d2b/class_mesh_info_v_o.html#a60e430e3d4576a765bda8eed227791a5" title="MeshInfoVO::getMeshPath" alt="" coords="821,289,1001,316"/>
+<area shape="rect" id="node10" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="819,929,1002,970"/>
+<area shape="rect" id="node18" href="$dd/d2b/class_mesh_info_v_o.html#a721e3bdffacc7a11ddc7b94dd6d5d6c7" title="MeshInfoVO::getBoundaryName\lListMap" alt="" coords="269,1079,480,1121"/>
+<area shape="rect" id="node19" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="818,1321,1003,1348"/>
+<area shape="rect" id="node20" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="280,1359,469,1385"/>
+<area shape="rect" id="node21" href="$dd/d2b/class_mesh_info_v_o.html#a5f9b8717224abb0fe038867d3db1760f" title="MeshInfoVO::is3DMesh" alt="" coords="829,188,992,215"/>
+<area shape="rect" id="node22" href="$de/db6/class_mesh_info_file_reader.html#a65f4720376238eeedfbc184135235ef3" title="MeshInfoFileReader\l::readMeshInfo" alt="" coords="305,1542,444,1583"/>
+<area shape="rect" id="node32" href="$dd/d2b/class_mesh_info_v_o.html#a397cb029cdcfdbdb773c959e6c461460" title="MeshInfoVO::setMeshDetails\lFileName" alt="" coords="540,1706,735,1747"/>
+<area shape="rect" id="node33" href="$dd/d2b/class_mesh_info_v_o.html#a7aedf04a4716ea4c33ee6a1ef4e6ea7b" title="MeshInfoVO::saveMeshInfoFile" alt="" coords="271,219,478,245"/>
+<area shape="rect" id="node38" href="$db/d1a/class_solver_util.html#ac9d0760cd201fe98fdd0cd4d4f3092b5" title="Function to import an existent mesh file. " alt="" coords="289,1293,460,1334"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#a77b647279a556a2844bc88f7139fb829" title="MainWindow::updateMeshView" alt="" coords="272,1028,477,1055"/>
+<area shape="rect" id="node3" href="$da/dfd/class_solver_marker_menu_helper.html#ae7af67cf49cc9ed3b2cbf853ced48bcb" title="Function that cheks the Marker mesh variables. " alt="" coords="815,406,1006,447"/>
+<area shape="rect" id="node6" href="$d4/dfe/class_warning_multizone_dialog.html#aa68e550e466c044a9e468ffab8762381" title="Function to get the configuration values. " alt="" coords="829,471,992,513"/>
+<area shape="rect" id="node9" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="821,863,1000,905"/>
+<area shape="rect" id="node11" href="$d4/dfe/class_warning_multizone_dialog.html#a368aee367fb87cf779ff3f9250afd4fd" title="Function to set the file names under analysis. " alt="" coords="829,537,992,578"/>
+<area shape="rect" id="node13" href="$d4/dfe/class_warning_multizone_dialog.html#ae0c534aadf689a17f8d448808a2008f0" title="Function that returns if it is needed to uptdate the values. " alt="" coords="829,602,992,643"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a2708d7e878d7fe455dc16b5e766d8514" title="Reset the marker values to their old values. " alt="" coords="813,667,1008,709"/>
+<area shape="rect" id="node15" href="$d4/dfe/class_warning_multizone_dialog.html#acd79d008cc7d3884062b952a65689552" title="Function to set the configuration values. " alt="" coords="829,733,992,774"/>
+<area shape="rect" id="node16" href="$d4/dfe/class_warning_multizone_dialog.html#a27ea2dfb2fb3c96bfd7b7bdbc835c78b" title="Function to set the mesh values. " alt="" coords="829,798,992,839"/>
+<area shape="rect" id="node17" href="$d4/dfe/class_warning_multizone_dialog.html#a9d6e2bafec5465b355d5f96ede80bae3" title="Function that returns if the user accept the changes. " alt="" coords="829,341,992,382"/>
+<area shape="rect" id="node4" href="$d0/df5/class_list_helper.html#a38b9c13f807140ed0a38e549f89cdf07" title="Function that obtains a Qstringlist formed by the values contained in the map (excluding the keys) ..." alt="" coords="1075,439,1274,465"/>
+<area shape="rect" id="node5" href="$d0/df5/class_list_helper.html#a3a7bc23fff895458e1424f500f8d7ca5" title="Function that searchs the value into the list, returns true if it is found. " alt="" coords="1079,388,1270,415"/>
+<area shape="rect" id="node12" href="$d4/dfe/class_warning_multizone_dialog.html#aaca9493942d2956b759a178a4295293c" title="Function that enables the sectioos for repairing the data. " alt="" coords="1089,537,1260,578"/>
+<area shape="rect" id="node23" href="$de/db6/class_mesh_info_file_reader.html#a1d6141a8a17989e789c0fb894f5c74e5" title="MeshInfoFileReader\l::get3DMeshData" alt="" coords="568,1445,707,1486"/>
+<area shape="rect" id="node25" href="$de/db6/class_mesh_info_file_reader.html#a7b1abca7656f5d29abe5ac9608175407" title="MeshInfoFileReader\l::getBndNameList" alt="" coords="568,1510,707,1551"/>
+<area shape="rect" id="node28" href="$de/db6/class_mesh_info_file_reader.html#afbfda134064e12584d7b3cc4d462e21f" title="MeshInfoFileReader\l::getMeshFileName" alt="" coords="568,1575,707,1617"/>
+<area shape="rect" id="node30" href="$de/db6/class_mesh_info_file_reader.html#a74416789c835f17eed5a1cfbc853b06e" title="MeshInfoFileReader\l::getMeshPath" alt="" coords="568,1641,707,1682"/>
+<area shape="rect" id="node24" href="$dd/d2b/class_mesh_info_v_o.html#a2ce185f6dc244edf7924072427474255" title="MeshInfoVO::set3DMesh" alt="" coords="825,1421,996,1448"/>
+<area shape="rect" id="node26" href="$de/db6/class_mesh_info_file_reader.html#aae5cae9f37012c07b53a6e8679b8dcbf" title="MeshInfoFileReader\l::getBndName" alt="" coords="841,1473,980,1514"/>
+<area shape="rect" id="node27" href="$dd/d2b/class_mesh_info_v_o.html#a9ad0c6e5f26fde9266ac404c78654ace" title="MeshInfoVO::setBoundaryNameList" alt="" coords="795,1539,1027,1565"/>
+<area shape="rect" id="node29" href="$dd/d2b/class_mesh_info_v_o.html#a69b4c323afc31c13af355e41106cd2c9" title="MeshInfoVO::setMeshFileName" alt="" coords="806,1589,1015,1616"/>
+<area shape="rect" id="node31" href="$dd/d2b/class_mesh_info_v_o.html#ac4c63e14f07386726e0b05b48c5e9eda" title="MeshInfoVO::setMeshPath" alt="" coords="821,1648,1001,1675"/>
+<area shape="rect" id="node34" href="$d7/de4/class_mesh_info_file_writer.html#ab0e13a4f8c6e318230c283dc071315a1" title="MeshInfoFileWriter\l::writeMeshFileWriter" alt="" coords="564,181,711,222"/>
+<area shape="rect" id="node35" href="$dd/d2b/class_mesh_info_v_o.html#a3245c5525c88fa35e80d7156162cb566" title="MeshInfoVO::getMeshDetails\lFileName" alt="" coords="813,122,1008,163"/>
+<area shape="rect" id="node36" href="$d7/de4/class_mesh_info_file_writer.html#a86a545d20a47ad0e023ed86494869e5e" title="MeshInfoFileWriter\l::saveBndValues" alt="" coords="845,5,977,46"/>
+<area shape="rect" id="node37" href="$dd/d2b/class_mesh_info_v_o.html#a22d9df6fdd5f31aa190cc5044b992af3" title="MeshInfoVO::getBoundaryNameList" alt="" coords="795,71,1027,97"/>
+<area shape="rect" id="node39" href="$db/d28/class_util_files.html#aaa35dacd377b117853200e064c627f3e" title="UtilFiles::createLink" alt="" coords="568,1393,707,1420"/>
+<area shape="rect" id="node40" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="543,1343,732,1369"/>
+<area shape="rect" id="node42" href="$db/dc7/class_input_data_tab_helper.html#aa6488df4fcf52c53517a0d80cd5747b6" title="Update the file path in the line edit of the current mesh file. " alt="" coords="535,1045,740,1101"/>
+<area shape="rect" id="node43" href="$db/d81/class_multizone_manager.html#a838b4da03346bf074febc6302c248499" title="Update the view for a new file. " alt="" coords="550,1125,725,1166"/>
+<area shape="rect" id="node48" href="$db/dc7/class_input_data_tab_helper.html#a7b959e0014a5e154b3e309adbf495e23" title="This fucntion enables the configuration action menu according project data information. " alt="" coords="534,929,741,970"/>
+<area shape="rect" id="node49" href="$db/dc7/class_input_data_tab_helper.html#acc2b1e4aa9e769e39bd25efe1d129e84" title="Enable Change Config Action Menu elements. " alt="" coords="801,994,1021,1035"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="528,1191,747,1217"/>
+<area shape="rect" id="node44" href="$db/d81/class_multizone_manager.html#a2d574cec5d34e0b00fc9004a15ac4f2a" title="This function update the fields of the configuration file. " alt="" coords="822,1059,999,1101"/>
+<area shape="rect" id="node45" href="$db/d81/class_multizone_manager.html#aec632b67e59463e6408779367f81afbf" title="This function updata the fields of the mehs file. " alt="" coords="823,1125,998,1166"/>
+<area shape="rect" id="node46" href="$db/d81/class_multizone_manager.html#aac044412610b054c309555de400a6887" title="This function update the data in Multizone Projects. " alt="" coords="823,1190,998,1231"/>
+<area shape="rect" id="node47" href="$db/d81/class_multizone_manager.html#a437e229398093838fad22d577545fa3f" title="This function refresh the Simulation files. " alt="" coords="823,1255,999,1297"/>
+</map>

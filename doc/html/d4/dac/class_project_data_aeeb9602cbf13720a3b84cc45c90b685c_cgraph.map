@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file" alt="" coords="199,5,412,35"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project." alt="" coords="213,59,397,88"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information." alt="" coords="183,112,428,141"/>
+<area shape="rect" id="node9" href="$d4/dac/class_project_data.html#a2b1eee2c51ef8f0ba562a501b9cd383d" title="Establish the file path of the project file." alt="" coords="199,165,412,195"/>
+<area shape="rect" id="node11" href="$d4/dac/class_project_data.html#a5459bf2305f7aa9cf9c9ac13ead94a3d" title="Establish the path of the project." alt="" coords="213,219,397,248"/>
+<area shape="rect" id="node13" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object." alt="" coords="183,272,428,301"/>
+<area shape="rect" id="node15" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other." alt="" coords="477,272,592,301"/>
+<area shape="rect" id="node17" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path." alt="" coords="640,192,867,221"/>
+<area shape="rect" id="node19" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path." alt="" coords="640,245,867,275"/>
+<area shape="rect" id="node21" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor." alt="" coords="659,299,848,328"/>
+<area shape="rect" id="node23" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info." alt="" coords="659,352,848,381"/>
+</map>

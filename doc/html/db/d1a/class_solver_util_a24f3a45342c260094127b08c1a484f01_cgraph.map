@@ -1,0 +1,5 @@
+<map id="SolverUtil::uiImportSolverMeshInfoFile" name="SolverUtil::uiImportSolverMeshInfoFile">
+<area shape="rect" id="node2" href="$db/d28/class_util_files.html#ae8f6d7628e58135e37beefe392dbaf78" title="Functionality to import a file and update the correspondent values in the project data and copying th..." alt="" coords="251,5,386,32"/>
+<area shape="rect" id="node4" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="224,56,413,83"/>
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="462,5,647,32"/>
+</map>

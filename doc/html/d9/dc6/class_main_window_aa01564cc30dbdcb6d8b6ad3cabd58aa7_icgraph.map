@@ -1,0 +1,32 @@
+<map id="MainWindow::setEnableSaveProjectIcons" name="MainWindow::setEnableSaveProjectIcons">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#aadeb1a2bcfb1584c0755e43eb464633c" title="This function controls the enabling of all the elements associated with the Multizone interface..." alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="263,135,443,177"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="256,201,451,242"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="258,266,449,307"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="258,331,449,387"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="258,410,449,451"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#ad550c61cfa05c7e528dedc6cf636ed10" title="Save a Project. " alt="" coords="258,475,449,517"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a3bc6ca420cebce93315bc7c8034dfc20" title="SOLVER: Main functionality to show the basic configuration view for the Physics config menu..." alt="" coords="260,541,447,582"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="253,606,454,647"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a24f40032e0d68fddf0ac0fa8a18adf34" title="SOLVER: Shows the user input for the configuration file. " alt="" coords="252,671,455,713"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="266,737,441,764"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1272,671,1491,713"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a6da9b2f7dad3533f56e53fef7e3fb7e3" title="This function is to enable of the different buttons according to _val for the user. " alt="" coords="248,881,459,922"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ac0b367e6d9a1aaa9e8832daf0d58177d" title="This function is to control the action of defining a new Multizone project. " alt="" coords="513,70,703,111"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="512,5,704,46"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="507,201,709,242"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="513,135,703,177"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="512,730,704,771"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="510,624,706,651"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="783,613,966,654"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1041,613,1223,654"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1041,547,1223,589"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1539,671,1727,713"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1288,547,1475,589"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1543,547,1723,589"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1777,555,1957,581"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="509,979,707,1005"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="509,847,707,889"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="511,913,705,954"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="757,971,992,1013"/>
+</map>

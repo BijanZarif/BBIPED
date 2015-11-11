@@ -1,0 +1,51 @@
+<map id="SolverVariableVO::getDefaultValue" name="SolverVariableVO::getDefaultValue">
+<area shape="rect" id="node2" href="$db/d40/class_solver_config_menu_helper.html#a757f52b5f35549e32f06bd697307d967" title="Function that adds the variable elements to each row in the table. " alt="" coords="278,202,445,243"/>
+<area shape="rect" id="node8" href="$d7/dd7/class_template_manager.html#ae37a716fce99c638a2a99e04fbbb4e7a" title="Writes the value tag element. " alt="" coords="249,1033,474,1060"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents. " alt="" coords="272,817,451,858"/>
+<area shape="rect" id="node30" href="$d4/dea/class_solver_section_d_a_o.html#a7c1a6d78095888f561ff4a2e3d4e9f61" title="Checks if the current value of a variable is the default value. " alt="" coords="265,411,457,453"/>
+<area shape="rect" id="node48" href="$d3/d40/class_solver_basic_dialog.html#a5cbec9fe1995383ced93a57c396b213e" title="SolverBasicDialog::\llaunchSpecificWindow" alt="" coords="284,910,439,951"/>
+<area shape="rect" id="node49" href="$db/d40/class_solver_config_menu_helper.html#af209d9691bc31c4da803ad173410acd2" title="Function that updates the table with the user values. " alt="" coords="263,625,459,666"/>
+<area shape="rect" id="node3" href="$d2/d41/class_summary_dialog.html#aa9926dd83a3273f07c0d13ab4c4fe211" title="Function that inserts each variabel with the correspondent value in the table. " alt="" coords="531,54,733,95"/>
+<area shape="rect" id="node4" href="$d2/d41/class_summary_dialog.html#a6d56ca1312a2a63e1fb33988825410a0" title="Function that builds up the rows of the table. " alt="" coords="821,5,1005,32"/>
+<area shape="rect" id="node5" href="$d2/d41/class_summary_dialog.html#a76f77e9d02fc69e70cfdc550b00122c4" title="Function that builds up the summary table. " alt="" coords="1089,39,1295,81"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#acc747be32930e4361463babd2b957024" title="Slot to control when the user check/uncheck the rotating frame menu element. " alt="" coords="1362,32,1534,88"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a24f40032e0d68fddf0ac0fa8a18adf34" title="SOLVER: Shows the user input for the configuration file. " alt="" coords="1347,165,1549,206"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#a1645cef11d39f323eaf2f6ab1eb07a81" title="Writes the variable element. " alt="" coords="523,1117,741,1144"/>
+<area shape="rect" id="node10" href="$d7/dd7/class_template_manager.html#a4af242b4969027bbd09737ac2fdc1e2e" title="Writes the list of variables element. " alt="" coords="794,1125,1033,1152"/>
+<area shape="rect" id="node12" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="814,995,1013,1021"/>
+<area shape="rect" id="node18" href="$d2/d41/class_summary_dialog.html#ac2ed46d4a066ceb2b4a50f077a439e5f" title="Function that loads the help text in a new window. " alt="" coords="533,989,731,1030"/>
+<area shape="rect" id="node19" href="$de/d2b/class_virtual_curve_dialog.html#aa32e899aa8b1ec93e838075333e0c86e" title="VirtualCurveDialog\l::generateHelpDialog" alt="" coords="560,647,704,689"/>
+<area shape="rect" id="node22" href="$d8/d02/class_virtual_rotating_dialog.html#ab6d7f3fbef55ef9308cc7ff59b286ca7" title="VirtualRotatingDialog\l::buildAssociatedHelp" alt="" coords="557,762,707,803"/>
+<area shape="rect" id="node24" href="$db/d40/class_solver_config_menu_helper.html#a531ed471f5cd19b036cf86087e946daf" title="Function that gets the correspondent help text of a variable Name. " alt="" coords="549,871,715,913"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="1100,1046,1284,1087"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="1356,987,1540,1029"/>
+<area shape="rect" id="node14" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="1353,1053,1543,1094"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1608,1060,1771,1087"/>
+<area shape="rect" id="node16" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1829,1060,1973,1087"/>
+<area shape="rect" id="node20" href="$de/d2b/class_virtual_curve_dialog.html#ac9e93afe86b88e80cb934d23800e5b01" title="VirtualCurveDialog\l::on_innerButtonHelp\l_clicked" alt="" coords="841,640,985,696"/>
+<area shape="rect" id="node21" href="$de/d2b/class_virtual_curve_dialog.html#a42b14cb172b5ce30da619d1c6c199b8b" title="VirtualCurveDialog\l::on_outerButtonHelp\l_clicked" alt="" coords="841,560,986,616"/>
+<area shape="rect" id="node23" href="$d8/d02/class_virtual_rotating_dialog.html#acf34d7c8768f49fdbf9daab0bb40ffec" title="VirtualRotatingDialog\l::on_zoneInfoTable_cellClicked" alt="" coords="811,719,1015,761"/>
+<area shape="rect" id="node25" href="$d3/d40/class_solver_basic_dialog.html#a2a672a6fe104f8865b3f2a83f325f66e" title="Function to build all the tooltips. " alt="" coords="1379,769,1517,810"/>
+<area shape="rect" id="node27" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="811,864,1016,920"/>
+<area shape="rect" id="node28" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="831,1045,995,1101"/>
+<area shape="rect" id="node29" href="$da/d07/class_template_dialog.html#aacf24afa26c633e060298192937870db" title="TemplateDialog::on\l_variablesToSelectTableWidget\l_cellClicked" alt="" coords="810,784,1017,840"/>
+<area shape="rect" id="node26" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="1597,661,1781,702"/>
+<area shape="rect" id="node31" href="$d3/d40/class_solver_basic_dialog.html#a9bc5f51bb5426acfd26da00ed9df5ac2" title="This function checks if the value stored in a row is a default value, returning a true..." alt="" coords="561,443,703,485"/>
+<area shape="rect" id="node35" href="$d0/db5/class_multizone_summary_dialog.html#a96e63969b1eec6021647577c06627252" title="MultizoneSummaryDialog\l::removeDefaultValues" alt="" coords="547,378,717,419"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_main_window.html#af1dc11c2b896183d56f21ca8b0870d6b" title="This function removes those variables loaded from the configuration file which value corresponds to t..." alt="" coords="537,203,727,245"/>
+<area shape="rect" id="node32" href="$d3/d40/class_solver_basic_dialog.html#a9816ec59297e2d1af8c161b017bf8317" title="Slot to control when the text is changed. " alt="" coords="845,443,982,485"/>
+<area shape="rect" id="node33" href="$d3/d40/class_solver_basic_dialog.html#a84cf8cf0def57a5c6cd908f79bf52aaf" title="Function to add the signals. " alt="" coords="1123,486,1261,527"/>
+<area shape="rect" id="node34" href="$d3/d40/class_solver_basic_dialog.html#a8c0bb203410630e0748b662e14f142fb" title="This fucntion fills the table widget according user selection. " alt="" coords="1379,551,1517,593"/>
+<area shape="rect" id="node36" href="$d0/db5/class_multizone_summary_dialog.html#ac36b3b201db6559b5da269b6333e91de" title="MultizoneSummaryDialog\l::addConfigData" alt="" coords="828,378,999,419"/>
+<area shape="rect" id="node37" href="$d0/db5/class_multizone_summary_dialog.html#a8f93076a87cbbb5244882a419e477ed8" title="MultizoneSummaryDialog\l::on_selectConfigFilesTable\l_cellClicked" alt="" coords="1100,407,1284,463"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="1086,145,1298,186"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="813,57,1014,98"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="826,291,1001,317"/>
+<area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file. " alt="" coords="790,174,1037,215"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="1096,342,1288,383"/>
+<area shape="rect" id="node43" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="1094,291,1290,317"/>
+<area shape="rect" id="node44" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1357,283,1539,325"/>
+<area shape="rect" id="node45" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1598,251,1781,293"/>
+<area shape="rect" id="node46" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1598,317,1781,358"/>
+<area shape="rect" id="node50" href="$d3/d40/class_solver_basic_dialog.html#af46d1f89d8d7a49125e13baf7edb20ab" title="Function to update with the user values. " alt="" coords="1123,551,1261,593"/>
+</map>

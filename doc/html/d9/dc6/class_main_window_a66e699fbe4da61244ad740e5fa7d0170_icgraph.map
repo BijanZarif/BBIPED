@@ -1,0 +1,33 @@
+<map id="MainWindow::stopSolverProcess" name="MainWindow::stopSolverProcess">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="279,163,463,204"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a9f141d848416ef28b2d0ec3dfbe1757f" title="Stop current simulation. " alt="" coords="277,478,465,519"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#abf27a1e863dc2350626ba16c83e925f4" title="This function is to refresh the mesh file. " alt="" coords="276,543,465,584"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a4f4b098bc95b31d3e505c3b7a30ded3e" title="Slot that allows to capture the standard output and redirect to the console text entry. " alt="" coords="301,325,441,352"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a9dab6319719bc49d545e7a9646c53b54" title="Slot function that performs some operations as soon as the process finish. " alt="" coords="271,376,470,402"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a66c68c6b53718d97b43982eebd40bc01" title="Slot function that captures the error if something goes wrong in the process. " alt="" coords="269,426,472,453"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="538,288,729,314"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="536,222,731,263"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1558,47,1746,88"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="537,104,729,146"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="1795,64,1987,106"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="535,170,731,197"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="817,346,988,373"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="811,280,995,322"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="811,163,994,204"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1059,98,1242,139"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1059,163,1242,204"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1291,98,1509,139"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="1565,113,1739,140"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1307,163,1493,204"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1562,164,1742,206"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1801,213,1981,240"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a185cfd57062afdf15a6a1b6795e5b471" title="Connecting the Process Signal Slots. " alt="" coords="534,339,733,380"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#af2a6bad130ca70ecfcfb62f5f8dd1080" title="Initialize Main Window structures. " alt="" coords="797,397,1009,424"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#a318cf0917ea350a89b928dc9f9aea6b6" title="This function is the one capable of locating the Salome path in the client side. " alt="" coords="525,405,742,432"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a339acba0f1e6e298fc6ef781d0796980" title="This internal function controls how to launch the Salome tool, specially due to the path of this tool..." alt="" coords="540,507,727,548"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#ab1cdfb5cf07b89f524bc9ca2a16aae16" title="This internal function controls if the Paraview is opened passing a file or to open a new instance of..." alt="" coords="521,586,746,613"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#af28c14693c0b3e59d19ebf84ff164c85" title="This action is the Menu action for lauching Salome. " alt="" coords="800,514,1005,555"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a996ee17cf1235b1b2253d98231044879" title="This function launchs the Salome tool. " alt="" coords="799,448,1006,490"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#a3d97ae6697109a86ae452aeb5d01bf46" title="Launching the paraview application. " alt="" coords="795,644,1010,686"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#abc5d9f29762653dd596349935315ceee" title="This function launchs the Paraview tool from the button click. " alt="" coords="795,579,1011,620"/>
+</map>

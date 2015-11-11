@@ -1,0 +1,11 @@
+<map id="SolverMarkerMenuHelper::fillMarkerMenuTable" name="SolverMarkerMenuHelper::fillMarkerMenuTable">
+<area shape="rect" id="node2" href="$da/dfd/class_solver_marker_menu_helper.html#a9032989805759caf99dcb551680e83f7" title="This function creates the Row in the correspondent table for a Marker Variable. " alt="" coords="242,102,411,143"/>
+<area shape="rect" id="node8" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list. " alt="" coords="230,170,423,211"/>
+<area shape="rect" id="node9" href="$d4/dea/class_solver_section_d_a_o.html#a9c2fd8d7ee07745c06eb9457ac26e0b8" title="Get the list fo variables. " alt="" coords="224,241,429,282"/>
+<area shape="rect" id="node3" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="491,5,698,32"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#aba3521570883be2bc4f6002e093fb1fa" title="QtableUtil::addCombo" alt="" coords="519,56,670,83"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#a4711ee46146b667420d56ffc08599dcf" title="Function that creates edit default text cell to the table. " alt="" coords="512,107,677,133"/>
+<area shape="rect" id="node6" href="$d3/d4b/class_qtable_util.html#ad24ffa6244a1f6ffd0632cf6ab755896" title="Function that creates a help icon widget cell element to be added to the table. " alt="" coords="527,157,662,184"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="491,208,698,235"/>
+<area shape="rect" id="node10" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="478,259,711,285"/>
+</map>

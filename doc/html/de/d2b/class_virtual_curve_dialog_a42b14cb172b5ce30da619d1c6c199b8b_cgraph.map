@@ -1,0 +1,23 @@
+<map id="VirtualCurveDialog::on_outerButtonHelp_clicked" name="VirtualCurveDialog::on_outerButtonHelp_clicked">
+<area shape="rect" id="node2" href="$de/d2b/class_virtual_curve_dialog.html#aa32e899aa8b1ec93e838075333e0c86e" title="VirtualCurveDialog\l::generateHelpDialog" alt="" coords="200,465,344,506"/>
+<area shape="rect" id="node3" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents. " alt="" coords="409,370,588,411"/>
+<area shape="rect" id="node20" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="392,435,605,477"/>
+<area shape="rect" id="node21" href="$df/de6/class_help_dialog.html#accdf8309612d2a1f027afb50368ec77e" title="Load the help text. " alt="" coords="413,501,584,528"/>
+<area shape="rect" id="node22" href="$df/de6/class_help_dialog.html#a779fb4ddf118d3b4e9e8f8d6fe040b40" title="Set the help text. " alt="" coords="416,552,581,579"/>
+<area shape="rect" id="node4" href="$d4/da5/class_html_formatter.html#a976a3dd8b4688bd3677b793420a233dc" title="This fucntion adds a paragraph with the correspondent html tags. " alt="" coords="663,5,878,32"/>
+<area shape="rect" id="node5" href="$d4/da5/class_html_formatter.html#a0c27e4810a567d095974891f20dd1f28" title="This fucntion adds a table with the correspondent html tags. " alt="" coords="677,56,865,83"/>
+<area shape="rect" id="node6" href="$d4/da5/class_html_formatter.html#ab55bcd47fa13e157e581eba5315912d8" title="This fucntion adds a title (header 1) with the correspondent html tags. " alt="" coords="680,107,861,133"/>
+<area shape="rect" id="node7" href="$d4/da5/class_html_formatter.html#a11bf3057628a8a69b5c5c28365044519" title="This fucntion adds a paragraph (header 2, image, title) with the correspondent html tags..." alt="" coords="680,158,861,199"/>
+<area shape="rect" id="node8" href="$d4/da5/class_html_formatter.html#aaaaedc1af21d24c5ae03b3bacf76e474" title="This fucntion adds a the footer of the html document. " alt="" coords="672,224,869,251"/>
+<area shape="rect" id="node10" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list. " alt="" coords="674,275,867,317"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value " alt="" coords="674,341,867,382"/>
+<area shape="rect" id="node12" href="$da/d51/class_solver_var_help_v_o.html#a2d350f71806d4aa6eaed067462e69d07" title="This function returns the definition content. " alt="" coords="655,407,887,433"/>
+<area shape="rect" id="node13" href="$da/d51/class_solver_var_help_v_o.html#a8b48448bb484eba5d24df9f0f2aa390f" title="This function returns the details associated in the help of the variable. " alt="" coords="661,457,880,484"/>
+<area shape="rect" id="node14" href="$d4/da5/class_html_formatter.html#a7604c9cd1243a3ae687040dc2462c56e" title="This function returns the Html formated text. " alt="" coords="664,508,877,535"/>
+<area shape="rect" id="node15" href="$da/d51/class_solver_var_help_v_o.html#aa039fbf20ba99411d047179fd089b399" title="This function returns these values. " alt="" coords="662,559,879,585"/>
+<area shape="rect" id="node16" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="671,610,870,651"/>
+<area shape="rect" id="node17" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="654,676,887,703"/>
+<area shape="rect" id="node18" href="$d4/da5/class_html_formatter.html#a20c7c3ec9392c414f2b5ed9557ac708a" title="Destructor. " alt="" coords="669,727,872,753"/>
+<area shape="rect" id="node9" href="$d4/da5/class_html_formatter.html#ad85c9778bcdd7967c6bb8a41ef1ed960" title="This fucntion gets the Html footer. " alt="" coords="939,224,1109,251"/>
+<area shape="rect" id="node19" href="$d4/da5/class_html_formatter.html#a0e8dc747da1add67407829e07a8e2fa5" title="This fucntion gets the Html header. " alt="" coords="937,727,1111,753"/>
+</map>

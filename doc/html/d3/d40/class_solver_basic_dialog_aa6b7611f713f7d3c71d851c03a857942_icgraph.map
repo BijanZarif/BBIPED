@@ -1,0 +1,6 @@
+<map id="SolverBasicDialog::setBasicView" name="SolverBasicDialog::setBasicView">
+<area shape="rect" id="node2" href="$db/dc7/class_input_data_tab_helper.html#adb7f56808a6d8b325cffe2072dd5652a" title="Initialize Solver Basic Dialog Window. " alt="" coords="192,41,376,82"/>
+<area shape="rect" id="node3" href="$db/dc7/class_input_data_tab_helper.html#aad029808496ec32bfe949604c9c95077" title="Launch the Solver Configuration Dialog. " alt="" coords="425,41,605,82"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a3bc6ca420cebce93315bc7c8034dfc20" title="SOLVER: Main functionality to show the basic configuration view for the Physics config menu..." alt="" coords="653,5,840,46"/>
+<area shape="rect" id="node5" href="$d9/d2e/class_multizone_individual_tab_form.html#a4270609ed9ad0df6d8d4d2962890d75c" title="MultizoneIndividualTabForm\l::on_editConfigFileButton\l_clicked" alt="" coords="654,69,839,125"/>
+</map>

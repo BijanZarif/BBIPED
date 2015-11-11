@@ -1,0 +1,5 @@
+<map id="MainWindow::enableSolverRunAction" name="MainWindow::enableSolverRunAction">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="241,5,431,69"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="241,93,431,139"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="236,162,436,209"/>
+</map>

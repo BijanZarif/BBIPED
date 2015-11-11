@@ -1,0 +1,6 @@
+<map id="MainWindow::on_multizoneDeleteButton_clicked" name="MainWindow::on_multizoneDeleteButton_clicked">
+<area shape="rect" id="node2" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="265,5,412,46"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a487575e1392078aea31fd0304350a621" title="MainWindow::getSelectedFiles" alt="" coords="237,71,440,97"/>
+<area shape="rect" id="node4" href="$da/d69/class_multizone_project_data.html#ae65a8ce8cd74ab1c77fc3b19bd4f0f41" title="MultizoneProjectData\l::removeConfigFile" alt="" coords="265,122,412,163"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#aefae0c032867494e91a6658b70ca85ef" title="MultizoneProjectData\l::removeMeshFile" alt="" coords="265,187,412,229"/>
+</map>

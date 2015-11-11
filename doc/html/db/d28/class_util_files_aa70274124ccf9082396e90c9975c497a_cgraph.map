@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file" alt="" coords="247,5,460,35"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project." alt="" coords="261,59,445,88"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path." alt="" coords="688,115,915,144"/>
+<area shape="rect" id="node9" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information." alt="" coords="231,368,476,397"/>
+<area shape="rect" id="node11" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info." alt="" coords="707,171,896,200"/>
+<area shape="rect" id="node13" href="$d2/deb/class_solver_v_o.html#a49f38b6fa747ba7a212ec42948e7a1cd" title="Checks if the values of the config file are empty." alt="" coords="257,421,449,451"/>
+<area shape="rect" id="node15" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty." alt="" coords="280,475,427,504"/>
+<area shape="rect" id="node17" href="$d2/deb/class_solver_v_o.html#a794c05608d9e8ee9b603a1163a10f119" title="Checks if the Mesh File Path is empty." alt="" coords="260,528,447,557"/>
+<area shape="rect" id="node19" href="$d4/dac/class_project_data.html#a2b1eee2c51ef8f0ba562a501b9cd383d" title="Establish the file path of the project file." alt="" coords="247,581,460,611"/>
+<area shape="rect" id="node21" href="$d4/dac/class_project_data.html#a5459bf2305f7aa9cf9c9ac13ead94a3d" title="Establish the path of the project." alt="" coords="261,635,445,664"/>
+<area shape="rect" id="node23" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path." alt="" coords="688,229,915,259"/>
+<area shape="rect" id="node25" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object." alt="" coords="231,213,476,243"/>
+<area shape="rect" id="node32" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor." alt="" coords="707,293,896,323"/>
+<area shape="rect" id="node27" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other." alt="" coords="525,213,640,243"/>
+</map>

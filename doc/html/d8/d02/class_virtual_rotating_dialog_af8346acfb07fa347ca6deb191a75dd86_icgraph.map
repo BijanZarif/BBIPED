@@ -1,0 +1,7 @@
+<map id="VirtualRotatingDialog::addRow" name="VirtualRotatingDialog::addRow">
+<area shape="rect" id="node2" href="$d8/d02/class_virtual_rotating_dialog.html#a45653652e4336263e12c7031ad91b8ff" title="VirtualRotatingDialog\l::fillTable" alt="" coords="227,5,373,46"/>
+<area shape="rect" id="node6" href="$d8/d02/class_virtual_rotating_dialog.html#a715c4a46e07c97cf4cd1f9689f28a80e" title="VirtualRotatingDialog\l::on_numVirtualZonesSpinBox\l_valueChanged" alt="" coords="201,69,399,125"/>
+<area shape="rect" id="node3" href="$d8/d02/class_virtual_rotating_dialog.html#a1d0a3bca6e362f82e1ab74ab8c6c8d3f" title="VirtualRotatingDialog\l::initializeDialog" alt="" coords="449,5,594,46"/>
+<area shape="rect" id="node4" href="$d3/d40/class_solver_basic_dialog.html#ac5050a44be71a0938c271ec4859bf741" title="SolverBasicDialog::\llaunchVirtualRotatingDialog" alt="" coords="643,5,826,46"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="875,5,1059,46"/>
+</map>

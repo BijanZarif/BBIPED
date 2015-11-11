@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d81/class_multizone_manager.html#a437e229398093838fad22d577545fa3f" title="This function refresh the Simulation files." alt="" coords="344,72,637,101"/>
+<area shape="rect" id="node11" href="$db/d81/class_multizone_manager.html#a2d574cec5d34e0b00fc9004a15ac4f2a" title="This function update the fields of the configuration file." alt="" coords="325,139,656,168"/>
+<area shape="rect" id="node13" href="$db/d81/class_multizone_manager.html#aec632b67e59463e6408779367f81afbf" title="This function updata the fields of the mehs file." alt="" coords="329,192,652,221"/>
+<area shape="rect" id="node15" href="$db/d81/class_multizone_manager.html#aac044412610b054c309555de400a6887" title="This function update the data in Multizone Projects." alt="" coords="355,271,627,300"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path)" alt="" coords="716,5,1009,35"/>
+<area shape="rect" id="node7" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path)" alt="" coords="719,59,1007,88"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name." alt="" coords="761,112,964,141"/>
+<area shape="rect" id="node17" href="$db/d81/class_multizone_manager.html#a0cd5cb9a731cd3f8d5aa9755c728ca69" title="This function gets the id (position in the list) of the configuration file." alt="" coords="713,427,1012,456"/>
+<area shape="rect" id="node19" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files." alt="" coords="1079,373,1337,403"/>
+<area shape="rect" id="node26" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files." alt="" coords="1081,284,1335,313"/>
+<area shape="rect" id="node28" href="$db/d81/class_multizone_manager.html#a02ce32fe9202294cb114c4359b8594f6" title="This function gets the position for the lists to add a new file controlling the fact that the list ca..." alt="" coords="705,323,1020,352"/>
+<area shape="rect" id="node32" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files." alt="" coords="733,165,992,195"/>
+<area shape="rect" id="node36" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files." alt="" coords="736,219,989,248"/>
+<area shape="rect" id="node21" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path." alt="" coords="1095,427,1321,456"/>
+<area shape="rect" id="node23" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information." alt="" coords="1085,480,1331,509"/>
+<area shape="rect" id="node34" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths)" alt="" coords="1069,205,1347,235"/>
+</map>

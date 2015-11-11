@@ -1,0 +1,7 @@
+<map id="VirtualRotatingDialog::updateVirtualInformation" name="VirtualRotatingDialog::updateVirtualInformation">
+<area shape="rect" id="node2" href="$d8/d02/class_virtual_rotating_dialog.html#a9564e0e29987eb422c00b1689b87dc24" title="VirtualRotatingDialog\l::createVirtualMRFData" alt="" coords="224,74,384,115"/>
+<area shape="rect" id="node3" href="$d5/dc9/class_virtual_mrf_v_o.html#aa223af4b7402fb58bc7ad1dccf9f0870" title="Set Axis Center. " alt="" coords="434,5,622,32"/>
+<area shape="rect" id="node4" href="$d5/dc9/class_virtual_mrf_v_o.html#a9bc6d8e62c6bec5d2af3eaf07192237b" title="Set Axis Normal. " alt="" coords="433,56,623,83"/>
+<area shape="rect" id="node5" href="$d5/dc9/class_virtual_mrf_v_o.html#af4686d0908780a5dab280237780cca99" title="Set omega. " alt="" coords="445,107,611,133"/>
+<area shape="rect" id="node6" href="$d5/dc9/class_virtual_mrf_v_o.html#a38d1fd19fa48708d2692de2b014975ab" title="Set Zone name. " alt="" coords="435,157,621,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SalomeTemplateData::removeWhiteSpaces" name="SalomeTemplateData::removeWhiteSpaces">
+<area shape="rect" id="node2" href="$dc/def/class_salome_template_data.html#a15899a920149a1a7bb7f9d7fd13146a0" title="Sets the name of the file associated to the template. " alt="" coords="206,38,365,79"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog\l::createTemplateFromUserValues" alt="" coords="413,5,632,46"/>
+<area shape="rect" id="node5" href="$d9/df1/class_salome_template_manager.html#a9b2ebb60e92ee88d8af88af9bcd8165c" title="SalomeTemplateManager\l::buildTemplateData" alt="" coords="437,70,608,111"/>
+<area shape="rect" id="node4" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="680,5,861,46"/>
+</map>

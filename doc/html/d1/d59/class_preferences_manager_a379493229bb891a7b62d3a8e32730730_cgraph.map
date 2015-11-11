@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a76b3085b01b67084abc3d3dc3ce69f52" title="PreferencesManager::writeRecentProjects" alt="" coords="349,19,616,48"/>
+<area shape="rect" id="node7" href="$d1/d59/class_preferences_manager.html#a36365cea08a3848675650076cb4dae76" title="PreferencesManager::writeTemplatePreferences" alt="" coords="332,99,633,128"/>
+<area shape="rect" id="node11" href="$d1/d59/class_preferences_manager.html#aed2b7aa02818c7d382784c2812d789ba" title="PreferencesManager::writeUserPreferences" alt="" coords="345,205,620,235"/>
+<area shape="rect" id="node23" href="$d1/d59/class_preferences_manager.html#a98a2e69b9bfbbbb9eb51133c86389ef0" title="PreferencesManager::writeWarningPreferences" alt="" coords="335,312,631,341"/>
+<area shape="rect" id="node5" href="$d7/d21/class_user_preferences_data.html#a7f711e32a841bee8afa2ae39b711398c" title="Get the current list of already opened projects." alt="" coords="716,5,1001,35"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#a5e14db346c80c146c59cccd217a5f19b" title="Get the template configuration folder path." alt="" coords="712,59,1005,88"/>
+<area shape="rect" id="node13" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome)" alt="" coords="723,112,995,141"/>
+<area shape="rect" id="node15" href="$d7/d21/class_user_preferences_data.html#abfa205d14a4ece22db52420786e90842" title="get the postProcessor viewer path (e.g. Paraview)" alt="" coords="696,165,1021,195"/>
+<area shape="rect" id="node17" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine." alt="" coords="704,219,1013,248"/>
+<area shape="rect" id="node19" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL)" alt="" coords="693,272,1024,301"/>
+<area shape="rect" id="node21" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE)" alt="" coords="684,325,1033,355"/>
+<area shape="rect" id="node25" href="$d7/d21/class_user_preferences_data.html#a0a32bf4dba12303f29a8c779efb743d2" title="Returns true if the Close Application warning window shall appear." alt="" coords="724,379,993,408"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MainWindow::setEnabledInputTabSaveButtons" name="MainWindow::setEnabledInputTabSaveButtons">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a6da9b2f7dad3533f56e53fef7e3fb7e3" title="This function is to enable of the different buttons according to _val for the user. " alt="" coords="253,63,464,105"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="515,5,709,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="513,71,711,97"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="513,122,711,163"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="760,63,995,105"/>
+</map>

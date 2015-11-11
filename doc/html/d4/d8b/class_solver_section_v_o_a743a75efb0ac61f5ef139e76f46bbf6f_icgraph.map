@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dea/class_solver_section_d_a_o.html#a063abe91ac640fd98a3ab194c2b50e7b" title="Find a section in a list." alt="" coords="360,5,565,35"/>
+<area shape="rect" id="node5" href="$d4/dea/class_solver_section_d_a_o.html#a2fc184e252203ad192be32eaac66cdb3" title="Find the section name associated to a subsection name." alt="" coords="284,59,641,88"/>
+<area shape="rect" id="node13" href="$d4/dea/class_solver_section_d_a_o.html#abc9ded2e50bcfab4c0eee9409ce9ef59" title="Find the subsectionNames associated to a section name." alt="" coords="280,112,645,141"/>
+<area shape="rect" id="node7" href="$d7/dd7/class_template_manager.html#a74f4ae073a98a9843b30355d7c409df2" title="Gets the list of sections." alt="" coords="1108,59,1345,88"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#ae0de99c33f8d01c301997f07a1a70ed1" title="Save the template values in a file." alt="" coords="2008,87,2224,116"/>
+<area shape="rect" id="node11" href="$da/d07/class_template_dialog.html#a43252abba12840a5be7bca4863a48a63" title="This function controls the acceptance by the user." alt="" coords="2272,87,2533,116"/>
+<area shape="rect" id="node15" href="$d7/dd7/class_template_manager.html#a65c18421d023cdcd96f0af8258ba1a69" title="get the SubSectionames associated to a section" alt="" coords="695,112,1049,141"/>
+<area shape="rect" id="node17" href="$d7/dd7/class_template_manager.html#aa7859f66124b213f94af59dbbfa86db0" title="Writes the subsection element." alt="" coords="1099,112,1355,141"/>
+<area shape="rect" id="node19" href="$d7/dd7/class_template_manager.html#aece0d1806c8375c202dfc24bcd58b13c" title="Writes the section element." alt="" coords="1404,112,1665,141"/>
+<area shape="rect" id="node21" href="$d7/dd7/class_template_manager.html#a000eb64d81d7f15dd9d0144237f892b2" title="Write the template file according the list of variables." alt="" coords="1715,112,1960,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SalomeTemplateManager::buildVariableData" name="SalomeTemplateManager::buildVariableData">
+<area shape="rect" id="node2" href="$d3/d5b/class_salome_variable_data.html#a9674d3d668bde55d6738b926a247a51b" title="Set the current value of the variable. " alt="" coords="224,5,365,46"/>
+<area shape="rect" id="node4" href="$d3/d5b/class_salome_variable_data.html#ac01908744fc95fdc42ccabd1f344e9b5" title="set the default value " alt="" coords="224,70,365,111"/>
+<area shape="rect" id="node5" href="$d3/d5b/class_salome_variable_data.html#af983c43d27fbb3a984591185adeac0b5" title="set the file name of the template " alt="" coords="224,135,365,177"/>
+<area shape="rect" id="node6" href="$d3/d5b/class_salome_variable_data.html#ae0a81a76126ec08ad7ea80ec02db9c1d" title="Set the template name. " alt="" coords="224,201,365,242"/>
+<area shape="rect" id="node7" href="$d3/d5b/class_salome_variable_data.html#a85dbb2b83ba15b758ac5a55468e328b2" title="Set the optimized values. " alt="" coords="224,266,365,307"/>
+<area shape="rect" id="node3" href="$d3/d5b/class_salome_variable_data.html#ac47b585c6bff753c41f8a61f2bb79f13" title="Remove white spaces. " alt="" coords="414,103,565,145"/>
+</map>

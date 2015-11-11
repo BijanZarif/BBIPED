@@ -1,0 +1,28 @@
+<map id="SolverPlotter::showCurves" name="SolverPlotter::showCurves">
+<area shape="rect" id="node2" href="$d3/de5/class_solver_plotter.html#ac7893a452ecc529ac2ff34502575cc8e" title="Function to clear the current Canvas. " alt="" coords="233,339,412,366"/>
+<area shape="rect" id="node27" href="$d3/de5/class_solver_plotter.html#a91d2a6181cc36c9e1580650d65402b20" title="Constructor. " alt="" coords="233,390,413,416"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="474,226,651,252"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="957,332,1158,373"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#ad58adf42ebda6ebbb124daade40eee34" title="Run the current Solver project. " alt="" coords="462,396,663,423"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="717,156,901,197"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="962,163,1153,190"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="960,214,1155,256"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1939,57,2127,98"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="961,97,1153,138"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="2176,62,2368,104"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="959,280,1155,307"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1215,163,1385,190"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1208,97,1392,138"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1209,214,1391,256"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1441,142,1623,184"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1441,214,1623,256"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1672,137,1891,178"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="1946,144,2121,171"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1688,214,1875,256"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1943,214,2123,256"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="2182,222,2362,248"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="713,448,906,489"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="717,396,901,423"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#acf43a4f8c3c268a2987dd118b80876c9" title="Run Solver Project. " alt="" coords="965,462,1150,504"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#ac04e6aade12e8a6e72a1d2b4f824dfce" title="SOLVER: Run the current simulation. " alt="" coords="955,397,1160,438"/>
+</map>

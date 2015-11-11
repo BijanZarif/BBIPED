@@ -1,0 +1,6 @@
+<map id="WarningClosingDialog::getShowAgainValue" name="WarningClosingDialog::getShowAgainValue">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="207,35,398,61"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="205,86,400,127"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="455,5,625,32"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="448,57,632,98"/>
+</map>

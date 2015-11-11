@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#a64fddc6db24284d39d218a6472bb5139" title="Function that returns the Advanced Menu List elements." alt="" coords="249,5,532,35"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#ac3660a6cd422e6311217a158f849ae28" title="Function that returns the Basic Menu List elements." alt="" coords="261,59,520,88"/>
+<area shape="rect" id="node7" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template." alt="" coords="265,112,516,141"/>
+<area shape="rect" id="node9" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized." alt="" coords="281,165,500,195"/>
+<area shape="rect" id="node11" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager." alt="" coords="272,219,509,248"/>
+</map>

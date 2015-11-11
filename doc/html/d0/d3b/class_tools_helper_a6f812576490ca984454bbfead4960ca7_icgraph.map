@@ -1,0 +1,6 @@
+<map id="ToolsHelper::launchSalomeWarning" name="ToolsHelper::launchSalomeWarning">
+<area shape="rect" id="node2" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="237,15,464,41"/>
+<area shape="rect" id="node4" href="$d0/d3b/class_tools_helper.html#a5786cd77608aab228d628ba372124515" title="ToolsHelper::createAutomatic\lMeshWithOptimization" alt="" coords="253,67,448,109"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="528,5,717,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a1bf08ce8fdda9c822f7490db60578517" title="This function is to create automatic mesh using Salome but with optimization parameters. " alt="" coords="513,70,733,111"/>
+</map>

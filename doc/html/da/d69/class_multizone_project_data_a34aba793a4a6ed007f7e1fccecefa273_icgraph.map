@@ -1,0 +1,12 @@
+<map id="MultizoneProjectData::addConfigFile" name="MultizoneProjectData::addConfigFile">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a93bc55c33696dfdd179ae714204f0e83" title="MainWindow::updateMultizone\lUserData" alt="" coords="200,63,400,105"/>
+<area shape="rect" id="node4" href="$da/d69/class_multizone_project_data.html#a6d368d53bc2d3bf86f1a1bc816305cec" title="MultizoneProjectData\l::updatePair" alt="" coords="227,129,373,170"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#aeabd282171bfe931d86ab5988f79aad0" title="MainWindow::on_multizone\lNewButton_clicked" alt="" coords="466,63,649,105"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ab554a2d8dbcd7705e7a0c7b38948989a" title="MainWindow::saveMultizoneData" alt="" coords="449,136,666,163"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ae6568484f4315dd5f645d9bb897b9784" title="MainWindow::multizoneSaveAll" alt="" coords="715,44,922,71"/>
+<area shape="rect" id="node9" href="$d9/d2e/class_multizone_individual_tab_form.html#afaf54c4a22e6e0fd1b73863a2b2a8c63" title="MultizoneIndividualTabForm\l::on_cancelButton_clicked" alt="" coords="726,95,911,137"/>
+<area shape="rect" id="node10" href="$d9/d2e/class_multizone_individual_tab_form.html#a3a3fb9b349fe5f7e6c2fb232696160e7" title="MultizoneIndividualTabForm\l::on_closeButton_clicked" alt="" coords="726,161,911,202"/>
+<area shape="rect" id="node11" href="$d9/d2e/class_multizone_individual_tab_form.html#a9c290529ce1164b375772358a5ffad07" title="MultizoneIndividualTabForm\l::on_saveButton_clicked" alt="" coords="726,226,911,267"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="971,5,1165,46"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a9386e2986f79d60c125008527a59a9da" title="MainWindow::on_multizone\lSaveAllButton_clicked" alt="" coords="977,70,1159,111"/>
+</map>

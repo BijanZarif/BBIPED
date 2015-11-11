@@ -1,0 +1,7 @@
+<map id="MainWindow::runSolverProject" name="MainWindow::runSolverProject">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="257,11,450,53"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="261,77,445,104"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#acf43a4f8c3c268a2987dd118b80876c9" title="Run Solver Project. " alt="" coords="509,5,694,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="501,70,702,111"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ac04e6aade12e8a6e72a1d2b4f824dfce" title="SOLVER: Run the current simulation. " alt="" coords="499,135,704,177"/>
+</map>

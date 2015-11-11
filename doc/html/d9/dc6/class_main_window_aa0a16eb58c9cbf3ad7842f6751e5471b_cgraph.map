@@ -1,0 +1,21 @@
+<map id="MainWindow::updateProjectDataToFile" name="MainWindow::updateProjectDataToFile">
+<area shape="rect" id="node2" href="$db/d28/class_util_files.html#abf266a68416aef239c8217fce17d7f4b" title="Update the multizone project Data object values into the correspondent file and save it to disk..." alt="" coords="240,97,413,138"/>
+<area shape="rect" id="node14" href="$db/d28/class_util_files.html#a988a6cfe4fa0a03229ee7f741f6d2451" title="Update the project Data object values into the correspondent file and save it to disk. " alt="" coords="247,309,406,350"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name. " alt="" coords="759,6,905,47"/>
+<area shape="rect" id="node4" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="759,71,905,113"/>
+<area shape="rect" id="node5" href="$d6/d07/class_xml_util.html#af491d4e7e8423dd3d455c7463ca8dbfd" title="Function that creates the multizone project details element from the xml. " alt="" coords="475,126,663,167"/>
+<area shape="rect" id="node6" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files. " alt="" coords="759,137,905,178"/>
+<area shape="rect" id="node7" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files. " alt="" coords="759,202,905,243"/>
+<area shape="rect" id="node8" href="$d6/d07/class_xml_util.html#a858fea6d91ac5259d2f744279e703f3b" title="Function that creates the correspondent Solver elements to be included in the XML project file..." alt="" coords="725,279,939,305"/>
+<area shape="rect" id="node9" href="$d6/d07/class_xml_util.html#adda1c7c8b1b4b3be0c9b39951b54cb81" title="Function that creates the project details element from the xml. " alt="" coords="737,351,927,393"/>
+<area shape="rect" id="node10" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="992,283,1184,309"/>
+<area shape="rect" id="node11" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="1004,333,1172,360"/>
+<area shape="rect" id="node12" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="987,384,1189,411"/>
+<area shape="rect" id="node13" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="1007,435,1169,477"/>
+<area shape="rect" id="node15" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="477,425,662,452"/>
+<area shape="rect" id="node16" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="462,476,677,503"/>
+<area shape="rect" id="node17" href="$d6/d07/class_xml_util.html#a343995f6dd6f482c0fe4a273bc242e62" title="Function that creates and updates if needed the XML project file. " alt="" coords="472,375,667,401"/>
+<area shape="rect" id="node18" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="478,191,661,233"/>
+<area shape="rect" id="node19" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="475,257,664,284"/>
+<area shape="rect" id="node20" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="480,309,659,350"/>
+</map>

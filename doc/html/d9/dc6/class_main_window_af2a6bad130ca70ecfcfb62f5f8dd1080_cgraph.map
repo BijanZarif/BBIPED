@@ -1,0 +1,23 @@
+<map id="MainWindow::initializeStructures" name="MainWindow::initializeStructures">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a185cfd57062afdf15a6a1b6795e5b471" title="Connecting the Process Signal Slots. " alt="" coords="277,241,475,282"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a66c68c6b53718d97b43982eebd40bc01" title="Slot function that captures the error if something goes wrong in the process. " alt="" coords="533,307,736,333"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a318cf0917ea350a89b928dc9f9aea6b6" title="This function is the one capable of locating the Salome path in the client side. " alt="" coords="267,357,485,384"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a245bbd08c7b0b2d290f8e5b51f9332f9" title="This function resets all the boolean variables of mainwindow. " alt="" coords="285,409,467,450"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a4f4b098bc95b31d3e505c3b7a30ded3e" title="Slot that allows to capture the standard output and redirect to the console text entry. " alt="" coords="565,147,705,173"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a9dab6319719bc49d545e7a9646c53b54" title="Slot function that performs some operations as soon as the process finish. " alt="" coords="535,256,734,283"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#add32f70a49a932735eb8dfaf72b5916b" title="Slot function that shows when the process has started. " alt="" coords="551,205,719,232"/>
+<area shape="rect" id="node4" href="$de/d2e/class_output_solver_parser.html#ae31b7b49a0ff07a10ade1dc55c53add6" title="Returns if the parsing has already started. " alt="" coords="829,5,965,46"/>
+<area shape="rect" id="node5" href="$de/d2e/class_output_solver_parser.html#a0828a517d04228d60b2c0fb94a13ba6d" title="Returns true if the line contains data available to be parsed. " alt="" coords="785,70,1010,111"/>
+<area shape="rect" id="node6" href="$de/d2e/class_output_solver_parser.html#a5f5f9ebd5610ce458e4506c7f37617f0" title="Function that performs the parsing of the line to extract the values. " alt="" coords="829,135,965,177"/>
+<area shape="rect" id="node7" href="$d3/de5/class_solver_plotter.html#a2e2c06c5e5813b1e05f5c5124bfc9f1a" title="Function that shows the points of the read curve. " alt="" coords="811,201,984,228"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="790,263,1005,289"/>
+<area shape="rect" id="node8" href="$d4/df8/class_solver_residual_v_o.html#a87fc836b6f348debe0b7a07ee8c659d5" title="return Number of iteration " alt="" coords="1067,115,1269,141"/>
+<area shape="rect" id="node9" href="$d3/de5/class_solver_plotter.html#a05a8a13d3ed79cf066ab6a435d2037d7" title="SolverPlotter::updateLegend\lItemsInGraphic" alt="" coords="1075,217,1261,258"/>
+<area shape="rect" id="node11" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="1327,151,1505,193"/>
+<area shape="rect" id="node12" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="1327,282,1505,323"/>
+<area shape="rect" id="node13" href="$d4/df8/class_solver_residual_v_o.html#af3c0f171c7a3a8644a5bbfc1b833e78f" title="Return ResRho. " alt="" coords="1067,13,1269,40"/>
+<area shape="rect" id="node14" href="$d4/df8/class_solver_residual_v_o.html#a8d3caba2f96f674ffaa1f2f4a4d0d087" title="Return ResRhoe. " alt="" coords="1063,64,1273,91"/>
+<area shape="rect" id="node10" href="$d3/de5/class_solver_plotter.html#a990d030828bc29c5e58a4f0b90faec4e" title="SolverPlotter::setReadOnly\lLegend" alt="" coords="1325,217,1507,258"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="1059,333,1277,360"/>
+<area shape="rect" id="node21" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome) " alt="" coords="561,358,709,399"/>
+</map>

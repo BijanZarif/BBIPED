@@ -1,0 +1,44 @@
+<map id="SolverSectionDAO::findSubSection" name="SolverSectionDAO::findSubSection">
+<area shape="rect" id="node2" href="$d9/d6e/class_solver_config_manager.html#ae34618c42c32d093f175fb85624fd0ac" title="Returns. " alt="" coords="240,373,443,429"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu. " alt="" coords="242,762,441,803"/>
+<area shape="rect" id="node42" href="$d7/dd7/class_template_manager.html#a7c6a3d984728414594d91f6ff5753eb0" title="Gets teh list of solver variables associated to a subSection. " alt="" coords="238,1076,445,1103"/>
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#a8c0bb203410630e0748b662e14f142fb" title="This fucntion fills the table widget according user selection. " alt="" coords="1350,477,1487,518"/>
+<area shape="rect" id="node4" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="1584,703,1768,745"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#a2a672a6fe104f8865b3f2a83f325f66e" title="Function to build all the tooltips. " alt="" coords="1350,762,1487,803"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="514,1207,713,1233"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1604,893,1748,920"/>
+<area shape="rect" id="node14" href="$d3/d40/class_solver_basic_dialog.html#a9bc5f51bb5426acfd26da00ed9df5ac2" title="This function checks if the value stored in a row is a default value, returning a true..." alt="" coords="542,457,685,498"/>
+<area shape="rect" id="node17" href="$da/d07/class_template_dialog.html#aadce6bf4defab72e9cb8ffd92c519fa2" title="This function loads the table for a specific menu item. " alt="" coords="530,1090,697,1131"/>
+<area shape="rect" id="node19" href="$d3/d40/class_solver_basic_dialog.html#acd2d5aeae01be26d2fb7cf12ac281c7d" title="This function returns teh associated value name of a variable in the correspondent row..." alt="" coords="516,653,711,694"/>
+<area shape="rect" id="node21" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="524,1258,703,1299"/>
+<area shape="rect" id="node26" href="$d3/d40/class_solver_basic_dialog.html#a5cbec9fe1995383ced93a57c396b213e" title="SolverBasicDialog::\llaunchSpecificWindow" alt="" coords="815,914,969,955"/>
+<area shape="rect" id="node27" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="1070,929,1234,985"/>
+<area shape="rect" id="node28" href="$d5/d05/class_mesh_dialog.html#a2a8756c92a88496a09f79b3733644c46" title="Function that checks if it is needed to open the Specific boundary dialog. " alt="" coords="782,1031,1002,1073"/>
+<area shape="rect" id="node29" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="511,245,716,301"/>
+<area shape="rect" id="node30" href="$da/d07/class_template_dialog.html#aacf24afa26c633e060298192937870db" title="TemplateDialog::on\l_variablesToSelectTableWidget\l_cellClicked" alt="" coords="510,325,717,381"/>
+<area shape="rect" id="node31" href="$d3/d40/class_solver_basic_dialog.html#a9ad0399804916909575911a387cea409" title="SolverBasicDialog::\lresetToDefaultValue" alt="" coords="543,522,684,563"/>
+<area shape="rect" id="node32" href="$d5/d05/class_mesh_dialog.html#a1e0dbbe416dbf49ee49fbbe5f880f9f8" title="Function to restore the values in the row. " alt="" coords="524,1156,703,1183"/>
+<area shape="rect" id="node33" href="$d3/d40/class_solver_basic_dialog.html#a105900ce25b7d9434b3313f46b6b9abf" title="Function to save the user changes made in the session. " alt="" coords="545,587,682,629"/>
+<area shape="rect" id="node35" href="$d3/d40/class_solver_basic_dialog.html#af79fee34db8adc286e4ac8fcfe6e7421" title="SolverBasicDialog::\lsaveUserChangesSpecificWindow" alt="" coords="501,922,725,963"/>
+<area shape="rect" id="node36" href="$d7/d15/class_search_pair_helper.html#a6d72bb9fb0bb09cc5f3071dda197f7cc" title="This fucntion allows to search in the tree model by a specific search term. " alt="" coords="528,181,699,222"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="800,1175,984,1217"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="1060,1175,1244,1217"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="1057,1031,1247,1073"/>
+<area shape="rect" id="node10" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1337,959,1500,985"/>
+<area shape="rect" id="node12" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1817,886,2023,927"/>
+<area shape="rect" id="node15" href="$d3/d40/class_solver_basic_dialog.html#a9816ec59297e2d1af8c161b017bf8317" title="Slot to control when the text is changed. " alt="" coords="823,522,961,563"/>
+<area shape="rect" id="node16" href="$d3/d40/class_solver_basic_dialog.html#a84cf8cf0def57a5c6cd908f79bf52aaf" title="Function to add the signals. " alt="" coords="1083,555,1221,597"/>
+<area shape="rect" id="node18" href="$da/d07/class_template_dialog.html#a00e3bdbafce905ea426896d01fec6ef1" title="This function controls when a menu item is clicked on the tree to show teh associated variables..." alt="" coords="813,1096,971,1152"/>
+<area shape="rect" id="node20" href="$d3/d40/class_solver_basic_dialog.html#a13b25d743c53c3450d72ab4d52b641d3" title="Slot to control the change of the combo value by the user. " alt="" coords="797,653,987,694"/>
+<area shape="rect" id="node22" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="815,1292,969,1319"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="1053,1339,1251,1365"/>
+<area shape="rect" id="node25" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="1059,1259,1245,1315"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="1301,1331,1536,1373"/>
+<area shape="rect" id="node34" href="$d3/d40/class_solver_basic_dialog.html#ac12cf4c84648676ecd9437b1d90d2652" title="This function handles the selection of the checkitems to be saved. " alt="" coords="823,587,961,629"/>
+<area shape="rect" id="node37" href="$d7/d15/class_search_pair_helper.html#a8619df9759f15af6fc20b9f426b4ece9" title="This function searchs the items. " alt="" coords="807,202,977,243"/>
+<area shape="rect" id="node38" href="$da/d07/class_template_dialog.html#a5b2d93a42f37d70be436047e3f3b9b40" title="This function controls the search functionality. " alt="" coords="1075,274,1229,315"/>
+<area shape="rect" id="node39" href="$d3/d40/class_solver_basic_dialog.html#af4584ca22aab5ef33b0603d01f83155f" title="This method provides the functionality of the search button. " alt="" coords="1068,339,1236,381"/>
+<area shape="rect" id="node40" href="$da/d07/class_template_dialog.html#a029900507791ee64545b7de0239137f5" title="This function controls the search functionality on key pressed. " alt="" coords="1051,130,1253,171"/>
+<area shape="rect" id="node41" href="$d3/d40/class_solver_basic_dialog.html#a61494603f7e81dedb6e61e5c3a0836a4" title="This function controls the return to search function. " alt="" coords="1055,195,1249,251"/>
+<area shape="rect" id="node43" href="$d7/dd7/class_template_manager.html#a4af242b4969027bbd09737ac2fdc1e2e" title="Writes the list of variables element. " alt="" coords="494,1324,733,1351"/>
+</map>

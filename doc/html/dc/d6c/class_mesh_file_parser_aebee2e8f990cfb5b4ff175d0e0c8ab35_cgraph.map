@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dc/d6c/class_mesh_file_parser.html#aba5b2fd4579ffba8ff427096a5b4204f" title="Function that checks if the line contains the MARKER_TAG." alt="" coords="245,5,496,35"/>
+<area shape="rect" id="node5" href="$dc/d6c/class_mesh_file_parser.html#ac7e39ae284dd366bedb91975929f4c56" title="Function that stores the parsed toked elements." alt="" coords="251,59,491,88"/>
+<area shape="rect" id="node7" href="$d6/d6c/class_parser_files.html#ae7a17191e875ceb419736cc9b98ab8cd" title="Function to remove spaces in the values." alt="" coords="545,59,727,88"/>
+</map>

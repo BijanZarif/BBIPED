@@ -1,0 +1,4 @@
+<map id="MainWindow::launchSalomeMeshTool" name="MainWindow::launchSalomeMeshTool">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#af28c14693c0b3e59d19ebf84ff164c85" title="This action is the Menu action for lauching Salome. " alt="" coords="241,5,447,51"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a996ee17cf1235b1b2253d98231044879" title="This function launchs the Salome tool. " alt="" coords="241,74,447,121"/>
+</map>

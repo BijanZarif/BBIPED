@@ -1,0 +1,16 @@
+<map id="SalomeOptimizationDialog::fillTable" name="SalomeOptimizationDialog::fillTable">
+<area shape="rect" id="node2" href="$db/dbb/class_salome_optimization_dialog.html#a4f4ee6f05ca417869455c22bf736f3c4" title="SalomeOptimizationDialog\l::addRow" alt="" coords="229,205,405,246"/>
+<area shape="rect" id="node10" href="$db/dbb/class_salome_optimization_dialog.html#aed474625d7159a967fb40f7e8a7dba12" title="SalomeOptimizationDialog\l::getPosMenu" alt="" coords="229,463,405,505"/>
+<area shape="rect" id="node11" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="472,434,643,475"/>
+<area shape="rect" id="node13" href="$d9/df1/class_salome_template_manager.html#a3e5bd6c1823f45a840f6be7e88501359" title="SalomeTemplateManager\l::getTemplates" alt="" coords="232,529,403,570"/>
+<area shape="rect" id="node14" href="$d9/df1/class_salome_template_manager.html#a9a95e9184b44ed8b5c6e759b6c86553e" title="SalomeTemplateManager\l::getUserTemplates" alt="" coords="232,594,403,635"/>
+<area shape="rect" id="node15" href="$dc/def/class_salome_template_data.html#ad49a53d0e6c4084e00b31e0120ff4446" title="Get the list of variables of the template. " alt="" coords="243,659,391,701"/>
+<area shape="rect" id="node3" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="454,5,661,32"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="454,56,661,83"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#ad738aa10e04b94bf5650b481e7f40576" title="QtableUtil::addSelectable\lCheckColumn" alt="" coords="472,107,643,149"/>
+<area shape="rect" id="node6" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="487,173,628,214"/>
+<area shape="rect" id="node7" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="get the default value " alt="" coords="487,238,628,279"/>
+<area shape="rect" id="node8" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="487,303,628,345"/>
+<area shape="rect" id="node9" href="$d3/d5b/class_salome_variable_data.html#ab8d2eed346047e56fefa9d9af461ff04" title="get the optimized values " alt="" coords="487,369,628,410"/>
+<area shape="rect" id="node12" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="464,499,651,541"/>
+</map>

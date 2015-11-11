@@ -1,0 +1,12 @@
+<map id="MainWindow::addProjectToRecentProjectsSection" name="MainWindow::addProjectToRecentProjectsSection">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="237,59,456,101"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="505,5,693,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="511,71,686,97"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="744,9,936,50"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="742,75,938,101"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="987,93,1170,134"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1219,93,1402,134"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1451,93,1637,134"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1686,93,1866,134"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1915,100,2095,127"/>
+</map>

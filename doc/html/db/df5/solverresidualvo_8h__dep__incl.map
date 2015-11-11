@@ -1,0 +1,26 @@
+<map id="Data/Solver/VO/solverresidualvo.h" name="Data/Solver/VO/solverresidualvo.h">
+<area shape="rect" id="node2" href="$d4/db6/solverresidualvo_8cpp.html" title="Data/Solver/VO/solverresidualvo.cpp" alt="" coords="293,88,529,115"/>
+<area shape="rect" id="node3" href="$df/dff/outputsolverparser_8h.html" title="Parser/Solver/outputsolverparser.h" alt="" coords="746,88,968,115"/>
+<area shape="rect" id="node4" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="834,261,939,288"/>
+<area shape="rect" id="node18" href="$d8/d1b/solverplotter_8h.html" title="Plotter/solverplotter.h" alt="" coords="555,88,701,115"/>
+<area shape="rect" id="node24" href="$d7/d43/residualtabhelper_8h.html" title="WindowHelper/MainWindow\l/residualtabhelper.h" alt="" coords="1015,81,1201,122"/>
+<area shape="rect" id="node17" href="$d9/d0b/outputsolverparser_8cpp.html" title="Parser/Solver/outputsolverparser.cpp" alt="" coords="833,179,1069,205"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="299,344,372,371"/>
+<area shape="rect" id="node6" href="$d8/dd9/mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="157,344,275,371"/>
+<area shape="rect" id="node7" href="$dd/db8/_main_window_helper_8cpp.html" title="WindowHelper/MainWindow\l/MainWindowHelper.cpp" alt="" coords="664,337,851,378"/>
+<area shape="rect" id="node8" href="$d1/d82/_edit_menu_helper_8cpp.html" title="WindowHelper/Menu/EditMenu\lHelper.cpp" alt="" coords="875,337,1077,378"/>
+<area shape="rect" id="node9" href="$d0/d25/_file_menu_helper_8cpp.html" title="WindowHelper/Menu/FileMenu\lHelper.cpp" alt="" coords="1101,337,1300,378"/>
+<area shape="rect" id="node10" href="$d6/d15/_help_menu_helper_8cpp.html" title="WindowHelper/Menu/HelpMenu\lHelper.cpp" alt="" coords="1326,337,1532,378"/>
+<area shape="rect" id="node11" href="$dc/dbe/_solver_menu_helper_8cpp.html" title="WindowHelper/Menu/Solver\lMenuHelper.cpp" alt="" coords="1557,337,1741,378"/>
+<area shape="rect" id="node12" href="$df/d7a/_tools_menu_helper_8cpp.html" title="WindowHelper/Menu/ToolsMenu\lHelper.cpp" alt="" coords="1765,337,1975,378"/>
+<area shape="rect" id="node13" href="$de/d24/_view_menu_helper_8cpp.html" title="WindowHelper/Menu/ViewMenu\lHelper.cpp" alt="" coords="2000,337,2208,378"/>
+<area shape="rect" id="node14" href="$d8/ddc/multizoneindividualtabform_8h.html" title="WindowHelper/Multizone\l/multizoneindividualtabform.h" alt="" coords="398,337,588,378"/>
+<area shape="rect" id="node16" href="$da/df8/_multizone_tab_helper_8cpp.html" title="WindowHelper/Multizone\l/MultizoneTabHelper.cpp" alt="" coords="543,427,709,469"/>
+<area shape="rect" id="node15" href="$df/d20/multizoneindividualtabform_8cpp.html" title="WindowHelper/Multizone\l/multizoneindividualtabform.cpp" alt="" coords="313,427,519,469"/>
+<area shape="rect" id="node19" href="$db/d18/plotterhelper_8h.html" title="Plotter/plotterhelper.h" alt="" coords="377,179,524,205"/>
+<area shape="rect" id="node21" href="$dc/d6e/plottermanager_8h.html" title="Plotter/plottermanager.h" alt="" coords="137,179,297,205"/>
+<area shape="rect" id="node23" href="$d5/dae/solverplotter_8cpp.html" title="Plotter/solverplotter.cpp" alt="" coords="548,179,707,205"/>
+<area shape="rect" id="node20" href="$d7/d2a/plotterhelper_8cpp.html" title="Plotter/plotterhelper.cpp" alt="" coords="373,261,532,288"/>
+<area shape="rect" id="node22" href="$df/dd6/plottermanager_8cpp.html" title="Plotter/plottermanager.cpp" alt="" coords="5,261,179,288"/>
+<area shape="rect" id="node25" href="$de/dff/residualtabhelper_8cpp.html" title="WindowHelper/MainWindow\l/residualtabhelper.cpp" alt="" coords="1145,171,1332,213"/>
+</map>

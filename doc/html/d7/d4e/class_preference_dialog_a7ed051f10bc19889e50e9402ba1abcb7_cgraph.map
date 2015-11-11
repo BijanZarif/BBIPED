@@ -1,0 +1,4 @@
+<map id="PreferenceDialog::initializeSolverData" name="PreferenceDialog::initializeSolverData">
+<area shape="rect" id="node2" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="233,5,418,46"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#aaa5c5020f11df597d0c3e860101035af" title="This function initializes all the variables needed by this dialog. " alt="" coords="237,71,414,97"/>
+</map>

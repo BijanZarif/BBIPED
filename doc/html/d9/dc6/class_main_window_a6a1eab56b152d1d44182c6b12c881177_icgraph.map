@@ -1,0 +1,4 @@
+<map id="MainWindow::enableMeshOptions" name="MainWindow::enableMeshOptions">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="277,5,472,51"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a562cab832fe55422a6b142428c102712" title="Action when the Solver Button is clicked. " alt="" coords="276,74,473,121"/>
+</map>

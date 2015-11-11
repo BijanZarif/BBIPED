@@ -1,0 +1,6 @@
+<map id="SalomePythonFileUtil::buildMainForOptimization" name="SalomePythonFileUtil::buildMainForOptimization">
+<area shape="rect" id="node2" href="$dc/def/class_salome_template_data.html#a293119f3ae20cdcb4a3b8184ff902075" title="Gets the name of the file associated to the template. " alt="" coords="233,5,391,46"/>
+<area shape="rect" id="node3" href="$d3/d0e/class_salome_python_file_util.html#a5fcc6034c4dea789847f9cb9be937e4c" title="This funciton buillds get the variable Name in a specific position. " alt="" coords="238,70,386,111"/>
+<area shape="rect" id="node4" href="$d3/d5b/class_salome_variable_data.html#ab5739efa71d2b4a07f3b1b376371d88c" title="get the file name of the template " alt="" coords="440,37,581,78"/>
+<area shape="rect" id="node5" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="440,102,581,143"/>
+</map>

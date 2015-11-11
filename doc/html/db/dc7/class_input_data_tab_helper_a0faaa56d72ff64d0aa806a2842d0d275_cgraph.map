@@ -1,0 +1,16 @@
+<map id="InputDataTabHelper::parseFile" name="InputDataTabHelper::parseFile">
+<area shape="rect" id="node3" href="$d6/d6c/class_parser_files.html#a140dc42218b96cfe215fca2481c67a3c" title="Returns the map of the parsed values. " alt="" coords="192,25,387,55"/>
+<area shape="rect" id="node5" href="$dc/d6c/class_mesh_file_parser.html#a57bf6cc67f2143dbd5fe4b960b5c24da" title="Main function to parse the file. " alt="" coords="203,147,376,194"/>
+<area shape="rect" id="node19" href="$da/dfd/class_configuration_file_parser.html#a55e818131fc6f86e3b1c41e56dad1d25" title="Main function to parse the file. " alt="" coords="211,78,368,125"/>
+<area shape="rect" id="node32" href="$d6/d6c/class_parser_files.html#aa87ba9f1732337f4d63b3ff2084f737c" title="Establish the file path. " alt="" coords="208,217,371,247"/>
+<area shape="rect" id="node7" href="$d6/d6c/class_parser_files.html#a2dbed119cf51a91caf28cb78e635ac87" title="Returns the path of the file. " alt="" coords="451,95,613,124"/>
+<area shape="rect" id="node9" href="$dc/d6c/class_mesh_file_parser.html#aebee2e8f990cfb5b4ff175d0e0c8ab35" title="Function that analyses the line to be parsed. " alt="" coords="437,201,627,231"/>
+<area shape="rect" id="node17" href="$d6/d6c/class_parser_files.html#a1e99a5760c94b9fd29def9ac7110ccaa" title="Sets the parsed values. " alt="" coords="435,148,629,177"/>
+<area shape="rect" id="node11" href="$dc/d6c/class_mesh_file_parser.html#aba5b2fd4579ffba8ff427096a5b4204f" title="Function that checks if the line contains the MARKER_TAG. " alt="" coords="685,143,856,190"/>
+<area shape="rect" id="node13" href="$dc/d6c/class_mesh_file_parser.html#ac7e39ae284dd366bedb91975929f4c56" title="Function that stores the parsed toked elements. " alt="" coords="679,213,863,259"/>
+<area shape="rect" id="node15" href="$d6/d6c/class_parser_files.html#ae7a17191e875ceb419736cc9b98ab8cd" title="Function to remove spaces in the values. " alt="" coords="913,183,1095,212"/>
+<area shape="rect" id="node21" href="$da/dfd/class_configuration_file_parser.html#a849ec557127293a405de43b51fb52f51" title="Function that analyses the line to be parsed. " alt="" coords="453,25,611,71"/>
+<area shape="rect" id="node23" href="$da/dfd/class_configuration_file_parser.html#a4c8225d6a8839180a59f1a74df7f4735" title="Checks if the line is a commented line to skip it. " alt="" coords="692,5,849,51"/>
+<area shape="rect" id="node25" href="$da/dfd/class_configuration_file_parser.html#a2bcaa84cb390cee27fc45bfd72090392" title="Save the parsed element. " alt="" coords="692,74,849,121"/>
+<area shape="rect" id="node27" href="$da/dfd/class_configuration_file_parser.html#a9e290a1f8362d17a2d52ca1fc0f51ccc" title="ConfigurationFileParser\l::removeCommentedPart" alt="" coords="920,74,1088,121"/>
+</map>

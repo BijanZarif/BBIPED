@@ -1,0 +1,13 @@
+<map id="SolverBasicDialog::loadTableHeader" name="SolverBasicDialog::loadTableHeader">
+<area shape="rect" id="node2" href="$d3/d40/class_solver_basic_dialog.html#ad86b552bc601e6728fcdb0dcb74951a4" title="Function to reset the table. " alt="" coords="193,301,330,342"/>
+<area shape="rect" id="node12" href="$d3/d40/class_solver_basic_dialog.html#a64d2477117b22bff47a87b76416bfc94" title="Constructor. " alt="" coords="193,366,330,407"/>
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="392,5,576,46"/>
+<area shape="rect" id="node4" href="$d3/d40/class_solver_basic_dialog.html#acc747be32930e4361463babd2b957024" title="Slot to control when the user check/uncheck the rotating frame menu element. " alt="" coords="398,69,570,125"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#aa6b3d6b86a2b05192ff1df142507cc43" title="Function that controls the functionality when the user click the reset to default button..." alt="" coords="408,149,560,205"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#af4584ca22aab5ef33b0603d01f83155f" title="This method provides the functionality of the search button. " alt="" coords="400,229,568,270"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#a12e8f9892e3e7ec562b02541bd30e2d1" title="This function resets all the views to their status before the search. " alt="" coords="409,293,559,349"/>
+<area shape="rect" id="node8" href="$d3/d40/class_solver_basic_dialog.html#a7a27f58ab3c053a63a0036572c96998b" title="Function that restore the elements for the BASIC VIEW. " alt="" coords="397,373,571,429"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#abd1bc03e252061b685652e3ec173967d" title="Function that restore the elements for the ADVANCED VIEW. " alt="" coords="394,453,574,509"/>
+<area shape="rect" id="node10" href="$d3/d40/class_solver_basic_dialog.html#a70570d851d4d2885655f720f41d7438e" title="Function that restore the elements for the CUSTOMIZED VIEW. " alt="" coords="379,533,589,589"/>
+<area shape="rect" id="node11" href="$d3/d40/class_solver_basic_dialog.html#a61494603f7e81dedb6e61e5c3a0836a4" title="This function controls the return to search function. " alt="" coords="387,613,581,669"/>
+</map>

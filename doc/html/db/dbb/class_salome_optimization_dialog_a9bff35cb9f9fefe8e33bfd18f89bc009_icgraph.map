@@ -1,0 +1,6 @@
+<map id="SalomeOptimizationDialog::refreshComboTemplates" name="SalomeOptimizationDialog::refreshComboTemplates">
+<area shape="rect" id="node2" href="$db/dbb/class_salome_optimization_dialog.html#a99476430b45657e1903805efb8e99dae" title="SalomeOptimizationDialog\l::loadTemplateMenu" alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a1ce9754ec9edd238af1649c8cc8d856e" title="SalomeOptimizationDialog\l::initializeDialog" alt="" coords="453,5,629,46"/>
+<area shape="rect" id="node4" href="$d0/d3b/class_tools_helper.html#a5786cd77608aab228d628ba372124515" title="ToolsHelper::createAutomatic\lMeshWithOptimization" alt="" coords="677,5,872,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a1bf08ce8fdda9c822f7490db60578517" title="This function is to create automatic mesh using Salome but with optimization parameters. " alt="" coords="921,5,1141,46"/>
+</map>

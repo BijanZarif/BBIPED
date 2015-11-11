@@ -1,0 +1,51 @@
+<map id="MainWindow::on_actionClose_Project_triggered" name="MainWindow::on_actionClose_Project_triggered">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="259,1374,443,1415"/>
+<area shape="rect" id="node44" href="$de/d3b/class_warning_closing_dialog.html#ad8af6b5ab621b2fdb5a0e423eb305596" title="Returns true if the window shall be shown again in the future. " alt="" coords="275,1439,426,1481"/>
+<area shape="rect" id="node45" href="$de/d3b/class_warning_closing_dialog.html#a98688a96b9e6541f9f98d1c1afc331d0" title="Returns true if the application needs to be closed. " alt="" coords="261,1505,440,1546"/>
+<area shape="rect" id="node46" href="$d9/dc6/class_main_window.html#ad84b5d487efd3c0777d7035b2e4b0641" title="Disable the close project icons (at the moment only one) " alt="" coords="252,1570,449,1611"/>
+<area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#aa01564cc30dbdcb6d8b6ad3cabd58aa7" title="Enable all the Save actions fo the project. " alt="" coords="254,1635,447,1677"/>
+<area shape="rect" id="node48" href="$d7/d21/class_user_preferences_data.html#a4fa2d94b68e662d1a0483711cb23fdc7" title="Set whether the user wants to see the close project warning. " alt="" coords="249,1701,453,1742"/>
+<area shape="rect" id="node49" href="$de/d3b/class_warning_closing_dialog.html#adc6a0e8ba907f5d8e5531bdbcd214acc" title="Establish the message title of the window. " alt="" coords="275,1766,426,1807"/>
+<area shape="rect" id="node50" href="$d7/d21/class_user_preferences_data.html#a9baa8e00042155f1a6c7d0f7c7a1564f" title="Returns true if the Close Project warning window shall appear. " alt="" coords="259,1831,443,1873"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="521,867,698,893"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#ae5f7370e06d3a169b72c250e70dac27b" title="Reset of Solver tab elements to their default values. " alt="" coords="513,1374,706,1415"/>
+<area shape="rect" id="node43" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="502,1465,717,1492"/>
+<area shape="rect" id="node4" href="$d4/df8/class_solver_residual_v_o.html#a08ad7ac80f7f23e2ff3947fd1ca0f31d" title="Clear all the data. " alt="" coords="765,180,973,207"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#ae8c618a51d893ceca6a348826ce03862" title="Clear all the data to the default values. " alt="" coords="781,523,957,549"/>
+<area shape="rect" id="node16" href="$d3/de5/class_solver_plotter.html#ac7893a452ecc529ac2ff34502575cc8e" title="Function to clear the current Canvas. " alt="" coords="780,573,959,600"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a67ffdd782d38b6d9f1a823846a180a0b" title="Clear the console text and removes all the text. " alt="" coords="766,691,973,717"/>
+<area shape="rect" id="node19" href="$d6/deb/class_project_menu_tree_helper.html#a219362c019505cd16eaf6341a5668e08" title="ProjectMenuTreeHelper\l::clearProjectTreeView" alt="" coords="790,742,949,783"/>
+<area shape="rect" id="node20" href="$db/dc7/class_input_data_tab_helper.html#aa569c715778ce295ebd294450b741a66" title="Disable All input data tab elements. " alt="" coords="787,625,952,666"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a675f7dec5c7fb6bfee1eccf9b1b1c426" title="Disable all the Tool Buttons. " alt="" coords="775,859,964,901"/>
+<area shape="rect" id="node25" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="1044,821,1223,862"/>
+<area shape="rect" id="node26" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="1042,886,1225,927"/>
+<area shape="rect" id="node27" href="$db/dc7/class_input_data_tab_helper.html#a29f698d34ade842856ae584d71c8c33d" title="Hide all the Tabs related with the solver Tool. " alt="" coords="797,1129,942,1170"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#a245bbd08c7b0b2d290f8e5b51f9332f9" title="This function resets all the boolean variables of mainwindow. " alt="" coords="779,1194,960,1235"/>
+<area shape="rect" id="node29" href="$d3/de5/class_solver_plotter.html#a65e214b67ed7900832eaedb33a7a5762" title="SolverPlotter::resetLegend" alt="" coords="781,1077,957,1104"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a47bf2ea8964456de9aac1b42d1e2cbbf" title="Reset the values of the menus of Solver to the default values. " alt="" coords="768,1260,971,1287"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="1024,1380,1243,1407"/>
+<area shape="rect" id="node34" href="$db/d81/class_multizone_manager.html#a31af396692953fd3c2afaa7df1362acc" title="This funciton restores the GUI to the single view. " alt="" coords="781,391,957,433"/>
+<area shape="rect" id="node35" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="773,976,965,1003"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#aa0a16eb58c9cbf3ad7842f6751e5471b" title="Update Project Data Paths. " alt="" coords="1041,1134,1226,1175"/>
+<area shape="rect" id="node40" href="$d2/dfb/class_show_message_helper.html#a78e78cb8deae66ada5098b8163390a30" title="Show comboBox for Saving results. " alt="" coords="787,457,952,498"/>
+<area shape="rect" id="node5" href="$d4/df8/class_solver_residual_v_o.html#a3fbb40f5ba13718602acc9de78cca9f2" title="Set number of iteration. " alt="" coords="1032,304,1235,331"/>
+<area shape="rect" id="node6" href="$d4/df8/class_solver_residual_v_o.html#aa6f52f2e4745fe02dd5d4a08bfa27d84" title="set Time Val " alt="" coords="1041,5,1225,46"/>
+<area shape="rect" id="node7" href="$d4/df8/class_solver_residual_v_o.html#add39c5bb919665b2b9c96b55442e7c4f" title="Set ResRho. " alt="" coords="1032,71,1235,97"/>
+<area shape="rect" id="node8" href="$d4/df8/class_solver_residual_v_o.html#a0f14f6066eba89ff4750ec3678d48876" title="Set ResRhoe. " alt="" coords="1028,121,1239,148"/>
+<area shape="rect" id="node9" href="$d4/df8/class_solver_residual_v_o.html#a997b591f98e89d33e53c45cfadb67485" title="Set Clift Total. " alt="" coords="1044,173,1223,214"/>
+<area shape="rect" id="node10" href="$d4/df8/class_solver_residual_v_o.html#a23f147e1a98947ead1ad8b715afc7907" title="Set CDrag Total. " alt="" coords="1037,238,1230,279"/>
+<area shape="rect" id="node12" href="$d1/d82/class_project_details.html#afc3a42ba2960fb61762396f25769e53e" title="This function clear all the values of the object. " alt="" coords="1063,523,1203,549"/>
+<area shape="rect" id="node13" href="$dd/d2b/class_mesh_info_v_o.html#ac654ec77dcb43760be93d6deed1ae72f" title="MeshInfoVO::clear" alt="" coords="1068,355,1199,381"/>
+<area shape="rect" id="node14" href="$d4/dac/class_project_data.html#a904c6b9981afcff18ff1eea9035d7d30" title="This function is to clear all the data contained in the object. " alt="" coords="1070,405,1197,432"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a029ddbe59f617224f08014ea2295ba56" title="MainWindow::resetBoundary\lValues" alt="" coords="1039,457,1228,498"/>
+<area shape="rect" id="node17" href="$d3/de5/class_solver_plotter.html#afc41e2c5b67799518fb843fb2dd2ad14" title="Function to show the curves. " alt="" coords="1044,573,1223,600"/>
+<area shape="rect" id="node21" href="$db/dc7/class_input_data_tab_helper.html#ae4223c34e5f54bf9167d0ce5eef5153b" title="Disable the change config action menu elements. " alt="" coords="1022,755,1245,797"/>
+<area shape="rect" id="node22" href="$db/dc7/class_input_data_tab_helper.html#ab22d7b181357dcf4e561b5f80542d310" title="Disable All current sim action menu elements. " alt="" coords="1030,625,1237,666"/>
+<area shape="rect" id="node23" href="$db/dc7/class_input_data_tab_helper.html#ad8ea9bac32125abf91bb1f6247b61e15" title="Disable the restart simulatio button. " alt="" coords="1042,690,1225,731"/>
+<area shape="rect" id="node30" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="1044,1265,1223,1306"/>
+<area shape="rect" id="node31" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="1044,1199,1223,1241"/>
+<area shape="rect" id="node36" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="1041,1083,1226,1109"/>
+<area shape="rect" id="node37" href="$d9/d6e/class_solver_config_manager.html#ad59d2050960f89dfb88841633426610f" title="Function that uptades teh values of the DOM tree according to the Map values. " alt="" coords="1060,951,1207,993"/>
+<area shape="rect" id="node38" href="$d2/deb/class_solver_v_o.html#a893fc1f41af948ea04d54b7a83b2dbcf" title="Returns the solver map values. " alt="" coords="1044,1017,1223,1058"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_main_window.html#a7e6e64a0ab3aa5d812846f376d8ccbb5" title="Activate the save Congifuration elements and save config as from the menu. " alt="" coords="769,1362,969,1403"/>
+</map>

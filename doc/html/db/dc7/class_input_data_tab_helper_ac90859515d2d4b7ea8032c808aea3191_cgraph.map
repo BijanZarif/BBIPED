@@ -1,0 +1,18 @@
+<map id="InputDataTabHelper::initializeSolverBasicDialog" name="InputDataTabHelper::initializeSolverBasicDialog">
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#addceae36feba8f31070994c309b4240a" title="Enables the personalized view. " alt="" coords="267,5,429,51"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#a29c84e09975224741295b95e6d4e1f79" title="Returns true if a personalized view is available. " alt="" coords="237,74,459,121"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#a09a5a310bbb737ca3159caca79956896" title="This function loads the check boxes of the rotating frame or the unsteady menus according with previo..." alt="" coords="269,143,427,190"/>
+<area shape="rect" id="node13" href="$d3/d40/class_solver_basic_dialog.html#a124b650fb15856cc459baead624b69e3" title="Load the corresponding Tree menu according with the user selection (basic view or advanced view) ..." alt="" coords="280,213,416,259"/>
+<area shape="rect" id="node25" href="$d3/d40/class_solver_basic_dialog.html#a2c516f8858757cadffc71a75b20705c2" title="Function to reset the dialog variables. " alt="" coords="280,282,416,329"/>
+<area shape="rect" id="node29" href="$d3/d40/class_solver_basic_dialog.html#aa6b7611f713f7d3c71d851c03a857942" title="Function to enable basic view. " alt="" coords="280,351,416,398"/>
+<area shape="rect" id="node31" href="$d3/d40/class_solver_basic_dialog.html#ab1f123caeb06dfc854cf5bc2c337db9d" title="Function to set the new values. " alt="" coords="269,421,427,467"/>
+<area shape="rect" id="node33" href="$d3/d40/class_solver_basic_dialog.html#a63b8bdc525284a2b2c3a69db8312e3e4" title="Functio to set the config manager. " alt="" coords="280,490,416,537"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a9cd5767177b221fb48c04ce61babc126" title="Function to check if the optionalvariables have been checked. " alt="" coords="508,5,716,51"/>
+<area shape="rect" id="node11" href="$d3/d40/class_solver_basic_dialog.html#aadbccaf00ac37bbf8e5f0e1f2fb62543" title="Function to return the list with the key values from a menu element. " alt="" coords="765,5,952,51"/>
+<area shape="rect" id="node15" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="539,74,685,121"/>
+<area shape="rect" id="node17" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="539,143,685,190"/>
+<area shape="rect" id="node19" href="$d9/d6e/class_solver_config_manager.html#ac3660a6cd422e6311217a158f849ae28" title="Function that returns the Basic Menu List elements. " alt="" coords="539,213,685,259"/>
+<area shape="rect" id="node21" href="$d9/d6e/class_solver_config_manager.html#a64fddc6db24284d39d218a6472bb5139" title="Function that returns the Advanced Menu List elements. " alt="" coords="533,282,691,329"/>
+<area shape="rect" id="node23" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager. " alt="" coords="519,351,705,398"/>
+<area shape="rect" id="node27" href="$d7/d15/class_search_pair_helper.html#a3de5cf8bc4d554b80521c9a2ccee365a" title="Sets the total number of found elements. " alt="" coords="523,421,701,467"/>
+</map>

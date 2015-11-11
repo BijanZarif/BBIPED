@@ -1,0 +1,51 @@
+<map id="MainWindow::closeExistentProject" name="MainWindow::closeExistentProject">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="257,1345,434,1372"/>
+<area shape="rect" id="node48" href="$d9/dc6/class_main_window.html#ae5f7370e06d3a169b72c250e70dac27b" title="Reset of Solver tab elements to their default values. " alt="" coords="249,1903,442,1945"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="238,1852,453,1879"/>
+<area shape="rect" id="node3" href="$d2/dfb/class_show_message_helper.html#a78e78cb8deae66ada5098b8163390a30" title="Show comboBox for Saving results. " alt="" coords="523,1338,688,1379"/>
+<area shape="rect" id="node4" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="1254,865,1437,906"/>
+<area shape="rect" id="node5" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="1256,1254,1435,1295"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="509,1109,701,1136"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#aa0a16eb58c9cbf3ad7842f6751e5471b" title="Update Project Data Paths. " alt="" coords="777,1338,962,1379"/>
+<area shape="rect" id="node19" href="$db/d81/class_multizone_manager.html#a31af396692953fd3c2afaa7df1362acc" title="This funciton restores the GUI to the single view. " alt="" coords="517,1506,693,1547"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a67ffdd782d38b6d9f1a823846a180a0b" title="Clear the console text and removes all the text. " alt="" coords="502,1572,709,1599"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#ae8c618a51d893ceca6a348826ce03862" title="Clear all the data to the default values. " alt="" coords="517,1455,693,1481"/>
+<area shape="rect" id="node26" href="$d6/deb/class_project_menu_tree_helper.html#a219362c019505cd16eaf6341a5668e08" title="ProjectMenuTreeHelper\l::clearProjectTreeView" alt="" coords="526,1623,685,1665"/>
+<area shape="rect" id="node27" href="$db/dc7/class_input_data_tab_helper.html#a29f698d34ade842856ae584d71c8c33d" title="Hide all the Tabs related with the solver Tool. " alt="" coords="533,1689,678,1730"/>
+<area shape="rect" id="node28" href="$db/dc7/class_input_data_tab_helper.html#aa569c715778ce295ebd294450b741a66" title="Disable All input data tab elements. " alt="" coords="523,171,688,213"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a675f7dec5c7fb6bfee1eccf9b1b1c426" title="Disable all the Tool Buttons. " alt="" coords="511,41,700,82"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#a245bbd08c7b0b2d290f8e5b51f9332f9" title="This function resets all the boolean variables of mainwindow. " alt="" coords="515,106,696,147"/>
+<area shape="rect" id="node34" href="$d3/de5/class_solver_plotter.html#a65e214b67ed7900832eaedb33a7a5762" title="SolverPlotter::resetLegend" alt="" coords="517,273,693,300"/>
+<area shape="rect" id="node37" href="$d3/de5/class_solver_plotter.html#ac7893a452ecc529ac2ff34502575cc8e" title="Function to clear the current Canvas. " alt="" coords="516,416,695,443"/>
+<area shape="rect" id="node39" href="$d4/df8/class_solver_residual_v_o.html#a08ad7ac80f7f23e2ff3947fd1ca0f31d" title="Clear all the data. " alt="" coords="501,551,709,577"/>
+<area shape="rect" id="node46" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="760,1831,979,1857"/>
+<area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#a47bf2ea8964456de9aac1b42d1e2cbbf" title="Reset the values of the menus of Solver to the default values. " alt="" coords="504,1755,707,1781"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="1253,1008,1438,1035"/>
+<area shape="rect" id="node8" href="$d9/d6e/class_solver_config_manager.html#ad59d2050960f89dfb88841633426610f" title="Function that uptades teh values of the DOM tree according to the Map values. " alt="" coords="796,835,943,877"/>
+<area shape="rect" id="node10" href="$d2/deb/class_solver_v_o.html#a893fc1f41af948ea04d54b7a83b2dbcf" title="Returns the solver map values. " alt="" coords="780,901,959,942"/>
+<area shape="rect" id="node11" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="1251,1148,1440,1175"/>
+<area shape="rect" id="node12" href="$dd/d2b/class_mesh_info_v_o.html#a60e430e3d4576a765bda8eed227791a5" title="MeshInfoVO::getMeshPath" alt="" coords="779,1135,959,1161"/>
+<area shape="rect" id="node13" href="$dd/d2b/class_mesh_info_v_o.html#a39483391c6c960085d70899d4b547736" title="MeshInfoVO::getMeshFileName" alt="" coords="765,1185,974,1212"/>
+<area shape="rect" id="node14" href="$db/dc7/class_input_data_tab_helper.html#a3d0bc3055175fedaa7bd63dbd6d7306e" title="Dialog to save with a different name a configuration file. " alt="" coords="800,1018,939,1059"/>
+<area shape="rect" id="node15" href="$d9/d6e/class_solver_config_manager.html#aa30655c16464ccdef4ac6543c69878d7" title="Functions that save the user configuration values into the file. " alt="" coords="1043,1035,1189,1077"/>
+<area shape="rect" id="node9" href="$d4/d0d/class_solver_config_reader.html#a410ad218bff1c8dc56054a5f0c649a24" title="Function taht updates all the values of the DOM tree. " alt="" coords="1047,835,1185,877"/>
+<area shape="rect" id="node17" href="$db/d28/class_util_files.html#a988a6cfe4fa0a03229ee7f741f6d2451" title="Update the project Data object values into the correspondent file and save it to disk. " alt="" coords="1037,1170,1195,1211"/>
+<area shape="rect" id="node18" href="$db/d28/class_util_files.html#abf266a68416aef239c8217fce17d7f4b" title="Update the multizone project Data object values into the correspondent file and save it to disk..." alt="" coords="1029,1338,1203,1379"/>
+<area shape="rect" id="node22" href="$d1/d82/class_project_details.html#afc3a42ba2960fb61762396f25769e53e" title="This function clear all the values of the object. " alt="" coords="799,1572,939,1599"/>
+<area shape="rect" id="node23" href="$dd/d2b/class_mesh_info_v_o.html#ac654ec77dcb43760be93d6deed1ae72f" title="MeshInfoVO::clear" alt="" coords="804,1623,935,1649"/>
+<area shape="rect" id="node24" href="$d4/dac/class_project_data.html#a904c6b9981afcff18ff1eea9035d7d30" title="This function is to clear all the data contained in the object. " alt="" coords="806,1455,933,1481"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a029ddbe59f617224f08014ea2295ba56" title="MainWindow::resetBoundary\lValues" alt="" coords="775,1506,964,1547"/>
+<area shape="rect" id="node29" href="$db/dc7/class_input_data_tab_helper.html#ae4223c34e5f54bf9167d0ce5eef5153b" title="Disable the change config action menu elements. " alt="" coords="758,135,981,177"/>
+<area shape="rect" id="node30" href="$db/dc7/class_input_data_tab_helper.html#ab22d7b181357dcf4e561b5f80542d310" title="Disable All current sim action menu elements. " alt="" coords="766,5,973,46"/>
+<area shape="rect" id="node31" href="$db/dc7/class_input_data_tab_helper.html#ad8ea9bac32125abf91bb1f6247b61e15" title="Disable the restart simulatio button. " alt="" coords="778,70,961,111"/>
+<area shape="rect" id="node35" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="780,266,959,307"/>
+<area shape="rect" id="node36" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="780,201,959,242"/>
+<area shape="rect" id="node38" href="$d3/de5/class_solver_plotter.html#afc41e2c5b67799518fb843fb2dd2ad14" title="Function to show the curves. " alt="" coords="780,332,959,359"/>
+<area shape="rect" id="node40" href="$d4/df8/class_solver_residual_v_o.html#a3fbb40f5ba13718602acc9de78cca9f2" title="Set number of iteration. " alt="" coords="768,383,971,409"/>
+<area shape="rect" id="node41" href="$d4/df8/class_solver_residual_v_o.html#aa6f52f2e4745fe02dd5d4a08bfa27d84" title="set Time Val " alt="" coords="777,434,961,475"/>
+<area shape="rect" id="node42" href="$d4/df8/class_solver_residual_v_o.html#add39c5bb919665b2b9c96b55442e7c4f" title="Set ResRho. " alt="" coords="768,500,971,527"/>
+<area shape="rect" id="node43" href="$d4/df8/class_solver_residual_v_o.html#a0f14f6066eba89ff4750ec3678d48876" title="Set ResRhoe. " alt="" coords="764,551,975,577"/>
+<area shape="rect" id="node44" href="$d4/df8/class_solver_residual_v_o.html#a997b591f98e89d33e53c45cfadb67485" title="Set Clift Total. " alt="" coords="780,602,959,643"/>
+<area shape="rect" id="node45" href="$d4/df8/class_solver_residual_v_o.html#a23f147e1a98947ead1ad8b715afc7907" title="Set CDrag Total. " alt="" coords="773,667,966,709"/>
+<area shape="rect" id="node49" href="$d9/dc6/class_main_window.html#a7e6e64a0ab3aa5d812846f376d8ccbb5" title="Activate the save Congifuration elements and save config as from the menu. " alt="" coords="505,1958,705,1999"/>
+</map>

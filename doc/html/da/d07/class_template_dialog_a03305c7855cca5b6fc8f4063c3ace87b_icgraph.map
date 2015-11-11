@@ -1,0 +1,7 @@
+<map id="TemplateDialog::setMenuList" name="TemplateDialog::setMenuList">
+<area shape="rect" id="node2" href="$da/d07/class_template_dialog.html#a606624556ca57185d5a04a144d5abbd8" title="Function that sets the Solver Config manager to set the Menu List to be used. " alt="" coords="245,51,421,93"/>
+<area shape="rect" id="node3" href="$dd/ddd/class_solver_helper.html#a3b7c86657c3c1e3e88c993f0f24c0353" title="SolverHelper::createConfiguration\lTemplateByUser" alt="" coords="469,17,688,58"/>
+<area shape="rect" id="node5" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="477,86,680,127"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#aa99a76c785c1551835217693aaec3028" title="This function is for creating customized templates for the configuration menus. " alt="" coords="736,5,936,61"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#afb8669037c48bf81b6475f61ccb316cd" title="This function allows to edit existing configuration templates. " alt="" coords="744,85,928,141"/>
+</map>

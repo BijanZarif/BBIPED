@@ -1,0 +1,29 @@
+<map id="WindowHelper/Menu/HelpMenuHelper.cpp" name="WindowHelper/Menu/HelpMenuHelper.cpp">
+<area shape="rect" id="node2" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="1425,96,1529,123"/>
+<area shape="rect" id="node49" href="$dd/d56/helpmanager_8h.html" title="Help/helpmanager.h" alt="" coords="599,96,737,123"/>
+<area shape="rect" id="node50" href="$de/d51/aboutusdialog_8h.html" title="Forms/aboutusdialog.h" alt="" coords="1553,96,1707,123"/>
+<area shape="rect" id="node9" href="$d7/d95/projectdata_8h.html" title="Data/ProjectData/VO\l/projectdata.h" alt="" coords="296,353,443,394"/>
+<area shape="rect" id="node10" href="$d7/d8d/solvervo_8h.html" title="Data/Solver/VO/solvervo.h" alt="" coords="417,451,596,477"/>
+<area shape="rect" id="node11" href="$d0/dad/solverconfigmanager_8h.html" title="Solver/solverconfigmanager.h" alt="" coords="1711,451,1905,477"/>
+<area shape="rect" id="node16" href="$d3/d2e/projectdetails_8h.html" title="../Data/ProjectData\l/VO/projectdetails.h" alt="" coords="205,534,341,575"/>
+<area shape="rect" id="node17" href="$da/da1/virtualmrfvo_8h.html" title="Data/Solver/VirtualMRF\l/virtualmrfvo.h" alt="" coords="1465,534,1625,575"/>
+<area shape="rect" id="node18" href="$dc/dab/solverbasicdialog_8h.html" title="Forms/SolverMenuDialog\l/solverbasicdialog.h" alt="" coords="2127,262,2296,303"/>
+<area shape="rect" id="node26" href="$d8/d02/summarydialog_8h.html" title="Forms/summarydialog.h" alt="" coords="2900,360,3063,387"/>
+<area shape="rect" id="node30" href="$df/dff/outputsolverparser_8h.html" title="Parser/Solver/outputsolverparser.h" alt="" coords="2567,269,2789,296"/>
+<area shape="rect" id="node31" href="$d6/d27/solverresidualvo_8h.html" title="Data/Solver/VO/solverresidualvo.h" alt="" coords="3498,360,3720,387"/>
+<area shape="rect" id="node32" href="$db/d18/plotterhelper_8h.html" title="Plotter/plotterhelper.h" alt="" coords="2880,179,3027,205"/>
+<area shape="rect" id="node39" href="$d8/d1b/solverplotter_8h.html" title="Plotter/solverplotter.h" alt="" coords="3447,269,3593,296"/>
+<area shape="rect" id="node40" href="$de/d08/inputdatatabhelper_8h.html" title="WindowHelper/MainWindow\l/inputdatatabhelper.h" alt="" coords="707,171,893,213"/>
+<area shape="rect" id="node41" href="$d7/d43/residualtabhelper_8h.html" title="WindowHelper/MainWindow\l/residualtabhelper.h" alt="" coords="3083,171,3269,213"/>
+<area shape="rect" id="node42" href="$db/d7e/meshdialog_8h.html" title="Forms/SolverMenuDialog\l/meshdialog.h" alt="" coords="2509,353,2677,394"/>
+<area shape="rect" id="node43" href="$dd/d1b/multizoneprojectdata_8h.html" title="Data/ProjectData/VO\l/multizoneprojectdata.h" alt="" coords="1229,534,1387,575"/>
+<area shape="rect" id="node44" href="$db/de9/userpreferencesdata_8h.html" title="Data/PreferencesData\l/userpreferencesdata.h" alt="" coords="1228,443,1381,485"/>
+<area shape="rect" id="node45" href="$d4/dd7/multizonemanager_8h.html" title="Multizone/multizonemanager.h" alt="" coords="837,269,1035,296"/>
+<area shape="rect" id="node46" href="$d9/d1c/projectmenutreehelper_8h.html" title="../WindowHelper/projectmenutreehelper.h" alt="" coords="518,360,780,387"/>
+<area shape="rect" id="node47" href="$d4/d64/meshinfovo_8h.html" title="Data/Solver/MeshInfo\l/meshinfovo.h" alt="" coords="1004,443,1152,485"/>
+<area shape="rect" id="node14" href="$de/dbe/solversectionvo_8h.html" title="Data/Solver/VO/solversectionvo.h" alt="" coords="2369,541,2588,568"/>
+<area shape="rect" id="node25" href="$dd/d1e/helpdialog_8h.html" title="Forms/helpdialog.h" alt="" coords="2947,451,3079,477"/>
+<area shape="rect" id="node27" href="$d6/df1/searchedpair_8h.html" title="Searcher/searchedpair.h" alt="" coords="2080,451,2243,477"/>
+<area shape="rect" id="node28" href="$da/d75/ruleengine_8h.html" title="Rule/ruleengine.h" alt="" coords="2753,360,2876,387"/>
+<area shape="rect" id="node29" href="$d6/d4f/searchpairhelper_8h.html" title="Searcher/searchpairhelper.h" alt="" coords="2249,360,2433,387"/>
+</map>

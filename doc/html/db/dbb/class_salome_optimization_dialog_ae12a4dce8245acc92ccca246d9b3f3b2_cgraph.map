@@ -1,0 +1,6 @@
+<map id="SalomeOptimizationDialog::runPythonFile" name="SalomeOptimizationDialog::runPythonFile">
+<area shape="rect" id="node2" href="$db/dbb/class_salome_optimization_dialog.html#a340579f2a53b3db620eb046cbe023bdb" title="SalomeOptimizationDialog\l::errorConsole" alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a870c0e1201b896e55ae11160d87f8c81" title="SalomeOptimizationDialog\l::meshCreationFinished" alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#ae32cabba16b69277d9cbe4601272debe" title="SalomeOptimizationDialog\l::outputConsole" alt="" coords="229,135,405,177"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a397568bc12da0c5141762ff9f7a24991" title="SalomeOptimizationDialog\l::slotProcessError" alt="" coords="229,201,405,242"/>
+</map>

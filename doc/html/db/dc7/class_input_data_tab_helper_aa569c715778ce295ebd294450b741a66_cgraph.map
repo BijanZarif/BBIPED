@@ -1,0 +1,5 @@
+<map id="InputDataTabHelper::disableAllInputDataTab" name="InputDataTabHelper::disableAllInputDataTab">
+<area shape="rect" id="node3" href="$db/dc7/class_input_data_tab_helper.html#ae4223c34e5f54bf9167d0ce5eef5153b" title="Disable the change config action menu elements. " alt="" coords="220,5,441,51"/>
+<area shape="rect" id="node5" href="$db/dc7/class_input_data_tab_helper.html#ab22d7b181357dcf4e561b5f80542d310" title="Disable All current sim action menu elements. " alt="" coords="228,74,433,121"/>
+<area shape="rect" id="node7" href="$db/dc7/class_input_data_tab_helper.html#ad8ea9bac32125abf91bb1f6247b61e15" title="Disable the restart simulatio button. " alt="" coords="240,143,421,190"/>
+</map>

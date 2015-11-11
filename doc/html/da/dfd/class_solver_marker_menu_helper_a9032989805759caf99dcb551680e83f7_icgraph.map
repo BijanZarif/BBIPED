@@ -1,0 +1,5 @@
+<map id="SolverMarkerMenuHelper::addMarkerVariable" name="SolverMarkerMenuHelper::addMarkerVariable">
+<area shape="rect" id="node2" href="$da/dfd/class_solver_marker_menu_helper.html#a256cd2e13436150f3982efa4fe8578bc" title="This funtcion allow to fill the specific marker menu table in the Solver Basic dialog. " alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="443,12,587,39"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="635,5,842,46"/>
+</map>

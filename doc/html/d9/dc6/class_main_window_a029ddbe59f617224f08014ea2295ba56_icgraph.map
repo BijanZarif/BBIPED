@@ -1,0 +1,25 @@
+<map id="MainWindow::resetBoundaryValues" name="MainWindow::resetBoundaryValues">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae8c618a51d893ceca6a348826ce03862" title="Clear all the data to the default values. " alt="" coords="248,199,424,225"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="246,250,426,291"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="243,315,429,357"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="490,199,667,225"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="728,191,912,233"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="963,35,1154,61"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="961,86,1156,127"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1937,174,2125,215"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="963,437,1155,478"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="2173,353,2365,394"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="961,244,1157,271"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1212,5,1383,32"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1205,57,1389,98"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1206,237,1389,278"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1438,203,1621,245"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1438,269,1621,310"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1669,203,1888,245"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="1943,335,2118,361"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1685,269,1872,310"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1941,269,2121,310"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="2179,276,2359,303"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="477,315,680,357"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="483,250,674,291"/>
+</map>

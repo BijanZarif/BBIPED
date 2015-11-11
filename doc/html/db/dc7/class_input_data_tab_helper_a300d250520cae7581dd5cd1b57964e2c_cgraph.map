@@ -1,0 +1,7 @@
+<map id="InputDataTabHelper::showAllSolverMenus" name="InputDataTabHelper::showAllSolverMenus">
+<area shape="rect" id="node3" href="$db/dc7/class_input_data_tab_helper.html#a7b959e0014a5e154b3e309adbf495e23" title="This fucntion enables the configuration action menu according project data information. " alt="" coords="207,109,412,155"/>
+<area shape="rect" id="node5" href="$db/dc7/class_input_data_tab_helper.html#acc2b1e4aa9e769e39bd25efe1d129e84" title="Enable Change Config Action Menu elements. " alt="" coords="463,5,681,51"/>
+<area shape="rect" id="node7" href="$db/dc7/class_input_data_tab_helper.html#aa356236cf5e634cbd18967f6fa1ee551" title="Enable the Simulation Action Menu Elements. " alt="" coords="471,74,673,121"/>
+<area shape="rect" id="node9" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="483,143,661,190"/>
+<area shape="rect" id="node11" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="481,213,663,259"/>
+</map>

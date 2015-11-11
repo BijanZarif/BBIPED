@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#af6a85fe48a91538d9931911eae364850" title="SalomeTemplateDialog::on_deleteTemplateButton_clicked" alt="" coords="248,5,608,35"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog::on_templateComboBox_currentIndexChanged" alt="" coords="203,59,653,88"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#ae96b667e11c1f6155d63dbe47d0be74f" title="SalomeTemplateDialog::on_templateSelComboBox_currentIndexChanged" alt="" coords="203,112,653,141"/>
+</map>

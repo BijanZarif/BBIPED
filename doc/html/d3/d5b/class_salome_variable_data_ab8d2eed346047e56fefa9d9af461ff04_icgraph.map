@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/dbb/class_salome_optimization_dialog.html#a4f4ee6f05ca417869455c22bf736f3c4" title="SalomeOptimizationDialog::addRow" alt="" coords="337,5,569,35"/>
+<area shape="rect" id="node9" href="$d9/df1/class_salome_template_manager.html#a42709c1aef0fadfae22ad3c93e3a8dea" title="SalomeTemplateManager::saveVariableData" alt="" coords="313,59,593,88"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog::fillTable" alt="" coords="643,5,872,35"/>
+<area shape="rect" id="node7" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog::on_templateComboBox_currentIndexChanged" alt="" coords="920,5,1371,35"/>
+</map>

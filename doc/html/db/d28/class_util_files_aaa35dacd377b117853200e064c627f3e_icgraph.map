@@ -1,0 +1,8 @@
+<map id="UtilFiles::createLink" name="UtilFiles::createLink">
+<area shape="rect" id="node2" href="$db/d1a/class_solver_util.html#ac9d0760cd201fe98fdd0cd4d4f3092b5" title="Function to import an existent mesh file. " alt="" coords="192,23,363,65"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="421,5,616,32"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="411,56,627,83"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="675,56,869,83"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="918,15,1117,57"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="920,81,1115,122"/>
+</map>

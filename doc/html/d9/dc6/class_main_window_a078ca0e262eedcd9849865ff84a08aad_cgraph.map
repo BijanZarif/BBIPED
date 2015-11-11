@@ -1,0 +1,5 @@
+<map id="MainWindow::getCurrentUserPreferences" name="MainWindow::getCurrentUserPreferences">
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="255,5,465,51"/>
+<area shape="rect" id="node5" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="248,74,472,121"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="257,143,463,190"/>
+</map>

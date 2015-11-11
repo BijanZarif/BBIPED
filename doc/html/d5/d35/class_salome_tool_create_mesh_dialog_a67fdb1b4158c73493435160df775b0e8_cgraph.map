@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d0e/class_salome_python_file_util.html#a472a19d6107cbf3fc37af9ab0a0b6bb5" title="SalomePythonFileUtil::buildPythonFile" alt="" coords="405,32,651,61"/>
+<area shape="rect" id="node21" href="$dc/def/class_salome_template_data.html#a14727dc5b6efaf34643e099a29ce7d3c" title="SalomeTemplateData::isEmpty" alt="" coords="427,85,629,115"/>
+<area shape="rect" id="node23" href="$d3/d0e/class_salome_python_file_util.html#a3071729dbf6d4f534f41512a20e3a276" title="SalomePythonFileUtil::setFileName" alt="" coords="413,139,643,168"/>
+<area shape="rect" id="node25" href="$d3/d0e/class_salome_python_file_util.html#adea6657f1c44aa7b057c3838cbf2a19a" title="SalomePythonFileUtil::setPathProject" alt="" coords="407,192,649,221"/>
+<area shape="rect" id="node27" href="$d3/d0e/class_salome_python_file_util.html#a2461962dbede5536dee34cfb4ec9bc22" title="SalomePythonFileUtil::setTemplateData" alt="" coords="400,245,656,275"/>
+<area shape="rect" id="node5" href="$d3/d0e/class_salome_python_file_util.html#a079b7c80638d27d08b756ddb0e468488" title="SalomePythonFileUtil::buildHeader" alt="" coords="705,5,929,35"/>
+<area shape="rect" id="node7" href="$d3/d0e/class_salome_python_file_util.html#ac8928a74e9de8e40fb15ba1bd5b10278" title="SalomePythonFileUtil::buildMain" alt="" coords="712,59,923,88"/>
+<area shape="rect" id="node9" href="$dc/def/class_salome_template_data.html#a293119f3ae20cdcb4a3b8184ff902075" title="SalomeTemplateData::getTemplateFileName" alt="" coords="993,32,1276,61"/>
+<area shape="rect" id="node11" href="$d3/d0e/class_salome_python_file_util.html#a91bd36b392ef131f2eb5ccb417bacde7" title="SalomePythonFileUtil::getVariablesFromTemplate" alt="" coords="979,85,1291,115"/>
+<area shape="rect" id="node13" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="SalomeVariableData::getCurrentValue" alt="" coords="1339,5,1581,35"/>
+<area shape="rect" id="node15" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="SalomeVariableData::getDefaultValue" alt="" coords="1339,59,1581,88"/>
+<area shape="rect" id="node17" href="$d3/d5b/class_salome_variable_data.html#ab5739efa71d2b4a07f3b1b376371d88c" title="SalomeVariableData::getFileName" alt="" coords="1349,112,1571,141"/>
+<area shape="rect" id="node19" href="$dc/def/class_salome_template_data.html#ad49a53d0e6c4084e00b31e0120ff4446" title="SalomeTemplateData::getVariableList" alt="" coords="1339,165,1581,195"/>
+</map>

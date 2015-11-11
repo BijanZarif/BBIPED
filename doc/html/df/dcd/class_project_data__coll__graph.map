@@ -1,0 +1,3 @@
+<map id="ProjectData" name="ProjectData">
+<area shape="rect" id="node2" href="$d2/deb/class_solver_v_o.html" title="{SolverVO\n|&#45; _solverConfigFileMapValues\l&#45; _solverConfigFilePath\l&#45; _solverEngine\l&#45; _solverFilePath\l|+ SolverVO()\l+ ~SolverVO()\l+ clear()\l+ copy()\l+ getSolverConfigFileMapValues()\l+ getSolverConfigFilePath()\l+ getSolverFilePath()\l+ isConfigFileEmpty()\l+ isMeshFileEmpty()\l+ resetMapValues()\l+ setSolverConfigFileMapValues()\l+ setSolverConfigFilePath()\l+ setSolverFilePath()\l+ updateSolverConfigFileMap\lValues()\l}" alt="" coords="5,6,227,333"/>
+</map>

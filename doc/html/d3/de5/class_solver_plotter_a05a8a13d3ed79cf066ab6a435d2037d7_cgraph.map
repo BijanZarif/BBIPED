@@ -1,0 +1,5 @@
+<map id="SolverPlotter::updateLegendItemsInGraphic" name="SolverPlotter::updateLegendItemsInGraphic">
+<area shape="rect" id="node2" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="241,5,420,46"/>
+<area shape="rect" id="node3" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="241,70,420,111"/>
+<area shape="rect" id="node4" href="$d3/de5/class_solver_plotter.html#a990d030828bc29c5e58a4f0b90faec4e" title="SolverPlotter::setReadOnly\lLegend" alt="" coords="240,135,421,177"/>
+</map>

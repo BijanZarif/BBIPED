@@ -1,0 +1,10 @@
+<map id="ConfigurationFileParser::saveVirtualMRFValue" name="ConfigurationFileParser::saveVirtualMRFValue">
+<area shape="rect" id="node2" href="$da/dfd/class_configuration_file_parser.html#a01697ad8dae8ccdab90a8332d0a60060" title="ConfigurationFileParser\l::findVirtualMRFPositionByZoneName" alt="" coords="214,5,458,46"/>
+<area shape="rect" id="node4" href="$d5/dc9/class_virtual_mrf_v_o.html#aa223af4b7402fb58bc7ad1dccf9f0870" title="Set Axis Center. " alt="" coords="242,71,430,97"/>
+<area shape="rect" id="node5" href="$d5/dc9/class_virtual_mrf_v_o.html#a9bc6d8e62c6bec5d2af3eaf07192237b" title="Set Axis Normal. " alt="" coords="241,121,431,148"/>
+<area shape="rect" id="node6" href="$d5/dc9/class_virtual_mrf_v_o.html#a3c2da7f3f1ebff7c14ee6a6431efbfd8" title="Set the list of inner curve points. " alt="" coords="243,173,429,214"/>
+<area shape="rect" id="node7" href="$d5/dc9/class_virtual_mrf_v_o.html#af4686d0908780a5dab280237780cca99" title="Set omega. " alt="" coords="253,239,419,265"/>
+<area shape="rect" id="node8" href="$d5/dc9/class_virtual_mrf_v_o.html#a787ec6b4f6612a85f2a3133e7835e345" title="Set the list of outer curve points. " alt="" coords="241,290,431,331"/>
+<area shape="rect" id="node9" href="$d5/dc9/class_virtual_mrf_v_o.html#a38d1fd19fa48708d2692de2b014975ab" title="Set Zone name. " alt="" coords="243,356,429,383"/>
+<area shape="rect" id="node3" href="$d5/dc9/class_virtual_mrf_v_o.html#a1e1c2389ee9c60662605bbdf0db06c34" title="Get tbe name of the zone. " alt="" coords="507,12,693,39"/>
+</map>

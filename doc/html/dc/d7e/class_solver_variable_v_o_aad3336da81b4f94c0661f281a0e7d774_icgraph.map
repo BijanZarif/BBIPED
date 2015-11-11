@@ -1,0 +1,21 @@
+<map id="SolverVariableVO::getHelpContents" name="SolverVariableVO::getHelpContents">
+<area shape="rect" id="node2" href="$d8/d02/class_virtual_rotating_dialog.html#ab6d7f3fbef55ef9308cc7ff59b286ca7" title="VirtualRotatingDialog\l::buildAssociatedHelp" alt="" coords="257,49,407,90"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="485,229,683,256"/>
+<area shape="rect" id="node11" href="$de/d2b/class_virtual_curve_dialog.html#aa32e899aa8b1ec93e838075333e0c86e" title="VirtualCurveDialog\l::generateHelpDialog" alt="" coords="260,157,404,198"/>
+<area shape="rect" id="node14" href="$db/d40/class_solver_config_menu_helper.html#a531ed471f5cd19b036cf86087e946daf" title="Function that gets the correspondent help text of a variable Name. " alt="" coords="249,281,415,322"/>
+<area shape="rect" id="node20" href="$d2/d41/class_summary_dialog.html#ac2ed46d4a066ceb2b4a50f077a439e5f" title="Function that loads the help text in a new window. " alt="" coords="233,346,431,387"/>
+<area shape="rect" id="node3" href="$d8/d02/class_virtual_rotating_dialog.html#acf34d7c8768f49fdbf9daab0bb40ffec" title="VirtualRotatingDialog\l::on_zoneInfoTable_cellClicked" alt="" coords="482,5,686,46"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="736,222,920,263"/>
+<area shape="rect" id="node10" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="972,163,1156,205"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="969,229,1159,270"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1208,236,1371,263"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1419,236,1563,263"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1611,229,1818,270"/>
+<area shape="rect" id="node12" href="$de/d2b/class_virtual_curve_dialog.html#ac9e93afe86b88e80cb934d23800e5b01" title="VirtualCurveDialog\l::on_innerButtonHelp\l_clicked" alt="" coords="512,69,656,125"/>
+<area shape="rect" id="node13" href="$de/d2b/class_virtual_curve_dialog.html#a42b14cb172b5ce30da619d1c6c199b8b" title="VirtualCurveDialog\l::on_outerButtonHelp\l_clicked" alt="" coords="511,149,657,205"/>
+<area shape="rect" id="node15" href="$d3/d40/class_solver_basic_dialog.html#a2a672a6fe104f8865b3f2a83f325f66e" title="Function to build all the tooltips. " alt="" coords="515,281,653,322"/>
+<area shape="rect" id="node17" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="481,345,687,401"/>
+<area shape="rect" id="node18" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="502,425,666,481"/>
+<area shape="rect" id="node19" href="$da/d07/class_template_dialog.html#aacf24afa26c633e060298192937870db" title="TemplateDialog::on\l_variablesToSelectTableWidget\l_cellClicked" alt="" coords="481,505,687,561"/>
+<area shape="rect" id="node16" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="736,287,920,329"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#acd8d7c9b17b3fa9da87f6105588479ef" title="This function initializes all the variables needed by this dialog in case other solver engine has bee..." alt="" coords="403,5,579,35"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a985bee50ee9f1ebf933185c5515a7095" title="Radio Button function taht controls the behaviour when hte default Customized Solver engine radio but..." alt="" coords="309,59,672,88"/>
+<area shape="rect" id="node7" href="$d7/d4e/class_preference_dialog.html#a584b61f39e054eba8e58779b5a0bf003" title="Radio Button function taht controls the behaviour when hte default Solver engine radio button is sele..." alt="" coords="324,112,657,141"/>
+<area shape="rect" id="node9" href="$d7/d4e/class_preference_dialog.html#a8566075479b6fa6364121da27a2e1b5b" title="Radio Button function taht controls the behaviour when hte default Multizone solver engine radio butt..." alt="" coords="316,165,665,195"/>
+<area shape="rect" id="node11" href="$d7/d4e/class_preference_dialog.html#a3674b7e74dba168528694c26635b2844" title="Radio Button function taht controls the behaviour when the virtual Solver engine radio button is sele..." alt="" coords="325,219,656,248"/>
+<area shape="rect" id="node13" href="$d7/d4e/class_preference_dialog.html#acf9e96979fd4cb292ffb31970156a658" title="Reset the solver engine Tab to its defaults." alt="" coords="361,272,620,301"/>
+<area shape="rect" id="node15" href="$d7/d4e/class_preference_dialog.html#a2c0ca0f947753628d252c98ed1f27ace" title="Reset all the tabs to their default values." alt="" coords="721,272,1113,301"/>
+</map>

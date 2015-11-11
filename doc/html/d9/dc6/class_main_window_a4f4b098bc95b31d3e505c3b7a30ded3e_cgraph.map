@@ -1,0 +1,15 @@
+<map id="MainWindow::outlog" name="MainWindow::outlog">
+<area shape="rect" id="node2" href="$de/d2e/class_output_solver_parser.html#a0828a517d04228d60b2c0fb94a13ba6d" title="Returns true if the line contains data available to be parsed. " alt="" coords="195,5,421,46"/>
+<area shape="rect" id="node3" href="$de/d2e/class_output_solver_parser.html#ae31b7b49a0ff07a10ade1dc55c53add6" title="Returns if the parsing has already started. " alt="" coords="240,70,376,111"/>
+<area shape="rect" id="node4" href="$de/d2e/class_output_solver_parser.html#a5f5f9ebd5610ce458e4506c7f37617f0" title="Function that performs the parsing of the line to extract the values. " alt="" coords="240,135,376,177"/>
+<area shape="rect" id="node5" href="$d3/de5/class_solver_plotter.html#a2e2c06c5e5813b1e05f5c5124bfc9f1a" title="Function that shows the points of the read curve. " alt="" coords="221,201,395,228"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a66e699fbe4da61244ad740e5fa7d0170" title="Stop current solver running process. " alt="" coords="201,307,415,333"/>
+<area shape="rect" id="node6" href="$d4/df8/class_solver_residual_v_o.html#a87fc836b6f348debe0b7a07ee8c659d5" title="return Number of iteration " alt="" coords="477,92,680,119"/>
+<area shape="rect" id="node7" href="$d3/de5/class_solver_plotter.html#a05a8a13d3ed79cf066ab6a435d2037d7" title="SolverPlotter::updateLegend\lItemsInGraphic" alt="" coords="485,194,672,235"/>
+<area shape="rect" id="node9" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="737,129,916,170"/>
+<area shape="rect" id="node10" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="737,259,916,301"/>
+<area shape="rect" id="node11" href="$d4/df8/class_solver_residual_v_o.html#af3c0f171c7a3a8644a5bbfc1b833e78f" title="Return ResRho. " alt="" coords="477,311,680,337"/>
+<area shape="rect" id="node12" href="$d4/df8/class_solver_residual_v_o.html#a8d3caba2f96f674ffaa1f2f4a4d0d087" title="Return ResRhoe. " alt="" coords="473,41,684,68"/>
+<area shape="rect" id="node8" href="$d3/de5/class_solver_plotter.html#a990d030828bc29c5e58a4f0b90faec4e" title="SolverPlotter::setReadOnly\lLegend" alt="" coords="736,194,917,235"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="469,361,688,388"/>
+</map>

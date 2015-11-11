@@ -1,0 +1,27 @@
+<map id="SolverConfigManager::initializeManager" name="SolverConfigManager::initializeManager">
+<area shape="rect" id="node2" href="$da/d1e/class_multizone_project_dialog.html#abfd3a5d2212e147775889ce63da74b25" title="Function that actually build the project files into the correspondent project folder. " alt="" coords="227,22,383,63"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ae8820e37fa876185d8538ea5f5304a54" title="Initialize Solver manager, user Preferences data manager. " alt="" coords="201,104,410,131"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="228,187,383,213"/>
+<area shape="rect" id="node10" href="$d3/d40/class_solver_basic_dialog.html#a124b650fb15856cc459baead624b69e3" title="Load the corresponding Tree menu according with the user selection (basic view or advanced view) ..." alt="" coords="237,290,374,331"/>
+<area shape="rect" id="node18" href="$d4/dae/class_file_comparison_dialog.html#a79db6f55080aeb9a498f51a1983f12db" title="Action that controls when the user accept the changes. " alt="" coords="220,355,391,397"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a562cab832fe55422a6b142428c102712" title="Action when the Solver Button is clicked. " alt="" coords="206,421,405,462"/>
+<area shape="rect" id="node20" href="$d3/d40/class_solver_basic_dialog.html#a782b4ac7a722e86a40638e45d05714cb" title="Function to reset all. " alt="" coords="214,486,397,527"/>
+<area shape="rect" id="node21" href="$da/d07/class_template_dialog.html#a606624556ca57185d5a04a144d5abbd8" title="Function that sets the Solver Config manager to set the Menu List to be used. " alt="" coords="217,553,393,594"/>
+<area shape="rect" id="node26" href="$d4/dfe/class_warning_multizone_dialog.html#a8cee29b6c3033c65dafa2157986d6f47" title="Constructor. " alt="" coords="220,618,391,659"/>
+<area shape="rect" id="node3" href="$da/d1e/class_multizone_project_dialog.html#ab7c8b49ca061b1c0064f5c7cece5e4d4" title="MultizoneProjectDialog\l::accept" alt="" coords="490,5,646,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="478,71,658,97"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="469,121,667,148"/>
+<area shape="rect" id="node9" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="475,172,661,228"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="725,114,960,155"/>
+<area shape="rect" id="node11" href="$db/dc7/class_input_data_tab_helper.html#adb7f56808a6d8b325cffe2072dd5652a" title="Initialize Solver Basic Dialog Window. " alt="" coords="476,251,660,293"/>
+<area shape="rect" id="node15" href="$d3/d40/class_solver_basic_dialog.html#a7a27f58ab3c053a63a0036572c96998b" title="Function that restore the elements for the BASIC VIEW. " alt="" coords="481,316,655,372"/>
+<area shape="rect" id="node16" href="$d3/d40/class_solver_basic_dialog.html#abd1bc03e252061b685652e3ec173967d" title="Function that restore the elements for the ADVANCED VIEW. " alt="" coords="478,396,658,452"/>
+<area shape="rect" id="node17" href="$d3/d40/class_solver_basic_dialog.html#aa6b3d6b86a2b05192ff1df142507cc43" title="Function that controls the functionality when the user click the reset to default button..." alt="" coords="492,476,644,532"/>
+<area shape="rect" id="node12" href="$db/dc7/class_input_data_tab_helper.html#aad029808496ec32bfe949604c9c95077" title="Launch the Solver Configuration Dialog. " alt="" coords="753,251,933,293"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a3bc6ca420cebce93315bc7c8034dfc20" title="SOLVER: Main functionality to show the basic configuration view for the Physics config menu..." alt="" coords="1008,215,1195,257"/>
+<area shape="rect" id="node14" href="$d9/d2e/class_multizone_individual_tab_form.html#a4270609ed9ad0df6d8d4d2962890d75c" title="MultizoneIndividualTabForm\l::on_editConfigFileButton\l_clicked" alt="" coords="1009,280,1194,336"/>
+<area shape="rect" id="node22" href="$dd/ddd/class_solver_helper.html#a3b7c86657c3c1e3e88c993f0f24c0353" title="SolverHelper::createConfiguration\lTemplateByUser" alt="" coords="459,555,677,597"/>
+<area shape="rect" id="node24" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="467,625,669,666"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#aa99a76c785c1551835217693aaec3028" title="This function is for creating customized templates for the configuration menus. " alt="" coords="743,544,943,600"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#afb8669037c48bf81b6475f61ccb316cd" title="This function allows to edit existing configuration templates. " alt="" coords="751,624,935,680"/>
+</map>

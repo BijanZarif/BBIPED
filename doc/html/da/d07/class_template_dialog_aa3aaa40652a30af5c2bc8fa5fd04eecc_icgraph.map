@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="328,5,717,35"/>
+<area shape="rect" id="node5" href="$da/d07/class_template_dialog.html#a51f111beef8727da21655ab5cdad2633" title="This function refresh the table of selected variables." alt="" coords="397,59,648,88"/>
+<area shape="rect" id="node7" href="$da/d07/class_template_dialog.html#a2806beb8d46f4d6b8aa347a727ab0207" title="Slot function that controls those variables that have been selected." alt="" coords="767,59,1164,88"/>
+</map>

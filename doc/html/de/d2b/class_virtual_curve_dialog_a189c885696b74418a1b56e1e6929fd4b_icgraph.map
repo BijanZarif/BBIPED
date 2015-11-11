@@ -1,0 +1,5 @@
+<map id="VirtualCurveDialog::deleteRow" name="VirtualCurveDialog::deleteRow">
+<area shape="rect" id="node2" href="$de/d2b/class_virtual_curve_dialog.html#ad28c83be84f95b2c4c7b086e0246289f" title="VirtualCurveDialog\l::rowAddRemoveSpinBox" alt="" coords="185,53,357,94"/>
+<area shape="rect" id="node3" href="$de/d2b/class_virtual_curve_dialog.html#a7f3a9ae739b7a47dd70d15871ec28ee9" title="VirtualCurveDialog\l::on_innerCurveSpinBox\l_valueChanged" alt="" coords="405,5,568,61"/>
+<area shape="rect" id="node4" href="$de/d2b/class_virtual_curve_dialog.html#a397010405dad498df42171b864d50abc" title="VirtualCurveDialog\l::on_outerCurvespinBox\l_valueChanged" alt="" coords="405,85,568,141"/>
+</map>

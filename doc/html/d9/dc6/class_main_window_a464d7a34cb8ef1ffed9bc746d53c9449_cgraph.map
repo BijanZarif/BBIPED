@@ -1,0 +1,43 @@
+<map id="MainWindow::on_meshRefreshButton_clicked" name="MainWindow::on_meshRefreshButton_clicked">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a445c9bd59170fd71490caac421f5236f" title="This function checks the mesh boundary names. " alt="" coords="259,372,474,399"/>
+<area shape="rect" id="node8" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="529,5,711,46"/>
+<area shape="rect" id="node9" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="525,659,715,685"/>
+<area shape="rect" id="node17" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty. " alt="" coords="293,592,440,619"/>
+<area shape="rect" id="node18" href="$db/dc7/class_input_data_tab_helper.html#a4cde6c73f9e46809969bc1d099fef611" title="Parse the correspondent files to get the values to load into the project variables. " alt="" coords="297,805,436,846"/>
+<area shape="rect" id="node3" href="$da/dfd/class_solver_marker_menu_helper.html#ae7af67cf49cc9ed3b2cbf853ced48bcb" title="Function that cheks the Marker mesh variables. " alt="" coords="525,266,715,307"/>
+<area shape="rect" id="node6" href="$d4/dfe/class_warning_multizone_dialog.html#aa68e550e466c044a9e468ffab8762381" title="Function to get the configuration values. " alt="" coords="539,331,701,373"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="531,397,709,438"/>
+<area shape="rect" id="node10" href="$d4/dfe/class_warning_multizone_dialog.html#a368aee367fb87cf779ff3f9250afd4fd" title="Function to set the file names under analysis. " alt="" coords="539,462,701,503"/>
+<area shape="rect" id="node12" href="$d4/dfe/class_warning_multizone_dialog.html#ae0c534aadf689a17f8d448808a2008f0" title="Function that returns if it is needed to uptdate the values. " alt="" coords="539,527,701,569"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a2708d7e878d7fe455dc16b5e766d8514" title="Reset the marker values to their old values. " alt="" coords="523,593,717,634"/>
+<area shape="rect" id="node14" href="$d4/dfe/class_warning_multizone_dialog.html#acd79d008cc7d3884062b952a65689552" title="Function to set the configuration values. " alt="" coords="539,70,701,111"/>
+<area shape="rect" id="node15" href="$d4/dfe/class_warning_multizone_dialog.html#a27ea2dfb2fb3c96bfd7b7bdbc835c78b" title="Function to set the mesh values. " alt="" coords="539,135,701,177"/>
+<area shape="rect" id="node16" href="$d4/dfe/class_warning_multizone_dialog.html#a9d6e2bafec5465b355d5f96ede80bae3" title="Function that returns if the user accept the changes. " alt="" coords="539,201,701,242"/>
+<area shape="rect" id="node4" href="$d0/df5/class_list_helper.html#a38b9c13f807140ed0a38e549f89cdf07" title="Function that obtains a Qstringlist formed by the values contained in the map (excluding the keys) ..." alt="" coords="766,248,965,275"/>
+<area shape="rect" id="node5" href="$d0/df5/class_list_helper.html#a3a7bc23fff895458e1424f500f8d7ca5" title="Function that searchs the value into the list, returns true if it is found. " alt="" coords="770,299,961,325"/>
+<area shape="rect" id="node11" href="$d4/dfe/class_warning_multizone_dialog.html#aaca9493942d2956b759a178a4295293c" title="Function that enables the sectioos for repairing the data. " alt="" coords="780,462,951,503"/>
+<area shape="rect" id="node19" href="$d6/d6c/class_parser_files.html#a140dc42218b96cfe215fca2481c67a3c" title="Returns the map of the parsed values. " alt="" coords="523,892,717,919"/>
+<area shape="rect" id="node20" href="$da/dfd/class_configuration_file_parser.html#a1223ad119dda978e721f9ca190bb855f" title="ConfigurationFileParser\l::getParsedVirtualMRFData" alt="" coords="529,943,711,985"/>
+<area shape="rect" id="node21" href="$dc/d6c/class_mesh_file_parser.html#a57bf6cc67f2143dbd5fe4b960b5c24da" title="Main function to parse the file. " alt="" coords="533,775,707,817"/>
+<area shape="rect" id="node28" href="$da/dfd/class_configuration_file_parser.html#a55e818131fc6f86e3b1c41e56dad1d25" title="Main function to parse the file. " alt="" coords="541,710,699,751"/>
+<area shape="rect" id="node42" href="$d6/d6c/class_parser_files.html#aa87ba9f1732337f4d63b3ff2084f737c" title="Establish the file path. " alt="" coords="539,841,701,868"/>
+<area shape="rect" id="node22" href="$d6/d6c/class_parser_files.html#a2dbed119cf51a91caf28cb78e635ac87" title="Returns the path of the file. " alt="" coords="784,776,947,803"/>
+<area shape="rect" id="node23" href="$dc/d6c/class_mesh_file_parser.html#aebee2e8f990cfb5b4ff175d0e0c8ab35" title="Function that analyses the line to be parsed. " alt="" coords="770,827,961,853"/>
+<area shape="rect" id="node27" href="$d6/d6c/class_parser_files.html#a1e99a5760c94b9fd29def9ac7110ccaa" title="Sets the parsed values. " alt="" coords="768,725,963,752"/>
+<area shape="rect" id="node24" href="$dc/d6c/class_mesh_file_parser.html#aba5b2fd4579ffba8ff427096a5b4204f" title="Function that checks if the line contains the MARKER_TAG. " alt="" coords="1021,771,1192,813"/>
+<area shape="rect" id="node25" href="$dc/d6c/class_mesh_file_parser.html#ac7e39ae284dd366bedb91975929f4c56" title="Function that stores the parsed toked elements. " alt="" coords="1014,837,1199,878"/>
+<area shape="rect" id="node26" href="$d6/d6c/class_parser_files.html#ae7a17191e875ceb419736cc9b98ab8cd" title="Function to remove spaces in the values. " alt="" coords="1249,825,1431,852"/>
+<area shape="rect" id="node29" href="$da/dfd/class_configuration_file_parser.html#a849ec557127293a405de43b51fb52f51" title="Function that analyses the line to be parsed. " alt="" coords="786,659,945,701"/>
+<area shape="rect" id="node30" href="$da/dfd/class_configuration_file_parser.html#a4c8225d6a8839180a59f1a74df7f4735" title="Checks if the line is a commented line to skip it. " alt="" coords="1027,641,1186,682"/>
+<area shape="rect" id="node31" href="$da/dfd/class_configuration_file_parser.html#a2bcaa84cb390cee27fc45bfd72090392" title="Save the parsed element. " alt="" coords="1027,706,1186,747"/>
+<area shape="rect" id="node32" href="$da/dfd/class_configuration_file_parser.html#a9e290a1f8362d17a2d52ca1fc0f51ccc" title="ConfigurationFileParser\l::removeCommentedPart" alt="" coords="1256,674,1424,715"/>
+<area shape="rect" id="node33" href="$da/dfd/class_configuration_file_parser.html#aa6fae2b9d9aacc2ba472881cb2027ae7" title="ConfigurationFileParser\l::saveVirtualMRFValue" alt="" coords="1261,739,1419,781"/>
+<area shape="rect" id="node34" href="$da/dfd/class_configuration_file_parser.html#a01697ad8dae8ccdab90a8332d0a60060" title="ConfigurationFileParser\l::findVirtualMRFPositionByZoneName" alt="" coords="1481,571,1725,613"/>
+<area shape="rect" id="node36" href="$d5/dc9/class_virtual_mrf_v_o.html#aa223af4b7402fb58bc7ad1dccf9f0870" title="Set Axis Center. " alt="" coords="1509,637,1697,664"/>
+<area shape="rect" id="node37" href="$d5/dc9/class_virtual_mrf_v_o.html#a9bc6d8e62c6bec5d2af3eaf07192237b" title="Set Axis Normal. " alt="" coords="1507,688,1698,715"/>
+<area shape="rect" id="node38" href="$d5/dc9/class_virtual_mrf_v_o.html#a3c2da7f3f1ebff7c14ee6a6431efbfd8" title="Set the list of inner curve points. " alt="" coords="1509,739,1696,781"/>
+<area shape="rect" id="node39" href="$d5/dc9/class_virtual_mrf_v_o.html#af4686d0908780a5dab280237780cca99" title="Set omega. " alt="" coords="1520,805,1685,832"/>
+<area shape="rect" id="node40" href="$d5/dc9/class_virtual_mrf_v_o.html#a787ec6b4f6612a85f2a3133e7835e345" title="Set the list of outer curve points. " alt="" coords="1507,857,1698,898"/>
+<area shape="rect" id="node41" href="$d5/dc9/class_virtual_mrf_v_o.html#a38d1fd19fa48708d2692de2b014975ab" title="Set Zone name. " alt="" coords="1509,923,1696,949"/>
+<area shape="rect" id="node35" href="$d5/dc9/class_virtual_mrf_v_o.html#a1e1c2389ee9c60662605bbdf0db06c34" title="Get tbe name of the zone. " alt="" coords="1773,579,1960,605"/>
+</map>

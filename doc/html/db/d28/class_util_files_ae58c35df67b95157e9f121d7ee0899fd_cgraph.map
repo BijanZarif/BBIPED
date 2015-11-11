@@ -1,0 +1,9 @@
+<map id="UtilFiles::createMultizoneProjectFile" name="UtilFiles::createMultizoneProjectFile">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#a5d19dc5e0bf712cb9dde82c86e7e9d86" title="Function that creates the project XML file initial for Multizone project. " alt="" coords="224,45,387,86"/>
+<area shape="rect" id="node3" href="$d6/d07/class_xml_util.html#a858fea6d91ac5259d2f744279e703f3b" title="Function that creates the correspondent Solver elements to be included in the XML project file..." alt="" coords="435,23,648,49"/>
+<area shape="rect" id="node4" href="$d6/d07/class_xml_util.html#adda1c7c8b1b4b3be0c9b39951b54cb81" title="Function that creates the project details element from the xml. " alt="" coords="446,74,637,115"/>
+<area shape="rect" id="node5" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="701,5,893,32"/>
+<area shape="rect" id="node6" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="713,56,881,83"/>
+<area shape="rect" id="node7" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="696,107,899,133"/>
+<area shape="rect" id="node8" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="716,158,879,199"/>
+</map>

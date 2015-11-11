@@ -1,0 +1,8 @@
+<map id="MultizoneProjectDialog::on_configTable_cellClicked" name="MultizoneProjectDialog::on_configTable_cellClicked">
+<area shape="rect" id="node2" href="$da/d1e/class_multizone_project_dialog.html#af499dc2b4c62a74c3b856ff58e33fd99" title="Function that launches to delete a file (when a config. file is deleted, the correspondent mesh file ..." alt="" coords="243,37,399,78"/>
+<area shape="rect" id="node5" href="$da/d1e/class_multizone_project_dialog.html#a4ee550161ea2f4e13d61324bc5c883c4" title="Function that launches to create a new file. " alt="" coords="243,102,399,143"/>
+<area shape="rect" id="node7" href="$da/d1e/class_multizone_project_dialog.html#afa7aad002abe6d74e4a0fca120b11df7" title="Function that launches to import a file. " alt="" coords="243,167,399,209"/>
+<area shape="rect" id="node3" href="$da/d1e/class_multizone_project_dialog.html#ad60d3a0cbc68c0714a6fc836c700840a" title="Action that controls the decreasing number in the spinbox. " alt="" coords="458,5,617,46"/>
+<area shape="rect" id="node4" href="$da/d1e/class_multizone_project_dialog.html#a9bf452fc152c120a60570159128969ac" title="Update the number of zones in the correspondent cell. " alt="" coords="448,70,627,111"/>
+<area shape="rect" id="node6" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="464,151,611,193"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MainWindow::enableMultizoneElements" name="MainWindow::enableMultizoneElements">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#aa8bf300525a21fdff22bfb7efa772141" title="Enable all the Tool Buttons. " alt="" coords="259,5,445,51"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="279,74,425,121"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ad84b5d487efd3c0777d7035b2e4b0641" title="Disable the close project icons (at the moment only one) " alt="" coords="253,143,451,190"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#aa01564cc30dbdcb6d8b6ad3cabd58aa7" title="Enable all the Save actions fo the project. " alt="" coords="256,213,448,259"/>
+<area shape="rect" id="node11" href="$d2/dfb/class_show_message_helper.html#a6d44f2e82f55c7f3d2a724199a480d8a" title="Show custom message in status bar. " alt="" coords="275,282,429,329"/>
+</map>

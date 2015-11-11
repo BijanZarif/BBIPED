@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/dd7/class_template_manager.html#a000eb64d81d7f15dd9d0144237f892b2" title="Write the template file according the list of variables." alt="" coords="269,112,515,141"/>
+<area shape="rect" id="node24" href="$d7/dd7/class_template_manager.html#a74f4ae073a98a9843b30355d7c409df2" title="Gets the list of sections." alt="" coords="1239,165,1476,195"/>
+<area shape="rect" id="node5" href="$d7/dd7/class_template_manager.html#aece0d1806c8375c202dfc24bcd58b13c" title="Writes the section element." alt="" coords="564,112,825,141"/>
+<area shape="rect" id="node7" href="$d7/dd7/class_template_manager.html#aa7859f66124b213f94af59dbbfa86db0" title="Writes the subsection element." alt="" coords="875,60,1131,89"/>
+<area shape="rect" id="node11" href="$d7/dd7/class_template_manager.html#a5c9d7d5c764aa83f492a125b97027391" title="Writes a Xml node element." alt="" coords="1237,112,1477,141"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#abb6042a0c7f0bf6ef052414469b154b8" title="TemplateManager::createVariableList" alt="" coords="1239,59,1476,88"/>
+<area shape="rect" id="node13" href="$d7/dd7/class_template_manager.html#a65c18421d023cdcd96f0af8258ba1a69" title="get the SubSectionames associated to a section" alt="" coords="1180,5,1535,35"/>
+<area shape="rect" id="node15" href="$d4/dea/class_solver_section_d_a_o.html#abc9ded2e50bcfab4c0eee9409ce9ef59" title="Find the subsectionNames associated to a section name." alt="" coords="1584,32,1949,61"/>
+<area shape="rect" id="node21" href="$d7/dd7/class_template_manager.html#a86357890154c79d545d3e569a5184248" title="Gets the list of subsections." alt="" coords="1636,85,1897,115"/>
+<area shape="rect" id="node17" href="$d4/d8b/class_solver_section_v_o.html#a743a75efb0ac61f5ef139e76f46bbf6f" title="Get associated Section Name." alt="" coords="2008,45,2235,75"/>
+<area shape="rect" id="node19" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="1997,112,2245,141"/>
+<area shape="rect" id="node26" href="$d4/dea/class_solver_section_d_a_o.html#a2fc184e252203ad192be32eaac66cdb3" title="Find the section name associated to a subsection name." alt="" coords="1588,139,1945,168"/>
+</map>

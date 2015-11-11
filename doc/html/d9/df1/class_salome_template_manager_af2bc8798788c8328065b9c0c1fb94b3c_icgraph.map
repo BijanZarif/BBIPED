@@ -1,0 +1,29 @@
+<map id="SalomeTemplateManager::getTemplateNameList" name="SalomeTemplateManager::getTemplateNameList">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#a56b60248836aea073429712c3748c051" title="SalomeTemplateDialog\l::fillTable" alt="" coords="479,5,636,46"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog\l::fillTable" alt="" coords="469,631,645,673"/>
+<area shape="rect" id="node6" href="$d1/d96/class_salome_template_dialog.html#ae6b1645116f31f24c7b31a7366ff3ce2" title="SalomeTemplateDialog\l::getPosMenu" alt="" coords="233,234,391,275"/>
+<area shape="rect" id="node11" href="$d1/d96/class_salome_template_dialog.html#ae60d776de2590edab980870bdeb1a0f7" title="SalomeTemplateDialog\l::saveData" alt="" coords="479,318,636,359"/>
+<area shape="rect" id="node12" href="$d1/d96/class_salome_template_dialog.html#a2a7a8ca761a8c4657f1ea68628caddc3" title="SalomeTemplateDialog\l::on_createMeshButton\l_clicked" alt="" coords="759,555,916,611"/>
+<area shape="rect" id="node14" href="$db/dbb/class_salome_optimization_dialog.html#aed474625d7159a967fb40f7e8a7dba12" title="SalomeOptimizationDialog\l::getPosMenu" alt="" coords="224,687,400,729"/>
+<area shape="rect" id="node17" href="$d1/d96/class_salome_template_dialog.html#ab9d2be4f4e5b3505fff37afb2093dcc4" title="SalomeTemplateDialog\l::isUserTemplateSelected" alt="" coords="471,70,644,111"/>
+<area shape="rect" id="node18" href="$db/dbb/class_salome_optimization_dialog.html#a9bff35cb9f9fefe8e33bfd18f89bc009" title="SalomeOptimizationDialog\l::refreshComboTemplates" alt="" coords="224,786,400,827"/>
+<area shape="rect" id="node23" href="$d1/d96/class_salome_template_dialog.html#af84b8fe8d7740cd72de2288db89d88ca" title="SalomeTemplateDialog\l::refreshComboTemplates" alt="" coords="225,455,399,497"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#ae96b667e11c1f6155d63dbe47d0be74f" title="SalomeTemplateDialog\l::on_templateSelComboBox\l_currentIndexChanged" alt="" coords="745,20,930,76"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog\l::on_templateComboBox_currentIndex\lChanged" alt="" coords="715,635,960,691"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog\l::createTemplateFromUserValues" alt="" coords="448,253,667,294"/>
+<area shape="rect" id="node9" href="$d1/d96/class_salome_template_dialog.html#a646af96264ec053dcd1bc7def9548968" title="SalomeTemplateDialog\l::on_reset2DefaultButton\l_clicked" alt="" coords="754,121,921,177"/>
+<area shape="rect" id="node10" href="$d1/d96/class_salome_template_dialog.html#a7474f31839b3ce6c0662902ba046c9e0" title="SalomeTemplateDialog\l::resetValuesToDefault" alt="" coords="479,187,636,229"/>
+<area shape="rect" id="node8" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="747,409,928,450"/>
+<area shape="rect" id="node13" href="$d1/d96/class_salome_template_dialog.html#a4818b780db157de1bc7ee995fdc326f8" title="SalomeTemplateDialog\l::on_saveButton_clicked" alt="" coords="755,318,920,359"/>
+<area shape="rect" id="node15" href="$db/dbb/class_salome_optimization_dialog.html#af16ef4fa6f85eb4ae77e72a602a243ab" title="SalomeOptimizationDialog\l::getVariablesList" alt="" coords="469,749,645,790"/>
+<area shape="rect" id="node16" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="749,731,925,773"/>
+<area shape="rect" id="node19" href="$db/dbb/class_salome_optimization_dialog.html#a99476430b45657e1903805efb8e99dae" title="SalomeOptimizationDialog\l::loadTemplateMenu" alt="" coords="469,814,645,855"/>
+<area shape="rect" id="node20" href="$db/dbb/class_salome_optimization_dialog.html#a1ce9754ec9edd238af1649c8cc8d856e" title="SalomeOptimizationDialog\l::initializeDialog" alt="" coords="749,814,925,855"/>
+<area shape="rect" id="node21" href="$d0/d3b/class_tools_helper.html#a5786cd77608aab228d628ba372124515" title="ToolsHelper::createAutomatic\lMeshWithOptimization" alt="" coords="1024,814,1219,855"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a1bf08ce8fdda9c822f7490db60578517" title="This function is to create automatic mesh using Salome but with optimization parameters. " alt="" coords="1283,814,1503,855"/>
+<area shape="rect" id="node24" href="$d1/d96/class_salome_template_dialog.html#acac4764823488ba6de3e45343d8bcab9" title="SalomeTemplateDialog\l::loadTemplateMenu" alt="" coords="479,514,636,555"/>
+<area shape="rect" id="node28" href="$d1/d96/class_salome_template_dialog.html#af6a85fe48a91538d9931911eae364850" title="SalomeTemplateDialog\l::on_deleteTemplateButton\l_clicked" alt="" coords="468,383,647,439"/>
+<area shape="rect" id="node25" href="$d1/d96/class_salome_template_dialog.html#a26c766492f7bd56f4076037c6397f773" title="SalomeTemplateDialog\l::initializeDialog" alt="" coords="759,490,916,531"/>
+<area shape="rect" id="node26" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="1008,497,1235,524"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="1299,490,1488,531"/>
+</map>

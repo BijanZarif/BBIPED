@@ -1,0 +1,9 @@
+<map id="SolverPlotter::showPoints" name="SolverPlotter::showPoints">
+<area shape="rect" id="node2" href="$d4/df8/class_solver_residual_v_o.html#a87fc836b6f348debe0b7a07ee8c659d5" title="return Number of iteration " alt="" coords="231,5,433,32"/>
+<area shape="rect" id="node3" href="$d4/df8/class_solver_residual_v_o.html#af3c0f171c7a3a8644a5bbfc1b833e78f" title="Return ResRho. " alt="" coords="231,56,433,83"/>
+<area shape="rect" id="node4" href="$d4/df8/class_solver_residual_v_o.html#a8d3caba2f96f674ffaa1f2f4a4d0d087" title="Return ResRhoe. " alt="" coords="227,107,437,133"/>
+<area shape="rect" id="node5" href="$d4/df8/class_solver_residual_v_o.html#a44c2da3ef0a1625a56ee0e4941b26404" title="Returns if the ResRhoe will appear in the graphic (true, false otherwise) " alt="" coords="487,143,665,185"/>
+<area shape="rect" id="node6" href="$d4/df8/class_solver_residual_v_o.html#a2220727391cf052781c0e881253f05e3" title="Returns if the ResRho will appear in the graphic (true, false otherwise) " alt="" coords="487,274,665,315"/>
+<area shape="rect" id="node7" href="$d3/de5/class_solver_plotter.html#a05a8a13d3ed79cf066ab6a435d2037d7" title="SolverPlotter::updateLegend\lItemsInGraphic" alt="" coords="239,209,425,250"/>
+<area shape="rect" id="node8" href="$d3/de5/class_solver_plotter.html#a990d030828bc29c5e58a4f0b90faec4e" title="SolverPlotter::setReadOnly\lLegend" alt="" coords="485,209,667,250"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="FileComparisonDialog::addSignals" name="FileComparisonDialog::addSignals">
+<area shape="rect" id="node3" href="$d4/dae/class_file_comparison_dialog.html#a3e52d809c2afb5f50dfb67c60e42d4d3" title="This function add the signal to a combo. " alt="" coords="231,5,380,51"/>
+<area shape="rect" id="node5" href="$d4/dae/class_file_comparison_dialog.html#a9c0a952bb91db720fe6dde9a8eecd6ea" title="This function add the signal to a line Edit. " alt="" coords="231,74,380,121"/>
+<area shape="rect" id="node7" href="$d4/dae/class_file_comparison_dialog.html#ad8c97b5e668889fc5af4ea6f4d4a367e" title="Slot: Controls if the user change the value in a combo. " alt="" coords="207,143,404,190"/>
+<area shape="rect" id="node19" href="$d4/dae/class_file_comparison_dialog.html#ab9043e2c850aee4195aa0591d2db404a" title="Slot: Controls if the user change the value of a line Edit. " alt="" coords="231,213,380,259"/>
+<area shape="rect" id="node9" href="$d4/dae/class_file_comparison_dialog.html#abbf1c07a1b6f3649b04cc64135ac48a8" title="This function saves the changes made by the user. " alt="" coords="455,178,604,225"/>
+<area shape="rect" id="node11" href="$d4/dea/class_solver_section_d_a_o.html#a04e8c6e17f2dea86b0c0416dc28bd4cc" title="Find the value name associated to a variable name. " alt="" coords="653,178,848,225"/>
+<area shape="rect" id="node13" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="907,117,1120,163"/>
+<area shape="rect" id="node15" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="897,187,1129,216"/>
+<area shape="rect" id="node17" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="915,239,1112,286"/>
+</map>

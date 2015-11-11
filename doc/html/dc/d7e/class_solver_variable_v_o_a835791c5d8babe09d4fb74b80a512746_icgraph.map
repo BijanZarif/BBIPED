@@ -1,0 +1,11 @@
+<map id="SolverVariableVO::getUnitValue" name="SolverVariableVO::getUnitValue">
+<area shape="rect" id="node2" href="$db/d40/class_solver_config_menu_helper.html#a757f52b5f35549e32f06bd697307d967" title="Function that adds the variable elements to each row in the table. " alt="" coords="259,49,426,90"/>
+<area shape="rect" id="node8" href="$d7/dd7/class_template_manager.html#ae37a716fce99c638a2a99e04fbbb4e7a" title="Writes the value tag element. " alt="" coords="230,115,455,141"/>
+<area shape="rect" id="node3" href="$d2/d41/class_summary_dialog.html#aa9926dd83a3273f07c0d13ab4c4fe211" title="Function that inserts each variabel with the correspondent value in the table. " alt="" coords="512,49,715,90"/>
+<area shape="rect" id="node4" href="$d2/d41/class_summary_dialog.html#a6d56ca1312a2a63e1fb33988825410a0" title="Function that builds up the rows of the table. " alt="" coords="799,56,983,83"/>
+<area shape="rect" id="node5" href="$d2/d41/class_summary_dialog.html#a76f77e9d02fc69e70cfdc550b00122c4" title="Function that builds up the summary table. " alt="" coords="1059,49,1266,90"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#acc747be32930e4361463babd2b957024" title="Slot to control when the user check/uncheck the rotating frame menu element. " alt="" coords="1330,5,1502,61"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a24f40032e0d68fddf0ac0fa8a18adf34" title="SOLVER: Shows the user input for the configuration file. " alt="" coords="1315,85,1517,126"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#a1645cef11d39f323eaf2f6ab1eb07a81" title="Writes the variable element. " alt="" coords="505,115,722,141"/>
+<area shape="rect" id="node10" href="$d7/dd7/class_template_manager.html#a4af242b4969027bbd09737ac2fdc1e2e" title="Writes the list of variables element. " alt="" coords="771,115,1010,141"/>
+</map>

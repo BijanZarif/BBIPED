@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver-template>
+<sections>
+	<section>
+	<!-- PROBLEM DEFINITION -->
+		<title inBasicView="yes" visibleChildren="yes"> Problem Definition </title>
+		<id>0</id>
+		<subsections>
+                <subsection visibleInBasicView="yes">
+                      <!-- Flow Physics -->
+                      <title>Flow Physics</title>
+                      <id>0</id>
+                      <variables>
+                              <variable isSelectable="YES" id="0">
+                                      <name>Physical governing equations</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>POTENTIAL_FLOW,EULER,NAVIER_STOKES,MULTI_SPECIES_NAVIER_STOKERS,TWO_PHASE_FLOW,COMBUSTION</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="EULER">EULER</comboValue>
+                                              <comboValue isSelectable="NO" name ="POTENTIAL FLOW">POTENTIAL_FLOW</comboValue>
+                                              <comboValue isSelectable="YES" name="NAVIER STOKES">NAVIER_STOKES</comboValue>
+                                              <comboValue isSelectable="NO" name="MULTI SPECIES NAVIER STOKERS">MULTI_SPECIES_NAVIER_STOKERS</comboValue>
+                                              <comboValue isSelectable="NO" name="TWO PHASE FLOW">TWO_PHASE_FLOW</comboValue>
+                                              <comboValue isSelectable="NO" name="COMBUSTION">COMBUSTION</comboValue>
+                                      </comboValues>
+                                      <value name="PHYSICAL_PROBLEM" defaultValue="EULER" unit="NONE">EULER</value>
+                              </variable>
+                              <variable isSelectable="YES" id="1">
+                                      <name>If Navier-Stokes, kind of turbulent model</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>NONE, SA</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="NONE">NONE</comboValue>
+                                              <comboValue isSelectable="YES" name="SA">SA</comboValue>
+                                      </comboValues>
+                                      <value name="KIND_TURB_MODEL" defaultValue="NONE" unit="NONE">NONE</value>
+                              </variable>
+                              <variable isSelectable="YES" id="2">
+                                      <name>Mathematical problem</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>(DIRECT, ADJOINT, LINEARIZED, ONE_SHOT_ADJOINT)</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="DIRECT">DIRECT</comboValue>
+                                              <comboValue isSelectable="NO" name="ADJOINT">ADJOINT</comboValue>
+                                              <comboValue isSelectable="NO" name="LINEARIZED">LINEARIZED</comboValue>
+                                              <comboValue isSelectable="NO" name="ONE SHOT ADJOINT">ONE_SHOT_ADJOINT</comboValue>
+                                      </comboValues>
+                                      <value name="MATH_PROBLEM" defaultValue="DIRECT" unit="NONE">DIRECT</value>
+                              </variable>
+                              <variable isSelectable="NO" id="3">
+                                      <name>Incompressible flow using artificial compressibility</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>(NO, YES)</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                              <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                      </comboValues>
+                                      <value name="INCOMPRESSIBLE_FORMULATION" defaultValue="NO" unit="NONE">NO</value>
+                              </variable>
+                              <variable isSelectable="NO" id="4">
+                                      <name>Gravity force </name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>(NO, YES)</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                              <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                      </comboValues>
+                                      <value name="GRAVITY_FORCE" defaultValue="NO" unit="NONE">NO</value>
+                              </variable>
+                              <variable isSelectable="YES" id="5">
+                                      <name>Restart Solution</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>(NO, YES)</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                              <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                      </comboValues>
+                                      <value name="RESTART_SOL" defaultValue="NO" unit="NONE">NO</value>
+                              </variable>
+                              <variable isSelectable="YES" id="0">
+                                      <name>Restart flow input file</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values> TO BE COMPLETED </values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues/>
+                                      <value name="SOLUTION_FLOW_FILENAME" defaultValue="solution_flow.dat" unit="NONE">solution_flow.dat</value>
+                              </variable>
+                              <variable isSelectable="NO" id="6">
+                                      <name>Console Output</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>(VERBOSE, CONCISE,QUIET)</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="VERBOSE">VERBOSE</comboValue>
+                                              <comboValue isSelectable="YES" name="CONCISE">CONCISE</comboValue>
+                                              <comboValue isSelectable="YES" name="QUIET">QUIET</comboValue>
+                                      </comboValues>
+                                      <value name="CONSOLE" defaultValue="VERBOSE" unit="NONE">VERBOSE</value>
+                              </variable>
+                              <variable isSelectable="NO" id="7">
+                                      <name>Flow Inlet normal to surface</name>
+                                      <help>
+                                              <definition> TO BE COMPLETED  </definition>
+                                              <values>NO,YES</values>
+                                              <otherdetails>  TO BE COMPLETED </otherdetails>
+                                      </help>
+                                      <comboValues uniqueSel="YES">
+                                              <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                              <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                      </comboValues>
+                                      <value name="VELOCITY_NORMAL" defaultValue="NO" unit="NONE">NO</value>
+                              </variable>
+                      </variables>
+              </subsection>
+                  <subsection visibleInBasicView="yes">
+                      <!-- Initial Conditions -->
+                      <title>Parameter Values</title>
+                      <id>0</id>
+                      <variables>
+                      <variable isSelectable="YES" id="0">
+                              <name>Mach number in the farfield </name>
+                              <help>
+                                      <definition> TO BE COMPLETED  </definition>
+                                      <values>Default value 0.8</values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="MACH_NUMBER" defaultValue="0.8" unit="NONE">0.8</value>
+                      </variable>
+                      <variable isSelectable="YES" id="1">
+                              <name>Angle of attack</name>
+                              <help>
+                                      <definition> TO BE COMPLETED  </definition>
+                                      <values>(degrees). Default value: 0.0</values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="AoA" defaultValue="0.0" unit="degrees">0.0</value>
+                      </variable>
+                      <variable isSelectable="YES" id="2">
+                              <name>Side-slip angle</name>
+                              <help>
+                                      <definition> TO BE COMPLETED  </definition>
+                                      <values>(degrees)Default value: 0.0</values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="SIDESLIP_ANGLE" defaultValue="0.0" unit="degrees">0.0</value>
+                      </variable>
+                      <variable isSelectable="YES" id="3">
+                              <name>Pressure</name>
+                              <help>
+                                      <definition> TO BE COMPLETED  </definition>
+                                      <values>(N/m^2). Default Value: 101325.0</values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="FREESTREAM_PRESSURE" defaultValue="101325.0" unit="(N/m^2)">101325.0</value>
+                      </variable>
+                      <variable isSelectable="YES" id="4">
+                              <name>Temperature</name>
+                              <help>
+                                      <definition> TO BE COMPLETED  </definition>
+                                      <values>(Kelvin) Default Value: 273.15</values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="FREESTREAM_TEMPERATURE" defaultValue="273.15" unit="Kelvin (K)">273.15</value>
+                      </variable>
+                      <variable isSelectable="YES" id="3">
+                              <name>Number of total iterations</name>
+                              <help>
+                                      <definition> TO BE COMPLETED </definition>
+                                      <values> Default Value: 300 </values>
+                                      <otherdetails>  TO BE COMPLETED </otherdetails>
+                              </help>
+                              <comboValues/>
+                              <value name="EXT_ITER" defaultValue="300" unit="NONE">300</value>
+                      </variable>
+                    </variables>
+                  </subsection>
+
+		<!-- GAS DEFINITION -->
+                <subsection visibleInBasicView="yes">
+			<title>Gas Definition</title>
+			<id>1</id>
+			<variables>
+
+                                <variable isSelectable="YES" id="0">
+					<name>Ratio of specific heats</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>Default Value: 1.4</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>	
+					<comboValues/>
+					<value name="GAMMA_VALUE" defaultValue="1.4" unit="NONE">1.4</value>
+				</variable>
+                                <variable isSelectable="YES" id="1">
+					<name>Specific gas constant</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>( J/(kg*K) ). Default Value: 287.87</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>	
+					<comboValues/>
+					<value name="GAS_CONSTANT" defaultValue="287.87" unit="J/(kg*K)">287.87</value>
+				</variable>
+                                <variable isSelectable="NO" id="2" isOptional="yes">
+					<name>Reynolds number</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>(0.0 implies no definition). Default value: 6.56E6</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="REYNOLDS_NUMBER" defaultValue="6.56E6" unit="NONE">6.56E6</value>
+				</variable>
+                                <variable isSelectable="NO" id="3" isOptional="yes">
+					<name>Reynolds length</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>(dimensional). Default value: 1.0</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="REYNOLDS_LENGTH" defaultValue="1.0" unit="NONE">1.0</value>
+				</variable>
+                                <variable isSelectable="YES" id="4" >
+					<name>Laminar Prandtl number</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>Default value: 0.72</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="PRANDTL_LAM" defaultValue="0.72" unit="NONE">0.72</value>
+				</variable>
+                                <variable isSelectable="YES" id="5">
+					<name>Turbulent Prandtl number</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>Default value: 0.9 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="PRANDTL_TURB" defaultValue="0.9" unit="NONE">0.9</value>
+				</variable>	
+			</variables>
+		</subsection>
+		<!-- FREE STREAM -->
+                <subsection visibleInBasicView="yes">
+			<title>Free-stream</title>
+			<id>2</id>
+			<variables>
+                                <variable isSelectable="NO" id="0">
+					<name>Free-stream density</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>(1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water)). Default value: 998.2</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="1.2886 Kg/m^3 (air)">1.2886</comboValue>
+                                                <comboValue isSelectable="YES" name="998.2 Kg/m^3 (water)">998.2</comboValue>
+                                                <comboValue isSelectable="YES" name="Customised">Customised</comboValue>
+					</comboValues>
+					<value name="FREESTREAM_DENSITY" defaultValue="998.2" unit="Kg/m^3">998.2</value>
+				</variable>
+                                <variable isSelectable="NO" id="1">
+					<name>Free-stream velocity  </name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> (m/s). Default value: (5.0,0.00,0.00)2</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="FREESTREAM_VELOCITY" defaultValue="(5.0,0.00,0.00)" unit="m/s">(5.0,0.00,0.00)</value>
+				</variable>
+                                <variable isSelectable="YES" id="2">
+					<name>Free-stream viscosity</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+                                                <values> (1.0E-5 kg/(m·s)(air), 0.798E-3 Ns/m^2 (water))</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="1.0e-5 kg/(m·s) (air)">1.0E-5</comboValue>
+                                                <comboValue isSelectable="YES" name="0.798E-3 Ns/m^2 (water)">0.798E-3</comboValue>
+                                                <comboValue isSelectable="YES" name="Customised">Customised</comboValue>
+					</comboValues>
+                                        <value name="FREESTREAM_VISCOSITY" defaultValue="1.0e-5" unit="kg/(m·s)">1.0E-5</value>
+				</variable>
+			</variables>
+		</subsection>
+		<!-- REFERENCE VALUES -->
+                <subsection visibleInBasicView="yes">
+			<title>Reference Value Definition</title>
+			<id>3</id>
+			<variables>
+                                <variable isSelectable="NO" id="0">
+					<name>Conversion factor for converting the grid to meters</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> Default value: 1.0</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="CONVERT_TO_METER" defaultValue="1.0" unit="NONE">1.0</value>
+				</variable>
+                                <variable isSelectable="NO" id="1">
+					<name>Reference origin for moment computation</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+                                                <values> Default value: (0.00,0.00,0.00)</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="REF_ORIGIN_MOMENT" defaultValue=" (0.00,0.00,0.00)" unit="NONE"> (0.00,0.00,0.00)</value>
+				</variable>
+                                <variable isSelectable="NO" id="2">
+					<name>Reference area for non-dimensionalization</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> (0 implies automatic calculation)</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="REF_AREA" defaultValue="1" unit="NONE">1</value>
+				</variable>
+                                <variable isSelectable="NO" id="3">
+					<name>Reference length for pitching, rolling, and yawing momentum.</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> Default value: 1.0</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="REF_LENGTH_MOMENT" defaultValue="1.0" unit="NONE">1.0</value>
+				</variable>
+                                <variable isSelectable="NO" id="4">
+					<name>Reference pressure</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+                                                <values> Default value: 1.0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="REF_PRESSURE" defaultValue="1.0" unit="NONE">1.0</value>
+				</variable>
+                                <variable isSelectable="NO" id="5">
+					<name>Reference temperature</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+                                                <values> Default value: 1.0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="REF_TEMPERATURE" defaultValue="1.0" unit="NONE">1.0</value>
+				</variable>
+                                <variable isSelectable="NO" id="6">
+					<name>Reference density</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+                                                <values> (1.0,1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water)) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="1.0 Kg/m^3">1.0</comboValue>
+                                                <comboValue isSelectable="YES" name="1.2886 Kg/m^3 (air)">1.2886</comboValue>
+                                                <comboValue isSelectable="YES" name="998.2 Kg/m^3 (water)">998.2</comboValue>
+                                                <comboValue isSelectable="YES" name="Customised">Customised</comboValue>
+					</comboValues>
+                                        <value name="REF_DENSITY" defaultValue="1.0" unit="Kg/m^3">1.0</value>
+				</variable>
+			</variables>
+		</subsection>	
+	  </subsections>
+	</section>
+<section>
+		<!-- BOUNDARIES -->
+		<title inBasicView="yes" visibleChildren="yes">Boundaries Definition</title>
+		<id>1</id>
+		<subsections>
+                  <subsection visibleInBasicView="yes">
+			<title>Boundaries General Definition</title>
+			<id>0</id>
+			<variables>
+                                <variable isSelectable="YES" id="0">
+                                        <name>Wall</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> (NONE = no marker) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="BC_WALL" defaultValue="NONE" unit="NONE">NONE</value>
+                                        <!-- associatedTo="WALL_HEATFLUX" unit="NONE">NONE</value> -->
+				</variable>
+                                <variable isSelectable="YES" id="1">
+                                        <name>Farfield</name>
+                                        <help>
+                                                <definition>  FARFIELD (Boundary name, Mach, Pressure, Temperature, Flow Firection Vector) </definition>
+                                                <values>  (NONE = no marker) </values>
+                                                <otherdetails> You can set a boundary to Pressure Farfield condition. It could be repeated by other boundary names. The differences between this command and MARKER_FAR are that the details of the condition is must be provided through command but in MARKER_FAR they are entered by MACH_NUMBER, </otherdetails>
+                                        </help>
+
+					<comboValues/>
+                                        <value name="BC_FARFIELD" defaultValue="NONE" unit="NONE">NONE</value>
+				</variable>
+                                <!--<variable isSelectable="YES" id="2">
+                                        <name>Symmetry</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="BC_SYMMETRY" defaultValue="NONE" unit="NONE">NONE</value>
+                                </variable>-->
+                                <variable isSelectable="YES" id="3">
+                                        <name>Interface</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="BC_INTERFACE" defaultValue="NONE" unit="NONE">NONE</value>
+				</variable>
+                                <variable isSelectable="YES" id="4">
+                                        <name>WALL_HEATFLUX</name>
+                                        <help>
+                                                <definition>  WALL_HEATFLUX </definition>
+                                                <values>  (NONE = no marker) </values>
+                                                <otherdetails> </otherdetails>
+                                        </help>
+                                        <comboValues/>
+                                        <value name="BC_WALL_HEATFLUX" defaultValue="NONE" unit="NONE" isVisibleInMenu="NO">NONE</value>
+                                </variable>
+			</variables>
+		</subsection>
+                <subsection visibleInBasicView="yes">
+			<title>Boundary Plotting Values</title>
+			<id>1</id>
+			<variables>				
+                                <variable isSelectable="YES" id="0">
+					<name>Marker of the surface which is going to be plotted or designed</name>
+					<help>
+						<definition> Marker of the surface which is going to be plotted or designed </definition>
+						<values>  TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="YES">YES</comboValue>
+					</comboValues>
+					<value name="MARKER_PLOTTING" defaultValue="NONE" unit="NONE">NONE</value>
+				</variable>
+			</variables>
+		</subsection>	
+                <subsection visibleInBasicView="yes">
+			<title>Boundary Monitoring Values</title>
+			<id>1</id>
+			<variables>				
+                                <variable isSelectable="YES" id="0">
+					<name>Marker of the surface where the functional (Cd, Cl, etc.) will be evaluated</name>
+					<help>
+						<definition> Marker of the surface where the functional (Cd, Cl, etc.) will be evaluated </definition>
+						<values>  TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="YES">YES</comboValue>
+					</comboValues>
+					<value name="MARKER_MONITORING" defaultValue="NONE" unit="NONE">NONE</value>
+				</variable>                                
+			</variables>
+		</subsection>
+ <!--               <subsection visibleInBasicView="yes">
+                        <title>Boundary Multizone</title>
+                        <id>1</id>
+                        <variables>
+                                <variable isSelectable="YES" id="0">
+                                        <name>Multizone Interface</name>
+                                        <help>
+                                                <definition>Multizone Interface</definition>
+                                                <values>  TO BE COMPLETED </values>
+                                                <otherdetails>  TO BE COMPLETED </otherdetails>
+                                        </help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                        </comboValues>
+                                        <value name="BC_MULTIZONE_INTERFACE" defaultValue="NONE" unit="NONE">NONE</value>
+                                </variable>  
+                        </variables>
+                </subsection> -->
+		</subsections>	
+	</section>
+	<section>
+		<!-- INPUT / OUTPUT -->
+                <title inBasicView="yes" visibleChildren="yes">Input / Output Management</title>
+		<id>2</id>
+                <subsections>
+                <subsection visibleInBasicView="yes">
+                <title>Mesh Files</title>
+                <id>0</id>
+                <variables>
+                        <variable id="0">
+                                <name>Mesh input file format </name>
+                                <help>
+                                        <definition> TO BE COMPLETED </definition>
+                                        <values>  (SU2, CGNS, NETCDF_ASCII) </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues uniqueSel="YES">
+                                        <comboValue isSelectable="YES" name="SU">SU2</comboValue>
+                                        <comboValue isSelectable="NO" name="CGNS">CGNS</comboValue>
+                                        <comboValue isSelectable="NO" name="NETCDF ASCII">NETCDF_ASCII</comboValue>
+                                </comboValues>
+                                <value name="MESH_FORMAT" defaultValue="SU2" unit="NONE">SU2</value>
+                        </variable>
+                        <variable id="2" isSelectable="NO">
+                                <name>Mesh input file</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="MESH_FILENAME" defaultValue="test.su2" unit="NONE">test.su2</value>
+                        </variable>
+                </variables>
+                </subsection>
+                <subsection visibleInBasicView="yes">
+                    <title>Output Solution Files</title>
+                    <id>1</id>
+                    <variables>
+                    <variable isSelectable="NO" id="8" isOptional="no">
+                            <name>Output file name</name>
+                            <help>
+                                    <definition>The file name</definition>
+                                    <values> File name with or without path </values>
+                                    <otherdetails>EXPORT_VTK_NAME. The name doesn't need .vtk extension since it will be added by the code. </otherdetails>
+                            </help>
+                            <comboValues/>
+                            <value name="EXPORT_VTK_NAME" defaultValue="xoutput" unit="NONE">xoutput</value>
+                    </variable>
+                    <variable isSelectable="YES" id="7" isOptional="no">
+                            <name>Export Values</name>
+                            <help>
+                                    <definition>Generate VTK output file according to WRT_SOL_FREQ variable </definition>
+                                    <values>  (Mach,Lambda2,Qcriterion,Density,Pressure,Temperature,Velocity,Total_Pressure) </values>
+                                    <otherdetails> EXPORT_VTK </otherdetails>
+                            </help>
+                            <comboValues uniqueSel="NO">
+                                    <comboValue isSelectable="YES" name="Pressure">Pressure</comboValue>
+                                    <comboValue isSelectable="YES" name="Density">Density</comboValue>
+                                    <comboValue isSelectable="YES" name="Velocity">Velocity</comboValue>
+                                    <comboValue isSelectable="YES" name="Temperature">Temperature</comboValue>
+                                    <comboValue isSelectable="YES" name="Total_Pressure">Total_Pressure</comboValue>
+                                    <comboValue isSelectable="YES" name="Lambda2">Lambda2</comboValue>
+                                    <comboValue isSelectable="YES" name="Qcriterion">Qcriterion</comboValue>
+                                    <comboValue isSelectable="YES" name="Mach">Mach</comboValue>
+                            </comboValues>
+                            <value name="EXPORT_VTK" defaultValue="Pressure,Velocity" unit="NONE">Pressure,Velocity</value>
+                    </variable>
+                    <variable isSelectable="YES" id="8" isOptional="no">
+                           <name>Automatically add the iteration no. to the filename</name>
+                           <help>
+                                   <definition>In unsteady cases to keep all the intermediate results and make animations it is better to generate output with the iteration number.</definition>
+                                   <values> YES, NO </values>
+                                   <otherdetails>EXPORT_VTK_NAME_WITH_ITR  </otherdetails>
+                           </help>
+                           <comboValues uniqueSel="YES">
+                                   <comboValue isSelectable="YES" name="False">False</comboValue>
+                                   <comboValue isSelectable="YES" name="True">True</comboValue>
+                           </comboValues>
+                           <value name="EXPORT_VTK_NAME_WITH_ITR" defaultValue="False" unit="NONE">False</value>
+                   </variable>
+                    <variable isSelectable="YES" id="0">
+                                <name>Writing solution file frequency</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="WRT_SOL_FREQ" defaultValue="100" unit="NONE">100</value>
+                        </variable>
+                        <variable isSelectable="YES" id="1">
+                                <name>Writing convergence history frequency</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="WRT_CON_FREQ" defaultValue="1" unit="NONE">1</value>
+                        </variable>
+                        <variable isSelectable="YES" id="0">
+                                <name>Convergence criteria  </name>
+                                <help>
+                                        <definition>  TO BE COMPLETED  </definition>
+                                        <values> (CAUCHY, RESIDUAL) </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues uniqueSel="YES">
+                                        <comboValue isSelectable="YES" name="RESIDUAL">RESIDUAL</comboValue>
+                                        <comboValue isSelectable="YES" name="CAUCHY">CAUCHY</comboValue>
+                                </comboValues>
+                                <value name="CONV_CRITERIA" defaultValue="RESIDUAL" unit="NONE">RESIDUAL</value>
+                        </variable>
+                        <variable isSelectable="YES" id="2">
+                                <name>Residual reduction</name>
+                                <help>
+                                        <definition> order of magnitude with respect to the initial value  </definition>
+                                        <values>Default value: 3.0 </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="RESIDUAL_REDUCTION" defaultValue="3.0" unit="NONE">3.0</value>
+                        </variable>
+                        <variable isSelectable="YES" id="0">
+                                <name>Output file format </name>
+                                <help>
+                                        <definition> TO BE COMPLETED </definition>
+                                        <values>   (PARAVIEW, TECPLOT) </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues uniqueSel="YES">
+                                        <comboValue isSelectable="YES" name="PARAVIEW">PARAVIEW</comboValue>
+                                        <comboValue isSelectable="NO" name="TECPLOT">TECPLOT</comboValue>
+                                </comboValues>
+                                <value name="OUTPUT_FORMAT" defaultValue="PARAVIEW" unit="NONE">PARAVIEW</value>
+                        </variable>
+                        <variable isSelectable="NO" id="1">
+                                <name>Output file convergence history</name>
+                                <help>
+                                        <definition> TO BE COMPLETED </definition>
+                                        <values>  w/o extension </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="CONV_FILENAME" defaultValue="history" unit="NONE">history</value>
+                        </variable>
+                        <variable isSelectable="NO" id="2">
+                                <name>Output file residual</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="RESIDUAL_FILENAME" defaultValue="residual.vtk" unit="NONE">residual.vtk</value>
+                        </variable>
+<!--                              <variable isSelectable="NO" id="4">
+                                <name>Output file flow (w/o extension) variables</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="VOLUME_FLOW_FILENAME" defaultValue="flow" unit="NONE">flow</value>
+                        </variable> -->
+                        <variable isSelectable="NO" id="5">
+                                <name>Output file gradient conservative variables</name>
+                                <help>
+                                        <definition> TO BE COMPLETED  </definition>
+                                        <values> TO BE COMPLETED </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="GRAD_FILENAME" defaultValue="gradient.vtk" unit="NONE">gradient.vtk</value>
+                        </variable>
+                        <variable isSelectable="NO" id="6">
+                                <name>Output file surface flow coefficient</name>
+                                <help>
+                                        <definition> TO BE COMPLETED </definition>
+                                        <values>  w/o extension </values>
+                                        <otherdetails>  TO BE COMPLETED </otherdetails>
+                                </help>
+                                <comboValues/>
+                                <value name="SURFACE_FLOW_FILENAME" defaultValue="surface_flow" unit="NONE">surface_flow</value>
+                        </variable>
+                   </variables>
+         </subsection>
+             <subsection visibleInBasicView="yes">
+                       <title>Crop Region definition</title>
+                       <id>4</id>
+                       <variables>
+                    <variable isSelectable="YES" id="0" isRepeatable="yes" isOptional="yes">
+                                       <name>Box domain Clipping</name>
+                                       <help>
+                                               <definition> This property allows the user to focus on a part of the domain. This prevents the generation of the whole domain </definition>
+                                               <values> BOX,x_min,x_max,y_min,y_max,z_min,z_max </values>
+                                               <otherdetails>  TO BE COMPLETED </otherdetails>
+                                       </help>
+                                       <comboValues/>
+                                       <value name="PARTIAL_OUT" subVarNames="x_min,x_max,y_min,y_max,z_min,z_max" defaultValue="BOX,0,0,0,0,0,0" unit="NONE">BOX,0,0,0,0,0,0</value>
+                        </variable>
+                   </variables>
+                </subsection>
+            </subsections>
+	</section>
+	<section>
+		<!-- UNSTEADY SIMULATION -->
+                <title inBasicView="yes" visibleChildren="yes">Unsteady</title>
+		<id>4</id>
+		<subsections>
+                <subsection visibleInBasicView="yes">
+			<title>Unsteady Simulation (General Part)</title>
+			<id>0</id>
+			<variables>
+                                <variable isSelectable="YES" id="0">
+					<name>Unsteady simulation</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>  (NO, TIME_STEPPING, DUAL_TIME_STEPPING) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="TIME STEPPING">TIME_STEPPING</comboValue>
+                                                <comboValue isSelectable="YES" name="DUAL TIME STEPPING">DUAL_TIME_STEPPING</comboValue>
+					</comboValues>
+					<value name="UNSTEADY_SIMULATION" defaultValue="NO" unit="NONE">NO</value>
+				</variable>
+                                <variable isSelectable="NO" id="1">
+					<name>Time Step for dual time stepping simulations</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>  Default Value: 0.0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="UNST TIMESTEP" defaultValue="0.0" unit="s">0.0</value>
+				</variable>
+                                <variable isSelectable="NO" id="2">
+					<name>Total Physical Time for dual time stepping simulations</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>  Default Value: 1.0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+                                        <value name="UNST_TIME" defaultValue="1.0" unit="s">1.0</value>
+				</variable>
+		</variables>
+		</subsection>
+		</subsections>	
+	</section>
+	<section>
+		<title inBasicView="no" visibleChildren="yes"> Solver </title>
+		<id>5</id>
+		<subsections>
+		<subsection visibleInBasicView="no">
+			<!-- COMMON PARAMETERS -->
+			<title>Common Parameters</title>
+			<id>0</id>
+			<variables>
+                                <variable isSelectable="YES" id="0">
+					<name>Numerical method for spatial gradients</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>  (GREEN_GAUSS, LEAST_SQUARES,   WEIGHTED_LEAST_SQUARES) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="GREEN GAUSS">GREEN_GAUSS</comboValue>
+                                                <comboValue isSelectable="YES" name="LEAST SQUARES">LEAST_SQUARES</comboValue>
+                                                <comboValue isSelectable="YES" name="WEIGHTED LEAST SQUARES">WEIGHTED_LEAST_SQUARES</comboValue>
+					</comboValues>
+					<value name="NUM_METHOD_GRAD" defaultValue="GREEN_GAUSS" unit="NONE">GREEN_GAUSS</value>
+				</variable>
+                                <variable isSelectable="YES" id="1">
+					<name>Courant-Friedrichs-Lewy condition of the finest grid</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>  Default Value: 1.25 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="CFL_NUMBER" defaultValue="1.25" unit="NONE">1.25</value>
+				</variable>
+                                <variable isSelectable="YES" id="2">
+					<name>CFL ramp</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+                                                <values> (factor, number of iterations, CFL limit). Default value: (1.0,1000000.0,1.0) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <value name="CFL_RAMP" defaultValue="(1.0,1000000.0,1.0)" unit="NONE">(1.0,1000000.0,1.0)</value>
+				</variable>
+                                  <variable isSelectable="YES" id="4">
+					<name>Linear Solver for the implicit formulation</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+                                                <values> (BCGSTAB,  GMRES, SYM_GAUSS_SIDEL) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="BCGSTAB">BCGSTAB</comboValue>
+                                                <comboValue isSelectable="NO" name="GMRES">GMRES</comboValue>
+                                                <comboValue isSelectable="NO" name="SYM GAUSS SIDEL">SYM_GAUSS_SIDEL</comboValue>
+					</comboValues>
+                                        <value name="LINEAR_SOLVER" defaultValue="BCGSTAB" unit="NONE">BCGSTAB</value>
+				</variable>
+                                <variable isSelectable="YES" id="5">
+					<name>min error of the linear solver for the implicit formulation</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>						
+					<value name="LINEAR_SOLVER_ERROR" defaultValue="1E-6" unit="NONE">1E-6</value>
+				</variable>
+                                <variable isSelectable="YES" id="6">
+					<name>Max number of iterations of the linear solver for the implicit formulation</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>						
+					<value name="LINEAR_SOLVER_ITER" defaultValue="10" unit="NONE">10</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- MULTIGRID -->
+			<title>Multigrid</title>
+			<id>1</id>
+			<variables>
+                                <variable isSelectable="NO" id="0">
+					<name>Multi-Grid Levels</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(0 = no multi-grid). Default Value: 0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MGLEVEL" defaultValue="0" unit="NONE">0</value>
+				</variable>
+                                <variable isSelectable="NO" id="1">
+					<name>Multi-Grid Cycle</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(0 = V cycle, 1 = W Cycle). Default value: 0 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="V Cycle">0</comboValue>
+                                                <comboValue isSelectable="YES" name="W Cycle">1</comboValue>
+					</comboValues>
+					<value name="MGCYCLE" defaultValue="0" unit="NONE">0</value>
+				</variable>
+                                <variable isSelectable="NO" id="2">
+					<name>Multi-Grid PreSmoothing Level</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>Default Value (2,2,2,2) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_PRE_SMOOTH" defaultValue="(2,2,2,2)" unit="NONE">(2,2,2,2)</value>
+				</variable>
+                                <variable isSelectable="NO" id="3">
+					<name>Multi-Grid PostSmoothing Level</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>Default Value ( 1, 1, 1, 1 ) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_POST_SMOOTH" defaultValue="(1,1,1,1)" unit="NONE">(1,1,1,1)</value>
+				</variable>
+                                <variable isSelectable="NO" id="4">
+					<name>Jacobi implicit smoothing of the correction</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>Default Value ( 1, 1, 1, 1 ) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_CORRECTION_SMOOTH" defaultValue="(1,1,1,1)" unit="NONE">(1,1,1,1)</value>
+				</variable>
+                                <variable isSelectable="NO" id="5">
+					<name>Damping factor for the residual restriction</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>Default Value: 0.75 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_DAMP_RESTRICTION" defaultValue="0.75" unit="NONE">0.75</value>
+				</variable>
+                                <variable isSelectable="NO" id="6">
+					<name>Damping factor for the correction prolongation</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>Default Value: 0.75 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_DAMP_PROLONGATION" defaultValue="0.75" unit="NONE">0.75</value>
+				</variable>
+                                <variable isSelectable="NO" id="7">
+					<name>Restart Multi-Grid cycle with the interpolated solution</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>(NO, YES)</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="YES">YES</comboValue>
+					</comboValues>
+					<value name="MG_RESTART_CYCLE" defaultValue="NO" unit="NONE">NO</value>
+				</variable>
+                                <variable isSelectable="NO" id="8">
+					<name>Full Multigrid</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values>(NO, YES)</values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                                <comboValue isSelectable="YES" name="YES">YES</comboValue>
+					</comboValues>
+					<value name="FULLMG" defaultValue="NO" unit="NONE">NO</value>
+				</variable>
+                                <variable isSelectable="NO" id="9">
+					<name>Start up iterations using the fine grid</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="START_UP_ITER" defaultValue="0" unit="NONE">0</value>
+				</variable>
+                                <variable isSelectable="NO" id="10">
+					<name>Reduction factor of the CFL coefficient on the coarse levels</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MG_CFL_REDUCTION" defaultValue="0" unit="NONE">0</value>
+				</variable>
+                                <variable isSelectable="NO" id="11">
+					<name>Maximum number of children in the agglomeration stage</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MAX_CHILDREN" defaultValue="0" unit="NONE">0</value>
+				</variable>
+                                <variable isSelectable="NO" id="12">
+					<name>Maximum length of an agglomerated element (compared with the domain)</name>
+					<help>
+						<definition> TO BE COMPLETED  </definition>
+						<values> TO BE COMPLETED </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="MAX_DIMENSION" defaultValue="0" unit="NONE">0</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- FLOW NUMERICAL -->
+			<title>Flow Numerical</title>
+			<id>2</id>
+			<variables>
+                                <variable isSelectable="YES" id="0">
+					<name>Convective numerical method (flow)</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(JST, LAX-FRIEDRICH, ROE-1ST_ORDER, ROE-2ND_ORDER, HLLC-1ST_ORDER, HLLC-2ND_ORDER, ). Default Value: JST </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="ROE-1ST ORDER">ROE-1ST_ORDER</comboValue>
+                                                <comboValue isSelectable="YES" name="ROE-2ND ORDER">ROE-2ND_ORDER</comboValue>
+                                                <comboValue isSelectable="YES" name="JST">JST </comboValue>
+                                                <comboValue isSelectable="YES" name="LAX-FRIEDRICH">LAX-FRIEDRICH</comboValue>
+                                                <comboValue isSelectable="YES" name="HLLC-1ST ORDER">HLLC-1ST_ORDER</comboValue>
+                                                <comboValue isSelectable="YES" name="HLLC-2ND ORDER">HLLC-2ND_ORDER</comboValue>
+					</comboValues>
+					<value name="CONV_NUM_METHOD_FLOW" defaultValue="ROE-1ST_ORDER" unit="NONE">ROE-1ST_ORDER</value>
+				</variable>
+                                <variable isSelectable="YES" id="1">
+					<name>Viscous numerical method (flow)</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(AVG_GRAD, AVG_GRAD_CORRECTED,GALERKIN) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="AVG GRAD">AVG_GRAD</comboValue>
+                                                <comboValue isSelectable="YES" name="AVG GRAD CORRECTED">AVG_GRAD_CORRECTED</comboValue>
+                                                <comboValue isSelectable="YES" name="GALERKIN">GALERKIN</comboValue>
+					</comboValues>
+					<value name="VISC_NUM_METHOD_FLOW" defaultValue="AVG_GRAD" unit="NONE">AVG_GRAD</value>
+				</variable>
+                                <variable isSelectable="YES" id="2">
+					<name>time discretization</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(RUNGE-KUTTA_EXPLICIT, EULER_IMPLICIT, EULER_EXPLICIT) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="EULER IMPLICIT">EULER_IMPLICIT</comboValue>
+                                                <comboValue isSelectable="YES" name="EULER EXPLICIT">EULER_EXPLICIT</comboValue>
+                                                <comboValue isSelectable="YES" name="RUNGE-KUTTA EXPLICIT">RUNGE-KUTTA_EXPLICIT</comboValue>
+					</comboValues>
+					<value name="TIME_DISCRE_FLOW" defaultValue="EULER_IMPLICIT" unit="NONE">EULER_IMPLICIT</value>
+				</variable>
+                                <variable isSelectable="YES" id="3">
+					<name>Slope limiter</name>
+					<help>
+						<definition> TO BE COMPLETED </definition>
+						<values>(NONE, VENKATAKRISHNAN). Default value: NONE </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="NONE">NONE</comboValue>
+                                                <comboValue isSelectable="YES" name="VENKATAKRISHNAN">VENKATAKRISHNAN</comboValue>
+					</comboValues>
+					<value name="SLOPE_LIMITER_FLOW" defaultValue="NONE" unit="NONE">NONE</value>
+				</variable>
+                                <variable isSelectable="YES" id="4">
+					<name>Coefficient for the limiter</name>
+					<help>
+						<definition>(smooth regions) </definition>
+						<values>Default value: 0.3 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="LIMITER_COEFF" defaultValue="0.3" unit="NONE">0.3</value>
+				</variable>
+                                <variable isSelectable="YES" id="5">
+					<name>1st, 2nd and 4th order artificial dissipation coefficients</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values>Default value: (1.0,100.0,1.0) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="AD_COEFF_FLOW" defaultValue=" (1.0,100.0,1.0)" unit="NONE"> (1.0,100.0,1.0)</value>
+				</variable>
+                                <variable isSelectable="NO" id="6">
+					<name>Runge-Kutta Alpha Coefficients</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values>Default value: (0.66667,0.66667,1.00000) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="RK_ALPHA_COEFF" defaultValue="(0.66667,0.66667,1.00000)" unit="NONE">(0.66667,0.66667,1.00000)</value>
+				</variable>
+                                <variable isSelectable="NO" id="7">
+					<name>Runge-Kutta Beta Coefficients</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values>Default value: (1.00000,0.00000,0.00000) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="RK_BETA_COEFF" defaultValue="(1.00000,0.00000,0.00000)" unit="NONE">(1.00000,0.00000,0.00000) </value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+		<!-- TURBULENCE NUMERICAL METHODS -->
+			<title>Turbulence numerical methods</title>
+			<id>3</id>
+			<variables>
+                                <variable isSelectable="YES" id="0">
+					<name>Convective numerical method for turbulence</name>
+					<help>
+						<definition>This variable stands for the Convective numerical method for turbulence scenarios Entonces bla bla bla bla bla</definition>
+						<values>he values that can take are: SCALAR_UPWIND-1ST_ORDER,SCALAR_UPWIND-2ND_ORDER. The former one XXXXx</values>
+						<otherdetails>TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="SCALAR UPWIND-1ST ORDER">SCALAR_UPWIND-1ST_ORDER</comboValue>
+                                                <comboValue isSelectable="YES" name="SCALAR UPWIND-2ND ORDER">SCALAR_UPWIND-2ND_ORDER</comboValue>
+					</comboValues>
+					<value name="CONV_NUM_METHOD_TURB" defaultValue="SCALAR_UPWIND-1ST_ORDER" unit="NONE">SCALAR_UPWIND-1ST_ORDER</value>
+				</variable>
+                                <variable isSelectable="YES" id="1">
+					<name>Viscous numerical method (Turbulence) </name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values> (AVG_GRAD, AVG_GRAD_CORRECTED) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="AVG GRAD">AVG_GRAD</comboValue>
+                                                <comboValue isSelectable="YES" name="AVG GRAD CORRECTED">AVG_GRAD_CORRECTED</comboValue>
+					</comboValues>
+					<value name="VISC_NUM_METHOD_TURB" defaultValue="AVG_GRAD" unit="NONE">AVG_GRAD</value>
+				</variable>
+                                <variable isSelectable="YES" id="2">
+					<name>Source term numerical method</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values> (PIECEWISE_CONSTANT) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="PIECEWISE CONSTANT">PIECEWISE_CONSTANT</comboValue>
+					</comboValues>
+					<value name="SOUR_NUM_METHOD_TURB" defaultValue="PIECEWISE_CONSTANT" unit="NONE">PIECEWISE_CONSTANT</value>
+				</variable>
+                                <variable isSelectable="YES" id="3">
+					<name>Time discretization</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values> (EULER_IMPLICIT) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="EULER IMPLICIT">EULER_IMPLICIT</comboValue>
+					</comboValues>
+					<value name="TIME_DISCRE_TURB" defaultValue="EULER_IMPLICIT" unit="NONE">EULER_IMPLICIT</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- CONVERGENCE PARAMETERS -->
+			<title>Convergence Parameters</title>
+			<id>5</id>
+			<variables>
+                                <variable isSelectable="YES" id="1">
+					<name>Function to apply the criteria</name>
+					<help>
+						<definition>  TO BE COMPLETED  </definition>
+						<values>(LIFT, DRAG, SENS_GEOMETRY, SENS_MACH,  DELTA_LIFT, DELTA_DRAG) </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+                                        <comboValues uniqueSel="YES">
+                                                <comboValue isSelectable="YES" name="DRAG">DRAG</comboValue>
+                                                <comboValue isSelectable="YES" name="LIFT">LIFT</comboValue>
+                                                <comboValue isSelectable="YES" name="SENS GEOMETRY">SENS_GEOMETRY</comboValue>
+                                                <comboValue isSelectable="YES" name="SENS MACH">SENS_MACH</comboValue>
+                                                <comboValue isSelectable="YES" name="DELTA LIFT">DELTA_LIFT</comboValue>
+                                                <comboValue isSelectable="YES" name="DELTA DRAG">DELTA_DRAG</comboValue>
+					</comboValues>
+					<value name="CAUCHY_FUNC_FLOW" defaultValue="DRAG" unit="NONE">DRAG</value>
+				</variable>
+                                <variable isSelectable="YES" id="3">
+					<name>Min value of the residual</name>
+					<help>
+						<definition> log10 of the residual  </definition>
+						<values>Default value: -8 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="RESIDUAL_MINVAL" defaultValue="-8" unit="NONE">-8</value>
+				</variable>
+                                <variable isSelectable="YES" id="4">
+					<name>Start convergence criteria at iteration number</name>
+					<help>
+						<definition>  TO BE COMPLETED </definition>
+						<values> Default value: 5 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="STARTCONV_ITER" defaultValue="5" unit="NONE">5</value>
+				</variable>
+                                <variable isSelectable="YES" id="5">
+					<name>Number of elements to apply the criteria </name>
+					<help>
+						<definition>  TO BE COMPLETED </definition>
+						<values> Default value: 100 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="CAUCHY_ELEMS" defaultValue="100" unit="NONE">100</value>
+				</variable>
+                                <variable isSelectable="YES" id="6">
+					<name>Epsilon to control the series convergence</name>
+					<help>
+						<definition>  TO BE COMPLETED </definition>
+						<values> Default value: 1E-10 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="CAUCHY_EPS" defaultValue="1E-10" unit="NONE">1E-10</value>
+				</variable>
+                                <variable isSelectable="YES" id="7">
+					<name>Epsilon for One-Shot method evaluation</name>
+					<help>
+						<definition>  TO BE COMPLETED </definition>
+						<values> Default value: 1E-5 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="ONESHOT_CAUCHY_EPS" defaultValue="1E-5" unit="NONE">1E-5</value>
+				</variable>
+                                <variable isSelectable="YES" id="8">
+					<name>Epsilon for full multigrid method evaluation</name>
+					<help>
+						<definition>  TO BE COMPLETED </definition>
+						<values> Default value: 1E-4 </values>
+						<otherdetails>  TO BE COMPLETED </otherdetails>
+					</help>
+					<comboValues/>
+					<value name="FULLMG_CAUCHY_EPS" defaultValue="1E-4" unit="NONE">1E-4</value>
+				</variable>				
+			</variables>
+		</subsection>
+           </subsections>
+	</section>
+        <section>
+        <!-- ROTATING FRAME DEFINITION -->
+                <title inBasicView="yes" visibleChildren="yes">Rotating Frame Definition</title>
+                <id>6</id>
+                <subsections>
+                  <subsection visibleInBasicView="yes">
+                        <!-- Virtual Frame Definition -->
+                        <title>Virtual Frame Definition</title>
+                        <id>0</id>
+                        <variables>
+                            <variable isSelectable="YES" id="0" isRepeatable="yes" isOptional="yes">
+                                    <name>Virtual Rotating Frame Axis</name>
+                                    <help>
+                                            <definition>  TO BE COMPLETED  </definition>
+                                            <values>  TO BE COMPLETED  </values>
+                                            <otherdetails>  TO BE COMPLETED </otherdetails>
+                                    </help>
+                                    <comboValues/>
+                                   <value name="VMRF_AXIS" subVarNames="name,omega,axis center X, axis center Y, axis center Z, axis normal X, axis normal Y, axis normal Z" defaultValue="name,omega,0,0,0,0,0,1" unit="NONE">name,omega,0,0,0,0,0,1</value>
+                            </variable>
+                            <variable isSelectable="YES" id="1" isRepeatable="yes" isOptional="yes">
+                                    <name>Virtual Rotating Frame INNER Curve</name>
+                                    <help>
+                                            <definition>  TO BE COMPLETED  </definition>
+                                            <values>  name, count, X1, Y1,X2,Y2.... </values>
+                                            <otherdetails>  TO BE COMPLETED </otherdetails>
+                                    </help>
+                                    <comboValues/>
+                                   <value name="VMRF_INNER_CURVE" subVarNames="name,count,X1,Y1,X2,Y2" defaultValue="name,count,0,0,0,0" unit="NONE">name,count,0,0,0,0</value>
+                            </variable>
+                            <variable isSelectable="YES" id="2" isRepeatable="yes" isOptional="yes">
+                                    <name>Virtual Rotating Frame OUTER Curve</name>
+                                    <help>
+                                            <definition>  TO BE COMPLETED  </definition>
+                                            <values>  TO BE COMPLETED  </values>
+                                            <otherdetails>  TO BE COMPLETED </otherdetails>
+                                    </help>
+                                    <comboValues/>
+                                   <value name="VMRF_OUTTER_CURVE" subVarNames="name,count, X1,Y1,X2,Y2" defaultValue="name,count,0,0,0,0" unit="NONE">name,count,0,0,0,0</value>
+                            </variable>
+                            <variable isSelectable="NO" id="3" isRepeatable="yes" isOptional="yes">
+                                    <name>Grid Movement</name>
+                                    <help>
+                                            <definition> TO BE COMPLETED  </definition>
+                                            <values>(NO, YES)</values>
+                                            <otherdetails>  TO BE COMPLETED </otherdetails>
+                                    </help>
+                                    <comboValues uniqueSel="YES">
+                                            <comboValue isSelectable="YES" name="NO">NO</comboValue>
+                                            <comboValue isSelectable="YES" name="YES">YES</comboValue>
+                                    </comboValues>
+                                   <value name="GRID_MOVEMENT" defaultValue="NO" unit="NONE" isVisibleInMenu="NO">NO</value>
+                            </variable>
+                            <variable isSelectable="NO" id="3" isRepeatable="yes" isOptional="yes">
+                                    <name>Grid Movement Kind</name>
+                                    <help>
+                                            <definition> TO BE COMPLETED  </definition>
+                                            <values>( ROTATING_FRAME)</values>
+                                            <otherdetails>  TO BE COMPLETED </otherdetails>
+                                    </help>
+                                    <comboValues uniqueSel="YES">
+                                            <comboValue isSelectable="YES" name="ROTATING_FRAME"> ROTATING_FRAME</comboValue>
+                                    </comboValues>
+                                   <value name="GRID_MOVEMENT_KIND" defaultValue="ROTATING_FRAME" unit="NONE" isVisibleInMenu="NO"> ROTATING_FRAME</value>
+                            </variable>
+                          </variables>
+                  </subsection>
+        </subsections>
+        </section>
+
+
+</sections>
+</solver-template>
+

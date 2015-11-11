@@ -1,0 +1,14 @@
+<map id="MeshDialog::createMeshVariables" name="MeshDialog::createMeshVariables">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#a7a5a9a9924ec7b9a095dfaa975846523" title="MeshDialog::checkIfAllBoundary\lNames" alt="" coords="293,5,505,46"/>
+<area shape="rect" id="node3" href="$dc/d7e/class_solver_variable_v_o.html#a902936d13adb1435f585bb27617df7dd" title="Get the list of associated variables. " alt="" coords="291,70,507,111"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="299,135,498,177"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="282,201,515,228"/>
+<area shape="rect" id="node6" href="$df/d9f/class_user_mesh_v_o.html#ae111b48b210fb7959811fa2a9ca1dd08" title="Set the list of associated mesh variables. " alt="" coords="303,253,495,294"/>
+<area shape="rect" id="node7" href="$df/d9f/class_user_mesh_v_o.html#a38f97d485b47af71666beafca1d330fa" title="Set the list of associated values. " alt="" coords="275,318,522,359"/>
+<area shape="rect" id="node8" href="$df/d9f/class_user_mesh_v_o.html#a6620be59e6d465e6043fefc8778106d8" title="Set the list of the boundary names. " alt="" coords="279,384,518,411"/>
+<area shape="rect" id="node9" href="$df/d9f/class_user_mesh_v_o.html#af2756a819b6b1f8b7ae8c05ddd68da50" title="Set the file name. " alt="" coords="309,435,489,461"/>
+<area shape="rect" id="node10" href="$df/d9f/class_user_mesh_v_o.html#afce51b683d3d204306e2fee50cfcca77" title="Set true if it has associated mesh variables, false otherwise. " alt="" coords="291,486,507,527"/>
+<area shape="rect" id="node11" href="$df/d9f/class_user_mesh_v_o.html#ace8e3a948f06e6702f83ed874da2a5d4" title="Destructor. " alt="" coords="300,552,497,579"/>
+<area shape="rect" id="node12" href="$df/d9f/class_user_mesh_v_o.html#a153f65bf2c1c6be92a609e6ad82c9e5b" title="set the user name " alt="" coords="303,603,494,629"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#a7edb15b90a9736ec2bb8920741d4882d" title="MeshDialog::splitBndName\lAndValues" alt="" coords="308,654,489,695"/>
+</map>

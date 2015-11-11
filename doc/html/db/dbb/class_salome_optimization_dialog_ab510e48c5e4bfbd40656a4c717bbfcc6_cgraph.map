@@ -1,0 +1,28 @@
+<map id="SalomeOptimizationDialog::on_pushButton_clicked" name="SalomeOptimizationDialog::on_pushButton_clicked">
+<area shape="rect" id="node2" href="$d3/d0e/class_salome_python_file_util.html#ae060b8e0c4d0d0dfdf932c1c94b916de" title="This funciton buillds the python file for the Optimization menu. " alt="" coords="229,118,440,159"/>
+<area shape="rect" id="node9" href="$db/dbb/class_salome_optimization_dialog.html#aed474625d7159a967fb40f7e8a7dba12" title="SalomeOptimizationDialog\l::getPosMenu" alt="" coords="489,183,665,225"/>
+<area shape="rect" id="node12" href="$d9/df1/class_salome_template_manager.html#a3e5bd6c1823f45a840f6be7e88501359" title="SalomeTemplateManager\l::getTemplates" alt="" coords="492,249,663,290"/>
+<area shape="rect" id="node13" href="$d9/df1/class_salome_template_manager.html#a9a95e9184b44ed8b5c6e759b6c86553e" title="SalomeTemplateManager\l::getUserTemplates" alt="" coords="492,445,663,486"/>
+<area shape="rect" id="node14" href="$db/dbb/class_salome_optimization_dialog.html#af16ef4fa6f85eb4ae77e72a602a243ab" title="SalomeOptimizationDialog\l::getVariablesList" alt="" coords="247,346,423,387"/>
+<area shape="rect" id="node19" href="$db/dbb/class_salome_optimization_dialog.html#ae12a4dce8245acc92ccca246d9b3f3b2" title="SalomeOptimizationDialog\l::runPythonFile" alt="" coords="247,503,423,545"/>
+<area shape="rect" id="node24" href="$d3/d0e/class_salome_python_file_util.html#a3071729dbf6d4f534f41512a20e3a276" title="Destructor. " alt="" coords="261,569,409,610"/>
+<area shape="rect" id="node25" href="$d3/d0e/class_salome_python_file_util.html#adea6657f1c44aa7b057c3838cbf2a19a" title="This function stores the project path. " alt="" coords="261,634,409,675"/>
+<area shape="rect" id="node26" href="$d3/d0e/class_salome_python_file_util.html#a2461962dbede5536dee34cfb4ec9bc22" title="This function stores the template data of the Salome Template. " alt="" coords="261,699,409,741"/>
+<area shape="rect" id="node27" href="$d3/d0e/class_salome_python_file_util.html#a3465fb739a8cc4519b6c64d8558ba8e3" title="This funciton sotres the SalomeVariableData list associated to each template. " alt="" coords="261,765,409,806"/>
+<area shape="rect" id="node3" href="$d3/d0e/class_salome_python_file_util.html#a079b7c80638d27d08b756ddb0e468488" title="This funciton buillds the python file header. " alt="" coords="503,118,651,159"/>
+<area shape="rect" id="node4" href="$d3/d0e/class_salome_python_file_util.html#a855efe338e90815a62de1d07c11d8a00" title="This funciton buillds the python file Main Body for Optimization. " alt="" coords="489,53,666,94"/>
+<area shape="rect" id="node5" href="$dc/def/class_salome_template_data.html#a293119f3ae20cdcb4a3b8184ff902075" title="Gets the name of the file associated to the template. " alt="" coords="729,5,887,46"/>
+<area shape="rect" id="node6" href="$d3/d0e/class_salome_python_file_util.html#a5fcc6034c4dea789847f9cb9be937e4c" title="This funciton buillds get the variable Name in a specific position. " alt="" coords="734,70,882,111"/>
+<area shape="rect" id="node7" href="$d3/d5b/class_salome_variable_data.html#ab5739efa71d2b4a07f3b1b376371d88c" title="get the file name of the template " alt="" coords="949,37,1091,78"/>
+<area shape="rect" id="node8" href="$d3/d5b/class_salome_variable_data.html#ad17357db32ec652a07a929286d143650" title="get the current value of the variable " alt="" coords="949,102,1091,143"/>
+<area shape="rect" id="node10" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="723,167,893,209"/>
+<area shape="rect" id="node11" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="715,233,901,274"/>
+<area shape="rect" id="node15" href="$dc/def/class_salome_template_data.html#aa820294d355cf8cff98e1f41b12486e9" title="Find any SalomeVariable Data by his name. " alt="" coords="503,379,651,421"/>
+<area shape="rect" id="node17" href="$d3/d5b/class_salome_variable_data.html#a9674d3d668bde55d6738b926a247a51b" title="Set the current value of the variable. " alt="" coords="507,314,648,355"/>
+<area shape="rect" id="node16" href="$d3/d5b/class_salome_variable_data.html#afe5e5d63d76d2a31f35a1ee90c890864" title="Destructor. " alt="" coords="737,379,879,421"/>
+<area shape="rect" id="node18" href="$d3/d5b/class_salome_variable_data.html#ac47b585c6bff753c41f8a61f2bb79f13" title="Remove white spaces. " alt="" coords="733,314,883,355"/>
+<area shape="rect" id="node20" href="$db/dbb/class_salome_optimization_dialog.html#a397568bc12da0c5141762ff9f7a24991" title="SalomeOptimizationDialog\l::slotProcessError" alt="" coords="489,575,665,617"/>
+<area shape="rect" id="node21" href="$db/dbb/class_salome_optimization_dialog.html#ae32cabba16b69277d9cbe4601272debe" title="SalomeOptimizationDialog\l::outputConsole" alt="" coords="489,641,665,682"/>
+<area shape="rect" id="node22" href="$db/dbb/class_salome_optimization_dialog.html#a340579f2a53b3db620eb046cbe023bdb" title="SalomeOptimizationDialog\l::errorConsole" alt="" coords="489,706,665,747"/>
+<area shape="rect" id="node23" href="$db/dbb/class_salome_optimization_dialog.html#a870c0e1201b896e55ae11160d87f8c81" title="SalomeOptimizationDialog\l::meshCreationFinished" alt="" coords="489,510,665,551"/>
+</map>

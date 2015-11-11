@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d0/df5/class_list_helper.html#a38b9c13f807140ed0a38e549f89cdf07" title="Function that obtains a Qstringlist formed by the values contained in the map (excluding the keys)..." alt="" coords="393,5,591,35"/>
+<area shape="rect" id="node5" href="$d0/df5/class_list_helper.html#a3a7bc23fff895458e1424f500f8d7ca5" title="Function that searchs the value into the list, returns true if it is found." alt="" coords="397,59,587,88"/>
+</map>

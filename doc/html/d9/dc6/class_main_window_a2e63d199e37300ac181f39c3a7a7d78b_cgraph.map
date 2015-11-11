@@ -1,0 +1,33 @@
+<map id="MainWindow::on_actionPreferences_triggered" name="MainWindow::on_actionPreferences_triggered">
+<area shape="rect" id="node2" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="286,686,485,727"/>
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a7f711e32a841bee8afa2ae39b711398c" title="Get the current list of already opened projects. " alt="" coords="1075,5,1234,46"/>
+<area shape="rect" id="node4" href="$d7/d21/class_user_preferences_data.html#a5e14db346c80c146c59cccd217a5f19b" title="Get the template configuration folder path. " alt="" coords="1071,70,1238,111"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a24f486bffce82d04c38966c86b59228b" title="Returns the User Preferencecs data with the new values. " alt="" coords="551,546,727,587"/>
+<area shape="rect" id="node17" href="$d7/d4e/class_preference_dialog.html#aaa5c5020f11df597d0c3e860101035af" title="This function initializes all the variables needed by this dialog. " alt="" coords="550,787,727,813"/>
+<area shape="rect" id="node18" href="$d7/d4e/class_preference_dialog.html#a522eb9d6d96e4ed64132d6f490f5df71" title="Returns true if the user has accepted the changes in the dialog. " alt="" coords="533,838,744,879"/>
+<area shape="rect" id="node19" href="$d9/d6e/class_solver_config_manager.html#a7fa8f1a55169da2ed172862a07cba20c" title="Reset all the variables associated to the Personalized Menu. " alt="" coords="555,903,722,945"/>
+<area shape="rect" id="node20" href="$d7/d21/class_user_preferences_data.html#a1d73794bc42e60d7ec2ac0aa4aadc239" title="Set the current list of already opened projects. " alt="" coords="1075,1259,1234,1301"/>
+<area shape="rect" id="node21" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="819,574,967,615"/>
+<area shape="rect" id="node6" href="$d7/d4e/class_preference_dialog.html#a5d05a336335c874a16967c7610313781" title="Returns the SolverData Configuration storing it in the user data. " alt="" coords="801,201,986,242"/>
+<area shape="rect" id="node9" href="$d7/d4e/class_preference_dialog.html#a72a117efd286f401eb3c94d1f9969283" title="Returns the Mesh Data Configuration storing it in the user data. " alt="" coords="803,317,983,358"/>
+<area shape="rect" id="node11" href="$d7/d4e/class_preference_dialog.html#a35c44300dcb13801f69a091fa6fb4091" title="Returns the PostProcessor Data Configuration storing it in the user data. " alt="" coords="794,483,993,525"/>
+<area shape="rect" id="node13" href="$d7/d4e/class_preference_dialog.html#ae8adda780ea2fde5ba1aeccaf35b8e81" title="Returns the Warning Data Configuration storing it in the user data. " alt="" coords="795,639,991,681"/>
+<area shape="rect" id="node16" href="$d7/d4e/class_preference_dialog.html#a218c3283ede7043ab89e58492785a98a" title="Returns the path of the user selected template file. " alt="" coords="792,705,995,746"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a3441a7c725f2e66f16b41d633591203c" title="Set the path of the user defined Solver Engine. " alt="" coords="1062,135,1247,177"/>
+<area shape="rect" id="node8" href="$d7/d21/class_user_preferences_data.html#a39fb52779ca496c84d0644b590f02ea4" title="Set the default Solver Engine to true. " alt="" coords="1045,201,1264,242"/>
+<area shape="rect" id="node10" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome) " alt="" coords="1081,266,1229,307"/>
+<area shape="rect" id="node12" href="$d7/d21/class_user_preferences_data.html#a262ef3fe32b92c33933bd4dccb4edfda" title="Set the postProcessor viewer path (e.g. Paraview) " alt="" coords="1054,331,1255,373"/>
+<area shape="rect" id="node14" href="$d7/d21/class_user_preferences_data.html#a978face6dd9f85b85e8b8a9a53e7e8ee" title="Set whether the user wants to see the close window/application warning. " alt="" coords="1073,1129,1236,1170"/>
+<area shape="rect" id="node15" href="$d7/d21/class_user_preferences_data.html#a4fa2d94b68e662d1a0483711cb23fdc7" title="Set whether the user wants to see the close project warning. " alt="" coords="1053,1194,1257,1235"/>
+<area shape="rect" id="node22" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="1049,397,1260,438"/>
+<area shape="rect" id="node23" href="$d7/d21/class_user_preferences_data.html#ac573132d98750f31af0f082042489d68" title="Set the VIRTUAL Solver Engine to true. " alt="" coords="1048,462,1261,503"/>
+<area shape="rect" id="node24" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="1052,527,1257,569"/>
+<area shape="rect" id="node25" href="$d7/d21/class_user_preferences_data.html#a9c43ae179ea0c1fff1da8f5a8a7698dd" title="Set the MULTIZONE Solver Engine to true. " alt="" coords="1064,592,1245,648"/>
+<area shape="rect" id="node26" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="1043,671,1267,713"/>
+<area shape="rect" id="node27" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="1062,737,1247,778"/>
+<area shape="rect" id="node28" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome) " alt="" coords="1081,802,1229,843"/>
+<area shape="rect" id="node29" href="$d7/d21/class_user_preferences_data.html#abfa205d14a4ece22db52420786e90842" title="get the postProcessor viewer path (e.g. Paraview) " alt="" coords="1054,867,1255,909"/>
+<area shape="rect" id="node30" href="$d7/d21/class_user_preferences_data.html#a0a32bf4dba12303f29a8c779efb743d2" title="Returns true if the Close Application warning window shall appear. " alt="" coords="1081,933,1229,974"/>
+<area shape="rect" id="node31" href="$d7/d21/class_user_preferences_data.html#a9baa8e00042155f1a6c7d0f7c7a1564f" title="Returns true if the Close Project warning window shall appear. " alt="" coords="1063,998,1247,1039"/>
+<area shape="rect" id="node32" href="$d7/d21/class_user_preferences_data.html#aaab365cdae3bd92f1d13db92f51fb98b" title="Set the template configuration folder path. " alt="" coords="1071,1063,1238,1105"/>
+</map>

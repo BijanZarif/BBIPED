@@ -1,0 +1,8 @@
+<map id="SalomeTemplateData::isEmpty" name="SalomeTemplateData::isEmpty">
+<area shape="rect" id="node2" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a24cd67bac05c7093ee70cc05b88b6777" title="SalomeToolCreateMeshDialog\l::on_createMeshButton_clicked" alt="" coords="203,5,408,46"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a2a7a8ca761a8c4657f1ea68628caddc3" title="SalomeTemplateDialog\l::on_createMeshButton\l_clicked" alt="" coords="227,69,384,125"/>
+<area shape="rect" id="node4" href="$d9/df1/class_salome_template_manager.html#a4f1629709973d29ee7454b4d42ae325e" title="SalomeTemplateManager\l::restoreToDefaultTemplate" alt="" coords="215,149,396,190"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#a1afbef1dd3784e856b686d3f3eb1531b" title="SalomeTemplateDialog\l::restoreTemplateDefaults" alt="" coords="456,149,629,190"/>
+<area shape="rect" id="node6" href="$d1/d96/class_salome_template_dialog.html#a7474f31839b3ce6c0662902ba046c9e0" title="SalomeTemplateDialog\l::resetValuesToDefault" alt="" coords="677,149,835,190"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#a646af96264ec053dcd1bc7def9548968" title="SalomeTemplateDialog\l::on_reset2DefaultButton\l_clicked" alt="" coords="883,141,1050,197"/>
+</map>

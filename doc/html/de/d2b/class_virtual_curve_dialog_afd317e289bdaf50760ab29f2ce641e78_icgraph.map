@@ -1,0 +1,5 @@
+<map id="VirtualCurveDialog::addSignals2D" name="VirtualCurveDialog::addSignals2D">
+<area shape="rect" id="node2" href="$de/d2b/class_virtual_curve_dialog.html#a5f209fe471844762779de690a7cf6d57" title="VirtualCurveDialog\l::initializeDialog" alt="" coords="184,5,315,46"/>
+<area shape="rect" id="node3" href="$d8/d02/class_virtual_rotating_dialog.html#aa0598f72ee39385e2e951bcdd9473c2e" title="VirtualRotatingDialog\l::launchCurveDialog" alt="" coords="363,5,509,46"/>
+<area shape="rect" id="node4" href="$d8/d02/class_virtual_rotating_dialog.html#acf34d7c8768f49fdbf9daab0bb40ffec" title="VirtualRotatingDialog\l::on_zoneInfoTable_cellClicked" alt="" coords="558,5,762,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TemplateDialog::setSolverConfigManager" name="TemplateDialog::setSolverConfigManager">
+<area shape="rect" id="node2" href="$dd/ddd/class_solver_helper.html#a3b7c86657c3c1e3e88c993f0f24c0353" title="SolverHelper::createConfiguration\lTemplateByUser" alt="" coords="229,17,448,58"/>
+<area shape="rect" id="node4" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="237,86,440,127"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#aa99a76c785c1551835217693aaec3028" title="This function is for creating customized templates for the configuration menus. " alt="" coords="496,5,696,61"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#afb8669037c48bf81b6475f61ccb316cd" title="This function allows to edit existing configuration templates. " alt="" coords="504,85,688,141"/>
+</map>

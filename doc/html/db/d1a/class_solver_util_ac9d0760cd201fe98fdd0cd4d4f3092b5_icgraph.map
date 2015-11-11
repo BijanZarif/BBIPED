@@ -1,0 +1,7 @@
+<map id="SolverUtil::uiImportSolverMeshFile" name="SolverUtil::uiImportSolverMeshFile">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="235,5,429,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="224,56,440,83"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="488,56,683,83"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="731,15,930,57"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="733,81,928,122"/>
+</map>

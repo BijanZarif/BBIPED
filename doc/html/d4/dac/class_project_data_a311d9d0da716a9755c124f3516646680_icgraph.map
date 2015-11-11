@@ -1,0 +1,18 @@
+<map id="ProjectData::isEmpty" name="ProjectData::isEmpty">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a6a1eab56b152d1d44182c6b12c881177" title="This function enables the GUI mesh button and actions. " alt="" coords="201,77,421,104"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="945,162,1125,203"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#ad550c61cfa05c7e528dedc6cf636ed10" title="Save a Project. " alt="" coords="215,331,406,373"/>
+<area shape="rect" id="node9" href="$d2/d05/class_project_settings_dialog.html#a4c8e9810e351e0dd61dfe0510a3e0d78" title="This function updates the information in teh table. " alt="" coords="205,266,416,307"/>
+<area shape="rect" id="node13" href="$d2/d05/class_project_settings_dialog.html#aa6649f94b74cd7e60c9a78dfd2d70c8d" title="This function updates the project data information according user changes. " alt="" coords="237,397,385,438"/>
+<area shape="rect" id="node15" href="$d2/d05/class_project_settings_dialog.html#a1a43b31a5ff9c03c108bb71896de3f41" title="This fucntion updates the project information in the Dialog. " alt="" coords="217,187,404,243"/>
+<area shape="rect" id="node16" href="$db/d28/class_util_files.html#aa70274124ccf9082396e90c9975c497a" title="Returns a ProjectData object with the updated path values. " alt="" coords="223,464,399,491"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="472,70,667,111"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a562cab832fe55422a6b142428c102712" title="Action when the Solver Button is clicked. " alt="" coords="470,5,669,46"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="1173,129,1376,170"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="1179,194,1370,235"/>
+<area shape="rect" id="node10" href="$d2/d05/class_project_settings_dialog.html#a10616ee586043ef8486cce4e17a4bf49" title="Set the project data and update the correspondent views. " alt="" coords="495,194,643,235"/>
+<area shape="rect" id="node12" href="$d2/d05/class_project_settings_dialog.html#a882657484f8fa7b0d511c77f86aacc70" title="Set the multizone project data and update the correspondent views. " alt="" coords="483,259,656,301"/>
+<area shape="rect" id="node11" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="718,194,895,235"/>
+<area shape="rect" id="node14" href="$d2/d05/class_project_settings_dialog.html#a95f42032d930b4018fd21a805de5e22e" title="Action when the user accepts the changes. " alt="" coords="484,394,655,435"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="474,459,665,501"/>
+</map>

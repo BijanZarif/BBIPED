@@ -1,0 +1,9 @@
+<map id="UtilFiles::createProjectFile" name="UtilFiles::createProjectFile">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#ae4ff8dde8f69921d3b6576c7aa2130cd" title="Function that creates the project XML file initial. " alt="" coords="229,45,392,86"/>
+<area shape="rect" id="node3" href="$d6/d07/class_xml_util.html#a858fea6d91ac5259d2f744279e703f3b" title="Function that creates the correspondent Solver elements to be included in the XML project file..." alt="" coords="440,23,653,49"/>
+<area shape="rect" id="node4" href="$d6/d07/class_xml_util.html#adda1c7c8b1b4b3be0c9b39951b54cb81" title="Function that creates the project details element from the xml. " alt="" coords="451,74,642,115"/>
+<area shape="rect" id="node5" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="707,5,899,32"/>
+<area shape="rect" id="node6" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="719,56,887,83"/>
+<area shape="rect" id="node7" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="701,107,904,133"/>
+<area shape="rect" id="node8" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="721,158,884,199"/>
+</map>

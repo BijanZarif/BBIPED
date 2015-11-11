@@ -1,0 +1,8 @@
+<map id="VirtualRotatingDialog::initializeDialog" name="VirtualRotatingDialog::initializeDialog">
+<area shape="rect" id="node2" href="$d8/d02/class_virtual_rotating_dialog.html#a45653652e4336263e12c7031ad91b8ff" title="VirtualRotatingDialog\l::fillTable" alt="" coords="201,74,346,115"/>
+<area shape="rect" id="node3" href="$d8/d02/class_virtual_rotating_dialog.html#af8346acfb07fa347ca6deb191a75dd86" title="VirtualRotatingDialog\l::addRow" alt="" coords="395,74,541,115"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table. " alt="" coords="590,5,797,32"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#a8aba257f014ebcc497be187ac5cd390a" title="Function that creates edit default text cell to the table. " alt="" coords="614,56,773,83"/>
+<area shape="rect" id="node6" href="$d3/d4b/class_qtable_util.html#ad24ffa6244a1f6ffd0632cf6ab755896" title="Function that creates a help icon widget cell element to be added to the table. " alt="" coords="626,107,761,133"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="590,157,797,184"/>
+</map>

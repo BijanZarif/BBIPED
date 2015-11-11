@@ -1,0 +1,27 @@
+<map id="MainWindow::on_multizoneNewButton_clicked" name="MainWindow::on_multizoneNewButton_clicked">
+<area shape="rect" id="node2" href="$d4/db9/class_multizone_select_files_dialog.html#a6bb58c1bac66d8eb72c847abcd543e05" title="MultizoneSelectFilesDialog\l::getConfigFilePath" alt="" coords="258,5,438,46"/>
+<area shape="rect" id="node3" href="$d4/db9/class_multizone_select_files_dialog.html#af2f13cca41a15929f1d3e44293051b0c" title="MultizoneSelectFilesDialog\l::getMeshFilePath" alt="" coords="258,70,438,111"/>
+<area shape="rect" id="node4" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="537,243,684,285"/>
+<area shape="rect" id="node5" href="$d4/db9/class_multizone_select_files_dialog.html#a4573b36ef355941e833cdda4d249f511" title="MultizoneSelectFilesDialog\l::hasSelectedFiles" alt="" coords="258,187,438,229"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ac3776e2e694c9081bc0e04945c25d04a" title="MainWindow::insertMultizoneRow" alt="" coords="238,136,458,163"/>
+<area shape="rect" id="node9" href="$d4/db9/class_multizone_select_files_dialog.html#a9f36eea37adb9c0a89626287dc57d3f3" title="MultizoneSelectFilesDialog\l::setProjectPath" alt="" coords="258,305,438,346"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a93bc55c33696dfdd179ae714204f0e83" title="MainWindow::updateMultizone\lUserData" alt="" coords="248,370,448,411"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="507,103,714,129"/>
+<area shape="rect" id="node8" href="$d3/d4b/class_qtable_util.html#ad738aa10e04b94bf5650b481e7f40576" title="QtableUtil::addSelectable\lCheckColumn" alt="" coords="525,154,696,195"/>
+<area shape="rect" id="node11" href="$db/d28/class_util_files.html#ae8f6d7628e58135e37beefe392dbaf78" title="Functionality to import a file and update the correspondent values in the project data and copying th..." alt="" coords="543,564,678,591"/>
+<area shape="rect" id="node13" href="$df/dba/class_solver_config_writer.html#aa0c7e4fe6c6dc0536422ba060c511d75" title="Function to write the values of the configuration values provided by the user in the correspondent co..." alt="" coords="781,370,952,411"/>
+<area shape="rect" id="node14" href="$d9/d6e/class_solver_config_manager.html#aa30655c16464ccdef4ac6543c69878d7" title="Functions that save the user configuration values into the file. " alt="" coords="537,309,684,350"/>
+<area shape="rect" id="node22" href="$da/d69/class_multizone_project_data.html#a34aba793a4a6ed007f7e1fccecefa273" title="Add a config file to the lists of the multizone. The file is the full path file. " alt="" coords="537,433,684,474"/>
+<area shape="rect" id="node25" href="$da/d69/class_multizone_project_data.html#af9b467e8dee7bfc0da0fa8686a90fb96" title="MultizoneProjectData\l::addMeshFile" alt="" coords="537,498,684,539"/>
+<area shape="rect" id="node12" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="774,567,959,593"/>
+<area shape="rect" id="node15" href="$df/dba/class_solver_config_writer.html#a0d81822e60c7f0bcbc9b213fe482870b" title="Function that set up the user value map. " alt="" coords="801,109,933,150"/>
+<area shape="rect" id="node16" href="$df/dba/class_solver_config_writer.html#ac7e0cfb0e12235b77cacf2de2bb030d1" title="SolverConfigWriter\l::setOptionalVariableList" alt="" coords="785,174,949,215"/>
+<area shape="rect" id="node17" href="$d4/dea/class_solver_section_d_a_o.html#aad17d99016ee4f37ea96379e54fab5f6" title="SolverSectionDAO::getOptional\lVariables" alt="" coords="763,239,970,281"/>
+<area shape="rect" id="node21" href="$df/dba/class_solver_config_writer.html#ac2a2f1d0b54b8e82f4811542e7e061c8" title="SolverConfigWriter\l::setVirtualMRFUserValues" alt="" coords="775,305,958,346"/>
+<area shape="rect" id="node18" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="1019,239,1232,281"/>
+<area shape="rect" id="node19" href="$dc/d7e/class_solver_variable_v_o.html#abc9d2b7aa91cbc26e7767a9341646e4e" title="Check if a variable can be optional (if optional and the user does not give a value, it is not written in the configuration file) " alt="" coords="1030,305,1221,332"/>
+<area shape="rect" id="node20" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="1026,174,1225,215"/>
+<area shape="rect" id="node23" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files. " alt="" coords="793,435,940,477"/>
+<area shape="rect" id="node24" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths) " alt="" coords="1049,467,1201,509"/>
+<area shape="rect" id="node26" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files. " alt="" coords="793,501,940,542"/>
+</map>

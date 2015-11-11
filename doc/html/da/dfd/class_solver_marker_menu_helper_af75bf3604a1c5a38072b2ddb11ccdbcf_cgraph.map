@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/d4b/class_qtable_util.html#a2a82126bc5aa08548a35dfd1fdc88cb6" title="Function that creates check widget cell to the table." alt="" coords="340,5,545,35"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#a161d5946190c93932aa0c858df64dddd" title="Function that creates combo widget cell to the table." alt="" coords="368,59,517,88"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#a4711ee46146b667420d56ffc08599dcf" title="Function that creates edit default text cell to the table." alt="" coords="360,112,525,141"/>
+<area shape="rect" id="node9" href="$d3/d4b/class_qtable_util.html#a034a8ce02853fa62e4cf5b6be526c655" title="Function that creates a help icon widget cell element to be added to the table." alt="" coords="376,165,509,195"/>
+<area shape="rect" id="node11" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table." alt="" coords="340,219,545,248"/>
+</map>

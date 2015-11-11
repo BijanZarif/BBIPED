@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d15/class_search_pair_helper.html#a6d72bb9fb0bb09cc5f3071dda197f7cc" title="This fucntion allows to search in the tree model by a specific search term." alt="" coords="249,85,532,115"/>
+<area shape="rect" id="node5" href="$d7/d15/class_search_pair_helper.html#a8619df9759f15af6fc20b9f426b4ece9" title="This function searchs the items." alt="" coords="583,85,785,115"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#af4584ca22aab5ef33b0603d01f83155f" title="This method provides the functionality of the search button." alt="" coords="916,5,1199,35"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a61494603f7e81dedb6e61e5c3a0836a4" title="This function controls the return to search function." alt="" coords="835,59,1280,88"/>
+<area shape="rect" id="node11" href="$da/d07/class_template_dialog.html#a5b2d93a42f37d70be436047e3f3b9b40" title="This function controls the search functionality." alt="" coords="924,112,1191,141"/>
+<area shape="rect" id="node13" href="$da/d07/class_template_dialog.html#a029900507791ee64545b7de0239137f5" title="This function controls the search functionality on key pressed." alt="" coords="900,165,1215,195"/>
+</map>

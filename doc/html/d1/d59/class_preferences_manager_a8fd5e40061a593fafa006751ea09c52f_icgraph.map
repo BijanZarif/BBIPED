@@ -1,0 +1,7 @@
+<map id="PreferencesManager::setSolverEngineInformation" name="PreferencesManager::setSolverEngineInformation">
+<area shape="rect" id="node2" href="$d1/d59/class_preferences_manager.html#a7139d0670c696193e6f35084cf6657b9" title="PreferencesManager\l::getUserToolPreferences" alt="" coords="245,5,416,46"/>
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="464,5,611,46"/>
+<area shape="rect" id="node4" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="659,5,805,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="854,5,1034,46"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1083,12,1263,39"/>
+</map>

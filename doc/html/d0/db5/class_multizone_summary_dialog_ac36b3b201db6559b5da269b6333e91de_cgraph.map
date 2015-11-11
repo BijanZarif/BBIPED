@@ -1,0 +1,43 @@
+<map id="MultizoneSummaryDialog::addConfigData" name="MultizoneSummaryDialog::addConfigData">
+<area shape="rect" id="node2" href="$d0/db5/class_multizone_summary_dialog.html#adc6446ee7a6c9c979231df66b2339da8" title="MultizoneSummaryDialog\l::fillDataTable" alt="" coords="224,631,395,673"/>
+<area shape="rect" id="node9" href="$db/dc7/class_input_data_tab_helper.html#a4cde6c73f9e46809969bc1d099fef611" title="Parse the correspondent files to get the values to load into the project variables. " alt="" coords="240,354,379,395"/>
+<area shape="rect" id="node35" href="$d0/db5/class_multizone_summary_dialog.html#a96e63969b1eec6021647577c06627252" title="MultizoneSummaryDialog\l::removeDefaultValues" alt="" coords="224,823,395,865"/>
+<area shape="rect" id="node3" href="$d0/db5/class_multizone_summary_dialog.html#aff926ef3462131e139330b063f89c247" title="MultizoneSummaryDialog\l::insertRow" alt="" coords="455,573,625,614"/>
+<area shape="rect" id="node5" href="$d5/dc9/class_virtual_mrf_v_o.html#a1e1c2389ee9c60662605bbdf0db06c34" title="Get tbe name of the zone. " alt="" coords="1728,411,1915,437"/>
+<area shape="rect" id="node6" href="$d5/dc9/class_virtual_mrf_v_o.html#ac6e7a61eea1bb6a67cc85046b544eea5" title="Get the omega. " alt="" coords="457,689,623,716"/>
+<area shape="rect" id="node7" href="$d5/dc9/class_virtual_mrf_v_o.html#ae7978e47a2a4d51c8e9a7988dca04534" title="Get the axis center. " alt="" coords="446,740,634,767"/>
+<area shape="rect" id="node8" href="$d5/dc9/class_virtual_mrf_v_o.html#a329d1139c0847d436b682913c23a5f2c" title="get the Axis Normal " alt="" coords="445,521,635,548"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="686,580,893,607"/>
+<area shape="rect" id="node10" href="$d6/d6c/class_parser_files.html#a140dc42218b96cfe215fca2481c67a3c" title="Returns the map of the parsed values. " alt="" coords="443,303,637,329"/>
+<area shape="rect" id="node11" href="$da/dfd/class_configuration_file_parser.html#a1223ad119dda978e721f9ca190bb855f" title="ConfigurationFileParser\l::getParsedVirtualMRFData" alt="" coords="449,354,631,395"/>
+<area shape="rect" id="node12" href="$dc/d6c/class_mesh_file_parser.html#af19493f6c99be2ce3c3cc92577f0692d" title="MeshFileParser::is3DMesh" alt="" coords="450,420,630,447"/>
+<area shape="rect" id="node13" href="$dc/d6c/class_mesh_file_parser.html#a57bf6cc67f2143dbd5fe4b960b5c24da" title="Main function to parse the file. " alt="" coords="453,237,627,278"/>
+<area shape="rect" id="node20" href="$da/dfd/class_configuration_file_parser.html#a55e818131fc6f86e3b1c41e56dad1d25" title="Main function to parse the file. " alt="" coords="461,171,619,213"/>
+<area shape="rect" id="node34" href="$d6/d6c/class_parser_files.html#aa87ba9f1732337f4d63b3ff2084f737c" title="Establish the file path. " alt="" coords="459,471,621,497"/>
+<area shape="rect" id="node14" href="$dc/d6c/class_mesh_file_parser.html#aebee2e8f990cfb5b4ff175d0e0c8ab35" title="Function that analyses the line to be parsed. " alt="" coords="694,295,885,321"/>
+<area shape="rect" id="node18" href="$d6/d6c/class_parser_files.html#a2dbed119cf51a91caf28cb78e635ac87" title="Returns the path of the file. " alt="" coords="708,193,871,220"/>
+<area shape="rect" id="node19" href="$d6/d6c/class_parser_files.html#a1e99a5760c94b9fd29def9ac7110ccaa" title="Sets the parsed values. " alt="" coords="692,244,887,271"/>
+<area shape="rect" id="node15" href="$dc/d6c/class_mesh_file_parser.html#aba5b2fd4579ffba8ff427096a5b4204f" title="Function that checks if the line contains the MARKER_TAG. " alt="" coords="963,273,1133,314"/>
+<area shape="rect" id="node16" href="$dc/d6c/class_mesh_file_parser.html#ac7e39ae284dd366bedb91975929f4c56" title="Function that stores the parsed toked elements. " alt="" coords="955,338,1141,379"/>
+<area shape="rect" id="node17" href="$d6/d6c/class_parser_files.html#ae7a17191e875ceb419736cc9b98ab8cd" title="Function to remove spaces in the values. " alt="" coords="1203,344,1386,371"/>
+<area shape="rect" id="node21" href="$da/dfd/class_configuration_file_parser.html#a849ec557127293a405de43b51fb52f51" title="Function that analyses the line to be parsed. " alt="" coords="710,127,869,169"/>
+<area shape="rect" id="node22" href="$da/dfd/class_configuration_file_parser.html#a4c8225d6a8839180a59f1a74df7f4735" title="Checks if the line is a commented line to skip it. " alt="" coords="969,127,1127,169"/>
+<area shape="rect" id="node23" href="$da/dfd/class_configuration_file_parser.html#a2bcaa84cb390cee27fc45bfd72090392" title="Save the parsed element. " alt="" coords="969,207,1127,249"/>
+<area shape="rect" id="node24" href="$da/dfd/class_configuration_file_parser.html#a9e290a1f8362d17a2d52ca1fc0f51ccc" title="ConfigurationFileParser\l::removeCommentedPart" alt="" coords="1211,210,1379,251"/>
+<area shape="rect" id="node25" href="$da/dfd/class_configuration_file_parser.html#a16c0e670eb13d3d1d02de5505ae57042" title="ConfigurationFileParser\l::saveDomainClippingValue" alt="" coords="1203,275,1386,317"/>
+<area shape="rect" id="node26" href="$da/dfd/class_configuration_file_parser.html#aa6fae2b9d9aacc2ba472881cb2027ae7" title="ConfigurationFileParser\l::saveVirtualMRFValue" alt="" coords="1215,145,1374,186"/>
+<area shape="rect" id="node27" href="$da/dfd/class_configuration_file_parser.html#a01697ad8dae8ccdab90a8332d0a60060" title="ConfigurationFileParser\l::findVirtualMRFPositionByZoneName" alt="" coords="1435,174,1679,215"/>
+<area shape="rect" id="node28" href="$d5/dc9/class_virtual_mrf_v_o.html#aa223af4b7402fb58bc7ad1dccf9f0870" title="Set Axis Center. " alt="" coords="1463,240,1651,267"/>
+<area shape="rect" id="node29" href="$d5/dc9/class_virtual_mrf_v_o.html#a9bc6d8e62c6bec5d2af3eaf07192237b" title="Set Axis Normal. " alt="" coords="1462,291,1653,317"/>
+<area shape="rect" id="node30" href="$d5/dc9/class_virtual_mrf_v_o.html#a3c2da7f3f1ebff7c14ee6a6431efbfd8" title="Set the list of inner curve points. " alt="" coords="1464,342,1651,383"/>
+<area shape="rect" id="node31" href="$d5/dc9/class_virtual_mrf_v_o.html#af4686d0908780a5dab280237780cca99" title="Set omega. " alt="" coords="1475,5,1640,32"/>
+<area shape="rect" id="node32" href="$d5/dc9/class_virtual_mrf_v_o.html#a787ec6b4f6612a85f2a3133e7835e345" title="Set the list of outer curve points. " alt="" coords="1462,57,1653,98"/>
+<area shape="rect" id="node33" href="$d5/dc9/class_virtual_mrf_v_o.html#a38d1fd19fa48708d2692de2b014975ab" title="Set Zone name. " alt="" coords="1464,123,1651,149"/>
+<area shape="rect" id="node36" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="467,791,613,833"/>
+<area shape="rect" id="node37" href="$d9/d6e/class_solver_config_manager.html#ade5faa8b388d670166cc924d91f5ca3f" title="Function that gets all the sections to be shown in the menu list. " alt="" coords="460,857,620,898"/>
+<area shape="rect" id="node38" href="$d4/dea/class_solver_section_d_a_o.html#a7c1a6d78095888f561ff4a2e3d4e9f61" title="Checks if the current value of a variable is the default value. " alt="" coords="444,922,636,963"/>
+<area shape="rect" id="node39" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="941,983,1155,1025"/>
+<area shape="rect" id="node40" href="$d4/dea/class_solver_section_d_a_o.html#aa4ecdd8245b0eacd06f61da2e5e27fb2" title="Find a variable by its value name. " alt="" coords="685,954,893,995"/>
+<area shape="rect" id="node41" href="$dc/d7e/class_solver_variable_v_o.html#a61978d1d0d6f1511a5cad7432d625c58" title="Returns true if the object is empty. " alt="" coords="957,871,1139,897"/>
+<area shape="rect" id="node42" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value " alt="" coords="693,889,886,930"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="MainWindow::loadMeshDialog" name="MainWindow::loadMeshDialog">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a32e9fba3f7924b7983fa976cc7990013" title="load the Boundary values " alt="" coords="254,581,474,622"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#af31ff05e857225aba98494e9a30a153d" title="MeshDialog::getUserBndVariable\lValues" alt="" coords="257,646,471,687"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a8923eb6276f76f0fafa66099930d2aef" title="MeshDialog::hasUserAccept\lChanges" alt="" coords="269,711,459,753"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="287,777,441,804"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_main_window.html#a6da9b2f7dad3533f56e53fef7e3fb7e3" title="This function is to enable of the different buttons according to _val for the user. " alt="" coords="259,831,469,873"/>
+<area shape="rect" id="node43" href="$d5/d05/class_mesh_dialog.html#ac79e0e8d4930f3931c434a1c9de67daf" title="MeshDialog::setIsMultizone\lProject" alt="" coords="272,897,456,938"/>
+<area shape="rect" id="node44" href="$d5/d05/class_mesh_dialog.html#a44fbabec216b2fff580cefa5e937d8bc" title="MeshDialog::setIsNSProblem" alt="" coords="267,963,461,989"/>
+<area shape="rect" id="node45" href="$d5/d05/class_mesh_dialog.html#a52727a4bef0f6be08e58473881c10643" title="Function to set the mesh values. " alt="" coords="269,1013,459,1040"/>
+<area shape="rect" id="node46" href="$d5/d05/class_mesh_dialog.html#a3400cfb52b3977287c779c8cc0975ab6" title="Set the solver config manager. " alt="" coords="268,1065,460,1106"/>
+<area shape="rect" id="node47" href="$d5/d05/class_mesh_dialog.html#a902ccf7c06948dd4e2864ef6fe826a73" title="Set up configured mesh values. " alt="" coords="260,1130,468,1171"/>
+<area shape="rect" id="node48" href="$d9/dc6/class_main_window.html#a97c54447773eb85464b31b04059c494d" title="SOLVER: function to update the values changed by the user in the mesh variables. " alt="" coords="265,1195,463,1237"/>
+<area shape="rect" id="node6" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="559,495,705,537"/>
+<area shape="rect" id="node7" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="559,561,705,602"/>
+<area shape="rect" id="node8" href="$d9/d6e/class_solver_config_manager.html#aa378c417fb1c3b7d14f507c011d7e568" title="Function that returns the Boundary Menu List elements. " alt="" coords="554,626,710,667"/>
+<area shape="rect" id="node9" href="$d9/d6e/class_solver_config_manager.html#a327fdfc812f3f08df0fd996340164a5b" title="SolverConfigManager\l::getBoundaryMenuListWithout\lMultizoneChildren" alt="" coords="531,691,733,747"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="543,770,721,811"/>
+<area shape="rect" id="node10" href="$db/d40/class_solver_config_menu_helper.html#aba2862b86b3e2a3f8ebf1065b03c4bb8" title="Removes teh correspondent subsection element. " alt="" coords="789,314,1027,355"/>
+<area shape="rect" id="node12" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu. " alt="" coords="809,998,1007,1039"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a06c246713734b5716761b5ab2a9330e9" title="MeshDialog::createMeshVariables" alt="" coords="797,380,1019,407"/>
+<area shape="rect" id="node28" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="801,835,1015,877"/>
+<area shape="rect" id="node29" href="$d5/d05/class_mesh_dialog.html#a95133a5c6cf1b173788aafca6da1bb7c" title="MeshDialog::initBndNames\lInAssociatedMeshVar" alt="" coords="817,770,999,811"/>
+<area shape="rect" id="node13" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list " alt="" coords="1107,1097,1291,1138"/>
+<area shape="rect" id="node14" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name. " alt="" coords="1371,1104,1619,1131"/>
+<area shape="rect" id="node16" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="1099,535,1298,577"/>
+<area shape="rect" id="node17" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="1082,5,1315,32"/>
+<area shape="rect" id="node18" href="$df/d9f/class_user_mesh_v_o.html#a153f65bf2c1c6be92a609e6ad82c9e5b" title="set the user name " alt="" coords="1103,56,1294,83"/>
+<area shape="rect" id="node19" href="$df/d9f/class_user_mesh_v_o.html#af2756a819b6b1f8b7ae8c05ddd68da50" title="Set the file name. " alt="" coords="1109,107,1289,133"/>
+<area shape="rect" id="node20" href="$df/d9f/class_user_mesh_v_o.html#ace8e3a948f06e6702f83ed874da2a5d4" title="Destructor. " alt="" coords="1100,157,1297,184"/>
+<area shape="rect" id="node21" href="$dc/d7e/class_solver_variable_v_o.html#a902936d13adb1435f585bb27617df7dd" title="Get the list of associated variables. " alt="" coords="1091,209,1307,250"/>
+<area shape="rect" id="node22" href="$df/d9f/class_user_mesh_v_o.html#afce51b683d3d204306e2fee50cfcca77" title="Set true if it has associated mesh variables, false otherwise. " alt="" coords="1091,274,1307,315"/>
+<area shape="rect" id="node23" href="$df/d9f/class_user_mesh_v_o.html#ae111b48b210fb7959811fa2a9ca1dd08" title="Set the list of associated mesh variables. " alt="" coords="1103,339,1295,381"/>
+<area shape="rect" id="node24" href="$d5/d05/class_mesh_dialog.html#a7a5a9a9924ec7b9a095dfaa975846523" title="MeshDialog::checkIfAllBoundary\lNames" alt="" coords="1093,405,1305,446"/>
+<area shape="rect" id="node25" href="$d5/d05/class_mesh_dialog.html#a7edb15b90a9736ec2bb8920741d4882d" title="MeshDialog::splitBndName\lAndValues" alt="" coords="1108,470,1289,511"/>
+<area shape="rect" id="node26" href="$df/d9f/class_user_mesh_v_o.html#a6620be59e6d465e6043fefc8778106d8" title="Set the list of the boundary names. " alt="" coords="1079,601,1318,628"/>
+<area shape="rect" id="node27" href="$df/d9f/class_user_mesh_v_o.html#a38f97d485b47af71666beafca1d330fa" title="Set the list of associated values. " alt="" coords="1075,653,1322,694"/>
+<area shape="rect" id="node30" href="$df/d9f/class_user_mesh_v_o.html#af74d8e230aa1fafdeec1722cb6ef1b72" title="Check if it has associated Mesh variables (by default false) " alt="" coords="1101,901,1296,942"/>
+<area shape="rect" id="node31" href="$d5/d05/class_mesh_dialog.html#a78643c6506d2fdfd65ac40fc42d2d0ac" title="MeshDialog::isAllowedThe\lAssociatedMeshVariables" alt="" coords="1110,966,1287,1007"/>
+<area shape="rect" id="node32" href="$df/d9f/class_user_mesh_v_o.html#ac030419619a5104ef6ee6b6861f39715" title="Get the list of associated mesh variables. " alt="" coords="1103,1031,1295,1073"/>
+<area shape="rect" id="node33" href="$df/d9f/class_user_mesh_v_o.html#a7c0daff13b5d0d762dbda620c0b2516f" title="the the list of boundary names " alt="" coords="1079,719,1318,745"/>
+<area shape="rect" id="node34" href="$d5/d05/class_mesh_dialog.html#a52df955cd935bfab86478c0b9a9b4dfb" title="MeshDialog::findMeshVariable\lToUpdate" alt="" coords="1099,770,1298,811"/>
+<area shape="rect" id="node37" href="$df/d9f/class_user_mesh_v_o.html#a670440cb52ca5e2cd30720fcc8e50520" title="Get the list of the associated values. " alt="" coords="1075,835,1322,877"/>
+<area shape="rect" id="node35" href="$df/d9f/class_user_mesh_v_o.html#a1b31434c6d82eaa5f95f94dda58c1ad6" title="Get the name of the parent menu. " alt="" coords="1396,803,1593,829"/>
+<area shape="rect" id="node36" href="$df/d9f/class_user_mesh_v_o.html#ab4f00bd22b83b2378b6a7e4a1f69a816" title="Get the user name. " alt="" coords="1399,752,1590,779"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="523,967,741,993"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#aa01564cc30dbdcb6d8b6ad3cabd58aa7" title="Enable all the Save actions fo the project. " alt="" coords="535,1018,729,1059"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#a7e6e64a0ab3aa5d812846f376d8ccbb5" title="Activate the save Congifuration elements and save config as from the menu. " alt="" coords="532,835,732,877"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_main_window.html#af0b93538120f4bf1b505b22cd5785cd7" title="This function changes the disable/enable nature of the Physics button. " alt="" coords="533,901,731,942"/>
+<area shape="rect" id="node49" href="$d9/dc6/class_main_window.html#a2708d7e878d7fe455dc16b5e766d8514" title="Reset the marker values to their old values. " alt="" coords="535,1195,729,1237"/>
+</map>

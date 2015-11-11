@@ -1,0 +1,23 @@
+<map id="MainWindow::runSolverProject" name="MainWindow::runSolverProject">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a028bd5b2a7f075ca1c6563d4136c68d7" title="Function to build the solver Command according project conditions and user preferences. " alt="" coords="256,165,485,192"/>
+<area shape="rect" id="node10" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="555,187,733,229"/>
+<area shape="rect" id="node11" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="553,253,735,294"/>
+<area shape="rect" id="node12" href="$d4/df8/class_solver_residual_v_o.html#a08ad7ac80f7f23e2ff3947fd1ca0f31d" title="Clear all the data. " alt="" coords="267,411,475,437"/>
+<area shape="rect" id="node19" href="$d3/de5/class_solver_plotter.html#ac7893a452ecc529ac2ff34502575cc8e" title="Function to clear the current Canvas. " alt="" coords="281,461,460,488"/>
+<area shape="rect" id="node22" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="278,512,463,539"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path) " alt="" coords="559,5,729,46"/>
+<area shape="rect" id="node4" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path) " alt="" coords="562,70,726,111"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#adf96d7aac0c5de00c95250a4731c19ab" title="This function decides which Solver running executable is going to be called. At the moment there are ..." alt="" coords="534,136,754,163"/>
+<area shape="rect" id="node6" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="822,227,1007,269"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="809,31,1020,73"/>
+<area shape="rect" id="node8" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="803,97,1027,138"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="812,162,1017,203"/>
+<area shape="rect" id="node13" href="$d4/df8/class_solver_residual_v_o.html#a3fbb40f5ba13718602acc9de78cca9f2" title="Set number of iteration. " alt="" coords="543,319,745,345"/>
+<area shape="rect" id="node14" href="$d4/df8/class_solver_residual_v_o.html#aa6f52f2e4745fe02dd5d4a08bfa27d84" title="set Time Val " alt="" coords="552,370,736,411"/>
+<area shape="rect" id="node15" href="$d4/df8/class_solver_residual_v_o.html#add39c5bb919665b2b9c96b55442e7c4f" title="Set ResRho. " alt="" coords="543,436,745,463"/>
+<area shape="rect" id="node16" href="$d4/df8/class_solver_residual_v_o.html#a0f14f6066eba89ff4750ec3678d48876" title="Set ResRhoe. " alt="" coords="539,487,749,513"/>
+<area shape="rect" id="node17" href="$d4/df8/class_solver_residual_v_o.html#a997b591f98e89d33e53c45cfadb67485" title="Set Clift Total. " alt="" coords="555,538,733,579"/>
+<area shape="rect" id="node18" href="$d4/df8/class_solver_residual_v_o.html#a23f147e1a98947ead1ad8b715afc7907" title="Set CDrag Total. " alt="" coords="547,603,741,645"/>
+<area shape="rect" id="node20" href="$d3/de5/class_solver_plotter.html#afc41e2c5b67799518fb843fb2dd2ad14" title="Function to show the curves. " alt="" coords="555,669,733,696"/>
+<area shape="rect" id="node21" href="$d3/de5/class_solver_plotter.html#ad54ad43016ae4d7617cd2bbaf594836b" title="Function to show the curve. " alt="" coords="829,669,1000,696"/>
+</map>

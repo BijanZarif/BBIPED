@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/de5/class_solver_plotter.html#a052770e3c1b0c646ff4b34fb31b56760" title="Function that inits the curves." alt="" coords="248,59,411,88"/>
+<area shape="rect" id="node13" href="$d3/de5/class_solver_plotter.html#a75afb77908e2da933000462d4e8057ec" title="Function that sets up the Axis Layout." alt="" coords="236,112,423,141"/>
+<area shape="rect" id="node15" href="$d3/de5/class_solver_plotter.html#ad54ad43016ae4d7617cd2bbaf594836b" title="Function to show the curve." alt="" coords="484,191,655,220"/>
+<area shape="rect" id="node17" href="$d3/de5/class_solver_plotter.html#afc41e2c5b67799518fb843fb2dd2ad14" title="Function to show the curves." alt="" coords="240,216,419,245"/>
+<area shape="rect" id="node5" href="$d3/de5/class_solver_plotter.html#ac4569b67281218c2d0cb74155ef01663" title="Function that gets the curve names." alt="" coords="473,5,665,35"/>
+<area shape="rect" id="node7" href="$d3/de5/class_solver_plotter.html#ae5ef49cf4d2fc5c1b50a41bc93469309" title="Function that sets the color." alt="" coords="492,59,647,88"/>
+<area shape="rect" id="node11" href="$d3/de5/class_solver_plotter.html#abd814415ff59ceb21b2b94f6b6fa41b6" title="Function that updates the values of the curve." alt="" coords="477,112,661,141"/>
+<area shape="rect" id="node9" href="$d3/def/class_plotter_curve.html#a4499b66ad0f98bc33a8989ac2c0f9712" title="Function that sets up the color." alt="" coords="715,59,867,88"/>
+</map>

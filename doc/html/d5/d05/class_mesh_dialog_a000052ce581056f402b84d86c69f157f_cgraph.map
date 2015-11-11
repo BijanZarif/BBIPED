@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dea/class_solver_section_d_a_o.html#a0e4e0d77540f979875f576cc8ac60489" title="Find a Variable by the value name." alt="" coords="321,59,647,88"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#af233321e5af1e7fdb5b7e7303e18e71c" title="Returns the row where the boundary is placed." alt="" coords="385,112,583,141"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#a5f92ccc8dcfe0ef3a28ff2e407cbbe4f" title="Returns if it is a special boundary." alt="" coords="381,165,587,195"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#ab7f67a54cd8058cee4148c6cb2830efc" title="Function to show the values that comes from the specific window." alt="" coords="367,219,601,248"/>
+<area shape="rect" id="node21" href="$d5/d05/class_mesh_dialog.html#a17023bddca6c8936832d49cd5291cb8c" title="Function to update the combo value with previous values." alt="" coords="377,272,591,301"/>
+<area shape="rect" id="node5" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="723,5,976,35"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file." alt="" coords="723,59,976,88"/>
+<area shape="rect" id="node9" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="733,112,965,141"/>
+<area shape="rect" id="node17" href="$da/dfd/class_solver_marker_menu_helper.html#a3c77f16f9fcf6a4e2a6954bcd597b740" title="This function adds a Edit Icon to the correspondent column in the row." alt="" coords="696,219,1003,248"/>
+<area shape="rect" id="node19" href="$d3/d4b/class_qtable_util.html#afd86e3403f38bd186126d28d134c4ce4" title="Function that creates a script edit icon widget cell element to be added to the table." alt="" coords="1051,219,1208,248"/>
+</map>

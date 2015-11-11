@@ -1,0 +1,7 @@
+<map id="SolverBasicDialog::on_customizedViewRadioButton_clicked" name="SolverBasicDialog::on_customizedViewRadioButton_clicked">
+<area shape="rect" id="node2" href="$d3/d40/class_solver_basic_dialog.html#ad86b552bc601e6728fcdb0dcb74951a4" title="Function to reset the table. " alt="" coords="279,5,417,46"/>
+<area shape="rect" id="node4" href="$d3/d40/class_solver_basic_dialog.html#a17f23aa4e13b33b54c2bdd530d35ffc5" title="Function that restore the elements for the PERSONALIZED VIEW. " alt="" coords="264,70,432,111"/>
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#a08a551b0d2cb7528233ae671c547bef8" title="Loads the common table header values. " alt="" coords="527,5,665,46"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#abd5b12dfe56dca373168f896b6fcda0d" title="Returns the personalized template menu list. " alt="" coords="481,70,711,111"/>
+<area shape="rect" id="node6" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager. " alt="" coords="503,135,689,177"/>
+</map>

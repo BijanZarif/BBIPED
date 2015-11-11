@@ -1,0 +1,7 @@
+<map id="MeshDialog::initBndNamesInAssociatedMeshVar" name="MeshDialog::initBndNamesInAssociatedMeshVar">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="235,38,413,79"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="461,45,616,72"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="665,12,863,39"/>
+<area shape="rect" id="node6" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="671,63,857,119"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="912,5,1147,46"/>
+</map>

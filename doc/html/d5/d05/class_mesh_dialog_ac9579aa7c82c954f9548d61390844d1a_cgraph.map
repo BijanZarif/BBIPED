@@ -1,0 +1,51 @@
+<map id="MeshDialog::on_meshTableWidget_cellClicked" name="MeshDialog::on_meshTableWidget_cellClicked">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="485,591,683,617"/>
+<area shape="rect" id="node22" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="237,990,421,1031"/>
+<area shape="rect" id="node47" href="$df/de6/class_help_dialog.html#accdf8309612d2a1f027afb50368ec77e" title="Load the help text. " alt="" coords="244,1056,415,1083"/>
+<area shape="rect" id="node48" href="$d5/d05/class_mesh_dialog.html#a2a8756c92a88496a09f79b3733644c46" title="Function that checks if it is needed to open the Specific boundary dialog. " alt="" coords="474,645,694,686"/>
+<area shape="rect" id="node50" href="$df/de6/class_help_dialog.html#a779fb4ddf118d3b4e9e8f8d6fe040b40" title="Set the help text. " alt="" coords="247,1107,412,1133"/>
+<area shape="rect" id="node3" href="$db/d40/class_solver_config_menu_helper.html#a531ed471f5cd19b036cf86087e946daf" title="Function that gets the correspondent help text of a variable Name. " alt="" coords="787,515,954,557"/>
+<area shape="rect" id="node5" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents. " alt="" coords="1060,394,1239,435"/>
+<area shape="rect" id="node19" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="1043,762,1256,803"/>
+<area shape="rect" id="node20" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu. " alt="" coords="771,581,970,622"/>
+<area shape="rect" id="node4" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="1305,727,1538,753"/>
+<area shape="rect" id="node6" href="$d4/da5/class_html_formatter.html#a20c7c3ec9392c414f2b5ed9557ac708a" title="Destructor. " alt="" coords="1320,340,1523,367"/>
+<area shape="rect" id="node7" href="$d4/da5/class_html_formatter.html#ab55bcd47fa13e157e581eba5315912d8" title="This fucntion adds a title (header 1) with the correspondent html tags. " alt="" coords="1331,391,1512,417"/>
+<area shape="rect" id="node8" href="$d4/da5/class_html_formatter.html#a11bf3057628a8a69b5c5c28365044519" title="This fucntion adds a paragraph (header 2, image, title) with the correspondent html tags..." alt="" coords="1331,442,1512,483"/>
+<area shape="rect" id="node9" href="$d4/da5/class_html_formatter.html#a976a3dd8b4688bd3677b793420a233dc" title="This fucntion adds a paragraph with the correspondent html tags. " alt="" coords="1314,508,1529,535"/>
+<area shape="rect" id="node10" href="$da/d51/class_solver_var_help_v_o.html#a2d350f71806d4aa6eaed067462e69d07" title="This function returns the definition content. " alt="" coords="1305,559,1537,585"/>
+<area shape="rect" id="node11" href="$da/d51/class_solver_var_help_v_o.html#aa039fbf20ba99411d047179fd089b399" title="This function returns these values. " alt="" coords="1313,609,1530,636"/>
+<area shape="rect" id="node12" href="$da/d51/class_solver_var_help_v_o.html#a8b48448bb484eba5d24df9f0f2aa390f" title="This function returns the details associated in the help of the variable. " alt="" coords="1312,5,1531,32"/>
+<area shape="rect" id="node13" href="$dc/d7e/class_solver_variable_v_o.html#ab1085abd62e185571462e8d2b8db45fe" title="Get the associated combo values list. " alt="" coords="1325,57,1518,98"/>
+<area shape="rect" id="node14" href="$dc/d7e/class_solver_variable_v_o.html#a0eb7d1b3861b054ee95758101f4729a3" title="get the Associated default value " alt="" coords="1325,122,1518,163"/>
+<area shape="rect" id="node15" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="1322,661,1521,702"/>
+<area shape="rect" id="node16" href="$d4/da5/class_html_formatter.html#a0c27e4810a567d095974891f20dd1f28" title="This fucntion adds a table with the correspondent html tags. " alt="" coords="1327,188,1515,215"/>
+<area shape="rect" id="node17" href="$d4/da5/class_html_formatter.html#aaaaedc1af21d24c5ae03b3bacf76e474" title="This fucntion adds a the footer of the html document. " alt="" coords="1323,239,1520,265"/>
+<area shape="rect" id="node18" href="$d4/da5/class_html_formatter.html#a7604c9cd1243a3ae687040dc2462c56e" title="This function returns the Html formated text. " alt="" coords="1315,289,1528,316"/>
+<area shape="rect" id="node21" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list " alt="" coords="1057,581,1241,622"/>
+<area shape="rect" id="node23" href="$df/db2/class_specific_boundary_variable_dialog.html#a12ce72f59712518a632b4ccceb26b301" title="Returns the configured Boundary list. " alt="" coords="483,1285,685,1326"/>
+<area shape="rect" id="node24" href="$df/db2/class_specific_boundary_variable_dialog.html#ab65543f287afc364b56ad088f0da5cbb" title="Function that load the values. " alt="" coords="499,1350,669,1391"/>
+<area shape="rect" id="node27" href="$d5/d05/class_mesh_dialog.html#a1e0dbbe416dbf49ee49fbbe5f880f9f8" title="Function to restore the values in the row. " alt="" coords="495,711,673,737"/>
+<area shape="rect" id="node29" href="$d5/d05/class_mesh_dialog.html#a0606bccd0ad1ceac4cbcf2e75b7fee29" title="Function to save the user changes. " alt="" coords="481,1511,687,1537"/>
+<area shape="rect" id="node38" href="$df/db2/class_specific_boundary_variable_dialog.html#ae874f18a5fbe8d4044f438c0144dda5f" title="Set the boundary name. " alt="" coords="497,1562,671,1603"/>
+<area shape="rect" id="node39" href="$df/db2/class_specific_boundary_variable_dialog.html#a36091718ec9e6edf58439f3dc706988e" title="Set the boundary type. " alt="" coords="499,762,669,803"/>
+<area shape="rect" id="node40" href="$df/db2/class_specific_boundary_variable_dialog.html#a7333b016245a0dfc9fc9cb68f26c81f7" title="SpecificBoundaryVariable\lDialog::setCurrentValues" alt="" coords="499,827,669,869"/>
+<area shape="rect" id="node41" href="$df/db2/class_specific_boundary_variable_dialog.html#a406d6afaef39f564548887ea8654db32" title="Function to set the help content. " alt="" coords="499,893,669,934"/>
+<area shape="rect" id="node42" href="$df/db2/class_specific_boundary_variable_dialog.html#aa4c1195ecac642032f432a34c7c551e5" title="set the marker menu manager " alt="" coords="481,958,687,999"/>
+<area shape="rect" id="node43" href="$df/db2/class_specific_boundary_variable_dialog.html#a324244873c89d0bd0493f905685288f6" title="Function that sest the values of the boundary values. " alt="" coords="499,1023,669,1065"/>
+<area shape="rect" id="node44" href="$df/db2/class_specific_boundary_variable_dialog.html#a4ed2805d9437cfb7898d37d812fac943" title="Function that saves the changes made by the user. " alt="" coords="469,1089,699,1130"/>
+<area shape="rect" id="node45" href="$d5/d05/class_mesh_dialog.html#ab7f67a54cd8058cee4148c6cb2830efc" title="Function to show the values that comes from the specific window. " alt="" coords="493,1154,675,1195"/>
+<area shape="rect" id="node46" href="$df/db2/class_specific_boundary_variable_dialog.html#ace3810168c6ad8d847cc87dd463b93ac" title="Function that controls when the user press the accept button. " alt="" coords="491,1219,677,1261"/>
+<area shape="rect" id="node25" href="$df/db2/class_specific_boundary_variable_dialog.html#a95ee8266eb4672b841a0c54f17257a78" title="Function that loads the table header. " alt="" coords="785,1222,956,1263"/>
+<area shape="rect" id="node26" href="$df/db2/class_specific_boundary_variable_dialog.html#a9c802ab5a80bc7d4f9767f0c9afe77d4" title="Function that loads the correspondent table. " alt="" coords="747,1287,994,1329"/>
+<area shape="rect" id="node28" href="$d4/dea/class_solver_section_d_a_o.html#aa4ecdd8245b0eacd06f61da2e5e27fb2" title="Find a variable by its value name. " alt="" coords="767,763,975,805"/>
+<area shape="rect" id="node30" href="$d5/d05/class_mesh_dialog.html#a69315013d2110994ff817e9c69d66619" title="MeshDialog::findMeshVariable\lToUpdateByBndValue" alt="" coords="771,1353,970,1394"/>
+<area shape="rect" id="node31" href="$d5/d05/class_mesh_dialog.html#a52df955cd935bfab86478c0b9a9b4dfb" title="MeshDialog::findMeshVariable\lToUpdate" alt="" coords="771,1470,970,1511"/>
+<area shape="rect" id="node32" href="$df/d9f/class_user_mesh_v_o.html#ab4f00bd22b83b2378b6a7e4a1f69a816" title="Get the user name. " alt="" coords="1054,1448,1245,1475"/>
+<area shape="rect" id="node33" href="$d5/d05/class_mesh_dialog.html#ac8a346208a1f08807972e5018e146d7e" title="MeshDialog::findMeshVariable\lToUpdateByFileNameVar" alt="" coords="771,1535,970,1577"/>
+<area shape="rect" id="node34" href="$d5/d05/class_mesh_dialog.html#a730497871b747de80c3372ae3e12dd68" title="MeshDialog::getBndTypeName" alt="" coords="769,1601,973,1628"/>
+<area shape="rect" id="node35" href="$df/d9f/class_user_mesh_v_o.html#a84805f0857ce4ab865313d3521311087" title="Delete a boundary by its name. " alt="" coords="771,1652,970,1679"/>
+<area shape="rect" id="node36" href="$df/d9f/class_user_mesh_v_o.html#af74d8e230aa1fafdeec1722cb6ef1b72" title="Check if it has associated Mesh variables (by default false) " alt="" coords="773,1703,968,1745"/>
+<area shape="rect" id="node37" href="$d5/d05/class_mesh_dialog.html#a78643c6506d2fdfd65ac40fc42d2d0ac" title="MeshDialog::isAllowedThe\lAssociatedMeshVariables" alt="" coords="782,1769,959,1810"/>
+<area shape="rect" id="node49" href="$d4/dea/class_solver_section_d_a_o.html#a04e8c6e17f2dea86b0c0416dc28bd4cc" title="Find the value name associated to a variable name. " alt="" coords="773,646,968,687"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="UserPreferencesData::getPostProcessorViewerPath" name="UserPreferencesData::getPostProcessorViewerPath">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a207f5b2501f5788829fd4fc7819c9733" title="Initialize post processor Viewer Data. " alt="" coords="281,31,458,73"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ab1cdfb5cf07b89f524bc9ca2a16aae16" title="This internal function controls if the Paraview is opened passing a file or to open a new instance of..." alt="" coords="257,129,482,156"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="295,185,443,226"/>
+<area shape="rect" id="node11" href="$d1/d59/class_preferences_manager.html#aed2b7aa02818c7d382784c2812d789ba" title="PreferencesManager\l::writeUserPreferences" alt="" coords="291,251,447,293"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="550,5,727,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a3d97ae6697109a86ae452aeb5d01bf46" title="Launching the paraview application. " alt="" coords="531,57,746,98"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#abc5d9f29762653dd596349935315ceee" title="This function launchs the Paraview tool from the button click. " alt="" coords="531,122,747,163"/>
+<area shape="rect" id="node8" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="539,187,738,229"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="795,115,1026,157"/>
+<area shape="rect" id="node10" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="795,180,1026,236"/>
+<area shape="rect" id="node12" href="$d1/d59/class_preferences_manager.html#a379493229bb891a7b62d3a8e32730730" title="PreferencesManager\l::saveUserPreferences" alt="" coords="561,253,717,294"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="815,260,1006,287"/>
+<area shape="rect" id="node16" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="837,314,984,355"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1081,201,1252,228"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1075,253,1259,294"/>
+<area shape="rect" id="node17" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="1093,318,1240,359"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1307,318,1487,359"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1537,325,1717,352"/>
+</map>

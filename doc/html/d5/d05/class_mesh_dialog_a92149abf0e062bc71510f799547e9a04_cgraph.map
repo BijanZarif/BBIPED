@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dea/class_solver_section_d_a_o.html#a04e8c6e17f2dea86b0c0416dc28bd4cc" title="Find the value name associated to a variable name." alt="" coords="383,112,708,141"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#acee60c276f91beb93405f6aa906c6a54" title="Returns the associated value of a _value." alt="" coords="787,219,1000,248"/>
+<area shape="rect" id="node13" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="384,165,707,195"/>
+<area shape="rect" id="node19" href="$d5/d05/class_mesh_dialog.html#a7f9513fc40eff3ef6acaed86b8f83b6a" title="Function to remove old values." alt="" coords="448,271,643,300"/>
+<area shape="rect" id="node5" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="767,59,1020,88"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="777,112,1009,141"/>
+<area shape="rect" id="node9" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file." alt="" coords="767,5,1020,35"/>
+<area shape="rect" id="node15" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="780,165,1007,195"/>
+<area shape="rect" id="node17" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="1077,165,1325,195"/>
+<area shape="rect" id="node22" href="$d5/d05/class_mesh_dialog.html#a1aeded073da05bbe35d33a5bf5dcf472" title="returns the matrix position for the selected sub menu" alt="" coords="757,325,1029,355"/>
+<area shape="rect" id="node24" href="$d5/d05/class_mesh_dialog.html#a5f92ccc8dcfe0ef3a28ff2e407cbbe4f" title="Returns if it is a special boundary." alt="" coords="791,272,996,301"/>
+</map>

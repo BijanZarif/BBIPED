@@ -1,0 +1,13 @@
+<map id="SolverVariableVO::getSelectableComboValues" name="SolverVariableVO::getSelectableComboValues">
+<area shape="rect" id="node2" href="$db/d40/class_solver_config_menu_helper.html#a757f52b5f35549e32f06bd697307d967" title="Function that adds the variable elements to each row in the table. " alt="" coords="267,85,434,126"/>
+<area shape="rect" id="node8" href="$d4/dae/class_file_comparison_dialog.html#a7bf28c3c95f689c4f7aa99ec576b6327" title="This function fill the User Values in the cell. " alt="" coords="275,150,426,191"/>
+<area shape="rect" id="node3" href="$d2/d41/class_summary_dialog.html#aa9926dd83a3273f07c0d13ab4c4fe211" title="Function that inserts each variabel with the correspondent value in the table. " alt="" coords="483,85,685,126"/>
+<area shape="rect" id="node4" href="$d2/d41/class_summary_dialog.html#a6d56ca1312a2a63e1fb33988825410a0" title="Function that builds up the rows of the table. " alt="" coords="733,92,917,119"/>
+<area shape="rect" id="node5" href="$d2/d41/class_summary_dialog.html#a76f77e9d02fc69e70cfdc550b00122c4" title="Function that builds up the summary table. " alt="" coords="966,85,1173,126"/>
+<area shape="rect" id="node6" href="$d3/d40/class_solver_basic_dialog.html#acc747be32930e4361463babd2b957024" title="Slot to control when the user check/uncheck the rotating frame menu element. " alt="" coords="1237,5,1409,61"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a24f40032e0d68fddf0ac0fa8a18adf34" title="SOLVER: Shows the user input for the configuration file. " alt="" coords="1221,85,1424,126"/>
+<area shape="rect" id="node9" href="$d4/dae/class_file_comparison_dialog.html#a62ad3612f32de7def16cfff0f90fe8d8" title="This function fill the row with the data. " alt="" coords="509,150,659,191"/>
+<area shape="rect" id="node10" href="$d4/dae/class_file_comparison_dialog.html#a7a4a5f6ad6c49566eee422f914059776" title="This function build the individual rows according with the data. " alt="" coords="750,150,901,191"/>
+<area shape="rect" id="node11" href="$d4/dae/class_file_comparison_dialog.html#a4b18498221b6dc59808d0be183286788" title="This function shows those values that are different in the table. " alt="" coords="994,150,1145,191"/>
+<area shape="rect" id="node12" href="$d4/dae/class_file_comparison_dialog.html#a8c64ed49bb328df2b5f2b2becfc349f5" title="This function allows to compare the files. " alt="" coords="1229,150,1416,191"/>
+</map>

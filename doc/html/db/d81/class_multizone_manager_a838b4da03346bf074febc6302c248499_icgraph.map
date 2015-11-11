@@ -1,0 +1,9 @@
+<map id="MultizoneManager::updateViewForNewFile" name="MultizoneManager::updateViewForNewFile">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="239,5,425,46"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a77b647279a556a2844bc88f7139fb829" title="MainWindow::updateMeshView" alt="" coords="229,71,435,97"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="493,45,688,72"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="483,96,699,123"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="747,96,941,123"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="990,55,1189,97"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="992,121,1187,162"/>
+</map>

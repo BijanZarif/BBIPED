@@ -1,0 +1,13 @@
+<map id="MainWindow::launchFileComparisonDialog" name="MainWindow::launchFileComparisonDialog">
+<area shape="rect" id="node2" href="$d9/d6e/class_solver_config_manager.html#ade5faa8b388d670166cc924d91f5ca3f" title="Function that gets all the sections to be shown in the menu list. " alt="" coords="316,5,476,46"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files. " alt="" coords="323,70,469,111"/>
+<area shape="rect" id="node4" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="289,136,503,163"/>
+<area shape="rect" id="node5" href="$d4/dae/class_file_comparison_dialog.html#a8a40c47f7b0c2d4798ca6af4939b1917" title="Set the list of files to be compared. " alt="" coords="321,187,471,229"/>
+<area shape="rect" id="node10" href="$d4/dae/class_file_comparison_dialog.html#acde367a9f756d925d37396431c0bae80" title="Set the project details. " alt="" coords="321,253,471,294"/>
+<area shape="rect" id="node11" href="$d4/dae/class_file_comparison_dialog.html#aadfbeec6852612f018e480550a1135aa" title="Set the section Menu List. " alt="" coords="321,318,471,359"/>
+<area shape="rect" id="node12" href="$d4/dae/class_file_comparison_dialog.html#a7cc741d3e6770fab7cd7e387fda0b60d" title="FileComparisonDialog\l::setVirtualMRFData" alt="" coords="321,383,471,425"/>
+<area shape="rect" id="node6" href="$d4/dae/class_file_comparison_dialog.html#ae4eb41c96d32d02a87bf86c41c4c94e0" title="This function insert the Header titles. " alt="" coords="553,122,703,163"/>
+<area shape="rect" id="node8" href="$d4/dae/class_file_comparison_dialog.html#a63d93daa1fde1057ffd1150095ef6d91" title="This function reset the table values. " alt="" coords="553,187,703,229"/>
+<area shape="rect" id="node9" href="$d4/dae/class_file_comparison_dialog.html#ab96f7ceebd88a9154cf48665acb4db05" title="This function updates the Header table. " alt="" coords="553,253,703,294"/>
+<area shape="rect" id="node7" href="$d3/d4b/class_qtable_util.html#ad7e585cfc6bbdd92fd788afba3f05c04" title="Function that creates non edit default text cell to the table. " alt="" coords="753,195,959,221"/>
+</map>

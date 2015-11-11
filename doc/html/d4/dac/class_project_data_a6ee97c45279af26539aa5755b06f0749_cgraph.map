@@ -1,0 +1,13 @@
+<map id="ProjectData::updateProjectData" name="ProjectData::updateProjectData">
+<area shape="rect" id="node2" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="262,5,477,32"/>
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="277,56,462,83"/>
+<area shape="rect" id="node4" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="278,107,461,149"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a2b1eee2c51ef8f0ba562a501b9cd383d" title="Establish the file path of the project file. " alt="" coords="262,173,477,200"/>
+<area shape="rect" id="node6" href="$d4/dac/class_project_data.html#a5459bf2305f7aa9cf9c9ac13ead94a3d" title="Establish the path of the project. " alt="" coords="277,224,462,251"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object. " alt="" coords="278,275,461,317"/>
+<area shape="rect" id="node8" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other. " alt="" coords="525,283,640,309"/>
+<area shape="rect" id="node9" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path. " alt="" coords="693,181,872,222"/>
+<area shape="rect" id="node10" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="693,246,872,287"/>
+<area shape="rect" id="node11" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor. " alt="" coords="688,312,877,339"/>
+<area shape="rect" id="node12" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="688,363,877,389"/>
+</map>

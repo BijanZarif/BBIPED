@@ -1,0 +1,3 @@
+<map id="SalomeToolCreateMeshDialog" name="SalomeToolCreateMeshDialog">
+<area shape="rect" id="node3" href="$dc/def/class_salome_template_data.html" title="{SalomeTemplateData\n|&#45; _templateFileName\l&#45; _templateName\l&#45; _variableList\l|+ SalomeTemplateData()\l+ findByName()\l+ getTemplateFileName()\l+ getTemplateName()\l+ getVariableList()\l+ isEmpty()\l+ setTemplateFileName()\l+ setTemplateName()\l+ setVariableList()\l&#45; removeWhiteSpaces()\l}" alt="" coords="105,6,276,245"/>
+</map>

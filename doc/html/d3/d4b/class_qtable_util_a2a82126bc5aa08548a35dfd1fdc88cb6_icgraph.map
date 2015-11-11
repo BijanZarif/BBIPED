@@ -1,0 +1,37 @@
+<map id="QtableUtil::addChangedColumn" name="QtableUtil::addChangedColumn">
+<area shape="rect" id="node2" href="$da/dfd/class_solver_marker_menu_helper.html#a9032989805759caf99dcb551680e83f7" title="This function creates the Row in the correspondent table for a Marker Variable. " alt="" coords="279,23,449,65"/>
+<area shape="rect" id="node6" href="$d8/d02/class_virtual_rotating_dialog.html#af8346acfb07fa347ca6deb191a75dd86" title="VirtualRotatingDialog\l::addRow" alt="" coords="291,294,437,335"/>
+<area shape="rect" id="node12" href="$df/db2/class_specific_boundary_variable_dialog.html#afdb9119d164c1872fe9b0d6bc3d0ba42" title="Function that adds a row to the table. " alt="" coords="279,105,449,146"/>
+<area shape="rect" id="node19" href="$d1/d96/class_salome_template_dialog.html#a3a5e22f5f4ec21a22375f6d47fb5c2ab" title="SalomeTemplateDialog\l::addRow" alt="" coords="285,359,443,401"/>
+<area shape="rect" id="node22" href="$db/dbb/class_salome_optimization_dialog.html#a4f4ee6f05ca417869455c22bf736f3c4" title="SalomeOptimizationDialog\l::addRow" alt="" coords="276,425,452,466"/>
+<area shape="rect" id="node25" href="$db/d40/class_solver_config_menu_helper.html#a757f52b5f35549e32f06bd697307d967" title="Function that adds the variable elements to each row in the table. " alt="" coords="281,190,447,231"/>
+<area shape="rect" id="node31" href="$d3/d40/class_solver_basic_dialog.html#ac0e2ae6053322b5da5f9e0ff8b51abcd" title="SolverBasicDialog::\linsertRowSpecific" alt="" coords="865,497,1002,538"/>
+<area shape="rect" id="node33" href="$d3/d40/class_solver_basic_dialog.html#a2748d3f04ffe3d1d784a2333dc66c5c3" title="SolverBasicDialog::\linsertRowSpecificWithoutIcons" alt="" coords="261,555,467,597"/>
+<area shape="rect" id="node3" href="$da/dfd/class_solver_marker_menu_helper.html#a256cd2e13436150f3982efa4fe8578bc" title="This funtcion allow to fill the specific marker menu table in the Solver Basic dialog. " alt="" coords="1611,6,1781,47"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1829,43,1973,69"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="2022,35,2229,77"/>
+<area shape="rect" id="node7" href="$d8/d02/class_virtual_rotating_dialog.html#a45653652e4336263e12c7031ad91b8ff" title="VirtualRotatingDialog\l::fillTable" alt="" coords="566,294,711,335"/>
+<area shape="rect" id="node11" href="$d8/d02/class_virtual_rotating_dialog.html#a715c4a46e07c97cf4cd1f9689f28a80e" title="VirtualRotatingDialog\l::on_numVirtualZonesSpinBox\l_valueChanged" alt="" coords="539,215,738,271"/>
+<area shape="rect" id="node8" href="$d8/d02/class_virtual_rotating_dialog.html#a1d0a3bca6e362f82e1ab74ab8c6c8d3f" title="VirtualRotatingDialog\l::initializeDialog" alt="" coords="861,273,1006,314"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#ac5050a44be71a0938c271ec4859bf741" title="SolverBasicDialog::\llaunchVirtualRotatingDialog" alt="" coords="1117,335,1299,377"/>
+<area shape="rect" id="node10" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="1369,490,1553,531"/>
+<area shape="rect" id="node13" href="$df/db2/class_specific_boundary_variable_dialog.html#a9c802ab5a80bc7d4f9767f0c9afe77d4" title="Function that loads the correspondent table. " alt="" coords="515,85,762,126"/>
+<area shape="rect" id="node14" href="$df/db2/class_specific_boundary_variable_dialog.html#ab65543f287afc364b56ad088f0da5cbb" title="Function that load the values. " alt="" coords="848,85,1019,126"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="1116,85,1300,126"/>
+<area shape="rect" id="node16" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="1366,65,1557,106"/>
+<area shape="rect" id="node18" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="1369,130,1553,171"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1615,72,1777,99"/>
+<area shape="rect" id="node20" href="$d1/d96/class_salome_template_dialog.html#a56b60248836aea073429712c3748c051" title="SalomeTemplateDialog\l::fillTable" alt="" coords="560,359,717,401"/>
+<area shape="rect" id="node21" href="$d1/d96/class_salome_template_dialog.html#ae96b667e11c1f6155d63dbe47d0be74f" title="SalomeTemplateDialog\l::on_templateSelComboBox\l_currentIndexChanged" alt="" coords="841,337,1026,393"/>
+<area shape="rect" id="node23" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog\l::fillTable" alt="" coords="551,425,727,466"/>
+<area shape="rect" id="node24" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog\l::on_templateComboBox_currentIndex\lChanged" alt="" coords="811,417,1056,473"/>
+<area shape="rect" id="node26" href="$d2/d41/class_summary_dialog.html#aa9926dd83a3273f07c0d13ab4c4fe211" title="Function that inserts each variabel with the correspondent value in the table. " alt="" coords="537,150,740,191"/>
+<area shape="rect" id="node27" href="$d2/d41/class_summary_dialog.html#a6d56ca1312a2a63e1fb33988825410a0" title="Function that builds up the rows of the table. " alt="" coords="841,189,1025,216"/>
+<area shape="rect" id="node28" href="$d2/d41/class_summary_dialog.html#a76f77e9d02fc69e70cfdc550b00122c4" title="Function that builds up the summary table. " alt="" coords="1105,202,1311,243"/>
+<area shape="rect" id="node29" href="$d3/d40/class_solver_basic_dialog.html#acc747be32930e4361463babd2b957024" title="Slot to control when the user check/uncheck the rotating frame menu element. " alt="" coords="1375,195,1547,251"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#a24f40032e0d68fddf0ac0fa8a18adf34" title="SOLVER: Shows the user input for the configuration file. " alt="" coords="1360,274,1563,315"/>
+<area shape="rect" id="node32" href="$d3/d40/class_solver_basic_dialog.html#ab8502b657563ecd32f52bd6c536187cf" title="SolverBasicDialog::\lupdateUserValuesSpecific" alt="" coords="1120,490,1296,531"/>
+<area shape="rect" id="node34" href="$d3/d40/class_solver_basic_dialog.html#a238b39826fb03c1efe68e962ff75b04f" title="SolverBasicDialog::\lupdateTableHeaderSpecific" alt="" coords="1117,555,1299,597"/>
+<area shape="rect" id="node35" href="$d3/d40/class_solver_basic_dialog.html#a5cbec9fe1995383ced93a57c396b213e" title="SolverBasicDialog::\llaunchSpecificWindow" alt="" coords="561,617,716,658"/>
+<area shape="rect" id="node36" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="851,613,1015,669"/>
+</map>

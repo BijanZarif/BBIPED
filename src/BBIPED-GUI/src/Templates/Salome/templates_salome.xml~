@@ -1,0 +1,443 @@
+<template-salome>
+	<templates>
+		<!-- BackwardBlade2D_template_Calculations -->
+		<template>
+			<name>Backward Blade in 2D</name>
+			<file-name>BackwardBlade2D_template_Calculations</file-name>
+			<variables>
+				<variable>
+					<name>Blade stagger angle</name>
+					<file-name>Blade_gamma</file-name>
+					<default-value>45</default-value>
+					<current-value>45</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>angle of attack (negative value is forward blade)</name>
+					<file-name>Blade_B1</file-name>
+					<default-value>15</default-value>
+					<current-value>15</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>exit angle respect to Radiar vector</name>
+					<file-name>Blade_B2</file-name>
+					<default-value>15</default-value>
+					<current-value>15</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>blade leading edge radius</name>
+					<file-name>Blade_Ri</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>blade trailing edge radius</name>
+					<file-name>Blade_Ro</file-name>
+					<default-value>0.5</default-value>
+					<current-value>0.5</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade Thickness</name>
+					<file-name>Blade_Thickness</file-name>
+					<default-value>0.005</default-value>
+					<current-value>0.005</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade Number</name>
+					<file-name>Blade_Number</file-name>
+					<default-value>13</default-value>
+					<current-value>13</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is the angle at which the volute tongue starts to create the seashell respect to the tangent of the origin centered circle crossing that point.</name>
+					<file-name>Vol_beta</file-name>
+					<default-value>10</default-value>
+					<current-value>10</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>The user will introduce an angle like 40, but we work with 40+180</name>
+					<file-name>Vol_omega</file-name>
+					<default-value>40</default-value>
+					<current-value>40</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>The user will introduce an angle like 40, but we work with 40+180</name>
+					<file-name>Vol_gamma</file-name>
+					<default-value>63.8</default-value>
+					<current-value>63.8</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is the free space distance from the rotor outlet to the N0 vertex, in fraction of Rotor outlet Radius (Vol_F_adim = 1 = Rot_out distance)</name>
+					<file-name>Vol_F_adim</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Radius of the volute tonge / Rot_out length</name>
+					<file-name>Vol_Rc_adim</file-name>
+					<default-value>0.1</default-value>
+					<current-value>0.1</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Distance from Rot_out radius until the outest volute x coordinate (N4x), in fraction of Rot_out length (Vol_W = 1 = Rot_out)</name>
+					<file-name>Vol_W_adim</file-name>
+					<default-value>1</default-value>
+					<current-value>1</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N1x = 1 = Rot_out)</name>
+					<file-name>Vol_N1x_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N2y = 1 = Rot_out)</name>
+					<file-name>Vol_N2y_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N3x = 1 = Rot_out)</name>
+					<file-name>Vol_N3x_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N4y = 1 = Rot_out)</name>
+					<file-name>Vol_N4y_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Vol difussor length adim</name>
+					<file-name>Vol_difussor_length_adim</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Rot_in</name>
+					<file-name>Rot_in</file-name>
+					<default-value>0.27</default-value>
+					<current-value>0.27</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Rot_out</name>
+					<file-name>Rot_out</file-name>
+					<default-value>0.58</default-value>
+					<current-value>0.58</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is inlet circle * Rot_in</name>
+					<file-name>TwoD_inlet_adim</file-name>
+					<default-value>0.7</default-value>
+					<current-value>0.7</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_VOLUTE_max_area</name>
+					<file-name>Mesh_VOLUTE_max_area</file-name>
+					<default-value>0.05</default-value>
+					<current-value>0.05</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_VOLUTE_min_area</name>
+					<file-name>Mesh_VOLUTE_min_area</file-name>
+					<default-value>0.01</default-value>
+					<current-value>0.01</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+
+				<variable>
+					<name>Mesh_ROTOR_max_area</name>
+					<file-name>Mesh_ROTOR_max_area</file-name>
+					<default-value>0.03</default-value>
+					<current-value>0.03</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_ROTOR_min_area</name>
+					<file-name>Mesh_ROTOR_min_area</file-name>
+					<default-value>0.00291902</default-value>
+					<current-value>0.00291902</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_INLET_max_area</name>
+					<file-name>Mesh_INLET_max_area</file-name>
+					<default-value>0.015</default-value>
+					<current-value>0.015</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_INLET_min_area</name>
+					<file-name>Mesh_INLET_min_area</file-name>
+					<default-value>0.001</default-value>
+					<current-value>0.001</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+			</variables>
+		</template>
+		<!-- SBlade2D_template_Calculations -->
+		<template>
+			<name>SBlade 2D</name>
+			<file-name>SBlade2D_template_Calculations</file-name>
+			<variables>
+				<variable>
+					<name>Fraction of contraflexure point from Blade initial point  respect to whole blade span</name>
+					<file-name>Blade_F</file-name>
+					<default-value>0.85</default-value>
+					<current-value>0.85</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade_F1</name>
+					<file-name>Blade_F1</file-name>
+					<default-value>0.2</default-value>
+					<current-value>0.2</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade_F2</name>
+					<file-name>Blade_F2</file-name>
+					<default-value>0.2</default-value>
+					<current-value>0.2</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade stagger angle</name>
+					<file-name>Blade_gamma</file-name>
+					<default-value>45</default-value>
+					<current-value>45</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>angle of attack (negative value is forward blade)</name>
+					<file-name>Blade_B1</file-name>
+					<default-value>70</default-value>
+					<current-value>70</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>exit angle respect to Radiar vector</name>
+					<file-name>Blade_B2</file-name>
+					<default-value>30</default-value>
+					<current-value>30</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>camber of at least 2%, the camber being defined as the ratio between the height of the neutral axis relative to the span and the length of the span. D1_adim/H*Blade_Ro</name>
+					<file-name>Blade_D1_adim</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>* Blade_Ro</name>
+					<file-name>Blade_D2_adim</file-name>
+					<default-value>0.01</default-value>
+					<current-value>0.01</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>blade leading edge radius</name>
+					<file-name>Blade_Ri</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name> b()())lade trailing edge radius</name>
+					<file-name>Blade_Ro</file-name>
+					<default-value>0.5</default-value>
+					<current-value>0.5</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade_Thickness</name>
+					<file-name>Blade_Thickness</file-name>
+					<default-value>0.005</default-value>
+					<current-value>0.005</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Blade_Number</name>
+					<file-name>Blade_Number</file-name>
+					<default-value>13</default-value>
+					<current-value>13</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is the angle at which the volute tongue starts to create the seashell respect to the tangent of the origin centered circle crossing that point.</name>
+					<file-name>Vol_beta</file-name>
+					<default-value>10</default-value>
+					<current-value>10</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>The user will introduce an angle like 40, but we work with 40+180</name>
+					<file-name>Vol_omega</file-name>
+					<default-value>40</default-value>
+					<current-value>40</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>The user will introduce an angle like 40, but we work with 40+180</name>
+					<file-name>Vol_gamma</file-name>
+					<default-value>63.8</default-value>
+					<current-value>63.8</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is the free space distance from the rotor outlet to the N0 vertex, in fraction of Rotor outlet Radius (Vol_F_adim = 1 = Rot_out distance)</name>
+					<file-name>Vol_F_adim</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Radius of the volute tonge / fraction of Rot_out length</name>
+					<file-name>Vol_Rc_adim</file-name>
+					<default-value>0.1</default-value>
+					<current-value>0.1</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Distance from Rot_out radius until the outest volute x coordinate (N4x), in fraction of Rot_out length (Vol_W_adim = 1 = Rot_out)</name>
+					<file-name>Vol_W_adim</file-name>
+					<default-value>1</default-value>
+					<current-value>1</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N1x = 1 = Rot_out)</name>
+					<file-name>Vol_N1x_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N2y = 1 = Rot_out)</name>
+					<file-name>Vol_N2y_adi</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N3x = 1 = Rot_out)</name>
+					<file-name>Vol_N3x_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>in fraction of Rot_out length (Vol_N4y = 1 = Rot_out)</name>
+					<file-name>Vol_N4y_adim</file-name>
+					<default-value>0.0</default-value>
+					<current-value>0.0</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Vol_difussor_length_adim</name>
+					<file-name>Vol_difussor_length_adim</file-name>
+					<default-value>0.3</default-value>
+					<current-value>0.3</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Rot_in</name>
+					<file-name>Rot_in</file-name>
+					<default-value>0.27</default-value>
+					<current-value>0.27</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Rot_out</name>
+					<file-name>Rot_out</file-name>
+					<default-value>0.58</default-value>
+					<current-value>0.58</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>This is inlet circle * Rot_in</name>
+					<file-name>TwoD_inlet_adim</file-name>
+					<default-value>0.7</default-value>
+					<current-value>0.7</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_VOLUTE_max_area</name>
+					<file-name>Mesh_VOLUTE_max_area</file-name>
+					<default-value>0.05</default-value>
+					<current-value>0.05</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_VOLUTE_min_area</name>
+					<file-name>Mesh_VOLUTE_min_area</file-name>
+					<default-value>0.01</default-value>
+					<current-value>0.01</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_ROTOR_max_area</name>
+					<file-name>Mesh_ROTOR_max_area</file-name>
+					<default-value>0.03</default-value>
+					<current-value>0.03</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_ROTOR_min_area</name>
+					<file-name>Mesh_ROTOR_min_area</file-name>
+					<default-value>0.00291902</default-value>
+					<current-value>0.00291902</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_INLET_max_area</name>
+					<file-name>Mesh_INLET_max_area</file-name>
+					<default-value>0.015</default-value>
+					<current-value>0.015</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+				<variable>
+					<name>Mesh_INLET_min_area</name>
+					<file-name>Mesh_INLET_min_area</file-name>
+					<default-value> 0.001</default-value>
+					<current-value>0.001</current-value>
+					<is-optimized>NO</is-optimized>
+				</variable>
+			</variables>
+		</template>
+	</templates>
+	<user-templates/>
+</template-salome>
+
+
+				
+
+		
+
+
+
+
+

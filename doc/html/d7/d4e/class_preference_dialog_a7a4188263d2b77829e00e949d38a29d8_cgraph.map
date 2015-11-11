@@ -1,0 +1,16 @@
+<map id="PreferenceDialog::initialize" name="PreferenceDialog::initialize">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a41f7dbc791a57715147767d635fd5cba" title="Initialize Mesh viewer data. " alt="" coords="233,70,410,111"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a207f5b2501f5788829fd4fc7819c9733" title="Initialize post processor Viewer Data. " alt="" coords="233,201,410,242"/>
+<area shape="rect" id="node8" href="$d7/d4e/class_preference_dialog.html#a7ed051f10bc19889e50e9402ba1abcb7" title="Initialize the solver data. " alt="" coords="233,279,410,321"/>
+<area shape="rect" id="node11" href="$d7/d4e/class_preference_dialog.html#a7fa4c6f39f18e9d891ce3dad44d6618c" title="Initialize the template associated data according user selection. " alt="" coords="233,370,410,411"/>
+<area shape="rect" id="node13" href="$d7/d4e/class_preference_dialog.html#a413b27fc588552222e6d2770f80846c6" title="Establish the set up for the warnings according user selection. " alt="" coords="233,449,410,490"/>
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome) " alt="" coords="498,5,646,46"/>
+<area shape="rect" id="node4" href="$d7/d4e/class_preference_dialog.html#af83572c0df23d09e3b149a3858594bae" title="Set the user path of the mesh viewer tool. " alt="" coords="463,70,681,111"/>
+<area shape="rect" id="node6" href="$d7/d21/class_user_preferences_data.html#abfa205d14a4ece22db52420786e90842" title="get the postProcessor viewer path (e.g. Paraview) " alt="" coords="471,135,673,177"/>
+<area shape="rect" id="node7" href="$d7/d4e/class_preference_dialog.html#ab24bb9d9a076d2d6ffd7e5b092ff46a3" title="Sets the user selected path of the post&#45;processor viewer. " alt="" coords="459,201,685,242"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="479,266,665,307"/>
+<area shape="rect" id="node10" href="$d7/d4e/class_preference_dialog.html#aaa5c5020f11df597d0c3e860101035af" title="This function initializes all the variables needed by this dialog. " alt="" coords="483,332,661,359"/>
+<area shape="rect" id="node12" href="$d7/d21/class_user_preferences_data.html#a5e14db346c80c146c59cccd217a5f19b" title="Get the template configuration folder path. " alt="" coords="489,383,655,425"/>
+<area shape="rect" id="node14" href="$d7/d21/class_user_preferences_data.html#a0a32bf4dba12303f29a8c779efb743d2" title="Returns true if the Close Application warning window shall appear. " alt="" coords="498,449,646,490"/>
+<area shape="rect" id="node15" href="$d7/d21/class_user_preferences_data.html#a9baa8e00042155f1a6c7d0f7c7a1564f" title="Returns true if the Close Project warning window shall appear. " alt="" coords="480,514,664,555"/>
+</map>

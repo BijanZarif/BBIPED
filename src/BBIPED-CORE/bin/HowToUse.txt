@@ -1,0 +1,27 @@
+
+-For a parallel or a serial computaions or doing partition no need to change the configuration file
+-for writing vtk outputs there are some facilities
+
+	-To visualize just a part of domain you can use:
+		PARTIAL_OUT= (BOX,1,2,0,0.4)
+	
+	the numbers are xmin,xmax,ymin,ymax and optionaly you can add zmin,zmax
+
+	The name of vtk file 	
+		EXPORT_VTK_NAME= test
+
+	BBIPED generally periodically write outputs according to (WRT_SOL_FREQ= 500) parameters. If you want just rewrite the last file keep it false otherwise you can set TRUE to have intermediate outputs (Good for unsteady).
+		EXPORT_VTK_NAME_WITH_ITR= False
+
+	You can select which quantity appears in output files 
+		EXPORT_VTK= (Mach,Lambda2,QCriterion,Density,Pressure,Temperature,Velocity,Total_Pressure)
+
+-For continue a previous run you must set "RESTART_SOL= YES,2000" in configuration file. The BBIPED bypass this parameter and original restart system never invoke. The number is a iteration that you want to start from that.
+
+
+Parallel use:
+	1- mpiexec -np 4 ../../BIPED-Partition 2blades.neu.cfg 
+	2- mpiexec -np 4 ../../BIPED-Parallel 2blades.neu.cfg
+Serial
+	../../BIPED-Serial 2blades.neu.cfg
+

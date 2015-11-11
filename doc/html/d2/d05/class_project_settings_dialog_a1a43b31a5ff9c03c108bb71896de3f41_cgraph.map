@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file" alt="" coords="461,5,675,35"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name." alt="" coords="444,59,692,88"/>
+<area shape="rect" id="node7" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name." alt="" coords="467,112,669,141"/>
+<area shape="rect" id="node9" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty." alt="" coords="495,165,641,195"/>
+</map>

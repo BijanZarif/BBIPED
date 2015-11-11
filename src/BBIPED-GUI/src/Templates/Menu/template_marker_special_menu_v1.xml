@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marker-menu>
+<marker>
+	<name>Inlet boundary marker(s)</name>
+	<filename>MARKER_INLET</filename>
+	<help>(NONE = no marker). Format: ( inlet marker, total temperature, total pressure, flow_direction_x, flow_direction_y, flow_direction_z, ... ) where flow_direction is a unit vector. </help>
+	<parameters> 
+		<parameter default_value="0" type="Number">Total temperature</parameter>
+		<parameter default_value="0" type="Number">Total Pressure</parameter>
+		<parameter default_value="0" type="Number">Flow direction X</parameter>	
+		<parameter default_value="0" type="Number">Flow direction Y</parameter>	
+		<parameter default_value="0" type="Number">Flow direction Z</parameter>	
+	</parameters>
+</marker>	
+<marker>
+	<name>Outlet boundary marker(s)</name>
+	<filename>MARKER_OUTLET</filename>
+	<help>(NONE = no marker). Format: ( outlet marker, back pressure (static), ... )</help>
+	<parameters> 
+		<parameter default_value="0" type="Number">Back Pressure</parameter>
+	</parameters>
+</marker>
+
+<marker>
+	<name>MARKER_PERIODIC</name>
+	<filename>MARKER_PERIODIC</filename>
+	<help>( BOUNDARY1, BOUNDARY2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BOUNDARY2, BOUNDARY1,  0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0)</help>
+	<parameters> 
+		<parameter default_value="NONE" type="MeshList">Boundary 1</parameter>
+		<parameter default_value="NONE" type="MeshList">Boundary 2</parameter>
+		<parameter default_value="0" type="Number">Value 1</parameter>	
+		<parameter default_value="0" type="Number">Value 2</parameter>	
+		<parameter default_value="0" type="Number">Value 3</parameter>	
+		<parameter default_value="0" type="Number">Value 4</parameter>	
+		<parameter default_value="0" type="Number">Value 5</parameter>	
+		<parameter default_value="0" type="Number">Value 6</parameter>	
+		<parameter default_value="0" type="Number">Value 7</parameter>	
+		<parameter default_value="0" type="Number">Value 8</parameter>	
+		<parameter default_value="0" type="Number">Value 9</parameter>	
+	</parameters>
+</marker>	
+</marker-menu>

@@ -1,0 +1,6 @@
+<map id="ProjectSettingsDialog::userAcceptChanges" name="ProjectSettingsDialog::userAcceptChanges">
+<area shape="rect" id="node2" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="203,38,381,79"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="430,38,610,79"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="659,5,861,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="665,70,855,111"/>
+</map>

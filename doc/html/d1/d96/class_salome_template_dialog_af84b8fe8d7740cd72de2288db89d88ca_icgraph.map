@@ -1,0 +1,8 @@
+<map id="SalomeTemplateDialog::refreshComboTemplates" name="SalomeTemplateDialog::refreshComboTemplates">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#acac4764823488ba6de3e45343d8bcab9" title="SalomeTemplateDialog\l::loadTemplateMenu" alt="" coords="239,5,396,46"/>
+<area shape="rect" id="node6" href="$d1/d96/class_salome_template_dialog.html#af6a85fe48a91538d9931911eae364850" title="SalomeTemplateDialog\l::on_deleteTemplateButton\l_clicked" alt="" coords="228,69,407,125"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="227,149,408,190"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a26c766492f7bd56f4076037c6397f773" title="SalomeTemplateDialog\l::initializeDialog" alt="" coords="456,5,613,46"/>
+<area shape="rect" id="node4" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="661,12,888,39"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="936,5,1125,46"/>
+</map>

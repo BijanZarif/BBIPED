@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path)" alt="" coords="399,5,692,35"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path)" alt="" coords="401,59,689,88"/>
+<area shape="rect" id="node7" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path." alt="" coords="425,112,665,141"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files." alt="" coords="416,165,675,195"/>
+<area shape="rect" id="node13" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files." alt="" coords="419,219,672,248"/>
+<area shape="rect" id="node16" href="$da/d69/class_multizone_project_data.html#a9ba768abefefe0f328358c30d71fa9e3" title="Set the project Path." alt="" coords="425,272,665,301"/>
+<area shape="rect" id="node18" href="$db/d81/class_multizone_manager.html#a17f316092334923125b842845942a6fd" title="Update file paths." alt="" coords="431,325,660,355"/>
+<area shape="rect" id="node11" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths)" alt="" coords="741,192,1019,221"/>
+</map>

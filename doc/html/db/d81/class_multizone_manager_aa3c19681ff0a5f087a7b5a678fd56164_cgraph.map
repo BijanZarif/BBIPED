@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#ac6b93e1b07d1eaf9edd23cedeaf2e11b" title="This function allows to add a new project to the recentProjectList. A max of 10 projects are consider..." alt="" coords="388,7,641,36"/>
+<area shape="rect" id="node5" href="$db/d81/class_multizone_manager.html#ad926a9268963147534d7da5bad527303" title="This function changes the tab view." alt="" coords="344,60,685,89"/>
+<area shape="rect" id="node15" href="$db/d81/class_multizone_manager.html#a5740432902e1e824728ba6c8acc8d96a" title="This function create the initial data for the multizone project." alt="" coords="321,164,708,193"/>
+<area shape="rect" id="node19" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path." alt="" coords="785,112,1025,141"/>
+<area shape="rect" id="node25" href="$d6/deb/class_project_menu_tree_helper.html#adca86f7bc43741c12ee0a75d725d048e" title="Initialize and update the tree view." alt="" coords="377,217,652,247"/>
+<area shape="rect" id="node27" href="$da/d1e/class_multizone_project_dialog.html#aedbd387db5b048b6feea5b4b476895f3" title="Get the associated information of the multizone project." alt="" coords="361,271,668,300"/>
+<area shape="rect" id="node30" href="$da/d1e/class_multizone_project_dialog.html#a502e9dd166f74e26f7dc4fc6fd83eddf" title="Returns if the multizone project is created or not." alt="" coords="356,324,673,353"/>
+<area shape="rect" id="node7" href="$db/d81/class_multizone_manager.html#a437e229398093838fad22d577545fa3f" title="This function refresh the Simulation files." alt="" coords="759,59,1052,88"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name." alt="" coords="1148,5,1351,35"/>
+<area shape="rect" id="node11" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path)" alt="" coords="1103,59,1396,88"/>
+<area shape="rect" id="node13" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path)" alt="" coords="1105,112,1393,141"/>
+<area shape="rect" id="node17" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name." alt="" coords="781,165,1029,195"/>
+<area shape="rect" id="node21" href="$d4/dac/class_project_data.html#a2b1eee2c51ef8f0ba562a501b9cd383d" title="Establish the file path of the project file." alt="" coords="799,219,1012,248"/>
+<area shape="rect" id="node23" href="$d4/dac/class_project_data.html#a5459bf2305f7aa9cf9c9ac13ead94a3d" title="Establish the path of the project." alt="" coords="813,272,997,301"/>
+</map>

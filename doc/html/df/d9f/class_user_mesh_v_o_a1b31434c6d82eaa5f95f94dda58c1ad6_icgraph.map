@@ -1,0 +1,22 @@
+<map id="UserMeshVO::getParentMenu" name="UserMeshVO::getParentMenu">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#a069c01e623fe8f60f6125f2f559e637c" title="MeshDialog::buildUserBnd\lValueMap" alt="" coords="262,5,439,46"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a52df955cd935bfab86478c0b9a9b4dfb" title="MeshDialog::findMeshVariable\lToUpdate" alt="" coords="251,97,450,138"/>
+<area shape="rect" id="node19" href="$d5/d05/class_mesh_dialog.html#aa554bb99ea4bea2bb32987ab8f469363" title="MeshDialog::updateTableWith\lUserValues" alt="" coords="504,286,701,327"/>
+<area shape="rect" id="node20" href="$d5/d05/class_mesh_dialog.html#a69315013d2110994ff817e9c69d66619" title="MeshDialog::findMeshVariable\lToUpdateByBndValue" alt="" coords="251,162,450,203"/>
+<area shape="rect" id="node21" href="$d5/d05/class_mesh_dialog.html#ac8a346208a1f08807972e5018e146d7e" title="MeshDialog::findMeshVariable\lToUpdateByFileNameVar" alt="" coords="251,227,450,269"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#a641a7cd0936412134db8a35ec390d4a9" title="Function that performs the functinality when the user clicks accept button. " alt="" coords="755,9,946,50"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#a95133a5c6cf1b173788aafca6da1bb7c" title="MeshDialog::initBndNames\lInAssociatedMeshVar" alt="" coords="512,103,693,145"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#a6d92a77d825ea6e0e051e1c65b5a609a" title="MeshDialog::removeBoundary\lNamesInAssociatedVariables" alt="" coords="504,38,701,79"/>
+<area shape="rect" id="node12" href="$d5/d05/class_mesh_dialog.html#a0606bccd0ad1ceac4cbcf2e75b7fee29" title="Function to save the user changes. " alt="" coords="499,169,706,196"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="761,103,940,145"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="1013,111,1168,137"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="1235,79,1434,105"/>
+<area shape="rect" id="node10" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="1242,129,1427,185"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="1483,71,1717,113"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="995,162,1186,203"/>
+<area shape="rect" id="node17" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="759,221,943,262"/>
+<area shape="rect" id="node14" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1253,209,1416,236"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1528,251,1672,277"/>
+<area shape="rect" id="node16" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1766,243,1973,285"/>
+<area shape="rect" id="node18" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="999,227,1183,269"/>
+</map>

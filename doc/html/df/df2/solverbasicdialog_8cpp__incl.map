@@ -1,0 +1,24 @@
+<map id="Forms/SolverMenuDialog/solverbasicdialog.cpp" name="Forms/SolverMenuDialog/solverbasicdialog.cpp">
+<area shape="rect" id="node2" href="$dc/dab/solverbasicdialog_8h.html" title="solverbasicdialog.h" alt="" coords="2233,104,2367,131"/>
+<area shape="rect" id="node35" href="$db/dca/dommodel_8h.html" title="Utility/Model/DomModel\l/dommodel.h" alt="" coords="3065,97,3228,138"/>
+<area shape="rect" id="node37" href="$d8/d8c/solverconfigmenuhelper_8h.html" title="WindowHelper/Dialog\l/SolverDialog/solverconfigmenuhelper.h" alt="" coords="1186,262,1437,303"/>
+<area shape="rect" id="node40" href="$d0/d58/solversectiondao_8h.html" title="Data/solversectiondao.h" alt="" coords="541,269,704,296"/>
+<area shape="rect" id="node41" href="$d1/d4d/_general_defines_8h.html" title="Defines/General/GeneralDefines.h" alt="" coords="5,451,227,477"/>
+<area shape="rect" id="node42" href="$d8/d55/_solver_defines_8h.html" title="Defines/Tool/Solver\l/SolverDefines.h" alt="" coords="150,534,287,575"/>
+<area shape="rect" id="node43" href="$d7/d2b/showmessagehelper_8h.html" title="Utility/showmessagehelper.h" alt="" coords="3438,104,3628,131"/>
+<area shape="rect" id="node48" href="$d9/de7/clipdomaindialog_8h.html" title="clipdomaindialog.h" alt="" coords="414,360,543,387"/>
+<area shape="rect" id="node49" href="$df/d74/virtualrotatingdialog_8h.html" title="Forms/VirtualRotatingDialog\l/virtualrotatingdialog.h" alt="" coords="728,262,915,303"/>
+<area shape="rect" id="node50" href="$dd/d35/qtableutil_8h.html" title="Utility/qtableutil.h" alt="" coords="2880,269,3003,296"/>
+<area shape="rect" id="node11" href="$d0/dad/solverconfigmanager_8h.html" title="Solver/solverconfigmanager.h" alt="" coords="1913,269,2108,296"/>
+<area shape="rect" id="node21" href="$da/da1/virtualmrfvo_8h.html" title="Data/Solver/VirtualMRF\l/virtualmrfvo.h" alt="" coords="1057,353,1217,394"/>
+<area shape="rect" id="node22" href="$dd/d1e/helpdialog_8h.html" title="Forms/helpdialog.h" alt="" coords="2213,360,2344,387"/>
+<area shape="rect" id="node23" href="$d8/d02/summarydialog_8h.html" title="Forms/summarydialog.h" alt="" coords="2132,269,2295,296"/>
+<area shape="rect" id="node24" href="$d6/df1/searchedpair_8h.html" title="Searcher/searchedpair.h" alt="" coords="1463,269,1625,296"/>
+<area shape="rect" id="node25" href="$da/d75/ruleengine_8h.html" title="Rule/ruleengine.h" alt="" coords="2704,187,2827,213"/>
+<area shape="rect" id="node26" href="$d6/d4f/searchpairhelper_8h.html" title="Searcher/searchpairhelper.h" alt="" coords="1751,187,1935,213"/>
+<area shape="rect" id="node15" href="$de/dbe/solversectionvo_8h.html" title="Data/Solver/VO/solversectionvo.h" alt="" coords="1242,360,1461,387"/>
+<area shape="rect" id="node20" href="$d3/d2e/projectdetails_8h.html" title="../Data/ProjectData\l/VO/projectdetails.h" alt="" coords="1847,443,1984,485"/>
+<area shape="rect" id="node17" href="$df/d02/solvervariablevo_8h.html" title="Data/Solver/VO/solvervariablevo.h" alt="" coords="883,451,1105,477"/>
+<area shape="rect" id="node18" href="$d6/d89/solvervarhelpvo_8h.html" title="Data/Solver/VO/solvervarhelpvo.h" alt="" coords="885,541,1104,568"/>
+<area shape="rect" id="node19" href="$de/d82/variablerule_8h.html" title="Rule/variablerule.h" alt="" coords="2875,541,3004,568"/>
+</map>

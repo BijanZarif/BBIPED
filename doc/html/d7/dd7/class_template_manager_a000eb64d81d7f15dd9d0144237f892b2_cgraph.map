@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/dd7/class_template_manager.html#aece0d1806c8375c202dfc24bcd58b13c" title="Writes the section element." alt="" coords="300,87,561,116"/>
+<area shape="rect" id="node5" href="$d7/dd7/class_template_manager.html#aa7859f66124b213f94af59dbbfa86db0" title="Writes the subsection element." alt="" coords="611,60,867,89"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#a5c9d7d5c764aa83f492a125b97027391" title="Writes a Xml node element." alt="" coords="973,112,1213,141"/>
+<area shape="rect" id="node7" href="$d7/dd7/class_template_manager.html#abb6042a0c7f0bf6ef052414469b154b8" title="TemplateManager::createVariableList" alt="" coords="975,5,1212,35"/>
+<area shape="rect" id="node11" href="$d7/dd7/class_template_manager.html#a65c18421d023cdcd96f0af8258ba1a69" title="get the SubSectionames associated to a section" alt="" coords="916,59,1271,88"/>
+<area shape="rect" id="node13" href="$d4/dea/class_solver_section_d_a_o.html#abc9ded2e50bcfab4c0eee9409ce9ef59" title="Find the subsectionNames associated to a section name." alt="" coords="1320,32,1685,61"/>
+<area shape="rect" id="node19" href="$d7/dd7/class_template_manager.html#a86357890154c79d545d3e569a5184248" title="Gets the list of subsections." alt="" coords="1372,85,1633,115"/>
+<area shape="rect" id="node15" href="$d4/d8b/class_solver_section_v_o.html#a743a75efb0ac61f5ef139e76f46bbf6f" title="Get associated Section Name." alt="" coords="1744,5,1971,35"/>
+<area shape="rect" id="node17" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="1733,59,1981,88"/>
+</map>

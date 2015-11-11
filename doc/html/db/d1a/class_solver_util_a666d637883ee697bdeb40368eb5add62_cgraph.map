@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d28/class_util_files.html#ae8f6d7628e58135e37beefe392dbaf78" title="Functionality to import a file and update the correspondent values in the project data and copying th..." alt="" coords="332,5,465,35"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path." alt="" coords="285,59,512,88"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project." alt="" coords="561,5,745,35"/>
+</map>

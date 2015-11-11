@@ -1,0 +1,27 @@
+var class_util_files =
+[
+    [ "UtilFiles", "db/d28/class_util_files.html#a5a7cb77fa7028f894c23bcbc3f4a07d0", null ],
+    [ "copyAllFiles", "db/d28/class_util_files.html#a6fde78a744504ea103c5c98e0ee59692", null ],
+    [ "copyAllToolData", "db/d28/class_util_files.html#a3fa2c51be04f8f7b28b5c7e04017b0fb", null ],
+    [ "copyAllToolData", "db/d28/class_util_files.html#aa2fbe2b52b6fccd297b7f9473cb0465b", null ],
+    [ "copyFileToNewName", "db/d28/class_util_files.html#a88b91e5c1ee2f563ed65fd03947cde6a", null ],
+    [ "createLink", "db/d28/class_util_files.html#aaa35dacd377b117853200e064c627f3e", null ],
+    [ "createMultizoneProjectFile", "db/d28/class_util_files.html#ae58c35df67b95157e9f121d7ee0899fd", null ],
+    [ "createMultizoneProjectStructure", "db/d28/class_util_files.html#a9a8f898ec4be6caba28b1e6fb678ab73", null ],
+    [ "createProjectFile", "db/d28/class_util_files.html#a4cc78903e5e1de5946399e6aca90f2a4", null ],
+    [ "createProjectStructure", "db/d28/class_util_files.html#a79260c95d2f6f26f52aebbdb96ed978f", null ],
+    [ "createProjectSubfolders", "db/d28/class_util_files.html#ab68b91f38cf698305e92550befb03f92", null ],
+    [ "getFinalPath", "db/d28/class_util_files.html#ac75926254874c711c7620ba256bd6ea1", null ],
+    [ "getSubfolderName", "db/d28/class_util_files.html#a7e0cc0c530346e996f057eee22a39df5", null ],
+    [ "hasFileExtension", "db/d28/class_util_files.html#aac95fdbeb2b63d8f21db5f3f26cbdcb7", null ],
+    [ "importFile", "db/d28/class_util_files.html#ae8f6d7628e58135e37beefe392dbaf78", null ],
+    [ "importFile", "db/d28/class_util_files.html#a5d2f5101735708858996eccb50d67955", null ],
+    [ "openMultizoneProjectStructure", "db/d28/class_util_files.html#a7e80d789a7b080e2e54e7f02d012320c", null ],
+    [ "openProjectDetails", "db/d28/class_util_files.html#a669272a75f17d2d059300f27d07b252f", null ],
+    [ "openProjectStructure", "db/d28/class_util_files.html#af9edcfdbd2ef232848243b8cdd05a1e5", null ],
+    [ "updateMultizoneProjectDataToFile", "db/d28/class_util_files.html#abf266a68416aef239c8217fce17d7f4b", null ],
+    [ "updateMultizoneToolPaths", "db/d28/class_util_files.html#a120bb793163798bb299b4f2c6ea5c824", null ],
+    [ "updateProjectDataToFile", "db/d28/class_util_files.html#a988a6cfe4fa0a03229ee7f741f6d2451", null ],
+    [ "updateToolPaths", "db/d28/class_util_files.html#aa70274124ccf9082396e90c9975c497a", null ],
+    [ "_finalAbsoluteFilePath", "db/d28/class_util_files.html#ac1c9066158c0eb8f3894d4ac09968b98", null ]
+];

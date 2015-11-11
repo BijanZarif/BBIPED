@@ -1,0 +1,7 @@
+<map id="MeshInfoFileReader::getMeshPath" name="MeshInfoFileReader::getMeshPath">
+<area shape="rect" id="node2" href="$de/db6/class_mesh_info_file_reader.html#a65f4720376238eeedfbc184135235ef3" title="MeshInfoFileReader\l::readMeshInfo" alt="" coords="192,38,331,79"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="379,45,595,72"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="643,45,837,72"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="886,5,1085,46"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="888,70,1083,111"/>
+</map>

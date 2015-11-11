@@ -1,0 +1,11 @@
+<map id="TemplateDialog::loadTemplate" name="TemplateDialog::loadTemplate">
+<area shape="rect" id="node2" href="$da/d07/class_template_dialog.html#a15c15a9edae60a696b8246e2b8514dec" title="Adds a variable to the table. " alt="" coords="253,199,443,225"/>
+<area shape="rect" id="node10" href="$d9/d6e/class_solver_config_manager.html#a6b93f3153c7693d372673459dbd6efd8" title="SolverConfigManager\l::getAllPersonalizedSection\lMenuList" alt="" coords="257,249,439,305"/>
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#ad425f6aa36919dff28afde6ebe956d8d" title="Function that adds the variable elements to each row in the table. " alt="" coords="520,107,709,149"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name. " alt="" coords="787,173,1021,200"/>
+<area shape="rect" id="node8" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name. " alt="" coords="491,224,739,251"/>
+<area shape="rect" id="node9" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="508,275,721,317"/>
+<area shape="rect" id="node4" href="$d3/d4b/class_qtable_util.html#ad24ffa6244a1f6ffd0632cf6ab755896" title="Function that creates a help icon widget cell element to be added to the table. " alt="" coords="837,5,971,32"/>
+<area shape="rect" id="node5" href="$d3/d4b/class_qtable_util.html#ad738aa10e04b94bf5650b481e7f40576" title="QtableUtil::addSelectable\lCheckColumn" alt="" coords="819,57,989,98"/>
+<area shape="rect" id="node6" href="$d3/d4b/class_qtable_util.html#a124a0c77f9c9d2ffad45593afecadf63" title="QtableUtil::addVariable" alt="" coords="826,123,982,149"/>
+</map>

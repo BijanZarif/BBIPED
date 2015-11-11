@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d2/deb/class_solver_v_o.html#ae28a12f82b20a507d3bebc39eff4c464" title="Clear values." alt="" coords="408,5,523,35"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path)" alt="" coords="319,59,612,88"/>
+<area shape="rect" id="node7" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files." alt="" coords="336,112,595,141"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path)" alt="" coords="321,165,609,195"/>
+<area shape="rect" id="node11" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files." alt="" coords="339,219,592,248"/>
+<area shape="rect" id="node13" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path." alt="" coords="987,243,1213,272"/>
+<area shape="rect" id="node15" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information." alt="" coords="343,427,588,456"/>
+<area shape="rect" id="node17" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info." alt="" coords="1005,403,1195,432"/>
+<area shape="rect" id="node19" href="$da/d69/class_multizone_project_data.html#aa0346f2a621995d03cfaf5f0d25e30d4" title="Returns true if there is no value in the project path and name." alt="" coords="364,480,567,509"/>
+<area shape="rect" id="node21" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty." alt="" coords="392,533,539,563"/>
+<area shape="rect" id="node23" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files." alt="" coords="336,587,595,616"/>
+<area shape="rect" id="node27" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files." alt="" coords="339,640,592,669"/>
+<area shape="rect" id="node30" href="$d4/dac/class_project_data.html#acc8fc47a24d202f032a47ed202db3afb" title="Sets a new Solver VO object." alt="" coords="343,323,588,352"/>
+<area shape="rect" id="node25" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths)" alt="" coords="661,613,939,643"/>
+<area shape="rect" id="node32" href="$d2/deb/class_solver_v_o.html#a24658974eacfe9bc1b3ee5dc0528bd06" title="Deep copy of one object to other." alt="" coords="743,323,857,352"/>
+<area shape="rect" id="node34" href="$d2/deb/class_solver_v_o.html#a5bd8334a6145fc5776b6413d01bdae30" title="Set the Solver Config File Path." alt="" coords="987,296,1213,325"/>
+<area shape="rect" id="node37" href="$d2/deb/class_solver_v_o.html#a497c4845c76383c3b6da9da10bc40953" title="Set the Solver File Path infor." alt="" coords="1005,349,1195,379"/>
+</map>

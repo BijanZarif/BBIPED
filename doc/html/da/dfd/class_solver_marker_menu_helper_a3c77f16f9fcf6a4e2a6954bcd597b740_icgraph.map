@@ -1,0 +1,11 @@
+<map id="SolverMarkerMenuHelper::addEditIconToColumn" name="SolverMarkerMenuHelper::addEditIconToColumn">
+<area shape="rect" id="node2" href="$d5/d05/class_mesh_dialog.html#ab7f67a54cd8058cee4148c6cb2830efc" title="Function to show the values that comes from the specific window. " alt="" coords="224,67,405,109"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="686,5,877,46"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="453,67,637,109"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#adb0a3616f860cb8043b5b8e9536d1263" title="MeshDialog::updateTable" alt="" coords="460,135,631,161"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="943,29,1105,56"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1171,67,1315,93"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1363,59,1570,101"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="689,70,873,111"/>
+<area shape="rect" id="node10" href="$d5/d05/class_mesh_dialog.html#aa554bb99ea4bea2bb32987ab8f469363" title="MeshDialog::updateTableWith\lUserValues" alt="" coords="925,97,1123,138"/>
+</map>

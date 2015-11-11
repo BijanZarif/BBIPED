@@ -1,0 +1,6 @@
+<map id="MultizoneIndividualTabForm::isDataModified" name="MultizoneIndividualTabForm::isDataModified">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ae6568484f4315dd5f645d9bb897b9784" title="MainWindow::multizoneSaveAll" alt="" coords="259,20,466,47"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#afc1292d55710fa147c0ff907594d38d5" title="MainWindow::notSavedMultizoneData" alt="" coords="241,71,485,97"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="534,5,727,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a9386e2986f79d60c125008527a59a9da" title="MainWindow::on_multizone\lSaveAllButton_clicked" alt="" coords="539,70,722,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MainWindow::createProjectActions" name="MainWindow::createProjectActions">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="237,5,424,46"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="473,5,653,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="702,12,882,39"/>
+</map>

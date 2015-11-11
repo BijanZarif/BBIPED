@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#aa9a50e0d0820314b9599e8cf8592c0bf" title="Returns the complete menu list from the Xml document." alt="" coords="324,5,564,35"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template." alt="" coords="319,59,569,88"/>
+<area shape="rect" id="node7" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized." alt="" coords="335,112,553,141"/>
+<area shape="rect" id="node9" href="$da/d07/class_template_dialog.html#a03305c7855cca5b6fc8f4063c3ace87b" title="This function sets the menu list." alt="" coords="348,165,540,195"/>
+<area shape="rect" id="node13" href="$d7/d15/class_search_pair_helper.html#a7f92ec438b87c9c574464d5c799f521d" title="Sets the solver Manager." alt="" coords="325,219,563,248"/>
+<area shape="rect" id="node11" href="$da/d07/class_template_dialog.html#a5e36baa84ca2de638619514d5b002fc9" title="This function loads teh menu list." alt="" coords="620,165,796,195"/>
+</map>

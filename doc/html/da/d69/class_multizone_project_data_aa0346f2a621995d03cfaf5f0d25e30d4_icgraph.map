@@ -1,0 +1,35 @@
+<map id="MultizoneProjectData::isEmpty" name="MultizoneProjectData::isEmpty">
+<area shape="rect" id="node2" href="$da/d1e/class_multizone_project_dialog.html#ab7c8b49ca061b1c0064f5c7cece5e4d4" title="MultizoneProjectDialog\l::accept" alt="" coords="227,37,383,78"/>
+<area shape="rect" id="node3" href="$db/d81/class_multizone_manager.html#ad779b01ce528bb367748a0b341da5290" title="This function builds the project data for a specific config file in a multizone project. " alt="" coords="203,102,407,143"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a9571d5d82d82c988933e9d5117ddf363" title="Enable the action buttons for running the simulation according with the current status of the applica..." alt="" coords="215,167,395,209"/>
+<area shape="rect" id="node10" href="$db/d81/class_multizone_manager.html#a437e229398093838fad22d577545fa3f" title="This function refresh the Simulation files. " alt="" coords="217,335,393,377"/>
+<area shape="rect" id="node28" href="$d2/d05/class_project_settings_dialog.html#a4c8e9810e351e0dd61dfe0510a3e0d78" title="This function updates the information in teh table. " alt="" coords="200,490,411,531"/>
+<area shape="rect" id="node32" href="$d2/d05/class_project_settings_dialog.html#aa6649f94b74cd7e60c9a78dfd2d70c8d" title="This function updates the project data information according user changes. " alt="" coords="231,578,379,619"/>
+<area shape="rect" id="node34" href="$d2/d05/class_project_settings_dialog.html#a1a43b31a5ff9c03c108bb71896de3f41" title="This fucntion updates the project information in the Dialog. " alt="" coords="212,411,399,467"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a3b53a3fe6d36b6c10a14ae89f72c8edc" title="Dialog for open a configuration file. " alt="" coords="710,34,957,75"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="1007,34,1219,75"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="738,147,929,203"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="465,43,655,85"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="459,109,661,150"/>
+<area shape="rect" id="node11" href="$db/d81/class_multizone_manager.html#ad926a9268963147534d7da5bad527303" title="This function changes the tab view. " alt="" coords="467,291,653,333"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="1023,363,1203,405"/>
+<area shape="rect" id="node19" href="$db/d81/class_multizone_manager.html#a283774a50bc0796c72ad859ad61dae4d" title="Update the Open Edit config file view. " alt="" coords="473,226,647,267"/>
+<area shape="rect" id="node20" href="$db/d81/class_multizone_manager.html#a838b4da03346bf074febc6302c248499" title="Update the view for a new file. " alt="" coords="473,409,647,450"/>
+<area shape="rect" id="node12" href="$db/d81/class_multizone_manager.html#aa3c19681ff0a5f087a7b5a678fd56164" title="Launch Multizone Dialog. " alt="" coords="746,226,921,267"/>
+<area shape="rect" id="node14" href="$db/d81/class_multizone_manager.html#a15987c5e90f1703e4c062ebd1cc5cf70" title="Open Multizone Project Dialog. " alt="" coords="723,291,943,333"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#ac0b367e6d9a1aaa9e8832daf0d58177d" title="This function is to control the action of defining a new Multizone project. " alt="" coords="1018,226,1209,267"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="1017,291,1209,333"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="1269,377,1472,418"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="1275,311,1466,353"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="740,409,927,450"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a77b647279a556a2844bc88f7139fb829" title="MainWindow::updateMeshView" alt="" coords="731,475,936,501"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#ab041678c314030c1fd9a35d071e668a6" title="Dialog for importing a mesh file. " alt="" coords="1016,500,1211,527"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a0ad1470050163788aa8232c09e75f02a" title="MainWindow::importMeshInfoFile" alt="" coords="1005,449,1221,476"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#add1bab01217558fc4cd794c0b4683645" title="MainWindow::importMeshFile" alt="" coords="1273,449,1468,476"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#a7c8e2ba8783f531833eb3398b219faf4" title="Import Mesh file. " alt="" coords="1521,409,1719,450"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#abe29828aea44080b50ec3fd3953f939c" title="SOLVER: Import mesh file button. " alt="" coords="1523,474,1717,515"/>
+<area shape="rect" id="node29" href="$d2/d05/class_project_settings_dialog.html#a10616ee586043ef8486cce4e17a4bf49" title="Set the project data and update the correspondent views. " alt="" coords="486,474,634,515"/>
+<area shape="rect" id="node31" href="$d2/d05/class_project_settings_dialog.html#a882657484f8fa7b0d511c77f86aacc70" title="Set the multizone project data and update the correspondent views. " alt="" coords="473,539,647,581"/>
+<area shape="rect" id="node30" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="745,526,922,567"/>
+<area shape="rect" id="node33" href="$d2/d05/class_project_settings_dialog.html#a95f42032d930b4018fd21a805de5e22e" title="Action when the user accepts the changes. " alt="" coords="475,605,645,646"/>
+</map>

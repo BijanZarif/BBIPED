@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d81/class_multizone_manager.html#a0cd5cb9a731cd3f8d5aa9755c728ca69" title="This function gets the id (position in the list) of the configuration file." alt="" coords="335,59,633,88"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files." alt="" coords="700,112,959,141"/>
+<area shape="rect" id="node12" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files." alt="" coords="703,201,956,231"/>
+<area shape="rect" id="node14" href="$db/d81/class_multizone_manager.html#a02ce32fe9202294cb114c4359b8594f6" title="This function gets the position for the lists to add a new file controlling the fact that the list ca..." alt="" coords="327,163,641,192"/>
+<area shape="rect" id="node18" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files." alt="" coords="355,267,613,296"/>
+<area shape="rect" id="node22" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files." alt="" coords="357,320,611,349"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path." alt="" coords="716,5,943,35"/>
+<area shape="rect" id="node9" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information." alt="" coords="707,59,952,88"/>
+<area shape="rect" id="node20" href="$da/d69/class_multizone_project_data.html#add1d64b9ab2fd1075da7d824c290e82a" title="This function builds the list of file names (removing paths)" alt="" coords="691,280,968,309"/>
+</map>

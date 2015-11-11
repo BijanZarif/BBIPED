@@ -1,0 +1,14 @@
+<map id="UserPreferencesData::setTemplateConfigPath" name="UserPreferencesData::setTemplateConfigPath">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#aae49b6e2594a76101025465e34fac0d6" title="Returns the Template Data Configuration storing it in the user data. " alt="" coords="224,5,427,46"/>
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a0a6444f89d20533d5f148fe7bc3cb50c" title="PreferencesManager\l::getUserTemplatePreferences" alt="" coords="225,70,425,111"/>
+<area shape="rect" id="node8" href="$dd/ddd/class_solver_helper.html#a686bb3002380d2db33c9661fb1c43bf8" title="SolverHelper::loadConfiguration\lTemplateByUser" alt="" coords="222,135,429,177"/>
+<area shape="rect" id="node10" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="251,203,399,245"/>
+<area shape="rect" id="node4" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="504,63,651,105"/>
+<area shape="rect" id="node5" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="768,63,915,105"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1006,63,1186,105"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1235,71,1415,97"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#abda06f52a91771ff1eb28043a5001cad" title="This function allows to load specific configuration template. " alt="" coords="483,128,672,184"/>
+<area shape="rect" id="node11" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="478,207,677,249"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="726,171,957,213"/>
+<area shape="rect" id="node13" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="726,236,957,292"/>
+</map>

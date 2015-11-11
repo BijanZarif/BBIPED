@@ -1,0 +1,12 @@
+<map id="XmlUtil::createXmlMultizoneProjectFile" name="XmlUtil::createXmlMultizoneProjectFile">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#adda1c7c8b1b4b3be0c9b39951b54cb81" title="Function that creates the project details element from the xml. " alt="" coords="254,86,445,127"/>
+<area shape="rect" id="node7" href="$d6/d07/class_xml_util.html#a858fea6d91ac5259d2f744279e703f3b" title="Function that creates the correspondent Solver elements to be included in the XML project file..." alt="" coords="243,152,456,179"/>
+<area shape="rect" id="node8" href="$da/d69/class_multizone_project_data.html#ae3da0812d56f8cd761df501ada632774" title="Get the list of configuration files. " alt="" coords="276,203,423,245"/>
+<area shape="rect" id="node9" href="$da/d69/class_multizone_project_data.html#a17ee7604fbcad3dfb04882f7edb1bd5e" title="Get the list of mesh files. " alt="" coords="276,269,423,310"/>
+<area shape="rect" id="node10" href="$da/d69/class_multizone_project_data.html#afdca4e2525b4264854ebbfb16a5b2a8c" title="Get the project name. " alt="" coords="276,334,423,375"/>
+<area shape="rect" id="node11" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="276,399,423,441"/>
+<area shape="rect" id="node3" href="$d1/d82/class_project_details.html#a13f756137443690a0099b837ff0213fc" title="This function gets the author name. " alt="" coords="521,5,689,32"/>
+<area shape="rect" id="node4" href="$d1/d82/class_project_details.html#a126beab6ecba9b3caab8dc43503802ff" title="This function get the other details field. " alt="" coords="524,57,687,98"/>
+<area shape="rect" id="node5" href="$d1/d82/class_project_details.html#a0a7eef5512ad7e2422b74b4dd0e3a4c5" title="This function gets the project title. " alt="" coords="509,123,701,149"/>
+<area shape="rect" id="node6" href="$d1/d82/class_project_details.html#aefc69a988c54fc2f185255feddace17b" title="This function gets the starting data added by the user. " alt="" coords="504,173,707,200"/>
+</map>

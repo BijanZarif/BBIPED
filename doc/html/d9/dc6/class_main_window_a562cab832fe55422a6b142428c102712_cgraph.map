@@ -1,0 +1,20 @@
+<map id="MainWindow::on_solverButton_clicked" name="MainWindow::on_solverButton_clicked">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a6a1eab56b152d1d44182c6b12c881177" title="This function enables the GUI mesh button and actions. " alt="" coords="521,32,740,61"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a4b81c25f54bac54c315766a6da4c667e" title="Enable correspondent Buttons and disable the one that is clicked. " alt="" coords="256,112,469,141"/>
+<area shape="rect" id="node17" href="$db/dc7/class_input_data_tab_helper.html#ab4cedbf8e83b38d48477ddd1ce76c23a" title="Function to fill the names in the line Edit of the Input Data Tab. " alt="" coords="561,223,700,270"/>
+<area shape="rect" id="node27" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="289,215,436,262"/>
+<area shape="rect" id="node29" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="289,285,436,331"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#a9f31a8432cd5d9cf174569f57a27ac99" title="Activate the run elemenst (button and menu element9. " alt="" coords="253,355,472,384"/>
+<area shape="rect" id="node33" href="$db/dc7/class_input_data_tab_helper.html#a300d250520cae7581dd5cd1b57964e2c" title="Show all the Tabs related with the solver Tool. " alt="" coords="287,407,439,454"/>
+<area shape="rect" id="node5" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="809,111,991,158"/>
+<area shape="rect" id="node7" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="805,59,995,88"/>
+<area shape="rect" id="node9" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty. " alt="" coords="827,5,973,35"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#aa8bf300525a21fdff22bfb7efa772141" title="Enable all the Tool Buttons. " alt="" coords="537,154,724,201"/>
+<area shape="rect" id="node15" href="$db/dc7/class_input_data_tab_helper.html#a29f698d34ade842856ae584d71c8c33d" title="Hide all the Tabs related with the solver Tool. " alt="" coords="559,85,703,131"/>
+<area shape="rect" id="node19" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="811,357,989,403"/>
+<area shape="rect" id="node23" href="$db/dc7/class_input_data_tab_helper.html#a48aff8fdf66097b7c84f19f8ee124aa5" title="Update the file path in the line edit of the current configuration file. " alt="" coords="803,181,997,245"/>
+<area shape="rect" id="node25" href="$db/dc7/class_input_data_tab_helper.html#aa6488df4fcf52c53517a0d80cd5747b6" title="Update the file path in the line edit of the current mesh file. " alt="" coords="797,269,1003,333"/>
+<area shape="rect" id="node35" href="$db/dc7/class_input_data_tab_helper.html#a7b959e0014a5e154b3e309adbf495e23" title="This fucntion enables the configuration action menu according project data information. " alt="" coords="528,407,733,454"/>
+<area shape="rect" id="node37" href="$db/dc7/class_input_data_tab_helper.html#acc2b1e4aa9e769e39bd25efe1d129e84" title="Enable Change Config Action Menu elements. " alt="" coords="791,426,1009,473"/>
+<area shape="rect" id="node39" href="$db/dc7/class_input_data_tab_helper.html#aa356236cf5e634cbd18967f6fa1ee551" title="Enable the Simulation Action Menu Elements. " alt="" coords="799,495,1001,542"/>
+</map>

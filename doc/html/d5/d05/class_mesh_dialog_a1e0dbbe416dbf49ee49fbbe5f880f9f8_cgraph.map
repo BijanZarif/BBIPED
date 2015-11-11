@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/dea/class_solver_section_d_a_o.html#aa4ecdd8245b0eacd06f61da2e5e27fb2" title="Find a variable by its value name." alt="" coords="255,57,535,87"/>
+<area shape="rect" id="node5" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="607,5,860,35"/>
+<area shape="rect" id="node10" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="233,111,556,140"/>
+<area shape="rect" id="node16" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="279,164,511,193"/>
+<area shape="rect" id="node7" href="$dc/d7e/class_solver_variable_v_o.html#a61978d1d0d6f1511a5cad7432d625c58" title="Returns true if the object is empty." alt="" coords="643,59,824,88"/>
+<area shape="rect" id="node12" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="620,112,847,141"/>
+<area shape="rect" id="node14" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="909,112,1157,141"/>
+</map>

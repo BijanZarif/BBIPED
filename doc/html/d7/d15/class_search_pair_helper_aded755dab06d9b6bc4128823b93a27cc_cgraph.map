@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d15/class_search_pair_helper.html#a0105812aa3b1d8a411fec60b12efb278" title="This function is able to find the children (variable elemnts) that correspond to a specific search of..." alt="" coords="304,59,597,88"/>
+<area shape="rect" id="node9" href="$d7/d15/class_search_pair_helper.html#a488ee2de7196baf841f6b9f192bc7679" title="This function allows to refresh the highligt according the search." alt="" coords="340,165,561,195"/>
+<area shape="rect" id="node5" href="$de/dae/class_searched_pair.html#a9e38fc3d72ad3167ded300bf443ac00b" title="Returns true if the id of the parent and the child are the same as stored in the object." alt="" coords="688,5,845,35"/>
+<area shape="rect" id="node7" href="$de/dae/class_searched_pair.html#a3659fd2003337887ff0c4987abea61e8" title="Get the children list." alt="" coords="669,59,864,88"/>
+<area shape="rect" id="node11" href="$d7/d15/class_search_pair_helper.html#a281476788d02d4534533b95432eb8b56" title="This function allows to expand the parent children." alt="" coords="645,112,888,141"/>
+<area shape="rect" id="node13" href="$de/dae/class_searched_pair.html#a0b8607bd28a1d89f26cefb8ff5c7fbb1" title="Gets the Id of the child (read from the xml file)" alt="" coords="684,165,849,195"/>
+<area shape="rect" id="node15" href="$de/dae/class_searched_pair.html#a0eb4486e8c9e5d56e1939d3c99ba4c1f" title="Gets the Id of the parent (read from the xml file)" alt="" coords="680,219,853,248"/>
+<area shape="rect" id="node17" href="$d7/d15/class_search_pair_helper.html#abc56f446cf04dab017f3c4ae9cac9448" title="This function is able to highlight those rows in the tree that corresponds with the search..." alt="" coords="647,272,887,301"/>
+</map>

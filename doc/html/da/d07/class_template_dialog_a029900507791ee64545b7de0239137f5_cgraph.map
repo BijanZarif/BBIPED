@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#aee8da08cd10c9beafbcca4faa5fde9bb" title="This function resets the table." alt="" coords="383,59,564,88"/>
+<area shape="rect" id="node5" href="$d7/d15/class_search_pair_helper.html#a8619df9759f15af6fc20b9f426b4ece9" title="This function searchs the items." alt="" coords="372,112,575,141"/>
+<area shape="rect" id="node7" href="$d7/d15/class_search_pair_helper.html#a281476788d02d4534533b95432eb8b56" title="This function allows to expand the parent children." alt="" coords="645,5,888,35"/>
+<area shape="rect" id="node9" href="$de/dae/class_searched_pair.html#a0b8607bd28a1d89f26cefb8ff5c7fbb1" title="Gets the Id of the child (read from the xml file)" alt="" coords="684,59,849,88"/>
+<area shape="rect" id="node11" href="$de/dae/class_searched_pair.html#a0eb4486e8c9e5d56e1939d3c99ba4c1f" title="Gets the Id of the parent (read from the xml file)" alt="" coords="680,112,853,141"/>
+<area shape="rect" id="node13" href="$d7/d15/class_search_pair_helper.html#abc56f446cf04dab017f3c4ae9cac9448" title="This function is able to highlight those rows in the tree that corresponds with the search..." alt="" coords="647,165,887,195"/>
+<area shape="rect" id="node15" href="$d7/d15/class_search_pair_helper.html#a6d72bb9fb0bb09cc5f3071dda197f7cc" title="This fucntion allows to search in the tree model by a specific search term." alt="" coords="625,219,908,248"/>
+<area shape="rect" id="node17" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="993,85,1247,115"/>
+<area shape="rect" id="node19" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="959,139,1281,168"/>
+<area shape="rect" id="node25" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="1004,192,1236,221"/>
+<area shape="rect" id="node27" href="$de/dae/class_searched_pair.html#ad950e68746c69ca73bb2f2bec8a1d5c3" title="Set the children list." alt="" coords="1023,245,1217,275"/>
+<area shape="rect" id="node29" href="$de/dae/class_searched_pair.html#a611c98a729aa178b13777dad8e053006" title="sets the Id of the child (read from the xml file)" alt="" coords="1037,299,1203,328"/>
+<area shape="rect" id="node31" href="$de/dae/class_searched_pair.html#a428edbdf600a760bfbdbbe0cfbf2adba" title="Set the Id of the parent." alt="" coords="1033,352,1207,381"/>
+<area shape="rect" id="node21" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="1332,139,1559,168"/>
+<area shape="rect" id="node23" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="1608,139,1856,168"/>
+</map>

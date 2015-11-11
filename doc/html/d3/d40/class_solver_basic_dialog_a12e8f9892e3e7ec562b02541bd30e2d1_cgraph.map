@@ -1,0 +1,5 @@
+<map id="SolverBasicDialog::on_clearSearchButton_clicked" name="SolverBasicDialog::on_clearSearchButton_clicked">
+<area shape="rect" id="node2" href="$d7/d15/class_search_pair_helper.html#a7ffe684db50d86a9641b08c43b288160" title="It clear the status to default. " alt="" coords="206,5,407,46"/>
+<area shape="rect" id="node3" href="$d3/d40/class_solver_basic_dialog.html#ad86b552bc601e6728fcdb0dcb74951a4" title="Function to reset the table. " alt="" coords="238,70,375,111"/>
+<area shape="rect" id="node4" href="$d3/d40/class_solver_basic_dialog.html#a08a551b0d2cb7528233ae671c547bef8" title="Loads the common table header values. " alt="" coords="457,70,594,111"/>
+</map>

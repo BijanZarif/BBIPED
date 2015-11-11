@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#aa0ebf23a82fe3113c8fed889a599009d" title="This function builds the menu to be shown in the tree." alt="" coords="379,5,669,35"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#ab2136359e69d1e859438beeea49c903b" title="Function to build the Rotating Menu." alt="" coords="393,59,655,88"/>
+<area shape="rect" id="node15" href="$d9/d6e/class_solver_config_manager.html#a189253f4a9f161d18abf2f98c594282c" title="Function to build the unsteady menu." alt="" coords="389,112,659,141"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#af4c43c41f8ee22204a58f36f2d94576b" title="This function builds the correspondent menus." alt="" coords="767,85,1055,115"/>
+<area shape="rect" id="node13" href="$d3/d40/class_solver_basic_dialog.html#ad67fc9b89931235132705506e2353ac9" title="Slot to control when the user check/uncheck the rotating frame menu element." alt="" coords="717,32,1104,61"/>
+<area shape="rect" id="node9" href="$d3/d40/class_solver_basic_dialog.html#a7a27f58ab3c053a63a0036572c96998b" title="Function that restore the elements for the BASIC VIEW." alt="" coords="1155,59,1493,88"/>
+<area shape="rect" id="node11" href="$d3/d40/class_solver_basic_dialog.html#abd1bc03e252061b685652e3ec173967d" title="Function that restore the elements for the ADVANCED VIEW." alt="" coords="1153,112,1495,141"/>
+<area shape="rect" id="node18" href="$d3/d40/class_solver_basic_dialog.html#a83adc3f24c19b04d9fb4074052209dfb" title="Slot to control when the user check/uncheck the unsteady menu element." alt="" coords="720,139,1101,168"/>
+</map>

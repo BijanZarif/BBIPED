@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver-template>
+<sections>
+	<section>
+	<!-- PROBLEM DEFINITION -->
+		<title inBasicView="yes" visibleChildren="yes"> Problem Definition </title>
+		<id>0</id>
+		<subsections>
+		  <subsection visibleInBasicView="yes">
+			<!-- GENERAL PROBLEM DEFINITION PART -->
+			<title>General Problem Definition Part</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Physical governing equations</name>
+					<help>Possible Values: POTENTIAL_FLOW,EULER,NAVIER_STOKES,MULTI_SPECIES_NAVIER_STOKERS,TWO_PHASE_FLOW,COMBUSTION </help>
+					<comboValues>
+						<comboValue>POTENTIAL_FLOW</comboValue>
+						<comboValue>EULER</comboValue>
+						<comboValue>NAVIER_STOKES</comboValue>
+						<comboValue>MULTI_SPECIES_NAVIER_STOKERS</comboValue>
+						<comboValue>TWO_PHASE_FLOW</comboValue>
+						<comboValue>COMBUSTION</comboValue>
+					</comboValues>
+					<value name="PHYSICAL_PROBLEM" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="1">
+					<name>If Naiver-Stokes, kind of turbulent model</name>
+					<help>NONE, SA</help>
+					<comboValues>
+						<comboValue>NONE</comboValue>
+						<comboValue>SA</comboValue>						
+					</comboValues>
+					<value name="KIND_TURB_MODEL" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="2">
+					<name>Mathematical problem</name>
+					<help>(DIRECT, ADJOINT, LINEARIZED, ONE_SHOT_ADJOINT)</help>
+					<comboValues>
+						<comboValue>DIRECT</comboValue>
+						<comboValue>ADJOINT</comboValue>
+						<comboValue>LINEARIZED</comboValue>
+						<comboValue>ONE_SHOT_ADJOINT</comboValue>
+					</comboValues>
+					<value name="MATH_PROBLEM" defaultValue="DIRECT">DIRECT</value>
+				</variable>
+				<variable id="3">
+					<name>Incompressible flow using artificial compressibility</name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="INCOMPRESSIBLE_FORMULATION" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="4">
+					<name>Gravity force </name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="GRAVITY_FORCE" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="5">
+					<name>Restart Solution</name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="RESTART_SOL" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="6">
+					<name>Console Output</name>
+					<help>(VERBOSE, CONCISE,QUIET)</help>
+					<comboValues>
+						<comboValue>VERBOSE</comboValue>
+						<comboValue>CONCISE</comboValue>
+º						<comboValue>QUIET</comboValue>
+					</comboValues>
+					<value name="CONSOLE" defaultValue="VERBOSE">VERBOSE</value>
+				</variable>
+			</variables>
+		</subsection>
+		<!-- GAS DEFINITION -->
+		<subsection visibleInBasicView="yes">
+			<title>Gas Definition</title>
+			<id>1</id>
+			<variables>
+
+				<variable id="0">
+					<name>Mach number in the farfield </name>
+					<help>Default value 0.8</help>
+					<comboValues/>
+					<value name="MACH_NUMBER" defaultValue="0.8">0.8</value>
+				</variable>
+				<variable id="1">
+					<name>Angle of attack</name>
+					<help>(degrees). Default value: 1.25</help>
+					<comboValues/>
+					<value name="AoA" defaultValue="1.25">1.25</value>
+				</variable>
+				<variable id="2">
+					<name>Side-slip angle</name>
+					<help>(degrees)Default value: 0.0</help>
+					<comboValues/>
+					<value name="SIDESLIP_ANGLE" defaultValue="0.0">0.0</value>
+				</variable>
+				<variable id="3">
+					<name>Ratio of specific heats</name>
+					<help> Default Value: 1.4</help>
+					<comboValues/>
+					<value name="GAMMA_VALUE" defaultValue="1.4">1.4</value>
+				</variable>
+				<variable id="4">
+					<name>Specific gas constant</name>
+					<help>( J/(kg*K) ). Default Value: 287.87</help>
+					<comboValues/>
+					<value name="GAS_CONSTANT" defaultValue="287.87">287.87</value>
+				</variable>
+				<variable id="5">
+					<name>Total pressure</name>
+					<help>(N/m^2). Default Value: 101325.0 </help>
+					<comboValues/>
+					<value name="FREESTREAM_PRESSURE" defaultValue="101325.0">101325.0</value>
+				</variable>
+				<variable id="6">
+					<name>Total temperature</name>
+					<help>(Kelvin) Default Value: 273.15</help>
+					<comboValues/>
+					<value name="FREESTREAM_TEMPERATURE" defaultValue="273.15">273.15</value>
+				</variable>
+				<variable id="7">
+					<name>Reynolds number</name>
+					<help>(0.0 implies no definition). Default value: 6.56E6</help>
+					<comboValues/>
+					<value name="REYNOLDS_NUMBER" defaultValue="6.56E6">6.56E6</value>
+				</variable>
+				<variable id="8">
+					<name>Reynolds length</name>
+					<help>(dimensional). Default value: 1.0</help>
+					<comboValues/>
+					<value name="REYNOLDS_LENGTH" defaultValue="1.0">1.0</value>
+				</variable>
+				<variable id="9">
+					<name>Laminar Prandtl number</name>
+					<help> Default value: 0.72 </help>
+					<comboValues/>
+					<value name="PRANDTL_LAM" defaultValue="0.72">0.72</value>
+				</variable>
+				<variable id="10">
+					<name>Turbulent Prandtl number</name>
+					<help> Default value: 0.9 </help>
+					<comboValues/>
+					<value name="PRANDTL_TURB" defaultValue="0.9">0.9</value>
+				</variable>	
+			</variables>
+		</subsection>
+		<!-- FREE STREAM -->
+		<subsection visibleInBasicView="yes">
+			<title>Free-stream</title>
+			<id>2</id>
+			<variables>
+				<variable id="0">
+					<name>Free-stream density</name>
+					<help>(1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water)). Default value: 998.2</help>
+					<comboValues>
+						<comboValue>1.2886 Kg/m^3 (air)</comboValue>
+						<comboValue>998.2 Kg/m^3 (water)</comboValue>
+						<comboValue>Customised</comboValue>
+					</comboValues>
+					<value name="FREESTREAM_DENSITY" defaultValue="998.2">998.2</value>
+				</variable>
+				<variable id="1">
+					<name> Free-stream velocity  </name>
+					<help> (m/s). Default value: (5.0,0.00,0.00) </help>
+					<comboValues/>
+					<value name="FREESTREAM_VELOCITY" defaultValue="(5.0,0.00,0.00)">(5.0,0.00,0.00)</value>
+				</variable>
+				<variable id="2">
+					<name>Free-stream viscosity</name>
+					<help>(1.853E-5 Ns/m^2 (air), 0.798E-3 Ns/m^2 (water))</help>
+					<comboValues>
+						<comboValue>1.853E-5 Ns/m^2 (air)</comboValue>
+						<comboValue>0.798E-3 Ns/m^2 (water)</comboValue>
+						<comboValue>Customised</comboValue>
+					</comboValues>
+					<value name="FREESTREAM_VISCOSITY" defaultValue="1.853E-5">1.853E-5</value>
+				</variable>
+			</variables>
+		</subsection>
+		<!-- REFERENCE VALUES -->
+		<subsection visibleInBasicView="yes">
+			<title>Reference Value Definition</title>
+			<id>3</id>
+			<variables>
+				<variable id="0">
+					<name>Conversion factor for converting the grid to meters</name>
+					<help>  Default value: 1.0 </help>
+					<comboValues/>
+					<value name="CONVERT_TO_METER" defaultValue="1.0">1.0</value>
+				</variable>
+				<variable id="1">
+					<name>Reference origin for moment computation</name>
+					<help> Default value: (0.25,0.00,0.00) </help>
+					<comboValues/>
+					<value name="REF_ORIGIN_MOMENT" defaultValue=" (0.25,0.00,0.00)"> (0.25,0.00,0.00)</value>
+				</variable>
+				<variable id="2">
+					<name>Reference area for non-dimensionalization</name>
+					<help>(0 implies automatic calculation) </help>
+					<comboValues/>
+					<value name="REF_AREA" defaultValue="0">0</value>
+				</variable>
+				<variable id="3">
+					<name>Reference length for pitching, rolling, and yawing momentum.</name>
+					<help> Default value: 1.0</help>
+					<comboValues/>
+					<value name="REF_LENGTH_MOMENT" defaultValue="1.0">1.0</value>
+				</variable>
+				<variable id="4">
+					<name>Reference pressure</name>
+					<help> Default value: 101325.0 </help>
+					<comboValues/>
+					<value name="REF_PRESSURE" defaultValue="101325.0">101325.0</value>
+				</variable>
+				<variable id="5">
+					<name>Reference temperature</name>
+					<help> Default value: 273.15 </help>
+					<comboValues/>
+					<value name="REF_TEMPERATURE" defaultValue="273.15">273.15</value>
+				</variable>
+				<variable id="6">
+					<name>Reference density</name>
+					<help>(1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water))</help>
+					<comboValues>
+						<comboValue>1.2886 Kg/m^3 (air)</comboValue>
+						<comboValue>998.2 Kg/m^3 (water)</comboValue>
+						<comboValue>Customised</comboValue>
+					</comboValues>
+					<value name="REF_DENSITY" defaultValue="1.2886">1.2886</value>
+				</variable>
+			</variables>
+		</subsection>	
+	  </subsections>
+	</section>
+<section>
+		<!-- BOUNDARIES -->
+		<title inBasicView="yes" visibleChildren="yes">Boundaries Definition</title>
+		<id>1</id>
+		<subsections>
+		  <subsection visibleInBasicView="yes">
+			<title>Boundaries General Definition</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Marker of the Navier-Stokes boundary  </name>
+					<help> (NONE = no marker)</help>
+					<comboValues/>
+					<value name="MARKER_NS" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="1">
+					<name>MARKER_EULER</name>
+					<help> .... </help>
+					<comboValues/>
+					<value name="MARKER_EULER" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="2">
+					<name>MARKER_CUSTOM</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="MARKER_CUSTOM" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="3">
+					<name>MARKER_ROTB</name>
+					<help> ...</help>
+					<comboValues/>
+					<value name="MARKER_ROTB" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="4">
+					<name>Marker of the far field</name>
+					<help> (NONE = no marker) </help>
+					<comboValues/>
+					<value name="MARKER_FAR" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="5">
+					<name>MARKER_INTERFACE</name>
+					<help> .... </help>
+					<comboValues/>
+					<value name="MARKER_INTERFACE" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="6">
+					<name>MARKER_PERIODIC</name>
+					<help> ( BOUNDARY1, BOUNDARY2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, BOUNDARY2, BOUNDARY1,  0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0) </help>
+					<value name="MARKER_PERIODIC" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="7">
+					<name>Marker of symmetry boundary</name>
+					<help>(NONE = no marker)</help>
+					<comboValues/>
+					<value name="MARKER_SYM" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="8">
+					<name>Inlet boundary marker(s)</name>
+					<help>(NONE = no marker). Format: ( inlet marker, total temperature, total pressure, flow_direction_x, flow_direction_y, flow_direction_z, ... ) where flow_direction is a unit vector. </help>
+					<comboValues/>
+					<value name="MARKER_INLET" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="9">
+					<name>Outlet boundary marker(s)</name>
+					<help>(NONE = no marker). Format: ( outlet marker, back pressure (static), ... ) </help>
+					<comboValues/>
+					<value name="MARKER_OUTLET" defaultValue="NONE">NONE</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="yes">
+			<title>Boundary Plotting Values</title>
+			<id>1</id>
+			<variables>				
+				<variable id="0">
+					<name>Marker of the surface which is going to be plotted or designed</name>
+					<help>Marker of the surface which is going to be plotted or designed</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="MARKER_PLOTTING" defaultValue="NONE">NONE</value>
+				</variable>
+			</variables>
+		</subsection>	
+		<subsection visibleInBasicView="yes">
+			<title>Boundary Monitoring Values</title>
+			<id>1</id>
+			<variables>				
+				<variable id="0">
+					<name>Marker of the surface where the functional (Cd, Cl, etc.) will be evaluated</name>
+					<help>Marker of the surface where the functional (Cd, Cl, etc.) will be evaluated</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="MARKER_MONITORING" defaultValue="NONE">NONE</value>
+				</variable>
+			</variables>
+		</subsection>
+		</subsections>	
+	</section>
+	<section>
+		<!-- INPUT / OUTPUT -->
+		<title inBasicView="yes" visibleChildren="yes">Input / Output information</title>
+		<id>2</id>
+		<subsections>
+		<subsection visibleInBasicView="yes">
+			<title>Mesh Files</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Mesh input file format </name>
+					<help>(SU2, CGNS, NETCDF_ASCII) </help>
+					<comboValues>
+						<comboValue>SU2</comboValue>
+						<comboValue>CGNS</comboValue>
+						<comboValue>NETCDF_ASCII</comboValue>
+					</comboValues>
+					<value name="MESH_FORMAT" defaultValue="SU2">SU2</value>
+				</variable>
+
+				<variable id="2">
+					<name>Mesh input file</name>
+					<help> ....</help>
+					<comboValues/>
+					<value name="MESH_FILENAME" defaultValue="test.su2">test.su2</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="yes">
+			<title>Output Files</title>
+			<id>1</id>
+			<variables>
+				<variable id="0">
+					<name>Output file format </name>
+					<help>  (PARAVIEW, TECPLOT) </help>
+					<comboValues>
+						<comboValue>PARAVIEW2</comboValue>
+						<comboValue>TECPLOT</comboValue>
+					</comboValues>
+					<value name="OUTPUT_FORMAT" defaultValue="PARAVIEW">PARAVIEW</value>
+				</variable>
+				<variable id="1">
+					<name>Output file convergence history</name>
+					<help> w/o extension)  </help>
+					<comboValues/>
+					<value name="CONV_FILENAME" defaultValue="history">history</value>
+				</variable>
+				<variable id="2">
+					<name>Output file residual</name>
+					<help> .... </help>
+					<comboValues/>
+					<value name="RESIDUAL_FILENAME" defaultValue="residual.vtk">residual.vtk</value>
+				</variable>
+				<variable id="3">
+					<name>Output file restart flow</name>
+					<help> .... </help>
+					<comboValues/>
+					<value name="RESTART_FLOW_FILENAME" defaultValue="restart_flow.dat">restart_flow.dat</value>
+				</variable>
+				<variable id="4">
+					<name>Output file flow (w/o extension) variables</name>
+					<help> ...</help>
+					<comboValues/>
+					<value name="VOLUME_FLOW_FILENAME" defaultValue="flow">flow</value>
+				</variable>
+				<variable id="5">
+					<name>Output file gradient conservative variables</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="GRAD_FILENAME" defaultValue="gradient.vtk">gradient.vtk</value>
+				</variable>
+				<variable id="6">
+					<name>Output file surface flow coefficient</name>
+					<help>(w/o extension)</help>
+					<comboValues/>
+					<value name="SURFACE_FLOW_FILENAME" defaultValue="surface_flow">surface_flow</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="yes">
+			<title>Restart Files</title>
+			<id>2</id>
+			<variables>
+				<variable id="0">
+					<name>Restart flow input file</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="SOLUTION_FLOW_FILENAME" defaultValue="solution_flow.dat">solution_flow.dat</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="yes">
+			<title>Writing frequency options</title>
+			<id>3</id>
+			<variables>
+				<variable id="0">
+					<name>Writing solution file frequency</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="WRT_SOL_FREQ" defaultValue="1000">1000</value>
+				</variable>
+				<variable id="1">
+					<name>Writing convergence history frequency</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="WRT_CON_FREQ" defaultValue="1">1</value>
+				</variable>
+			</variables>
+		</subsection>
+		</subsections>
+	</section>
+	
+	<section>	
+<!-- ROTATING FRAME -->	
+		<title inBasicView="yes" visibleChildren="no">Rotating Frame</title>
+		 <id>3</id>
+		<subsections>
+		<subsection visibleInBasicView="yes">
+			<title>Rotating Frame (General Part)</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Rotating frame problem</name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="ROTATING_FRAME" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="1">
+					<name>Virtual Rotating frame problem</name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="VIRTUAL_ROTATING_FRAME" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="2">
+					<name>Origin of the axis of rotation</name>
+					<help>...</help>
+					<comboValues/>						
+					<value name="ROTATIONAL_ORIGIN" defaultValue="(0,0,0)">(0,0,0)</value>
+				</variable>
+				<variable id="3">
+					<name>Angular velocity vector (rad/s)</name>
+					<help>...</help>
+					<comboValues/>						
+					<value name="ROTATION_RATE" defaultValue="(0,0,0)">(0,0,0)</value>
+				</variable>
+				<variable id="4">
+					<name>Cylinder parameter </name>
+					<help> (length, radius_1, radius_2) </help>
+					<comboValues/>						
+					<value name="CYLINDER_PARAM" defaultValue="(0,0,0)">(0,0,0)</value>
+				</variable>
+				<variable id="5">
+					<name>Reference speed (m/s) for computing force coefficients </name>
+					<help> (e.g. tip speed) </help>
+					<comboValues/>						
+					<value name="ROT_VEL_REF" defaultValue="0.0">0.0</value>
+				</variable>
+			</variables>
+		</subsection>	
+		</subsections>
+	</section>
+	<section>
+		<!-- UNSTEADY SIMULATION -->
+		<title inBasicView="yes" visibleChildren="no">Unsteady</title>
+		<id>4</id>
+		<subsections>
+		<subsection visibleInBasicView="yes">
+			<title>Unsteady Simulation (General Part)</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Unsteady simulation</name>
+					<help>  (NO, TIME_STEPPING, DUAL_TIME_STEPPING) </help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>TIME_STEPPING</comboValue>
+						<comboValue>DUAL_TIME_STEPPING</comboValue>
+					</comboValues>
+					<value name="UNSTEADY_SIMULATION" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="1">
+					<name>Time Step for dual time stepping simulations</name>
+					<help> Default Value: 0.0 </help>
+					<comboValues/>
+					<value name="UNST_TIMESTEP" defaultValue="0.0">0.0</value>
+				</variable>
+				<variable id="2">
+					<name>Total Physical Time for dual time stepping simulations</name>
+					<help> Default Value:1.0 </help>
+					<comboValues/>
+					<value name="UNST_TIME" defaultValue="1.0">1.0</value>
+				</variable>
+		</variables>
+		</subsection>
+		</subsections>	
+	</section>
+	<section>
+		<title inBasicView="no" visibleChildren="yes"> Solver </title>
+		<id>5</id>
+		<subsections>
+		<subsection visibleInBasicView="no">
+			<!-- COMMON PARAMETERS -->
+			<title>Common Parameters</title>
+			<id>0</id>
+			<variables>
+				<variable id="0">
+					<name>Numerical method for spatial gradients</name>
+					<help>GREEN_GAUSS, LEAST_SQUARES,   WEIGHTED_LEAST_SQUARES)</help>
+					<comboValues>
+						<comboValue>GREEN_GAUSS</comboValue>
+						<comboValue>LEAST_SQUARES</comboValue>
+						<comboValue>WEIGHTED_LEAST_SQUARES</comboValue>
+					</comboValues>
+					<value name="NUM_METHOD_GRAD" defaultValue="GREEN_GAUSS">GREEN_GAUSS</value>
+				</variable>
+				<variable id="1">
+					<name>Courant-Friedrichs-Lewy condition of the finest grid</name>
+					<help> Default value: 1.25 </help>
+					<comboValues/>
+					<value name="CFL_NUMBER" defaultValue="1.25">1.25</value>
+				</variable>
+				<variable id="2">
+					<name>CFL ramp </name>
+					<help>(factor, number of iterations, CFL limit). Default value: (1.0,100.0,1.0)</help>
+					<value name="CFL_RAMP" defaultValue="(1.0,100.0,1.0)">(1.0,100.0,1.0)</value>
+				</variable>
+				<variable id="3">
+					<name> Number of total iterations  </name>
+					<help> Default Value: 999999 </help>
+					<comboValues/>
+					<value name="EXT_ITER" defaultValue="999999">999999</value>
+				</variable>
+				<variable id="4">
+					<name> Linear Solver for the implicit formulation </name>
+					<help> (LU_SGS, SYM_GAUSS_SIDEL, BCGSTAB) </help>
+					<comboValues>
+						<comboValue>LU_SGS</comboValue>
+						<comboValue>SYM_GAUSS_SIDEL</comboValue>
+						<comboValue>BCGSTAB</comboValue>
+					</comboValues>
+					<value name="LINEAR_SOLVER" defaultValue="LU_SGS">LU_SGS</value>
+				</variable>
+				<variable id="5">
+					<name> min error of the linear solver for the implicit formulation </name>
+					<help> ..... </help>
+					<comboValues/>						
+					<value name="LINEAR_SOLVER_ERROR" defaultValue="1E-6">1E-6</value>
+				</variable>
+				<variable id="6">
+					<name> Max number of iterations of the linear solver for the implicit formulation </name>
+					<help> ..... </help>
+					<comboValues/>						
+					<value name="LINEAR_SOLVER_ITER" defaultValue="5">5</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- MULTIGRID -->
+			<title>Multigrid</title>
+			<id>1</id>
+			<variables>
+				<variable id="0">
+					<name>Multi-Grid Levels</name>
+					<help> (0 = no multi-grid). Default Value: 0</help>
+					<comboValues/>
+					<value name="MGLEVEL" defaultValue="0">0</value>
+				</variable>
+				<variable id="1">
+					<name>Multi-Grid Cycle</name>
+					<help> (0 = V cycle, 1 = W Cycle). Default value: 0 </help>
+					<comboValues>
+						<comboValue>V Cycle</comboValue>
+						<comboValue>W Cycle</comboValue>
+					</comboValues>
+					<value name="MGCYCLE" defaultValue="0">0</value>
+				</variable>
+				<variable id="2">
+					<name>Multi-Grid PreSmoothing Level</name>
+					<help>Default Value (2,2,2,2)</help>
+					<comboValues/>
+					<value name="MG_PRE_SMOOTH" defaultValue="(2,2,2,2)">(2,2,2,2)</value>
+				</variable>
+				<variable id="3">
+					<name>Multi-Grid PostSmoothing Level</name>
+					<help>Default Value ( 1, 1, 1, 1 ) </help>
+					<comboValues/>
+					<value name="MG_POST_SMOOTH" defaultValue="( 1, 1, 1, 1 )">( 1, 1, 1, 1 )</value>
+				</variable>
+				<variable id="4">
+					<name>Jacobi implicit smoothing of the correction</name>
+					<help>.Default Value ( 1, 1, 1, 1 ) </help>
+					<comboValues/>
+					<value name="MG_CORRECTION_SMOOTH" defaultValue="( 1, 1, 1, 1 )">( 1, 1, 1, 1 )</value>
+				</variable>
+				<variable id="5">
+					<name>Damping factor for the residual restriction</name>
+					<help>Default Value: 0.75 </help>
+					<comboValues/>
+					<value name="MG_DAMP_RESTRICTION" defaultValue="0.75">0.75</value>
+				</variable>
+				<variable id="6">
+					<name>Damping factor for the correction prolongation</name>
+					<help>.Default Value: 0.75 </help>
+					<comboValues/>
+					<value name="MG_DAMP_PROLONGATION" defaultValue="0.75">0.75</value>
+				</variable>
+				<variable id="7">
+					<name>Restart Multi-Grid cycle with the interpolated solution</name>
+					<help>(NO, YES), Default value: NO</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="MG_RESTART_CYCLE" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="8">
+					<name>Full Multigrid</name>
+					<help>(NO, YES), Default value: NO</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="FULLMG" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="9">
+					<name>Start up iterations using the fine grid</name>
+					<help>.... </help>
+					<comboValues/>
+					<value name="START_UP_ITER" defaultValue="0">0</value>
+				</variable>
+				<variable id="10">
+					<name>Reduction factor of the CFL coefficient on the coarse levels</name>
+					<help>.... </help>
+					<comboValues/>
+					<value name="MG_CFL_REDUCTION" defaultValue="0">0</value>
+				</variable>
+				<variable id="11">
+					<name>Maximum number of children in the agglomeration stage</name>
+					<help>.... </help>
+					<comboValues/>
+					<value name="MAX_CHILDREN" defaultValue="0">0</value>
+				</variable>
+				<variable id="12">
+					<name>Maximum length of an agglomerated element (compared with the domain)</name>
+					<help>.... </help>
+					<comboValues/>
+					<value name="MAX_DIMENSION" defaultValue="0">0</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- FLOW NUMERICAL -->
+			<title>Flow Numerical</title>
+			<id>2</id>
+			<variables>
+				<variable id="0">
+					<name>Convective numerical method</name>
+					<help>(JST, LAX-FRIEDRICH, ROE-1ST_ORDER, ROE-2ND_ORDER, HLLC-1ST_ORDER, HLLC-2ND_ORDER, ). Default Value: JST </help>
+					<comboValues>
+						<comboValue>JST </comboValue>
+						<comboValue>LAX-FRIEDRICH</comboValue>
+						<comboValue>ROE-1ST_ORDER</comboValue>
+						<comboValue>ROE-2ND_ORDER</comboValue>
+						<comboValue>HLLC-1ST_ORDER</comboValue>
+						<comboValue>HLLC-2ND_ORDER</comboValue>
+					</comboValues>
+					<value name="CONV_NUM_METHOD_FLOW" defaultValue="JST">JST</value>
+				</variable>
+				<variable id="1">
+					<name>Viscous numerical method</name>
+					<help>(AVG_GRAD, AVG_GRAD_CORRECTED,GALERKIN)</help>
+					<comboValues>
+						<comboValue>AVG_GRAD</comboValue>
+						<comboValue>AVG_GRAD_CORRECTED</comboValue>
+						<comboValue>GALERKIN</comboValue>
+					</comboValues>
+					<value name="VISC_NUM_METHOD_FLOW" defaultValue="AVG_GRAD">AVG_GRAD</value>
+				</variable>
+				<variable id="2">
+					<name>time discretization</name>
+					<help>(RUNGE-KUTTA_EXPLICIT, EULER_IMPLICIT, EULER_EXPLICIT)</help>
+					<comboValues>
+						<comboValue>RUNGE-KUTTA_EXPLICIT</comboValue>
+						<comboValue>EULER_IMPLICIT</comboValue>
+						<comboValue>EULER_EXPLICIT</comboValue>
+					</comboValues>
+					<value name="TIME_DISCRE_FLOW" defaultValue="RUNGE-KUTTA_EXPLICIT">RUNGE-KUTTA_EXPLICIT</value>
+				</variable>
+				<variable id="3">
+					<name>Slope limiter</name>
+					<help>(NONE, VENKATAKRISHNAN). Default value: NONE</help>
+					<comboValues>
+						<comboValue>NONE</comboValue>
+						<comboValue>VENKATAKRISHNAN</comboValue>
+					</comboValues>
+					<value name="SLOPE_LIMITER_FLOW" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="4">
+					<name>Coefficient for the limiter</name>
+					<help>(smooth regions). Default value: 0.3</help>
+					<comboValues/>
+					<value name="LIMITER_COEFF" defaultValue="0.3">0.3</value>
+				</variable>
+				<variable id="5">
+					<name>1st, 2nd and 4th order artificial dissipation coefficients</name>
+					<help>Default value: (1.0,100.0,1.0) </help>
+					<comboValues/>
+					<value name="AD_COEFF_FLOW" defaultValue=" (1.0,100.0,1.0)"> (1.0,100.0,1.0)</value>
+				</variable>
+				<variable id="6">
+					<name>Runge-Kutta Alpha Coefficients</name>
+					<help> Default Value: (0.66667,0.66667,1.00000)</help>
+					<comboValues/>
+					<value name="RK_ALPHA_COEFF" defaultValue="(0.66667,0.66667,1.00000)">(0.66667,0.66667,1.00000)</value>
+				</variable>
+				<variable id="7">
+					<name>Runge-Kutta Beta Coefficients</name>
+					<help>.Default Value: (1.00000,0.00000,0.00000) </help>
+					<comboValues/>
+					<value name="RK_BETA_COEFF" defaultValue="(1.00000,0.00000,0.00000)">(1.00000,0.00000,0.00000) </value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+		<!-- TURBULENCE NUMERICAL METHODS -->
+			<title>Turbulence numerical methods</title>
+			<id>3</id>
+			<variables>
+				<variable id="0">
+					<name>Convective numerical method</name>
+					<help>(SCALAR_UPWIND-1ST_ORDER,SCALAR_UPWIND-2ND_ORDER)</help>
+					<comboValues>
+						<comboValue>SCALAR_UPWIND-1ST_ORDER</comboValue>
+						<comboValue>SCALAR_UPWIND-2ND_ORDER</comboValue>
+					</comboValues>
+					<value name="CONV_NUM_METHOD_TURB" defaultValue="SCALAR_UPWIND-1ST_ORDER">SCALAR_UPWIND-1ST_ORDER</value>
+				</variable>
+				<variable id="1">
+					<name>Viscous numerical method</name>
+					<help>(AVG_GRAD, AVG_GRAD_CORRECTED)</help>
+					<comboValues>
+						<comboValue>AVG_GRAD</comboValue>
+						<comboValue>AVG_GRAD_CORRECTED</comboValue>
+					</comboValues>
+					<value name="VISC_NUM_METHOD_TURB" defaultValue="DIVERGENCE_THEOREM">AVG_GRAD</value>
+				</variable>
+				<variable id="2">
+					<name>Source term numerical method</name>
+					<help>(PIECEWISE_CONSTANT)</help>
+					<comboValues>
+						<comboValue>PIECEWISE_CONSTANT</comboValue>
+					</comboValues>
+					<value name="SOUR_NUM_METHOD_TURB" defaultValue="PIECEWISE_CONSTANT">PIECEWISE_CONSTANT</value>
+				</variable>
+				<variable id="3">
+					<name>Time discretization</name>
+					<help>(EULER_IMPLICIT) </help>
+					<comboValues>
+						<comboValue>EULER_IMPLICIT</comboValue>
+					</comboValues>
+					<value name="TIME_DISCRE_TURB" defaultValue="EULER_IMPLICIT">EULER_IMPLICIT</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- PARTITIONING STRATEGY -->
+			<title>Partitioning</title>
+			<id>4</id>
+			<variables>
+				<variable id="0">
+					<name>Write a paraview file for each partition </name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="VISUALIZE_PART" defaultValue="NO">NO</value>
+				</variable>
+				<variable id="1">
+					<name>Number of partitions of the domain</name>
+					<help> ...</help>
+					<comboValues/>
+					<value name="NUMBER_PART" defaultValue="0">0</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- CONVERGENCE PARAMETERS -->
+			<title>Convergence Parameters</title>
+			<id>5</id>
+			<variables>
+				<variable id="0">
+					<name>Convergence criteria  </name>
+					<help>(CAUCHY, RESIDUAL)</help>
+					<comboValues>
+						<comboValue>CAUCHY</comboValue>
+						<comboValue>RESIDUAL</comboValue>
+					</comboValues>
+					<value name="CONV_CRITERIA" defaultValue="RESIDUAL">RESIDUAL</value>
+				</variable>
+				<variable id="1">
+					<name>Function to apply the criteria</name>
+					<help>(LIFT, DRAG, SENS_GEOMETRY, SENS_MACH,  DELTA_LIFT, DELTA_DRAG) </help>
+					<comboValues>
+						<comboValue>LIFT</comboValue>
+						<comboValue>DRAG</comboValue>						
+						<comboValue>SENS_GEOMETRY</comboValue>
+						<comboValue>SENS_MACH</comboValue>						
+						<comboValue>DELTA_LIFT</comboValue>
+						<comboValue>DELTA_DRAG</comboValue>
+					</comboValues>
+					<value name="CAUCHY_FUNC_FLOW" defaultValue="DRAG">DRAG</value>
+				</variable>
+				<variable id="2">
+					<name>Residual reduction</name>
+					<help>(order of magnitude with respect to the initial value). Default value: 3.0</help>
+					<comboValues/>
+					<value name="RESIDUAL_REDUCTION" defaultValue="3.0">3.0</value>
+				</variable>
+				<variable id="3">
+					<name>Min value of the residual</name>
+					<help>(log10 of the residual). Default value: -8</help>
+					<comboValues/>
+					<value name="RESIDUAL_MINVAL" defaultValue="-8">-8</value>
+				</variable>
+				<variable id="4">
+					<name>Start convergence criteria at iteration number</name>
+					<help> Default value: 5 </help>
+					<comboValues/>
+					<value name="STARTCONV_ITER" defaultValue="5">5</value>
+				</variable>
+				<variable id="5">
+					<name>Number of elements to apply the criteria </name>
+					<help> Default value: 100  </help>
+					<comboValues/>
+					<value name="CAUCHY_ELEMS" defaultValue="100">100</value>
+				</variable>
+				<variable id="6">
+					<name>Epsilon to control the series convergence</name>
+					<help> Default value: 1E-10 </help>
+					<comboValues/>
+					<value name="CAUCHY_EPS" defaultValue="1E-10">1E-10</value>
+				</variable>
+				<variable id="7">
+					<name>Epsilon for One-Shot method evaluation</name>
+					<help>Default value: 1E-5</help>
+					<comboValues/>
+					<value name="ONESHOT_CAUCHY_EPS" defaultValue="1E-5">1E-5</value>
+				</variable>
+				<variable id="8">
+					<name>Epsilon for full multigrid method evaluation</name>
+					<help>Default value: 1E-4</help>
+					<comboValues/>
+					<value name="FULLMG_CAUCHY_EPS" defaultValue="1E-4">1E-4</value>
+				</variable>
+				<variable id="9">
+					<name>function to apply the criteria</name>
+					<help>Default value: 1E-4</help>
+					<help>(LIFT, DRAG, SENS_GEOMETRY, SENS_MACH,  DELTA_LIFT, DELTA_DRAG) </help>
+					<comboValues>
+						<comboValue>LIFT</comboValue>
+						<comboValue>DRAG</comboValue>						
+						<comboValue>SENS_GEOMETRY</comboValue>
+						<comboValue>SENS_MACH</comboValue>						
+						<comboValue>DELTA_LIFT</comboValue>
+						<comboValue>DELTA_DRAG</comboValue>
+					</comboValues>
+					<value name="CAUCHY_FUNC_ADJ" defaultValue="DRAG">DRAG</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- GRID ADAPTATION STRATEGY -->
+			<title>Grid Adaptation Strategy</title>
+			<id>7</id>
+			<variables>
+				<variable id="0">
+					<name>Percentage of new elements</name>
+					<help> (% of the original number of elements)</help>
+					<comboValues/>
+					<value name="NEW_ELEMS" defaultValue="0">0</value>
+				</variable>
+				<variable id="1">
+					<name>Kind of grid adaptation</name>
+					<help> (NONE,FULL,FULL_FLOW,GRAD_FLOW,FULL_ADJOINT,GRAD_ADJOINT,GRAD_FLOW_ADJ,ROBUST,FULL_LINEAR,COMPUTABLE,COMPUTABLE_ROBUST,REMAINING,WAKE,HORIZONTAL_PLANE)</help>
+					<comboValues>
+						<comboValue>NONE</comboValue>
+						<comboValue>FULL</comboValue>
+						<comboValue>FULL_FLOW</comboValue>
+						<comboValue>GRAD_FLOW</comboValue>	
+						<comboValue>FULL_ADJOINT</comboValue>
+						<comboValue>GRAD_ADJOINT</comboValue>
+						<comboValue>GRAD_FLOW_ADJ</comboValue>
+						<comboValue>ROBUST</comboValue>			
+						<comboValue>FULL_LINEAR</comboValue>
+						<comboValue>COMPUTABLE</comboValue>
+						<comboValue>COMPUTABLE_ROBUST</comboValue>
+						<comboValue>REMAINING</comboValue>	
+						<comboValue>WAKE</comboValue>
+						<comboValue>HORIZONTAL_PLANE</comboValue>
+					</comboValues>
+					<value name="KIND_ADAPT" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="2">
+					<name>Scale factor for the dual volume</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="DUALVOL_POWER" defaultValue="0.0">0.0</value>
+				</variable>
+				<variable id="3">
+					<name>Use analytical definition for surfaces</name>
+					<help> (NONE,NACA0012_airfoil,BIPARABOLIC,NACA4412_airfoil,CYLINDER) </help>
+					<comboValues>
+						<comboValue>NONE</comboValue>
+						<comboValue>NACA0012_airfoil</comboValue>
+						<comboValue>BIPARABOLIC</comboValue>
+						<comboValue>NACA4412_airfoil</comboValue>	
+						<comboValue>CYLINDER</comboValue>
+					</comboValues>
+					<value name="ANALYTICAL_SURFDEF" defaultValue="NACA0012_airfoil">NACA0012_airfoil</value>
+				</variable>
+				<variable id="4">
+					<name>Before each comuptation do an implict smoothing of the nodes coord </name>
+					<help>(NO, YES)</help>
+					<comboValues>
+						<comboValue>NO</comboValue>
+						<comboValue>YES</comboValue>
+					</comboValues>
+					<value name="SMOOTH_GEOMETRY" defaultValue="NO">NO</value>
+				</variable>
+			</variables>
+		</subsection>
+		<subsection visibleInBasicView="no">
+			<!-- GRID DEFORMATION PARAMETERS -->
+			<title>Grid deformation parameters</title>
+			<id>8</id>
+			<variables>
+				<variable id="0">
+					<name>Kind of deformation</name>
+					<help> (NO_DEFORMATION,HICKS_HENNE,HICKS_HENNE_NORMAL,PARABOLIC,HICKS_HENNE_SHOCK,NACA_4DIGITS,DISPLACEMENT,ROTATION,FFD_CONTROL_POINT,FFD_DIHEDRAL_ANGLE,FFD_TWIST_ANGLE,FFD_ROTATION)</help>
+					<comboValues>
+						<comboValue>NO_DEFORMATION</comboValue>
+						<comboValue>HICKS_HENNE</comboValue>
+						<comboValue>HICKS_HENNE_NORMAL</comboValue>
+						<comboValue>PARABOLIC</comboValue>	
+						<comboValue>HICKS_HENNE_SHOCK</comboValue>
+						<comboValue>NACA_4DIGITS</comboValue>
+						<comboValue>DISPLACEMENT</comboValue>
+						<comboValue>ROTATION</comboValue>			
+						<comboValue>FFD_CONTROL_POINT</comboValue>
+						<comboValue>FFD_DIHEDRAL_ANGLE</comboValue>
+						<comboValue>FFD_TWIST_ANGLE</comboValue>
+						<comboValue>FFD_ROTATION</comboValue>	
+					</comboValues>
+					<value name="DV_KIND" defaultValue="NO_DEFORMATION">NO_DEFORMATION</value>
+				</variable>
+				<variable id="1">
+					<name>Marker of the surface in which we are going to apply the shape deformation</name>
+					<help> e.g airfoil</help>
+					<comboValues/>
+					<value name="DV_MARKER" defaultValue="NONE">NONE</value>
+				</variable>
+				<variable id="2">
+					<name>Parameters of the shape deformation</name>
+					<help> ... </help>
+					<comboValues/>
+					<value name="DV_PARAM" defaultValue="(0.0,0.0)">(0.0,0.0)</value>
+				</variable>
+				<variable id="3">
+					<name>Old value of the deformation for incremental deformations</name>
+					<help> ... </help>
+					<comboValues/>						
+					<value name="DV_VALUE_OLD" defaultValue="0.0">0.0</value>
+				</variable>
+				<variable id="4">
+					<name>Value of the shape deformation  </name>
+					<help>....</help>
+					<comboValues/>
+					<value name="DV_VALUE_NEW" defaultValue="0.0">0.0</value>
+				</variable>
+				<variable id="5">
+					<name>Grid deformation technique</name>
+					<help> (SPRING,TORSIONAL_SPRING,ALGEBRAIC)</help>
+					<comboValues>
+						<comboValue>SPRING</comboValue>
+						<comboValue>TORSIONAL_SPRING</comboValue>
+						<comboValue>ALGEBRAIC</comboValue>
+					</comboValues>
+					<value name="GRID_DEFORM_METHOD" defaultValue="SPRING">SPRING</value>
+				</variable>
+				<variable id="6">
+					<name>Numerical solver for the grid deformation</name>
+					<help> (SYM_GAUSS_SEIDEL,CONJUGATE_GRADIENT)</help>
+					<comboValues>
+						<comboValue>SYM_GAUSS_SEIDEL</comboValue>
+						<comboValue>CONJUGATE_GRADIENT</comboValue>
+					</comboValues>
+					<value name="GRID_DEFORM_SOLVER" defaultValue="SYM_GAUSS_SEIDEL">SYM_GAUSS_SEIDEL</value>
+				</variable>
+				<variable id="7">
+					<name>Maximum error in the grid deformation</name>
+					<help>  ... </help>
+					<comboValues/>
+					<value name="GRID_DEFORM_ERROR" defaultValue="1E-14">1E-14</value>
+				</variable>
+			</variables>
+		</subsection>
+			</subsections>
+	</section>
+
+</sections>
+</solver-template>

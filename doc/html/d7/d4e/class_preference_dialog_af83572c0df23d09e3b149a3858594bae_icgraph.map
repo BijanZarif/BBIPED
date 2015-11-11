@@ -1,0 +1,7 @@
+<map id="PreferenceDialog::setCustomizedMeshViewerPath" name="PreferenceDialog::setCustomizedMeshViewerPath">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a41f7dbc791a57715147767d635fd5cba" title="Initialize Mesh viewer data. " alt="" coords="291,5,469,46"/>
+<area shape="rect" id="node4" href="$d7/d4e/class_preference_dialog.html#a3f5787c9fb1e775b131bdbd0e0dd16bd" title="Function that defines the dialog launch for selecting the path for the mesh viewer tool..." alt="" coords="272,69,488,125"/>
+<area shape="rect" id="node5" href="$d7/d4e/class_preference_dialog.html#a6b27712f9d12959c514587c6ed3666d4" title="Reset the mesh viewer tab to its defaults. " alt="" coords="285,149,475,190"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="559,12,737,39"/>
+<area shape="rect" id="node6" href="$d7/d4e/class_preference_dialog.html#a2c0ca0f947753628d252c98ed1f27ace" title="Reset all the tabs to their default values. " alt="" coords="537,141,759,197"/>
+</map>

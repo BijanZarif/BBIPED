@@ -1,0 +1,12 @@
+<map id="SalomeVariableData::getName" name="SalomeVariableData::getName">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#a3a5e22f5f4ec21a22375f6d47fb5c2ab" title="SalomeTemplateDialog\l::addRow" alt="" coords="204,23,361,65"/>
+<area shape="rect" id="node5" href="$db/dbb/class_salome_optimization_dialog.html#a4f4ee6f05ca417869455c22bf736f3c4" title="SalomeOptimizationDialog\l::addRow" alt="" coords="195,93,371,134"/>
+<area shape="rect" id="node8" href="$dc/def/class_salome_template_data.html#aa820294d355cf8cff98e1f41b12486e9" title="Find any SalomeVariable Data by his name. " alt="" coords="209,158,357,199"/>
+<area shape="rect" id="node11" href="$d9/df1/class_salome_template_manager.html#a42709c1aef0fadfae22ad3c93e3a8dea" title="SalomeTemplateManager\l::saveVariableData" alt="" coords="197,223,368,265"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a56b60248836aea073429712c3748c051" title="SalomeTemplateDialog\l::fillTable" alt="" coords="428,17,585,58"/>
+<area shape="rect" id="node4" href="$d1/d96/class_salome_template_dialog.html#ae96b667e11c1f6155d63dbe47d0be74f" title="SalomeTemplateDialog\l::on_templateSelComboBox\l_currentIndexChanged" alt="" coords="673,5,858,61"/>
+<area shape="rect" id="node6" href="$db/dbb/class_salome_optimization_dialog.html#a70119d66653d1bf6b112ad00962d2e3e" title="SalomeOptimizationDialog\l::fillTable" alt="" coords="419,93,595,134"/>
+<area shape="rect" id="node7" href="$db/dbb/class_salome_optimization_dialog.html#a2ca0f0a5dbe538fb51d708035e2978e5" title="SalomeOptimizationDialog\l::on_templateComboBox_currentIndex\lChanged" alt="" coords="643,85,888,141"/>
+<area shape="rect" id="node9" href="$db/dbb/class_salome_optimization_dialog.html#af16ef4fa6f85eb4ae77e72a602a243ab" title="SalomeOptimizationDialog\l::getVariablesList" alt="" coords="419,161,595,202"/>
+<area shape="rect" id="node10" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="677,165,853,206"/>
+</map>

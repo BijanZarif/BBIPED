@@ -1,0 +1,5 @@
+<map id="MeshingToolConfigurationWarningDialog::initializeStructures" name="MeshingToolConfigurationWarningDialog::initializeStructures">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a339acba0f1e6e298fc6ef781d0796980" title="This internal function controls how to launch the Salome tool, specially due to the path of this tool..." alt="" coords="277,38,464,79"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#af28c14693c0b3e59d19ebf84ff164c85" title="This action is the Menu action for lauching Salome. " alt="" coords="513,5,719,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a996ee17cf1235b1b2253d98231044879" title="This function launchs the Salome tool. " alt="" coords="513,70,719,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$db/d40/class_solver_config_menu_helper.html#ae884618234b4126f01d2e0ed454c1468" title="Function that fills the menu table." alt="" coords="239,5,489,35"/>
+<area shape="rect" id="node5" href="$d3/d40/class_solver_basic_dialog.html#a8c0bb203410630e0748b662e14f142fb" title="This fucntion fills the table widget according user selection." alt="" coords="540,5,721,35"/>
+<area shape="rect" id="node7" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user." alt="" coords="771,5,1069,35"/>
+</map>

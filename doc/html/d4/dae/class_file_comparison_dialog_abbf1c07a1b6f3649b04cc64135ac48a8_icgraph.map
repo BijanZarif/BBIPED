@@ -1,0 +1,7 @@
+<map id="FileComparisonDialog::saveUserChanges" name="FileComparisonDialog::saveUserChanges">
+<area shape="rect" id="node3" href="$d4/dae/class_file_comparison_dialog.html#ad8c97b5e668889fc5af4ea6f4d4a367e" title="Slot: Controls if the user change the value in a combo. " alt="" coords="207,5,404,51"/>
+<area shape="rect" id="node11" href="$d4/dae/class_file_comparison_dialog.html#ab9043e2c850aee4195aa0591d2db404a" title="Slot: Controls if the user change the value of a line Edit. " alt="" coords="231,74,380,121"/>
+<area shape="rect" id="node5" href="$d4/dae/class_file_comparison_dialog.html#af2d12026e626a2bcff4d19140e208a33" title="Add signals to the combos and the line edits to control user input. " alt="" coords="455,39,604,86"/>
+<area shape="rect" id="node7" href="$d4/dae/class_file_comparison_dialog.html#a4b18498221b6dc59808d0be183286788" title="This function shows those values that are different in the table. " alt="" coords="655,39,804,86"/>
+<area shape="rect" id="node9" href="$d4/dae/class_file_comparison_dialog.html#a8c64ed49bb328df2b5f2b2becfc349f5" title="This function allows to compare the files. " alt="" coords="853,39,1040,86"/>
+</map>

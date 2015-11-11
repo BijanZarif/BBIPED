@@ -1,0 +1,51 @@
+<map id="MultizoneProjectData::getProjectPath" name="MultizoneProjectData::getProjectPath">
+<area shape="rect" id="node2" href="$db/d81/class_multizone_manager.html#aa8b89b1397e9e7f9f3c066c4a43ca043" title="Check for the paths of the project (import project) and update it if needed. " alt="" coords="201,55,413,96"/>
+<area shape="rect" id="node3" href="$db/d81/class_multizone_manager.html#a15987c5e90f1703e4c062ebd1cc5cf70" title="Open Multizone Project Dialog. " alt="" coords="462,55,682,96"/>
+<area shape="rect" id="node5" href="$db/d28/class_util_files.html#aa2fbe2b52b6fccd297b7f9473cb0465b" title="UtilFiles::copyAllToolData" alt="" coords="219,469,394,495"/>
+<area shape="rect" id="node6" href="$db/d81/class_multizone_manager.html#a5740432902e1e824728ba6c8acc8d96a" title="This function create the initial data for the multizone project. " alt="" coords="208,119,405,175"/>
+<area shape="rect" id="node7" href="$db/d81/class_multizone_manager.html#aa3c19681ff0a5f087a7b5a678fd56164" title="Launch Multizone Dialog. " alt="" coords="485,220,659,261"/>
+<area shape="rect" id="node9" href="$d6/d07/class_xml_util.html#af491d4e7e8423dd3d455c7463ca8dbfd" title="Function that creates the multizone project details element from the xml. " alt="" coords="213,352,401,393"/>
+<area shape="rect" id="node10" href="$db/d28/class_util_files.html#abf266a68416aef239c8217fce17d7f4b" title="Update the multizone project Data object values into the correspondent file and save it to disk..." alt="" coords="485,348,659,389"/>
+<area shape="rect" id="node35" href="$d9/dc6/class_main_window.html#aadeb1a2bcfb1584c0755e43eb464633c" title="This function controls the enabling of all the elements associated with the Multizone interface..." alt="" coords="473,155,671,196"/>
+<area shape="rect" id="node36" href="$da/d1e/class_multizone_project_dialog.html#a4ee550161ea2f4e13d61324bc5c883c4" title="Function that launches to create a new file. " alt="" coords="229,520,385,561"/>
+<area shape="rect" id="node38" href="$da/d1e/class_multizone_project_dialog.html#afa7aad002abe6d74e4a0fca120b11df7" title="Function that launches to import a file. " alt="" coords="229,585,385,627"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_main_window.html#a7453c85109924af6295589dfd9fd89d2" title="MainWindow::on_multizone\lDeleteButton_clicked" alt="" coords="215,651,398,692"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#aeabd282171bfe931d86ab5988f79aad0" title="MainWindow::on_multizone\lNewButton_clicked" alt="" coords="481,739,663,780"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#a2d88266dfbe9355a7ddfda4cc8f1fbde" title="MainWindow::on_multizone\lOpenEditButton_clicked" alt="" coords="215,833,398,875"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="210,899,403,940"/>
+<area shape="rect" id="node43" href="$d9/dc6/class_main_window.html#a0bcee60504ef4870f8677c93808237b8" title="MainWindow::on_multizone\lSummaryAllConfigButton\l_clicked" alt="" coords="215,963,398,1019"/>
+<area shape="rect" id="node44" href="$da/d69/class_multizone_project_data.html#aca22f8a4a939001320daeff84b12c7b3" title="This function is to update the data from another object. " alt="" coords="209,1043,404,1084"/>
+<area shape="rect" id="node49" href="$db/d28/class_util_files.html#a120bb793163798bb299b4f2c6ea5c824" title="Update teh Multizone Tool paths according with the new Project Data. " alt="" coords="485,413,659,455"/>
+<area shape="rect" id="node50" href="$d9/dc6/class_main_window.html#a93bc55c33696dfdd179ae714204f0e83" title="MainWindow::updateMultizone\lUserData" alt="" coords="207,768,407,809"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="1739,55,1931,96"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#ac0b367e6d9a1aaa9e8832daf0d58177d" title="This function is to control the action of defining a new Multizone project. " alt="" coords="731,199,922,240"/>
+<area shape="rect" id="node11" href="$da/d1e/class_multizone_project_dialog.html#ab7c8b49ca061b1c0064f5c7cece5e4d4" title="MultizoneProjectDialog\l::accept" alt="" coords="749,348,905,389"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#aa0a16eb58c9cbf3ad7842f6751e5471b" title="Update Project Data Paths. " alt="" coords="734,283,919,324"/>
+<area shape="rect" id="node34" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="731,413,922,455"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a76ab638b4eb18b2624b882474d90f905" title="Close Project function. " alt="" coords="1239,171,1417,198"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#ad550c61cfa05c7e528dedc6cf636ed10" title="Save a Project. " alt="" coords="1233,549,1423,591"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a547dfedffc7ed4fec299bf8146a4ee65" title="Save helper function to save the configuration file and all the associated info. " alt="" coords="976,291,1168,318"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a21b7980207790df12c0f1361dcd3f8ab" title="This function does all teh actions required to close an existent project, reseting to default values..." alt="" coords="1493,164,1677,205"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="1739,171,1930,198"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a46e489f7fa18548e83c2c828a0defc83" title="CLOSE a Project. " alt="" coords="1737,223,1932,264"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="1741,288,1929,329"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="1739,353,1931,395"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="1737,121,1933,147"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1988,230,2159,257"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1981,164,2165,205"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1982,99,2165,140"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="2214,99,2397,140"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="1233,339,1423,395"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="1233,419,1423,460"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="1222,484,1434,525"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="1227,223,1429,264"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="1236,289,1420,315"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_main_window.html#acf43a4f8c3c268a2987dd118b80876c9" title="Run Solver Project. " alt="" coords="1493,360,1678,401"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="1485,229,1686,271"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#ac04e6aade12e8a6e72a1d2b4f824dfce" title="SOLVER: Run the current simulation. " alt="" coords="1483,295,1688,336"/>
+<area shape="rect" id="node37" href="$da/d1e/class_multizone_project_dialog.html#a7fe40b8df2e0a97acc709deda25815c2" title="Action that controls what to do depending on the click (add new, import file, delete file) ..." alt="" coords="477,553,667,595"/>
+<area shape="rect" id="node45" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="483,1043,661,1084"/>
+<area shape="rect" id="node46" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="737,1043,917,1084"/>
+<area shape="rect" id="node47" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="971,1009,1173,1051"/>
+<area shape="rect" id="node48" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="977,1075,1167,1116"/>
+</map>

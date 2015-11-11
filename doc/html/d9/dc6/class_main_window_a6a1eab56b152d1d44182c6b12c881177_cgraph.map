@@ -1,0 +1,5 @@
+<map id="MainWindow::enableMeshOptions" name="MainWindow::enableMeshOptions">
+<area shape="rect" id="node3" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="279,5,460,51"/>
+<area shape="rect" id="node5" href="$d2/deb/class_solver_v_o.html#a7d6ebeb78c950bbd50b386d9f507e53f" title="Returns the Solver File Path info. " alt="" coords="275,75,464,104"/>
+<area shape="rect" id="node7" href="$d4/dac/class_project_data.html#a311d9d0da716a9755c124f3516646680" title="Returns true if _projectPath and project file name are empty. " alt="" coords="296,128,443,157"/>
+</map>

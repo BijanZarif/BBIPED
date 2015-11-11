@@ -1,0 +1,5 @@
+<map id="SalomePythonFileUtil::getVariables" name="SalomePythonFileUtil::getVariables">
+<area shape="rect" id="node2" href="$d3/d0e/class_salome_python_file_util.html#a855efe338e90815a62de1d07c11d8a00" title="This funciton buillds the python file Main Body for Optimization. " alt="" coords="203,5,381,46"/>
+<area shape="rect" id="node3" href="$d3/d0e/class_salome_python_file_util.html#ae060b8e0c4d0d0dfdf932c1c94b916de" title="This funciton buillds the python file for the Optimization menu. " alt="" coords="429,5,640,46"/>
+<area shape="rect" id="node4" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="688,5,864,46"/>
+</map>

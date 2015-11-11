@@ -1,0 +1,51 @@
+<map id="MainWindow::on_multizoneRunSimulationButton_clicked" name="MainWindow::on_multizoneRunSimulationButton_clicked">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a67ffdd782d38b6d9f1a823846a180a0b" title="Clear the console text and removes all the text. " alt="" coords="267,185,474,212"/>
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#a20f06c8dd31bfffaa06a7944fadfe4b8" title="Get the project Path. " alt="" coords="297,237,444,278"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ae6568484f4315dd5f645d9bb897b9784" title="MainWindow::multizoneSaveAll" alt="" coords="267,303,474,329"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#afc1292d55710fa147c0ff907594d38d5" title="MainWindow::notSavedMultizoneData" alt="" coords="249,404,493,431"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_main_window.html#ad58adf42ebda6ebbb124daade40eee34" title="Run the current Solver project. " alt="" coords="270,652,471,679"/>
+<area shape="rect" id="node5" href="$d9/d2e/class_multizone_individual_tab_form.html#a6ae3cc197248d1ab67c110aa0e05a681" title="MultizoneIndividualTabForm\l::getConfigFile" alt="" coords="563,5,749,46"/>
+<area shape="rect" id="node6" href="$d9/d2e/class_multizone_individual_tab_form.html#a453aa26ee6338c000536a8ddff5ad812" title="MultizoneIndividualTabForm\l::getConfigValues" alt="" coords="563,70,749,111"/>
+<area shape="rect" id="node7" href="$d9/d2e/class_multizone_individual_tab_form.html#a16e0b81b616e78dd57684a0fa593c8b9" title="MultizoneIndividualTabForm\l::getMeshFile" alt="" coords="563,135,749,177"/>
+<area shape="rect" id="node8" href="$d9/d2e/class_multizone_individual_tab_form.html#a07ca4064e01b5408b955954bc9a51c9d" title="MultizoneIndividualTabForm\l::getVirtualValues" alt="" coords="563,201,749,242"/>
+<area shape="rect" id="node9" href="$d9/d2e/class_multizone_individual_tab_form.html#a77c30495f9d066dd292de46a3afb772e" title="MultizoneIndividualTabForm\l::isDataModified" alt="" coords="563,449,749,490"/>
+<area shape="rect" id="node10" href="$d9/d2e/class_multizone_individual_tab_form.html#a65e4a6c01b520d3ff894ece023b0848d" title="MultizoneIndividualTabForm\l::savedData" alt="" coords="563,266,749,307"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#ab554a2d8dbcd7705e7a0c7b38948989a" title="MainWindow::saveMultizoneData" alt="" coords="547,332,765,359"/>
+<area shape="rect" id="node27" href="$d2/dfb/class_show_message_helper.html#a4a86755ef2171e38f55213f0991bfe8c" title="Default WARNING Message. " alt="" coords="579,383,733,425"/>
+<area shape="rect" id="node11" href="$d9/d2e/class_multizone_individual_tab_form.html#a2b84fe743ec61728f288b759c48ccdba" title="MultizoneIndividualTabForm\l::addSaveIconTab" alt="" coords="837,214,1022,255"/>
+<area shape="rect" id="node13" href="$da/d69/class_multizone_project_data.html#a6d368d53bc2d3bf86f1a1bc816305cec" title="MultizoneProjectData\l::updatePair" alt="" coords="856,410,1003,451"/>
+<area shape="rect" id="node18" href="$d9/d6e/class_solver_config_manager.html#aa30655c16464ccdef4ac6543c69878d7" title="Functions that save the user configuration values into the file. " alt="" coords="856,279,1003,321"/>
+<area shape="rect" id="node14" href="$da/d69/class_multizone_project_data.html#af9b467e8dee7bfc0da0fa8686a90fb96" title="MultizoneProjectData\l::addMeshFile" alt="" coords="1127,410,1273,451"/>
+<area shape="rect" id="node16" href="$da/d69/class_multizone_project_data.html#a34aba793a4a6ed007f7e1fccecefa273" title="Add a config file to the lists of the multizone. The file is the full path file. " alt="" coords="1127,475,1273,517"/>
+<area shape="rect" id="node15" href="$da/d69/class_multizone_project_data.html#ac0268b6ec979c02fa054e8c1dfab4e0c" title="Set the list of mesh files. " alt="" coords="1393,410,1540,451"/>
+<area shape="rect" id="node17" href="$da/d69/class_multizone_project_data.html#aa508c0f5ea31697c7a52c84310318010" title="Set the list of configuration files. " alt="" coords="1393,475,1540,517"/>
+<area shape="rect" id="node19" href="$df/dba/class_solver_config_writer.html#a0d81822e60c7f0bcbc9b213fe482870b" title="Function that set up the user value map. " alt="" coords="1134,345,1266,386"/>
+<area shape="rect" id="node20" href="$df/dba/class_solver_config_writer.html#ac7e0cfb0e12235b77cacf2de2bb030d1" title="SolverConfigWriter\l::setOptionalVariableList" alt="" coords="1118,83,1282,125"/>
+<area shape="rect" id="node21" href="$d4/dea/class_solver_section_d_a_o.html#aad17d99016ee4f37ea96379e54fab5f6" title="SolverSectionDAO::getOptional\lVariables" alt="" coords="1097,149,1303,190"/>
+<area shape="rect" id="node25" href="$df/dba/class_solver_config_writer.html#ac2a2f1d0b54b8e82f4811542e7e061c8" title="SolverConfigWriter\l::setVirtualMRFUserValues" alt="" coords="1109,214,1291,255"/>
+<area shape="rect" id="node26" href="$df/dba/class_solver_config_writer.html#aa0c7e4fe6c6dc0536422ba060c511d75" title="Function to write the values of the configuration values provided by the user in the correspondent co..." alt="" coords="1115,279,1285,321"/>
+<area shape="rect" id="node22" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list " alt="" coords="1360,149,1573,190"/>
+<area shape="rect" id="node23" href="$dc/d7e/class_solver_variable_v_o.html#abc9d2b7aa91cbc26e7767a9341646e4e" title="Check if a variable can be optional (if optional and the user does not give a value, it is not written in the configuration file) " alt="" coords="1371,215,1562,241"/>
+<area shape="rect" id="node24" href="$dc/d7e/class_solver_variable_v_o.html#a2e09f9a5cf5752040912d174706db14f" title="Get the variable name as it appears in the configuration file. " alt="" coords="1367,83,1566,125"/>
+<area shape="rect" id="node30" href="$d4/df8/class_solver_residual_v_o.html#a08ad7ac80f7f23e2ff3947fd1ca0f31d" title="Clear all the data. " alt="" coords="552,1008,760,1035"/>
+<area shape="rect" id="node37" href="$d3/de5/class_solver_plotter.html#ac7893a452ecc529ac2ff34502575cc8e" title="Function to clear the current Canvas. " alt="" coords="567,529,745,556"/>
+<area shape="rect" id="node40" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="563,652,749,679"/>
+<area shape="rect" id="node41" href="$d9/dc6/class_main_window.html#a028bd5b2a7f075ca1c6563d4136c68d7" title="Function to build the solver Command according project conditions and user preferences. " alt="" coords="541,707,771,733"/>
+<area shape="rect" id="node49" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="840,826,1019,867"/>
+<area shape="rect" id="node50" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="838,578,1021,619"/>
+<area shape="rect" id="node31" href="$d4/df8/class_solver_residual_v_o.html#a3fbb40f5ba13718602acc9de78cca9f2" title="Set number of iteration. " alt="" coords="828,1191,1031,1217"/>
+<area shape="rect" id="node32" href="$d4/df8/class_solver_residual_v_o.html#aa6f52f2e4745fe02dd5d4a08bfa27d84" title="set Time Val " alt="" coords="837,891,1021,933"/>
+<area shape="rect" id="node33" href="$d4/df8/class_solver_residual_v_o.html#add39c5bb919665b2b9c96b55442e7c4f" title="Set ResRho. " alt="" coords="828,957,1031,984"/>
+<area shape="rect" id="node34" href="$d4/df8/class_solver_residual_v_o.html#a0f14f6066eba89ff4750ec3678d48876" title="Set ResRhoe. " alt="" coords="824,1008,1035,1035"/>
+<area shape="rect" id="node35" href="$d4/df8/class_solver_residual_v_o.html#a997b591f98e89d33e53c45cfadb67485" title="Set Clift Total. " alt="" coords="840,1059,1019,1101"/>
+<area shape="rect" id="node36" href="$d4/df8/class_solver_residual_v_o.html#a23f147e1a98947ead1ad8b715afc7907" title="Set CDrag Total. " alt="" coords="833,1125,1026,1166"/>
+<area shape="rect" id="node38" href="$d3/de5/class_solver_plotter.html#afc41e2c5b67799518fb843fb2dd2ad14" title="Function to show the curves. " alt="" coords="840,527,1019,553"/>
+<area shape="rect" id="node39" href="$d3/de5/class_solver_plotter.html#ad54ad43016ae4d7617cd2bbaf594836b" title="Function to show the curve. " alt="" coords="1115,541,1285,568"/>
+<area shape="rect" id="node42" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path) " alt="" coords="844,761,1015,802"/>
+<area shape="rect" id="node43" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path) " alt="" coords="847,643,1011,685"/>
+<area shape="rect" id="node44" href="$d9/dc6/class_main_window.html#adf96d7aac0c5de00c95250a4731c19ab" title="This function decides which Solver running executable is going to be called. At the moment there are ..." alt="" coords="819,709,1039,736"/>
+<area shape="rect" id="node45" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="1107,818,1293,859"/>
+<area shape="rect" id="node46" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="1095,622,1305,663"/>
+<area shape="rect" id="node47" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="1088,687,1312,729"/>
+<area shape="rect" id="node48" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="1097,753,1303,794"/>
+</map>

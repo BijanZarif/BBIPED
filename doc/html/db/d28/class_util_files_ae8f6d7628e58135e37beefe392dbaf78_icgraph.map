@@ -1,0 +1,9 @@
+<map id="UtilFiles::importFile" name="UtilFiles::importFile">
+<area shape="rect" id="node2" href="$da/d1e/class_multizone_project_dialog.html#abfd3a5d2212e147775889ce63da74b25" title="Function that actually build the project files into the correspondent project folder. " alt="" coords="211,5,367,46"/>
+<area shape="rect" id="node4" href="$d9/d2e/class_multizone_individual_tab_form.html#aa28a24b7dd9649d4568f64f5e451da66" title="MultizoneIndividualTabForm\l::on_importMeshFileButton\l_clicked" alt="" coords="197,69,382,125"/>
+<area shape="rect" id="node5" href="$db/d1a/class_solver_util.html#a666d637883ee697bdeb40368eb5add62" title="Function to import an existent solver configuration file. " alt="" coords="204,149,375,190"/>
+<area shape="rect" id="node6" href="$db/d1a/class_solver_util.html#a24f3a45342c260094127b08c1a484f01" title="SolverUtil::uiImportSolver\lMeshInfoFile" alt="" coords="204,214,375,255"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a93bc55c33696dfdd179ae714204f0e83" title="MainWindow::updateMultizone\lUserData" alt="" coords="189,279,389,321"/>
+<area shape="rect" id="node3" href="$da/d1e/class_multizone_project_dialog.html#ab7c8b49ca061b1c0064f5c7cece5e4d4" title="MultizoneProjectDialog\l::accept" alt="" coords="451,5,607,46"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#aeabd282171bfe931d86ab5988f79aad0" title="MainWindow::on_multizone\lNewButton_clicked" alt="" coords="438,279,621,321"/>
+</map>

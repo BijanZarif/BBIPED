@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a185cfd57062afdf15a6a1b6795e5b471" title="Connecting the Process Signal Slots." alt="" coords="257,5,521,35"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#af2a6bad130ca70ecfcfb62f5f8dd1080" title="Initialize Main Window structures." alt="" coords="616,56,827,85"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a318cf0917ea350a89b928dc9f9aea6b6" title="This function is the one capable of locating the Salome path in the client side." alt="" coords="281,109,497,139"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a339acba0f1e6e298fc6ef781d0796980" title="This internal function controls how to launch the Salome tool, specially due to the path of this tool..." alt="" coords="268,163,511,192"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#ab1cdfb5cf07b89f524bc9ca2a16aae16" title="This internal function controls if the Paraview is opened passing a file or to open a new instance of..." alt="" coords="277,216,501,245"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor." alt="" coords="921,56,1100,85"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#af28c14693c0b3e59d19ebf84ff164c85" title="This action is the Menu action for lauching Salome." alt="" coords="571,109,872,139"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a996ee17cf1235b1b2253d98231044879" title="This function launchs the Salome tool." alt="" coords="595,163,848,192"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a3d97ae6697109a86ae452aeb5d01bf46" title="Launching the paraview application." alt="" coords="572,216,871,245"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#abc5d9f29762653dd596349935315ceee" title="This function launchs the Paraview tool from the button click." alt="" coords="589,269,853,299"/>
+</map>

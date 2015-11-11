@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d4/d8b/class_solver_section_v_o.html#a93cced72998668103da7ab1840aec8aa" title="returns the associated variable list" alt="" coords="375,5,628,35"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#ad50adeb1a6286598387b4fe88badba4b" title="Function that gets the list of variables from a Subsection Element of the menu." alt="" coords="340,59,663,88"/>
+<area shape="rect" id="node11" href="$dc/d7e/class_solver_variable_v_o.html#a998b3172afe86e45b94aa988dde5a045" title="Get the Associated variable name." alt="" coords="385,112,617,141"/>
+<area shape="rect" id="node13" href="$de/dae/class_searched_pair.html#ad950e68746c69ca73bb2f2bec8a1d5c3" title="Set the children list." alt="" coords="404,165,599,195"/>
+<area shape="rect" id="node15" href="$de/dae/class_searched_pair.html#a611c98a729aa178b13777dad8e053006" title="sets the Id of the child (read from the xml file)" alt="" coords="419,219,584,248"/>
+<area shape="rect" id="node17" href="$de/dae/class_searched_pair.html#a428edbdf600a760bfbdbbe0cfbf2adba" title="Set the Id of the parent." alt="" coords="415,272,588,301"/>
+<area shape="rect" id="node7" href="$d4/dea/class_solver_section_d_a_o.html#a8f174ee2a552600730c1399ab4e7f45d" title="find subsection in a list" alt="" coords="713,59,940,88"/>
+<area shape="rect" id="node9" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="989,59,1237,88"/>
+</map>

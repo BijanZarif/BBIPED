@@ -1,0 +1,8 @@
+<map id="SolverConfigMenuHelper::removeSubsectionElementByName" name="SolverConfigMenuHelper::removeSubsectionElementByName">
+<area shape="rect" id="node2" href="$d9/d6e/class_solver_config_manager.html#a7c6e2055e15bfe07aa2a868170317957" title="Function to build all the elements main menu. " alt="" coords="319,5,465,46"/>
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#a327fdfc812f3f08df0fd996340164a5b" title="SolverConfigManager\l::getBoundaryMenuListWithout\lMultizoneChildren" alt="" coords="291,69,493,125"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="541,84,696,111"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="745,51,943,77"/>
+<area shape="rect" id="node7" href="$d9/d2e/class_multizone_individual_tab_form.html#a2c0b5f071fa8ec6d639f066b233b90a5" title="MultizoneIndividualTabForm\l::on_editBoundConfigButton\l_clicked" alt="" coords="751,101,937,157"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="992,43,1227,85"/>
+</map>

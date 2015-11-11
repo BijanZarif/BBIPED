@@ -1,0 +1,5 @@
+<map id="HelpManager::openHelp" name="HelpManager::openHelp">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a26075f646b7e3590019fdef706a69590" title="This action shows the html documentation of the tool. " alt="" coords="217,5,436,51"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#aebe68a77d8d838fed81a21695df5dc61" title="This action shows the html help. " alt="" coords="228,74,425,121"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a9881fab04986d3f82fa9c122d2ef4e80" title="This action shows the PDF user guide documentation. " alt="" coords="232,143,421,190"/>
+</map>

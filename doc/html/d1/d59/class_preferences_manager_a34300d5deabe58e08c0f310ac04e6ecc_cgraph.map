@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager::readPreferencesFile" alt="" coords="320,379,587,408"/>
+<area shape="rect" id="node5" href="$d1/d59/class_preferences_manager.html#a583edb783de2d33b98b59bc9b3f7a898" title="PreferencesManager::getRecentProjects" alt="" coords="665,59,924,88"/>
+<area shape="rect" id="node11" href="$d1/d59/class_preferences_manager.html#a7139d0670c696193e6f35084cf6657b9" title="PreferencesManager::getUserToolPreferences" alt="" coords="649,219,940,248"/>
+<area shape="rect" id="node27" href="$d1/d59/class_preferences_manager.html#ae1324b4251be35351cde351002c8a102" title="PreferencesManager::getUserWarningPreferences" alt="" coords="637,379,952,408"/>
+<area shape="rect" id="node35" href="$d1/d59/class_preferences_manager.html#a0a6444f89d20533d5f148fe7bc3cb50c" title="PreferencesManager::getUserTemplatePreferences" alt="" coords="635,459,955,488"/>
+<area shape="rect" id="node39" href="$d1/d59/class_preferences_manager.html#a379493229bb891a7b62d3a8e32730730" title="PreferencesManager::saveUserPreferences" alt="" coords="657,592,932,621"/>
+<area shape="rect" id="node7" href="$d1/d59/class_preferences_manager.html#ac4411272ed52a1335da2f9b392fe81e0" title="PreferencesManager::getProjectList" alt="" coords="1053,5,1283,35"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#a1d73794bc42e60d7ec2ac0aa4aadc239" title="Set the current list of already opened projects." alt="" coords="1025,59,1311,88"/>
+<area shape="rect" id="node13" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome)" alt="" coords="1032,112,1304,141"/>
+<area shape="rect" id="node15" href="$d1/d59/class_preferences_manager.html#a2edbd2ffdcc203da8a196f494ffb4e36" title="PreferencesManager::getViewerInformation" alt="" coords="1032,165,1304,195"/>
+<area shape="rect" id="node17" href="$d7/d21/class_user_preferences_data.html#a262ef3fe32b92c33933bd4dccb4edfda" title="Set the postProcessor viewer path (e.g. Paraview)" alt="" coords="1005,219,1331,248"/>
+<area shape="rect" id="node19" href="$d1/d59/class_preferences_manager.html#a8fd5e40061a593fafa006751ea09c52f" title="PreferencesManager::setSolverEngineInformation" alt="" coords="1013,272,1323,301"/>
+<area shape="rect" id="node21" href="$d7/d21/class_user_preferences_data.html#a3441a7c725f2e66f16b41d633591203c" title="Set the path of the user defined Solver Engine." alt="" coords="1407,219,1716,248"/>
+<area shape="rect" id="node23" href="$d7/d21/class_user_preferences_data.html#ac573132d98750f31af0f082042489d68" title="Set the VIRTUAL Solver Engine to true." alt="" coords="1392,272,1731,301"/>
+<area shape="rect" id="node25" href="$d7/d21/class_user_preferences_data.html#a9c43ae179ea0c1fff1da8f5a8a7698dd" title="Set the MULTIZONE Solver Engine to true." alt="" coords="1383,325,1740,355"/>
+<area shape="rect" id="node29" href="$d7/d21/class_user_preferences_data.html#a978face6dd9f85b85e8b8a9a53e7e8ee" title="Set whether the user wants to see the close window/application warning." alt="" coords="1024,325,1312,355"/>
+<area shape="rect" id="node31" href="$d1/d59/class_preferences_manager.html#a924c79fd159af5e889e4ff73334114e7" title="PreferencesManager::getWarningPreferences" alt="" coords="1025,379,1311,408"/>
+<area shape="rect" id="node33" href="$d7/d21/class_user_preferences_data.html#a4fa2d94b68e662d1a0483711cb23fdc7" title="Set whether the user wants to see the close project warning." alt="" coords="1003,432,1333,461"/>
+<area shape="rect" id="node37" href="$d7/d21/class_user_preferences_data.html#aaab365cdae3bd92f1d13db92f51fb98b" title="Set the template configuration folder path." alt="" coords="1021,485,1315,515"/>
+<area shape="rect" id="node41" href="$d1/d59/class_preferences_manager.html#a76b3085b01b67084abc3d3dc3ce69f52" title="PreferencesManager::writeRecentProjects" alt="" coords="1035,539,1301,568"/>
+<area shape="rect" id="node45" href="$d1/d59/class_preferences_manager.html#aed2b7aa02818c7d382784c2812d789ba" title="PreferencesManager::writeUserPreferences" alt="" coords="1031,592,1305,621"/>
+<area shape="rect" id="node57" href="$d1/d59/class_preferences_manager.html#a98a2e69b9bfbbbb9eb51133c86389ef0" title="PreferencesManager::writeWarningPreferences" alt="" coords="1020,659,1316,688"/>
+<area shape="rect" id="node61" href="$d1/d59/class_preferences_manager.html#a36365cea08a3848675650076cb4dae76" title="PreferencesManager::writeTemplatePreferences" alt="" coords="1017,739,1319,768"/>
+<area shape="rect" id="node43" href="$d7/d21/class_user_preferences_data.html#a7f711e32a841bee8afa2ae39b711398c" title="Get the current list of already opened projects." alt="" coords="1419,405,1704,435"/>
+<area shape="rect" id="node47" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome)" alt="" coords="1425,459,1697,488"/>
+<area shape="rect" id="node49" href="$d7/d21/class_user_preferences_data.html#abfa205d14a4ece22db52420786e90842" title="get the postProcessor viewer path (e.g. Paraview)" alt="" coords="1399,512,1724,541"/>
+<area shape="rect" id="node51" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine." alt="" coords="1407,565,1716,595"/>
+<area shape="rect" id="node53" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL)" alt="" coords="1396,619,1727,648"/>
+<area shape="rect" id="node55" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE)" alt="" coords="1387,672,1736,701"/>
+<area shape="rect" id="node59" href="$d7/d21/class_user_preferences_data.html#a0a32bf4dba12303f29a8c779efb743d2" title="Returns true if the Close Application warning window shall appear." alt="" coords="1427,725,1696,755"/>
+<area shape="rect" id="node63" href="$d7/d21/class_user_preferences_data.html#a5e14db346c80c146c59cccd217a5f19b" title="Get the template configuration folder path." alt="" coords="1415,779,1708,808"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SalomeTemplateManager::buildTemplateData" name="SalomeTemplateManager::buildTemplateData">
+<area shape="rect" id="node2" href="$dc/def/class_salome_template_data.html#a87199f91e472ddac32f95f80276cec5d" title="Gets the template Name (the one shown to the user) " alt="" coords="230,5,378,46"/>
+<area shape="rect" id="node3" href="$dc/def/class_salome_template_data.html#a15899a920149a1a7bb7f9d7fd13146a0" title="Sets the name of the file associated to the template. " alt="" coords="225,70,383,111"/>
+<area shape="rect" id="node5" href="$dc/def/class_salome_template_data.html#ade1435189fac3341493eefa86015b0b1" title="Sets the name of the template (the one shown to the user) " alt="" coords="230,135,378,177"/>
+<area shape="rect" id="node4" href="$dc/def/class_salome_template_data.html#a410ae5201cbce00bcb3e60969f179ee9" title="Remove wite spaces of any QString. " alt="" coords="433,70,583,111"/>
+</map>

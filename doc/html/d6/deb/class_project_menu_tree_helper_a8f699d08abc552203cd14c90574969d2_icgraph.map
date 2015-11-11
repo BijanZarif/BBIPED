@@ -1,0 +1,8 @@
+<map id="ProjectMenuTreeHelper::registerMenuTree" name="ProjectMenuTreeHelper::registerMenuTree">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a115abbbbf725c5b63d2bb2d565932daa" title="This fucntion initalize all the data of the Tab helper, like button registration and so on..." alt="" coords="214,5,405,32"/>
+<area shape="rect" id="node4" href="$db/d81/class_multizone_manager.html#a395a038e8d408b1545723676eb9190d4" title="This function register all the elements of the UI. " alt="" coords="220,57,399,98"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="473,5,653,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a57c25edc55d8534b22850eba357c55a0" title="This function register all the elements of the multizone interaface (buttons, editors, etc) " alt="" coords="453,57,672,98"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#ac0b367e6d9a1aaa9e8832daf0d58177d" title="This function is to control the action of defining a new Multizone project. " alt="" coords="721,23,911,65"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="720,89,912,130"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MainWindow::getSolverCommand" name="MainWindow::getSolverCommand">
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="295,5,479,51"/>
+<area shape="rect" id="node5" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="281,74,492,121"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="275,143,499,190"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="284,213,489,259"/>
+</map>

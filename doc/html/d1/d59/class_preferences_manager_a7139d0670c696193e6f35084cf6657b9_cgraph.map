@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d59/class_preferences_manager.html#a2edbd2ffdcc203da8a196f494ffb4e36" title="PreferencesManager::getViewerInformation" alt="" coords="372,5,644,35"/>
+<area shape="rect" id="node5" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome)" alt="" coords="372,59,644,88"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a262ef3fe32b92c33933bd4dccb4edfda" title="Set the postProcessor viewer path (e.g. Paraview)" alt="" coords="345,112,671,141"/>
+<area shape="rect" id="node9" href="$d1/d59/class_preferences_manager.html#a8fd5e40061a593fafa006751ea09c52f" title="PreferencesManager::setSolverEngineInformation" alt="" coords="353,165,663,195"/>
+<area shape="rect" id="node11" href="$d7/d21/class_user_preferences_data.html#a3441a7c725f2e66f16b41d633591203c" title="Set the path of the user defined Solver Engine." alt="" coords="745,112,1055,141"/>
+<area shape="rect" id="node13" href="$d7/d21/class_user_preferences_data.html#ac573132d98750f31af0f082042489d68" title="Set the VIRTUAL Solver Engine to true." alt="" coords="731,165,1069,195"/>
+<area shape="rect" id="node15" href="$d7/d21/class_user_preferences_data.html#a9c43ae179ea0c1fff1da8f5a8a7698dd" title="Set the MULTIZONE Solver Engine to true." alt="" coords="721,219,1079,248"/>
+</map>

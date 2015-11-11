@@ -1,0 +1,11 @@
+<map id="TemplateDialog::addVariableToTable" name="TemplateDialog::addVariableToTable">
+<area shape="rect" id="node2" href="$da/d07/class_template_dialog.html#a15c15a9edae60a696b8246e2b8514dec" title="Adds a variable to the table. " alt="" coords="248,28,437,55"/>
+<area shape="rect" id="node6" href="$da/d07/class_template_dialog.html#aa21e0b8c78686654e1ffd200e31fb767" title="This function fills the menu table. " alt="" coords="259,82,426,123"/>
+<area shape="rect" id="node9" href="$da/d07/class_template_dialog.html#a51f111beef8727da21655ab5cdad2633" title="This function refresh the table of selected variables. " alt="" coords="243,150,442,191"/>
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#a45f787ddc1e416b88d3fd3c1569e00c9" title="Load all teh values of the template. " alt="" coords="495,21,694,48"/>
+<area shape="rect" id="node4" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="747,11,949,53"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#afb8669037c48bf81b6475f61ccb316cd" title="This function allows to edit existing configuration templates. " alt="" coords="997,4,1181,60"/>
+<area shape="rect" id="node7" href="$da/d07/class_template_dialog.html#aadce6bf4defab72e9cb8ffd92c519fa2" title="This function loads the table for a specific menu item. " alt="" coords="511,82,678,123"/>
+<area shape="rect" id="node8" href="$da/d07/class_template_dialog.html#a00e3bdbafce905ea426896d01fec6ef1" title="This function controls when a menu item is clicked on the tree to show teh associated variables..." alt="" coords="769,76,927,132"/>
+<area shape="rect" id="node10" href="$da/d07/class_template_dialog.html#a2806beb8d46f4d6b8aa347a727ab0207" title="Slot function that controls those variables that have been selected. " alt="" coords="491,147,698,203"/>
+</map>

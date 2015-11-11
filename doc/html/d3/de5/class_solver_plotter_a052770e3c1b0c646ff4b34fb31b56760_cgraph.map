@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/de5/class_solver_plotter.html#ac4569b67281218c2d0cb74155ef01663" title="Function that gets the curve names." alt="" coords="220,5,412,35"/>
+<area shape="rect" id="node5" href="$d3/de5/class_solver_plotter.html#ae5ef49cf4d2fc5c1b50a41bc93469309" title="Function that sets the color." alt="" coords="239,59,393,88"/>
+<area shape="rect" id="node9" href="$d3/de5/class_solver_plotter.html#abd814415ff59ceb21b2b94f6b6fa41b6" title="Function that updates the values of the curve." alt="" coords="224,112,408,141"/>
+<area shape="rect" id="node7" href="$d3/def/class_plotter_curve.html#a4499b66ad0f98bc33a8989ac2c0f9712" title="Function that sets up the color." alt="" coords="461,59,613,88"/>
+</map>

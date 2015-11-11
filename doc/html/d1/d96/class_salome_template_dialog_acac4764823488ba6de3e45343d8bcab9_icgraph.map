@@ -1,0 +1,5 @@
+<map id="SalomeTemplateDialog::loadTemplateMenu" name="SalomeTemplateDialog::loadTemplateMenu">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#a26c766492f7bd56f4076037c6397f773" title="SalomeTemplateDialog\l::initializeDialog" alt="" coords="211,5,368,46"/>
+<area shape="rect" id="node3" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="416,12,643,39"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#aaf0658cff7f954c3be8a988ee1028140" title="This function is to create automatic mesh using Salome. " alt="" coords="691,5,880,46"/>
+</map>

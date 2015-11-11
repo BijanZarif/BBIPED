@@ -1,0 +1,9 @@
+<map id="VirtualCurveDialog::addRow" name="VirtualCurveDialog::addRow">
+<area shape="rect" id="node2" href="$de/d2b/class_virtual_curve_dialog.html#a5579e7b55ed1b65f80f101d9276b2b23" title="VirtualCurveDialog\l::fillTable" alt="" coords="205,9,336,50"/>
+<area shape="rect" id="node6" href="$de/d2b/class_virtual_curve_dialog.html#ad28c83be84f95b2c4c7b086e0246289f" title="VirtualCurveDialog\l::rowAddRemoveSpinBox" alt="" coords="185,77,357,118"/>
+<area shape="rect" id="node3" href="$de/d2b/class_virtual_curve_dialog.html#a5f209fe471844762779de690a7cf6d57" title="VirtualCurveDialog\l::initializeDialog" alt="" coords="421,5,552,46"/>
+<area shape="rect" id="node4" href="$d8/d02/class_virtual_rotating_dialog.html#aa0598f72ee39385e2e951bcdd9473c2e" title="VirtualRotatingDialog\l::launchCurveDialog" alt="" coords="617,5,762,46"/>
+<area shape="rect" id="node5" href="$d8/d02/class_virtual_rotating_dialog.html#acf34d7c8768f49fdbf9daab0bb40ffec" title="VirtualRotatingDialog\l::on_zoneInfoTable_cellClicked" alt="" coords="811,5,1015,46"/>
+<area shape="rect" id="node7" href="$de/d2b/class_virtual_curve_dialog.html#a7f3a9ae739b7a47dd70d15871ec28ee9" title="VirtualCurveDialog\l::on_innerCurveSpinBox\l_valueChanged" alt="" coords="405,69,568,125"/>
+<area shape="rect" id="node8" href="$de/d2b/class_virtual_curve_dialog.html#a397010405dad498df42171b864d50abc" title="VirtualCurveDialog\l::on_outerCurvespinBox\l_valueChanged" alt="" coords="405,149,568,205"/>
+</map>

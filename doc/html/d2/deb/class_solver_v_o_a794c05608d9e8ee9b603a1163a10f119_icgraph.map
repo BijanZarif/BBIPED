@@ -1,0 +1,13 @@
+<map id="SolverVO::isMeshFileEmpty" name="SolverVO::isMeshFileEmpty">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="259,42,439,83"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="243,107,455,149"/>
+<area shape="rect" id="node6" href="$d4/dac/class_project_data.html#a5d14e41e5639d7f22523fb7b4e7a9e2c" title="Returns true if the object has both config file and mesh file paths. " alt="" coords="240,173,459,200"/>
+<area shape="rect" id="node11" href="$db/d28/class_util_files.html#aa70274124ccf9082396e90c9975c497a" title="Returns a ProjectData object with the updated path values. " alt="" coords="261,228,437,255"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="507,5,709,46"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="513,70,703,111"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a9571d5d82d82c988933e9d5117ddf363" title="Enable the action buttons for running the simulation according with the current status of the applica..." alt="" coords="518,162,698,203"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#af1e302e2eb6eb478eb618eed51e19752" title="SOLVER: Main functionality to save the changes of the configuration file with a different name..." alt="" coords="763,83,954,139"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a7c8386afbf5320500b5239c6f81b5a7e" title="SOLVER: Main functionality to save the changes of the configuration file. " alt="" coords="763,162,954,203"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a20b94054d9086962bb335615a35f9747" title="Save Physics button functionality, it saves all the information (including the boundaries into a sing..." alt="" coords="758,227,959,269"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a98e86ef6104b6e2910328af2f878438d" title="SAVE AS a Project. " alt="" coords="513,227,703,269"/>
+</map>

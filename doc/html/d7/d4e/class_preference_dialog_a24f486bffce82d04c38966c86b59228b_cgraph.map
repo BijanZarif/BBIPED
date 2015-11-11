@@ -1,0 +1,13 @@
+<map id="PreferenceDialog::getUserPreferencesData" name="PreferenceDialog::getUserPreferencesData">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a72a117efd286f401eb3c94d1f9969283" title="Returns the Mesh Data Configuration storing it in the user data. " alt="" coords="241,5,421,46"/>
+<area shape="rect" id="node4" href="$d7/d4e/class_preference_dialog.html#a35c44300dcb13801f69a091fa6fb4091" title="Returns the PostProcessor Data Configuration storing it in the user data. " alt="" coords="231,70,430,111"/>
+<area shape="rect" id="node6" href="$d7/d4e/class_preference_dialog.html#a5d05a336335c874a16967c7610313781" title="Returns the SolverData Configuration storing it in the user data. " alt="" coords="238,135,423,177"/>
+<area shape="rect" id="node9" href="$d7/d4e/class_preference_dialog.html#a218c3283ede7043ab89e58492785a98a" title="Returns the path of the user selected template file. " alt="" coords="229,201,432,242"/>
+<area shape="rect" id="node10" href="$d7/d4e/class_preference_dialog.html#ae8adda780ea2fde5ba1aeccaf35b8e81" title="Returns the Warning Data Configuration storing it in the user data. " alt="" coords="233,266,429,307"/>
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a7352c69a0c9c30c8de9e966020eaffe1" title="Set the mesh viewer path (e.g. Salome) " alt="" coords="515,5,663,46"/>
+<area shape="rect" id="node5" href="$d7/d21/class_user_preferences_data.html#a262ef3fe32b92c33933bd4dccb4edfda" title="Set the postProcessor viewer path (e.g. Paraview) " alt="" coords="489,70,690,111"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a39fb52779ca496c84d0644b590f02ea4" title="Set the default Solver Engine to true. " alt="" coords="480,135,699,177"/>
+<area shape="rect" id="node8" href="$d7/d21/class_user_preferences_data.html#a3441a7c725f2e66f16b41d633591203c" title="Set the path of the user defined Solver Engine. " alt="" coords="497,201,682,242"/>
+<area shape="rect" id="node11" href="$d7/d21/class_user_preferences_data.html#a978face6dd9f85b85e8b8a9a53e7e8ee" title="Set whether the user wants to see the close window/application warning. " alt="" coords="508,266,671,307"/>
+<area shape="rect" id="node12" href="$d7/d21/class_user_preferences_data.html#a4fa2d94b68e662d1a0483711cb23fdc7" title="Set whether the user wants to see the close project warning. " alt="" coords="487,331,691,373"/>
+</map>

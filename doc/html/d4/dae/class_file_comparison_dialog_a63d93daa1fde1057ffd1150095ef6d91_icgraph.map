@@ -1,0 +1,6 @@
+<map id="FileComparisonDialog::resetTable" name="FileComparisonDialog::resetTable">
+<area shape="rect" id="node2" href="$d4/dae/class_file_comparison_dialog.html#a8a40c47f7b0c2d4798ca6af4939b1917" title="Set the list of files to be compared. " alt="" coords="206,38,357,79"/>
+<area shape="rect" id="node3" href="$dd/ddd/class_solver_helper.html#a54aba77c5bbb02e77e35461f85d29300" title="This function launchs the dialog for the comparison dialog. " alt="" coords="406,38,570,79"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#adf0588107dd670102c43c6495eb3b187" title="this funciton controls the compare Configuration file action " alt="" coords="629,5,843,46"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a61d75ba18778753b8a47bff3af17ffee" title="This function controls the synchronise file action. " alt="" coords="619,70,853,111"/>
+</map>

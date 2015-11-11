@@ -1,0 +1,6 @@
+<map id="MainWindow::getLoadedBoundaryValues" name="MainWindow::getLoadedBoundaryValues">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#abd2858259fbc093375d8560b4c2a0506" title="SOLVER: funtion to load the MESH dialog. " alt="" coords="283,13,480,43"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ae78d7f0f752305f449470dadb3faa510" title="SOLVER: Create New configuration file. " alt="" coords="288,66,475,113"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ae3f9c096bec95d9fe26c945164ecbbb0" title="SOLVER: Open existent configuration file in the current project folder. " alt="" coords="276,135,487,182"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a968c35ec9f4f8a5984e1dfe8fc6a9cdf" title="SOLVER: Function to load the menu for configuring the boundaries by the user. " alt="" coords="536,5,771,51"/>
+</map>

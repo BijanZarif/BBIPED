@@ -1,0 +1,13 @@
+<map id="SalomeVariableData::getFileName" name="SalomeVariableData::getFileName">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog\l::createTemplateFromUserValues" alt="" coords="195,5,413,46"/>
+<area shape="rect" id="node4" href="$d3/d0e/class_salome_python_file_util.html#a5fcc6034c4dea789847f9cb9be937e4c" title="This funciton buillds get the variable Name in a specific position. " alt="" coords="230,70,378,111"/>
+<area shape="rect" id="node8" href="$d3/d0e/class_salome_python_file_util.html#a91bd36b392ef131f2eb5ccb417bacde7" title="This function gets the variables names in a QString format from a specifi template (variable name + c..." alt="" coords="211,135,397,177"/>
+<area shape="rect" id="node12" href="$d9/df1/class_salome_template_manager.html#a42709c1aef0fadfae22ad3c93e3a8dea" title="SalomeTemplateManager\l::saveVariableData" alt="" coords="219,201,389,242"/>
+<area shape="rect" id="node3" href="$d1/d96/class_salome_template_dialog.html#a1e7bf3b9a7837347a10856c11a6d4146" title="SalomeTemplateDialog\l::on_saveAsButton_clicked" alt="" coords="461,5,643,46"/>
+<area shape="rect" id="node5" href="$d3/d0e/class_salome_python_file_util.html#a855efe338e90815a62de1d07c11d8a00" title="This funciton buillds the python file Main Body for Optimization. " alt="" coords="463,70,641,111"/>
+<area shape="rect" id="node6" href="$d3/d0e/class_salome_python_file_util.html#ae060b8e0c4d0d0dfdf932c1c94b916de" title="This funciton buillds the python file for the Optimization menu. " alt="" coords="691,70,901,111"/>
+<area shape="rect" id="node7" href="$db/dbb/class_salome_optimization_dialog.html#ab510e48c5e4bfbd40656a4c717bbfcc6" title="SalomeOptimizationDialog\l::on_pushButton_clicked" alt="" coords="964,70,1140,111"/>
+<area shape="rect" id="node9" href="$d3/d0e/class_salome_python_file_util.html#ac8928a74e9de8e40fb15ba1bd5b10278" title="This funciton buillds the python file Main Body. " alt="" coords="478,135,626,177"/>
+<area shape="rect" id="node10" href="$d3/d0e/class_salome_python_file_util.html#a472a19d6107cbf3fc37af9ab0a0b6bb5" title="This funciton buillds the python file. " alt="" coords="722,135,870,177"/>
+<area shape="rect" id="node11" href="$d5/d35/class_salome_tool_create_mesh_dialog.html#a24cd67bac05c7093ee70cc05b88b6777" title="SalomeToolCreateMeshDialog\l::on_createMeshButton_clicked" alt="" coords="949,135,1155,177"/>
+</map>

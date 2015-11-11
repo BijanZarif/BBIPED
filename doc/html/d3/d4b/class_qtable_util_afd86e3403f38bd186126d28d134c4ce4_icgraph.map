@@ -1,0 +1,12 @@
+<map id="QtableUtil::addEditIcon" name="QtableUtil::addEditIcon">
+<area shape="rect" id="node2" href="$da/dfd/class_solver_marker_menu_helper.html#a3c77f16f9fcf6a4e2a6954bcd597b740" title="This function adds a Edit Icon to the correspondent column in the row. " alt="" coords="211,67,381,109"/>
+<area shape="rect" id="node3" href="$d5/d05/class_mesh_dialog.html#ab7f67a54cd8058cee4148c6cb2830efc" title="Function to show the values that comes from the specific window. " alt="" coords="429,67,611,109"/>
+<area shape="rect" id="node4" href="$d5/d05/class_mesh_dialog.html#a3fad8d6553b95ef8f7c833d0e54b385a" title="Slot that controls the change of the combo value by the user. " alt="" coords="891,5,1082,46"/>
+<area shape="rect" id="node8" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="659,67,843,109"/>
+<area shape="rect" id="node10" href="$d5/d05/class_mesh_dialog.html#adb0a3616f860cb8043b5b8e9536d1263" title="MeshDialog::updateTable" alt="" coords="665,135,836,161"/>
+<area shape="rect" id="node5" href="$d5/d05/class_mesh_dialog.html#ab20258b93eadbe4698039c154fcbfd9e" title="Function to add signals. " alt="" coords="1148,29,1311,56"/>
+<area shape="rect" id="node6" href="$d5/d05/class_mesh_dialog.html#a9093cb514ec08d1f9531829bd8a2c42c" title="Function that fills the table according user clicks. " alt="" coords="1376,67,1520,93"/>
+<area shape="rect" id="node7" href="$d5/d05/class_mesh_dialog.html#a1ed73c84d1dd536c8b224b0f9531b7b5" title="Function that performs the functionality when the user click on a element of the tree view..." alt="" coords="1569,59,1775,101"/>
+<area shape="rect" id="node9" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="895,70,1079,111"/>
+<area shape="rect" id="node11" href="$d5/d05/class_mesh_dialog.html#aa554bb99ea4bea2bb32987ab8f469363" title="MeshDialog::updateTableWith\lUserValues" alt="" coords="1131,97,1328,138"/>
+</map>

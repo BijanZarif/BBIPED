@@ -1,0 +1,6 @@
+<map id="MainWindow::initializeManagers" name="MainWindow::initializeManagers">
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a5e14db346c80c146c59cccd217a5f19b" title="Get the template configuration folder path. " alt="" coords="273,5,439,51"/>
+<area shape="rect" id="node5" href="$d9/d6e/class_solver_config_manager.html#a2979686775a3b5c2ce918bfbd4bae6b0" title="Function that initialize the Solver Manager loading the Config template. " alt="" coords="283,74,429,121"/>
+<area shape="rect" id="node7" href="$d9/d6e/class_solver_config_manager.html#ac7043fe11d7d094c5933b648bd9febfa" title="Function that checks if the config manager is initialized. " alt="" coords="283,143,429,190"/>
+<area shape="rect" id="node9" href="$d9/d6e/class_solver_config_manager.html#aebf5f3e54dc01b0a24cb9f6c37df61df" title="This fucntion loads a personalized user defined template. " alt="" coords="265,213,447,259"/>
+</map>

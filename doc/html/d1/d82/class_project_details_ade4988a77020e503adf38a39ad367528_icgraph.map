@@ -1,0 +1,24 @@
+<map id="ProjectDetails::setAuthor" name="ProjectDetails::setAuthor">
+<area shape="rect" id="node2" href="$d6/d07/class_xml_util.html#ac7317375a64656dd1ed947333f59ec13" title="Function to get the XML Project Details file. " alt="" coords="231,91,404,133"/>
+<area shape="rect" id="node18" href="$d2/d05/class_project_settings_dialog.html#a95f42032d930b4018fd21a805de5e22e" title="Action when the user accepts the changes. " alt="" coords="232,157,403,198"/>
+<area shape="rect" id="node19" href="$d1/d82/class_project_details.html#a37cb6ff776d934729af78b7e32509817" title="This function is to update the data from another object. " alt="" coords="221,222,413,263"/>
+<area shape="rect" id="node3" href="$d6/d07/class_xml_util.html#ab8e800dd1a85cf7f62253c01c7862e25" title="Function to read the XML Project Details file. " alt="" coords="462,99,658,125"/>
+<area shape="rect" id="node4" href="$db/d28/class_util_files.html#a669272a75f17d2d059300f27d07b252f" title="UtilFiles::openProjectDetails" alt="" coords="707,99,895,125"/>
+<area shape="rect" id="node5" href="$db/d81/class_multizone_manager.html#a15987c5e90f1703e4c062ebd1cc5cf70" title="Open Multizone Project Dialog. " alt="" coords="945,19,1165,61"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ad60cd47857062da32f4bb1fa8744190b" title="This function controls the opening of a project. " alt="" coords="967,115,1142,141"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#a7c17060c5a26ff38d41c2a24b3383e11" title="This funciton opens a Multizone project. " alt="" coords="1216,5,1408,46"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#acfa5c61335ab28fcbea54ca4bee34c33" title="Open a Project. " alt="" coords="1216,122,1408,163"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a935316315edb9b7af42657da20be0e54" title="This action opens a project selected in the recent project list. " alt="" coords="1214,188,1410,215"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_main_window.html#a3fe55ffe1d5505697c93e4df91099102" title="This function creates the QAction for the &quot;recent project list&quot;. " alt="" coords="1459,181,1642,222"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#ad8eba7aaaaa58ce018d5df0b01b83291" title="This function add a new project to the &quot;recent project list&quot;. " alt="" coords="1691,122,1874,163"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a7b0c1b6a147f7c64332e376e1cafff4c" title="This function creates a new recent project action per each element of the list. " alt="" coords="1691,187,1874,229"/>
+<area shape="rect" id="node12" href="$d9/dc6/class_main_window.html#a1f53c8887fcc6733f36e5fff670bacb2" title="This function update all the elements of the main window, restore the icons, etc. ..." alt="" coords="1923,93,2141,134"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#ae4c317409cb0fb51d1cd44ec4ecd7e21" title="Create a New Project. " alt="" coords="2190,93,2378,134"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#ad8b1905843b7cb6e7adeb504b295d9d1" title="This function update the project list of the &quot;recent project list&quot; of the menu. " alt="" coords="1939,187,2125,229"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="2194,187,2374,229"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="2427,195,2607,221"/>
+<area shape="rect" id="node20" href="$d1/d67/class_edit_helper.html#a96bcc98cae9062c45ad80e6367c7e139" title="EditHelper::launchSettings\lDialog" alt="" coords="471,222,649,263"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a701645930899ecb43464647101ab47b9" title="This function controls the launching of the Project Settings Dialog. " alt="" coords="711,222,891,263"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a616c640fb71a53e2dac68c69f5d739e4" title="This funciton controls the project settings action. " alt="" coords="953,182,1156,223"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#aefdaa46503e040aaa27acffc75ac62d7" title="This function allow to open in a tab a configuration file or any text file with supported extensions..." alt="" coords="959,247,1150,289"/>
+</map>

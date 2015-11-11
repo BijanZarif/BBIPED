@@ -1,0 +1,8 @@
+<map id="UserPreferencesData::setDefaultSolverEngineSelected" name="UserPreferencesData::setDefaultSolverEngineSelected">
+<area shape="rect" id="node2" href="$d7/d4e/class_preference_dialog.html#a5d05a336335c874a16967c7610313781" title="Returns the SolverData Configuration storing it in the user data. " alt="" coords="273,10,458,51"/>
+<area shape="rect" id="node7" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="521,73,669,114"/>
+<area shape="rect" id="node3" href="$d7/d4e/class_preference_dialog.html#a24f486bffce82d04c38966c86b59228b" title="Returns the User Preferencecs data with the new values. " alt="" coords="507,7,683,49"/>
+<area shape="rect" id="node4" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="731,41,930,82"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="979,5,1210,46"/>
+<area shape="rect" id="node6" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="979,69,1210,125"/>
+</map>

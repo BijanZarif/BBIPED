@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/d6e/class_solver_config_manager.html#ade5faa8b388d670166cc924d91f5ca3f" title="Function that gets all the sections to be shown in the menu list." alt="" coords="315,5,600,35"/>
+<area shape="rect" id="node5" href="$d7/dd7/class_template_manager.html#ae0de99c33f8d01c301997f07a1a70ed1" title="Save the template values in a file." alt="" coords="349,59,565,88"/>
+<area shape="rect" id="node35" href="$d7/dd7/class_template_manager.html#a23b046a5d0420b8154b29ce11629607c" title="Sets the tree list." alt="" coords="336,112,579,141"/>
+<area shape="rect" id="node7" href="$d7/dd7/class_template_manager.html#a74f4ae073a98a9843b30355d7c409df2" title="Gets the list of sections." alt="" coords="1617,5,1855,35"/>
+<area shape="rect" id="node17" href="$d7/dd7/class_template_manager.html#a000eb64d81d7f15dd9d0144237f892b2" title="Write the template file according the list of variables." alt="" coords="648,85,893,115"/>
+<area shape="rect" id="node9" href="$d7/dd7/class_template_manager.html#a86357890154c79d545d3e569a5184248" title="Gets the list of subsections." alt="" coords="2015,59,2276,88"/>
+<area shape="rect" id="node11" href="$d4/dea/class_solver_section_d_a_o.html#a2fc184e252203ad192be32eaac66cdb3" title="Find the section name associated to a subsection name." alt="" coords="1967,5,2324,35"/>
+<area shape="rect" id="node13" href="$d4/d8b/class_solver_section_v_o.html#a743a75efb0ac61f5ef139e76f46bbf6f" title="Get associated Section Name." alt="" coords="2387,19,2613,48"/>
+<area shape="rect" id="node15" href="$d4/d8b/class_solver_section_v_o.html#a10f1ef7498ae61231ef237aab4b43301" title="Get Associated Subsection Name." alt="" coords="2376,85,2624,115"/>
+<area shape="rect" id="node19" href="$d7/dd7/class_template_manager.html#aece0d1806c8375c202dfc24bcd58b13c" title="Writes the section element." alt="" coords="943,112,1204,141"/>
+<area shape="rect" id="node21" href="$d7/dd7/class_template_manager.html#a5c9d7d5c764aa83f492a125b97027391" title="Writes a Xml node element." alt="" coords="1616,165,1856,195"/>
+<area shape="rect" id="node23" href="$d7/dd7/class_template_manager.html#aa7859f66124b213f94af59dbbfa86db0" title="Writes the subsection element." alt="" coords="1253,112,1509,141"/>
+<area shape="rect" id="node25" href="$d7/dd7/class_template_manager.html#a65c18421d023cdcd96f0af8258ba1a69" title="get the SubSectionames associated to a section" alt="" coords="1559,112,1913,141"/>
+<area shape="rect" id="node33" href="$d7/dd7/class_template_manager.html#abb6042a0c7f0bf6ef052414469b154b8" title="TemplateManager::createVariableList" alt="" coords="1617,59,1855,88"/>
+<area shape="rect" id="node27" href="$d4/dea/class_solver_section_d_a_o.html#abc9ded2e50bcfab4c0eee9409ce9ef59" title="Find the subsectionNames associated to a section name." alt="" coords="1963,112,2328,141"/>
+</map>

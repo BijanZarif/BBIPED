@@ -1,0 +1,26 @@
+<map id="SalomeTemplateDialog::on_saveAsButton_clicked" name="SalomeTemplateDialog::on_saveAsButton_clicked">
+<area shape="rect" id="node2" href="$d1/d96/class_salome_template_dialog.html#af150519f79b9b02452d7f6fd690b5f99" title="SalomeTemplateDialog\l::createTemplateFromUserValues" alt="" coords="257,462,476,503"/>
+<area shape="rect" id="node9" href="$d9/df1/class_salome_template_manager.html#a9a95e9184b44ed8b5c6e759b6c86553e" title="SalomeTemplateManager\l::getUserTemplates" alt="" coords="548,5,719,46"/>
+<area shape="rect" id="node21" href="$d9/df1/class_salome_template_manager.html#a62060e0d0d823d7ed40de8219322ca0f" title="SalomeTemplateManager\l::getTemplateFileNameByTemplateName" alt="" coords="235,778,498,819"/>
+<area shape="rect" id="node23" href="$dc/d60/class_ask_for_template_name_dialog.html#a4071ea770c460e2546f43aa7e5b17d69" title="AskForTemplateNameDialog\l::getTemplateName" alt="" coords="271,843,462,885"/>
+<area shape="rect" id="node24" href="$d1/d96/class_salome_template_dialog.html#af84b8fe8d7740cd72de2288db89d88ca" title="SalomeTemplateDialog\l::refreshComboTemplates" alt="" coords="547,919,720,961"/>
+<area shape="rect" id="node25" href="$d9/df1/class_salome_template_manager.html#a3035c50461e61ace2dc6999879ead0f4" title="SalomeTemplateManager\l::updateUserTemplateValues" alt="" coords="271,909,462,950"/>
+<area shape="rect" id="node3" href="$d3/d5b/class_salome_variable_data.html#a5da39032a13c293075ff38652b1ecbed" title="get the default value " alt="" coords="563,658,704,699"/>
+<area shape="rect" id="node4" href="$d3/d5b/class_salome_variable_data.html#ab5739efa71d2b4a07f3b1b376371d88c" title="get the file name of the template " alt="" coords="563,723,704,765"/>
+<area shape="rect" id="node5" href="$d1/d96/class_salome_template_dialog.html#ae6b1645116f31f24c7b31a7366ff3ce2" title="SalomeTemplateDialog\l::getPosMenu" alt="" coords="555,462,712,503"/>
+<area shape="rect" id="node8" href="$d9/df1/class_salome_template_manager.html#a3e5bd6c1823f45a840f6be7e88501359" title="SalomeTemplateManager\l::getTemplates" alt="" coords="548,789,719,830"/>
+<area shape="rect" id="node10" href="$dc/def/class_salome_template_data.html#ad49a53d0e6c4084e00b31e0120ff4446" title="Get the list of variables of the template. " alt="" coords="559,854,707,895"/>
+<area shape="rect" id="node11" href="$d3/d5b/class_salome_variable_data.html#a9674d3d668bde55d6738b926a247a51b" title="Set the current value of the variable. " alt="" coords="563,266,704,307"/>
+<area shape="rect" id="node13" href="$d3/d5b/class_salome_variable_data.html#ac01908744fc95fdc42ccabd1f344e9b5" title="set the default value " alt="" coords="563,201,704,242"/>
+<area shape="rect" id="node14" href="$d3/d5b/class_salome_variable_data.html#af983c43d27fbb3a984591185adeac0b5" title="set the file name of the template " alt="" coords="563,70,704,111"/>
+<area shape="rect" id="node15" href="$d3/d5b/class_salome_variable_data.html#ae0a81a76126ec08ad7ea80ec02db9c1d" title="Set the template name. " alt="" coords="563,397,704,438"/>
+<area shape="rect" id="node16" href="$d3/d5b/class_salome_variable_data.html#a85dbb2b83ba15b758ac5a55468e328b2" title="Set the optimized values. " alt="" coords="563,135,704,177"/>
+<area shape="rect" id="node17" href="$dc/def/class_salome_template_data.html#a15899a920149a1a7bb7f9d7fd13146a0" title="Sets the name of the file associated to the template. " alt="" coords="554,331,713,373"/>
+<area shape="rect" id="node19" href="$dc/def/class_salome_template_data.html#ade1435189fac3341493eefa86015b0b1" title="Sets the name of the template (the one shown to the user) " alt="" coords="559,527,707,569"/>
+<area shape="rect" id="node20" href="$dc/def/class_salome_template_data.html#a0dd499216c23bff59e363b9141834ceb" title="Set the list of variables within the template. " alt="" coords="559,593,707,634"/>
+<area shape="rect" id="node6" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="776,821,947,862"/>
+<area shape="rect" id="node7" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="768,658,955,699"/>
+<area shape="rect" id="node12" href="$d3/d5b/class_salome_variable_data.html#ac47b585c6bff753c41f8a61f2bb79f13" title="Remove white spaces. " alt="" coords="786,169,937,210"/>
+<area shape="rect" id="node18" href="$dc/def/class_salome_template_data.html#a410ae5201cbce00bcb3e60969f179ee9" title="Remove wite spaces of any QString. " alt="" coords="786,331,937,373"/>
+<area shape="rect" id="node22" href="$dc/def/class_salome_template_data.html#a293119f3ae20cdcb4a3b8184ff902075" title="Gets the name of the file associated to the template. " alt="" coords="554,985,713,1026"/>
+</map>

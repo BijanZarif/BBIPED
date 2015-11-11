@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d15/class_search_pair_helper.html#a281476788d02d4534533b95432eb8b56" title="This function allows to expand the parent children." alt="" coords="277,5,520,35"/>
+<area shape="rect" id="node5" href="$de/dae/class_searched_pair.html#a0b8607bd28a1d89f26cefb8ff5c7fbb1" title="Gets the Id of the child (read from the xml file)" alt="" coords="316,59,481,88"/>
+<area shape="rect" id="node7" href="$de/dae/class_searched_pair.html#a0eb4486e8c9e5d56e1939d3c99ba4c1f" title="Gets the Id of the parent (read from the xml file)" alt="" coords="312,112,485,141"/>
+<area shape="rect" id="node9" href="$d7/d15/class_search_pair_helper.html#abc56f446cf04dab017f3c4ae9cac9448" title="This function is able to highlight those rows in the tree that corresponds with the search..." alt="" coords="279,165,519,195"/>
+</map>

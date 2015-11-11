@@ -1,0 +1,46 @@
+var class_virtual_curve_dialog =
+[
+    [ "ColumnValues", "de/d2b/class_virtual_curve_dialog.html#ae052a60230ad37d4139c2c71bd01a076", [
+      [ "Column_X_Value", "de/d2b/class_virtual_curve_dialog.html#ae052a60230ad37d4139c2c71bd01a076ac48b28d97cdb147cce3bcda6ec3c4733", null ],
+      [ "Column_Y_Value", "de/d2b/class_virtual_curve_dialog.html#ae052a60230ad37d4139c2c71bd01a076a3a1b31cc1f6954a4e4002c8f667dee6f", null ],
+      [ "Column_Z_Value", "de/d2b/class_virtual_curve_dialog.html#ae052a60230ad37d4139c2c71bd01a076ac18a8a1e1585fa628c0cd838fbb810de", null ]
+    ] ],
+    [ "UpdateOption", "de/d2b/class_virtual_curve_dialog.html#a2c2ffd173f159bf9a618845fbca3ca65", [
+      [ "UpdateInnerCurveVal", "de/d2b/class_virtual_curve_dialog.html#a2c2ffd173f159bf9a618845fbca3ca65a2d3dcf7acc56028d342fd20d3380bc7e", null ],
+      [ "UpdateOuterCurveVal", "de/d2b/class_virtual_curve_dialog.html#a2c2ffd173f159bf9a618845fbca3ca65abd2b6c66b57d45884f33e827d7e8225e", null ]
+    ] ],
+    [ "VirtualCurveDialog", "de/d2b/class_virtual_curve_dialog.html#aecbdf9e9ccafc4912968895d1113ce31", null ],
+    [ "~VirtualCurveDialog", "de/d2b/class_virtual_curve_dialog.html#a5d77caa9eea0ff7bd65b2e4d62035dc4", null ],
+    [ "addItemToTable", "de/d2b/class_virtual_curve_dialog.html#a57a2c5bae83567629eaaa94660c6b33b", null ],
+    [ "addRow", "de/d2b/class_virtual_curve_dialog.html#a5cdd3cb17a432a41f5ed9e5143e5f2df", null ],
+    [ "addSignals2D", "de/d2b/class_virtual_curve_dialog.html#afd317e289bdaf50760ab29f2ce641e78", null ],
+    [ "deleteRow", "de/d2b/class_virtual_curve_dialog.html#a189c885696b74418a1b56e1e6929fd4b", null ],
+    [ "fillTable", "de/d2b/class_virtual_curve_dialog.html#a5579e7b55ed1b65f80f101d9276b2b23", null ],
+    [ "generateHelpDialog", "de/d2b/class_virtual_curve_dialog.html#aa32e899aa8b1ec93e838075333e0c86e", null ],
+    [ "getInnerValues", "de/d2b/class_virtual_curve_dialog.html#a8439674725bd3f796b80cec76de5c507", null ],
+    [ "getOuterValues", "de/d2b/class_virtual_curve_dialog.html#a19e3320e484207b80fa3e981d3358d52", null ],
+    [ "hasUserModifiedValues", "de/d2b/class_virtual_curve_dialog.html#aad7579dc0cc7d9a58a98db70dcf0c95b", null ],
+    [ "initializeDialog", "de/d2b/class_virtual_curve_dialog.html#a5f209fe471844762779de690a7cf6d57", null ],
+    [ "is3DCoordinates", "de/d2b/class_virtual_curve_dialog.html#a5a41827938696038a0a204ea55d16e3c", null ],
+    [ "on_acceptButton_clicked", "de/d2b/class_virtual_curve_dialog.html#a0b2dba057d50aec9643ba69bc5753804", null ],
+    [ "on_cancelButton_clicked", "de/d2b/class_virtual_curve_dialog.html#aa49fe118cf9d6755f9dd6bbef409b9c0", null ],
+    [ "on_innerButtonHelp_clicked", "de/d2b/class_virtual_curve_dialog.html#ac9e93afe86b88e80cb934d23800e5b01", null ],
+    [ "on_innerCurveSpinBox_valueChanged", "de/d2b/class_virtual_curve_dialog.html#a7f3a9ae739b7a47dd70d15871ec28ee9", null ],
+    [ "on_outerButtonHelp_clicked", "de/d2b/class_virtual_curve_dialog.html#a42b14cb172b5ce30da619d1c6c199b8b", null ],
+    [ "on_outerCurvespinBox_valueChanged", "de/d2b/class_virtual_curve_dialog.html#a397010405dad498df42171b864d50abc", null ],
+    [ "on_selectedDimension_currentIndexChanged", "de/d2b/class_virtual_curve_dialog.html#a50a4dd541654284681a31a2a2f3945b7", null ],
+    [ "rowAddRemoveSpinBox", "de/d2b/class_virtual_curve_dialog.html#ad28c83be84f95b2c4c7b086e0246289f", null ],
+    [ "set3DCoordinates", "de/d2b/class_virtual_curve_dialog.html#a44f2664a8ebec20594391f202ee1cf83", null ],
+    [ "setInnerValues", "de/d2b/class_virtual_curve_dialog.html#a9a9643c90158911e6e526e24e4f3011c", null ],
+    [ "setOuterValues", "de/d2b/class_virtual_curve_dialog.html#a175aad12fa1e93f7f502b80ffaba243b", null ],
+    [ "setSolverSection", "de/d2b/class_virtual_curve_dialog.html#adb67e716d532f3dcfdb453562ae759ad", null ],
+    [ "textChangedSlot2D", "de/d2b/class_virtual_curve_dialog.html#a36161e0ec2a251815898457aeba66cf6", null ],
+    [ "updateUserValues", "de/d2b/class_virtual_curve_dialog.html#a915ef102b05246a32332cac2e4871406", null ],
+    [ "_innerValues", "de/d2b/class_virtual_curve_dialog.html#af90f52b1129e13def201a956c02dc470", null ],
+    [ "_is3DCoordinates", "de/d2b/class_virtual_curve_dialog.html#ab490e6b10a4aed6be1d377ab013ef96f", null ],
+    [ "_outerValues", "de/d2b/class_virtual_curve_dialog.html#acd78e2e79190119a1be125a9bad0ae64", null ],
+    [ "_signalMapperTxtEdit", "de/d2b/class_virtual_curve_dialog.html#ac60a5feddd5b3eaae3def3ca1dc01543", null ],
+    [ "_solverSection", "de/d2b/class_virtual_curve_dialog.html#a9fbed1cc7aad6dca8bbe75e969788f64", null ],
+    [ "_userAcceptChanges", "de/d2b/class_virtual_curve_dialog.html#a9270ff118b223816acde7d5b9fddd8e4", null ],
+    [ "ui", "de/d2b/class_virtual_curve_dialog.html#ae1713225758120a2d995c752ce156781", null ]
+];

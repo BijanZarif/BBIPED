@@ -1,0 +1,11 @@
+<map id="MainWindow::buildSolverCommand" name="MainWindow::buildSolverCommand">
+<area shape="rect" id="node3" href="$da/d69/class_multizone_project_data.html#a35fa42d3f4bd751b37acbcbf945479c1" title="Get the list of the configuration file names (without path) " alt="" coords="308,5,479,51"/>
+<area shape="rect" id="node5" href="$da/d69/class_multizone_project_data.html#adcfebb504a212f5d04fedc8fa4ce4bf6" title="Get the list of the mesh file names (without path) " alt="" coords="312,74,475,121"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#adf96d7aac0c5de00c95250a4731c19ab" title="This function decides which Solver running executable is going to be called. At the moment there are ..." alt="" coords="284,144,503,173"/>
+<area shape="rect" id="node17" href="$d2/deb/class_solver_v_o.html#aa7dea2e1885b26667b6fccef496494aa" title="Returns the Solver Config File Path. " alt="" coords="304,197,483,243"/>
+<area shape="rect" id="node19" href="$d4/dac/class_project_data.html#a04e55da75880e7218998b72cbb2bbbdd" title="Returns the Solver VO object with the stored information. " alt="" coords="303,266,484,313"/>
+<area shape="rect" id="node9" href="$d7/d21/class_user_preferences_data.html#a9375bfca1440be29ac00a44687c9547a" title="Returns true if the default Solver Engine is selected (SU2_CFD) " alt="" coords="559,31,769,78"/>
+<area shape="rect" id="node11" href="$d7/d21/class_user_preferences_data.html#aa331052ddd46644b8fdda5c939570a67" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_VIRTUAL) " alt="" coords="561,101,767,147"/>
+<area shape="rect" id="node13" href="$d7/d21/class_user_preferences_data.html#a2a37f1047a80af6eeb1d5e252999c66d" title="Returns true if the Virtual Solver Engine is selected (SU2_CFD_MULTIZONE) " alt="" coords="552,170,776,217"/>
+<area shape="rect" id="node15" href="$d7/d21/class_user_preferences_data.html#a733f50190c3c27b57d149190281983b9" title="Returns the path of the user defined Solver Engine. " alt="" coords="572,239,756,286"/>
+</map>

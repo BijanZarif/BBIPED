@@ -1,0 +1,20 @@
+<map id="MainWindow::on_actionLoad_Templates_triggered" name="MainWindow::on_actionLoad_Templates_triggered">
+<area shape="rect" id="node2" href="$d0/d3b/class_tools_helper.html#ad540a6268801e18530f1a912c8567b07" title="ToolsHelper::createAutomaticMesh" alt="" coords="243,307,469,333"/>
+<area shape="rect" id="node3" href="$d7/d21/class_user_preferences_data.html#a656cb72cb97dfc0a26456813fa02c81f" title="Returns the mesh viewer path (e.g. Salome) " alt="" coords="551,5,699,46"/>
+<area shape="rect" id="node4" href="$d0/d3b/class_tools_helper.html#a6f812576490ca984454bbfead4960ca7" title="ToolsHelper::launchSalome\lWarning" alt="" coords="534,70,717,111"/>
+<area shape="rect" id="node6" href="$d1/d96/class_salome_template_dialog.html#a6491b66848846982e89100fc9f26d241" title="SalomeTemplateDialog\l::setMeshViewerPath" alt="" coords="547,135,704,177"/>
+<area shape="rect" id="node7" href="$d1/d96/class_salome_template_dialog.html#ac8f2cf84fd04bc098d7b14829cd1e75f" title="SalomeTemplateDialog\l::setBBIPEDPath" alt="" coords="547,201,704,242"/>
+<area shape="rect" id="node8" href="$d1/d96/class_salome_template_dialog.html#a57df4edbc38613a89a6f1355f23fdf7b" title="SalomeTemplateDialog\l::registerConsole" alt="" coords="547,266,704,307"/>
+<area shape="rect" id="node9" href="$d1/d96/class_salome_template_dialog.html#a3365e03329abb562e1dcb6da03070e98" title="SalomeTemplateDialog\l::setProjectPath" alt="" coords="547,331,704,373"/>
+<area shape="rect" id="node10" href="$d4/dac/class_project_data.html#a0dccf16cdc319a558d9760b4574d231a" title="Returns the absolute path of the project. " alt="" coords="533,397,718,424"/>
+<area shape="rect" id="node11" href="$d1/d96/class_salome_template_dialog.html#a98bd10c96a4693dee9588c35295cea6b" title="SalomeTemplateDialog\l::setProjectName" alt="" coords="547,449,704,490"/>
+<area shape="rect" id="node12" href="$d4/dac/class_project_data.html#ac81ad910b2caceb81d6b1f56d6b031b7" title="returns the path of the project file " alt="" coords="518,515,733,541"/>
+<area shape="rect" id="node13" href="$d1/d96/class_salome_template_dialog.html#a26c766492f7bd56f4076037c6397f773" title="SalomeTemplateDialog\l::initializeDialog" alt="" coords="547,566,704,607"/>
+<area shape="rect" id="node5" href="$d2/dfb/class_show_message_helper.html#a4a86755ef2171e38f55213f0991bfe8c" title="Default WARNING Message. " alt="" coords="789,70,944,111"/>
+<area shape="rect" id="node14" href="$d9/df1/class_salome_template_manager.html#ae2e3d9fe854468303c2a2e7bd9a84f26" title="SalomeTemplateManager\l::isInitialized" alt="" coords="781,501,952,542"/>
+<area shape="rect" id="node15" href="$d9/df1/class_salome_template_manager.html#aad0f9f2e4c5c11dbb84c36135c4b1bba" title="SalomeTemplateManager\l::loadTemplate" alt="" coords="781,566,952,607"/>
+<area shape="rect" id="node16" href="$d1/d96/class_salome_template_dialog.html#acac4764823488ba6de3e45343d8bcab9" title="SalomeTemplateDialog\l::loadTemplateMenu" alt="" coords="788,631,945,673"/>
+<area shape="rect" id="node17" href="$d1/d96/class_salome_template_dialog.html#af84b8fe8d7740cd72de2288db89d88ca" title="SalomeTemplateDialog\l::refreshComboTemplates" alt="" coords="1000,631,1173,673"/>
+<area shape="rect" id="node18" href="$d9/df1/class_salome_template_manager.html#af2bc8798788c8328065b9c0c1fb94b3c" title="SalomeTemplateManager\l::getTemplateNameList" alt="" coords="1229,598,1400,639"/>
+<area shape="rect" id="node19" href="$d9/df1/class_salome_template_manager.html#a32cd75db9bd6d1f24ab0b20573ec1784" title="SalomeTemplateManager\l::getUserTemplateNameList" alt="" coords="1221,663,1408,705"/>
+</map>

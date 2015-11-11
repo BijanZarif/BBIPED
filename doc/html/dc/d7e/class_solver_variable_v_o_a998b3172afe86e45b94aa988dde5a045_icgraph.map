@@ -1,0 +1,51 @@
+<map id="SolverVariableVO::getVariableName" name="SolverVariableVO::getVariableName">
+<area shape="rect" id="node2" href="$da/d07/class_template_dialog.html#a15c15a9edae60a696b8246e2b8514dec" title="Adds a variable to the table. " alt="" coords="583,15,772,41"/>
+<area shape="rect" id="node5" href="$db/d40/class_solver_config_menu_helper.html#a757f52b5f35549e32f06bd697307d967" title="Function that adds the variable elements to each row in the table. " alt="" coords="315,317,482,358"/>
+<area shape="rect" id="node8" href="$da/d07/class_template_dialog.html#ad425f6aa36919dff28afde6ebe956d8d" title="Function that adds the variable elements to each row in the table. " alt="" coords="304,115,493,157"/>
+<area shape="rect" id="node13" href="$d5/d05/class_mesh_dialog.html#a06c246713734b5716761b5ab2a9330e9" title="MeshDialog::createMeshVariables" alt="" coords="288,383,509,409"/>
+<area shape="rect" id="node16" href="$d7/dd7/class_template_manager.html#a1645cef11d39f323eaf2f6ab1eb07a81" title="Writes the variable element. " alt="" coords="290,433,507,460"/>
+<area shape="rect" id="node18" href="$d4/dfe/class_warning_multizone_dialog.html#a2b1551161d7414396e7a9335d7592c23" title="Function that fills the data in the table for repairing the values. " alt="" coords="317,535,480,577"/>
+<area shape="rect" id="node20" href="$d4/dae/class_file_comparison_dialog.html#a62ad3612f32de7def16cfff0f90fe8d8" title="This function fill the row with the data. " alt="" coords="323,601,474,642"/>
+<area shape="rect" id="node23" href="$d4/dea/class_solver_section_d_a_o.html#a7860449707566c1a8e5ac9f901034916" title="find the Value of a variable " alt="" coords="301,666,496,707"/>
+<area shape="rect" id="node24" href="$d4/dea/class_solver_section_d_a_o.html#a8202cfe5800d20f48765627894fea36e" title="SolverSectionDAO::findVariable\lByValueName" alt="" coords="295,797,503,838"/>
+<area shape="rect" id="node26" href="$d4/dea/class_solver_section_d_a_o.html#a0e4e0d77540f979875f576cc8ac60489" title="Find a Variable by the value name. " alt="" coords="295,1035,503,1077"/>
+<area shape="rect" id="node27" href="$db/d40/class_solver_config_menu_helper.html#a531ed471f5cd19b036cf86087e946daf" title="Function that gets the correspondent help text of a variable Name. " alt="" coords="594,911,761,953"/>
+<area shape="rect" id="node35" href="$dc/d7e/class_solver_variable_v_o.html#aad3336da81b4f94c0661f281a0e7d774" title="Get the associated Help Contents. " alt="" coords="309,970,488,1011"/>
+<area shape="rect" id="node40" href="$d4/dea/class_solver_section_d_a_o.html#a9c2fd8d7ee07745c06eb9457ac26e0b8" title="Get the list fo variables. " alt="" coords="296,1117,501,1158"/>
+<area shape="rect" id="node42" href="$d7/dd7/class_template_manager.html#a7c6a3d984728414594d91f6ff5753eb0" title="Gets teh list of solver variables associated to a subSection. " alt="" coords="295,484,502,511"/>
+<area shape="rect" id="node43" href="$d3/d40/class_solver_basic_dialog.html#a5cbec9fe1995383ced93a57c396b213e" title="SolverBasicDialog::\llaunchSpecificWindow" alt="" coords="321,731,476,773"/>
+<area shape="rect" id="node44" href="$d5/d05/class_mesh_dialog.html#a1e0dbbe416dbf49ee49fbbe5f880f9f8" title="Function to restore the values in the row. " alt="" coords="860,796,1039,823"/>
+<area shape="rect" id="node45" href="$d7/d15/class_search_pair_helper.html#a6d72bb9fb0bb09cc5f3071dda197f7cc" title="This fucntion allows to search in the tree model by a specific search term. " alt="" coords="313,1213,484,1254"/>
+<area shape="rect" id="node47" href="$d2/d41/class_summary_dialog.html#a50fc161b0280886302fccd4ece46438e" title="Function that update the values changed by the user. " alt="" coords="304,1339,493,1381"/>
+<area shape="rect" id="node49" href="$da/d07/class_template_dialog.html#ae7b4043c0eaac77b5ca68fc13cde0715" title="This funtion updates the values of a selected variable. " alt="" coords="572,197,783,238"/>
+<area shape="rect" id="node50" href="$db/d40/class_solver_config_menu_helper.html#ac0bba3eaa03041c43baff8e8bd59a759" title="Function that updates the value in the table. " alt="" coords="582,262,773,303"/>
+<area shape="rect" id="node3" href="$da/d07/class_template_dialog.html#a45f787ddc1e416b88d3fd3c1569e00c9" title="Load all teh values of the template. " alt="" coords="850,12,1049,39"/>
+<area shape="rect" id="node4" href="$dd/ddd/class_solver_helper.html#af9b40f30f062505435328c87fc707f68" title="SolverHelper::editConfiguration\lTemplateByUser" alt="" coords="1101,5,1304,46"/>
+<area shape="rect" id="node6" href="$d2/d41/class_summary_dialog.html#aa9926dd83a3273f07c0d13ab4c4fe211" title="Function that inserts each variabel with the correspondent value in the table. " alt="" coords="576,327,779,369"/>
+<area shape="rect" id="node7" href="$d2/d41/class_summary_dialog.html#a6d56ca1312a2a63e1fb33988825410a0" title="Function that builds up the rows of the table. " alt="" coords="857,303,1041,329"/>
+<area shape="rect" id="node9" href="$da/d07/class_template_dialog.html#aa21e0b8c78686654e1ffd200e31fb767" title="This function fills the menu table. " alt="" coords="594,131,761,173"/>
+<area shape="rect" id="node11" href="$da/d07/class_template_dialog.html#a51f111beef8727da21655ab5cdad2633" title="This function refresh the table of selected variables. " alt="" coords="578,66,777,107"/>
+<area shape="rect" id="node10" href="$da/d07/class_template_dialog.html#aadce6bf4defab72e9cb8ffd92c519fa2" title="This function loads the table for a specific menu item. " alt="" coords="866,170,1033,211"/>
+<area shape="rect" id="node12" href="$da/d07/class_template_dialog.html#a2806beb8d46f4d6b8aa347a727ab0207" title="Slot function that controls those variables that have been selected. " alt="" coords="846,63,1053,119"/>
+<area shape="rect" id="node14" href="$d5/d05/class_mesh_dialog.html#ac971be6878de411c646dfdfd1b7e6279" title="MeshDialog::initializeMesh\lValues" alt="" coords="588,393,767,434"/>
+<area shape="rect" id="node15" href="$d5/d05/class_mesh_dialog.html#a7920669081b83e4bdc26e88457304633" title="Function that loads the main menu elements. " alt="" coords="872,400,1027,427"/>
+<area shape="rect" id="node17" href="$d7/dd7/class_template_manager.html#a4af242b4969027bbd09737ac2fdc1e2e" title="Writes the list of variables element. " alt="" coords="558,467,797,493"/>
+<area shape="rect" id="node19" href="$d4/dfe/class_warning_multizone_dialog.html#a063b9775fdb9c584db395227286c1db3" title="Function that controls when the user clicks the update radio button. " alt="" coords="596,525,759,581"/>
+<area shape="rect" id="node21" href="$d4/dae/class_file_comparison_dialog.html#a7a4a5f6ad6c49566eee422f914059776" title="This function build the individual rows according with the data. " alt="" coords="602,605,753,646"/>
+<area shape="rect" id="node22" href="$d4/dae/class_file_comparison_dialog.html#a4b18498221b6dc59808d0be183286788" title="This function shows those values that are different in the table. " alt="" coords="874,605,1025,646"/>
+<area shape="rect" id="node25" href="$d3/d40/class_solver_basic_dialog.html#acbe01068725e71ade170b0e01af0876c" title="This function help to manage the behaviour when clicking on the help column to launch the help dialog..." alt="" coords="867,716,1031,772"/>
+<area shape="rect" id="node28" href="$d3/d40/class_solver_basic_dialog.html#a2a672a6fe104f8865b3f2a83f325f66e" title="Function to build all the tooltips. " alt="" coords="881,847,1018,889"/>
+<area shape="rect" id="node30" href="$d5/d05/class_mesh_dialog.html#a1777b5cb188b0a493b129166ee42f0a1" title="Function to build up the help content. " alt="" coords="850,1072,1049,1099"/>
+<area shape="rect" id="node33" href="$da/d07/class_template_dialog.html#a0da4827fde4eb2e01a7149e4ee0c4409" title="This function controls the behaviour over clicking in the cells of the selected var table..." alt="" coords="847,912,1052,968"/>
+<area shape="rect" id="node34" href="$da/d07/class_template_dialog.html#aacf24afa26c633e060298192937870db" title="TemplateDialog::on\l_variablesToSelectTableWidget\l_cellClicked" alt="" coords="846,992,1053,1048"/>
+<area shape="rect" id="node29" href="$d3/d40/class_solver_basic_dialog.html#a5a76e39fafb848995b1bc8dc14406452" title="Fills in the table according the selected value by the user. " alt="" coords="1111,930,1295,971"/>
+<area shape="rect" id="node31" href="$d5/d05/class_mesh_dialog.html#a824ed377b71057123dda1d3bbc4079cc" title="Function to launch the Specific Boundary config window. " alt="" coords="1111,865,1295,906"/>
+<area shape="rect" id="node32" href="$d5/d05/class_mesh_dialog.html#ac9579aa7c82c954f9548d61390844d1a" title="Function to perform actions when a cell is clicked. " alt="" coords="1352,946,1536,987"/>
+<area shape="rect" id="node36" href="$d8/d02/class_virtual_rotating_dialog.html#ab6d7f3fbef55ef9308cc7ff59b286ca7" title="VirtualRotatingDialog\l::buildAssociatedHelp" alt="" coords="603,1094,752,1135"/>
+<area shape="rect" id="node38" href="$de/d2b/class_virtual_curve_dialog.html#aa32e899aa8b1ec93e838075333e0c86e" title="VirtualCurveDialog\l::generateHelpDialog" alt="" coords="605,1159,749,1201"/>
+<area shape="rect" id="node39" href="$d2/d41/class_summary_dialog.html#ac2ed46d4a066ceb2b4a50f077a439e5f" title="Function that loads the help text in a new window. " alt="" coords="578,1029,777,1070"/>
+<area shape="rect" id="node37" href="$d8/d02/class_virtual_rotating_dialog.html#acf34d7c8768f49fdbf9daab0bb40ffec" title="VirtualRotatingDialog\l::on_zoneInfoTable_cellClicked" alt="" coords="847,1123,1051,1165"/>
+<area shape="rect" id="node41" href="$da/dfd/class_solver_marker_menu_helper.html#a256cd2e13436150f3982efa4fe8578bc" title="This funtcion allow to fill the specific marker menu table in the Solver Basic dialog. " alt="" coords="593,1225,762,1266"/>
+<area shape="rect" id="node46" href="$d7/d15/class_search_pair_helper.html#a8619df9759f15af6fc20b9f426b4ece9" title="This function searchs the items. " alt="" coords="592,1290,763,1331"/>
+<area shape="rect" id="node48" href="$d2/d41/class_summary_dialog.html#a54c8a0b12d889871d24c4b504db6db40" title="Function that launchs the actions when the user clicks accept button. " alt="" coords="578,1355,777,1397"/>
+</map>

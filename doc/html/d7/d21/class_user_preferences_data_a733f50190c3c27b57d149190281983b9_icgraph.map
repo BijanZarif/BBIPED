@@ -1,0 +1,25 @@
+<map id="UserPreferencesData::getUserDefinedSolverPath" name="UserPreferencesData::getUserDefinedSolverPath">
+<area shape="rect" id="node2" href="$d9/dc6/class_main_window.html#adf96d7aac0c5de00c95250a4731c19ab" title="This function decides which Solver running executable is going to be called. At the moment there are ..." alt="" coords="241,52,461,79"/>
+<area shape="rect" id="node10" href="$d7/d4e/class_preference_dialog.html#a7ed051f10bc19889e50e9402ba1abcb7" title="Initialize the solver data. " alt="" coords="262,105,439,146"/>
+<area shape="rect" id="node12" href="$d7/d21/class_user_preferences_data.html#a385ca7ad5fd9435a7b7ee0a0a5f7154b" title="This function is to update the data from another object. " alt="" coords="277,170,425,211"/>
+<area shape="rect" id="node16" href="$d1/d59/class_preferences_manager.html#aed2b7aa02818c7d382784c2812d789ba" title="PreferencesManager\l::writeUserPreferences" alt="" coords="273,237,429,278"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a028bd5b2a7f075ca1c6563d4136c68d7" title="Function to build the solver Command according project conditions and user preferences. " alt="" coords="509,49,739,76"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_main_window.html#ad58adf42ebda6ebbb124daade40eee34" title="Run the current Solver project. " alt="" coords="802,48,1003,75"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#af5c177f635352a32e26bc7aa8d643001" title="MainWindow::on_multizone\lRunSimulationButton_clicked" alt="" coords="1067,11,1261,53"/>
+<area shape="rect" id="node6" href="$d9/dc6/class_main_window.html#acebf5a46f730eb3e65092c2398acebd5" title="SOLVER: run the simulation. " alt="" coords="1072,77,1256,104"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#acf43a4f8c3c268a2987dd118b80876c9" title="Run Solver Project. " alt="" coords="1319,5,1505,46"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_main_window.html#a96b7dddd7b464158713ad4eef44ced45" title="SOLVER: If restart option is allowed, restart simulation. " alt="" coords="1311,70,1513,111"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ac04e6aade12e8a6e72a1d2b4f824dfce" title="SOLVER: Run the current simulation. " alt="" coords="1309,135,1515,177"/>
+<area shape="rect" id="node11" href="$d7/d4e/class_preference_dialog.html#a7a4188263d2b77829e00e949d38a29d8" title="Initialize with the user preferences. " alt="" coords="535,112,713,139"/>
+<area shape="rect" id="node13" href="$d1/d67/class_edit_helper.html#ab22ea8809ed9332c5d2a69a880bad84d" title="EditHelper::launchPreferences\lDialog" alt="" coords="525,170,723,211"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_main_window.html#a2e63d199e37300ac181f39c3a7a7d78b" title="This method controls the Preference dialog launch. " alt="" coords="787,99,1018,141"/>
+<area shape="rect" id="node15" href="$d1/def/class_meshing_tool_configuration_warning_dialog.html#a805efeb55eead8711144178fac58df31" title="MeshingToolConfiguration\lWarningDialog::on_warningMeshing\lButtonBox_accepted" alt="" coords="787,164,1018,220"/>
+<area shape="rect" id="node17" href="$d1/d59/class_preferences_manager.html#a379493229bb891a7b62d3a8e32730730" title="PreferencesManager\l::saveUserPreferences" alt="" coords="546,237,702,278"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_main_window.html#a3a2a7eac8e11f63c41220982e3fe0b59" title="This function controls the exit of the Application, to close everything and to save the data to the u..." alt="" coords="807,244,998,271"/>
+<area shape="rect" id="node21" href="$d1/d59/class_preferences_manager.html#a712e9b02779d68ec7492071e9dabba65" title="PreferencesManager\l::readPreferencesFile" alt="" coords="829,298,976,339"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Function that controls the close event. " alt="" coords="1079,185,1249,212"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#ab4487c4b02224acd4a0193d38b704ddb" title="Function that controls the exit of the application. " alt="" coords="1072,237,1256,278"/>
+<area shape="rect" id="node22" href="$d1/d59/class_preferences_manager.html#a34300d5deabe58e08c0f310ac04e6ecc" title="PreferencesManager\l::getUserPreferences" alt="" coords="1091,302,1237,343"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a6943a58529f2d7f31be97eb773d91f2c" title="This function initialize the variables associated with user preferences. " alt="" coords="1322,302,1502,343"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="Constructor. " alt="" coords="1563,309,1743,336"/>
+</map>
