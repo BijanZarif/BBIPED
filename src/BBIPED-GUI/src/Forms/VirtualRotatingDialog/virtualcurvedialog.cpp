@@ -13,6 +13,8 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
 ***/
 #include <QLineEdit>
 #include "virtualcurvedialog.h"
@@ -58,7 +60,7 @@ VirtualCurveDialog::~VirtualCurveDialog()
 void VirtualCurveDialog::initializeDialog()
 {
 
-    if (!_innerValues.isEmpty())
+        if (!_innerValues.isEmpty())
     {
         fillTable(ui->innerTable,_innerValues);
         if (!_is3DCoordinates)

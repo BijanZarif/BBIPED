@@ -82,7 +82,7 @@
                                       </comboValues>
                                       <value name="GRAVITY_FORCE" defaultValue="NO" unit="NONE">NO</value>
                               </variable>
-                              <variable isSelectable="YES" id="5">
+                              <variable isSelectable="NO" id="5">
                                       <name>Restart Solution</name>
                                       <help>
                                               <definition> TO BE COMPLETED  </definition>
@@ -204,7 +204,7 @@
 
 		<!-- GAS DEFINITION -->
                 <subsection visibleInBasicView="yes">
-			<title>Gas Definition</title>
+                        <title>Gas Definition</title>
 			<id>1</id>
 			<variables>
 
@@ -267,16 +267,16 @@
 					</help>
 					<comboValues/>
 					<value name="PRANDTL_TURB" defaultValue="0.9" unit="NONE">0.9</value>
-				</variable>	
+                                </variable>
 			</variables>
-		</subsection>
+                </subsection>
 		<!-- FREE STREAM -->
                 <subsection visibleInBasicView="yes">
-			<title>Free-stream</title>
+                        <title>Free-stream</title>
 			<id>2</id>
-			<variables>
+                        <variables>
                                 <variable isSelectable="NO" id="0">
-					<name>Free-stream density</name>
+                                        <name>Free-stream density</name>
 					<help>
 						<definition> TO BE COMPLETED  </definition>
 						<values>(1.2886 Kg/m^3 (air), 998.2 Kg/m^3 (water)). Default value: 998.2</values>
@@ -290,7 +290,7 @@
 					<value name="FREESTREAM_DENSITY" defaultValue="998.2" unit="Kg/m^3">998.2</value>
 				</variable>
                                 <variable isSelectable="NO" id="1">
-					<name>Free-stream velocity  </name>
+                                        <name>Free-stream velocity  </name>
 					<help>
 						<definition> TO BE COMPLETED  </definition>
 						<values> (m/s). Default value: (5.0,0.00,0.00)2</values>
@@ -300,7 +300,7 @@
 					<value name="FREESTREAM_VELOCITY" defaultValue="(5.0,0.00,0.00)" unit="m/s">(5.0,0.00,0.00)</value>
 				</variable>
                                 <variable isSelectable="YES" id="2">
-					<name>Free-stream viscosity</name>
+                                        <name>Free-stream viscosity</name>
 					<help>
 						<definition> TO BE COMPLETED  </definition>
                                                 <values> (1.0E-5 kg/(m·s)(air), 0.798E-3 Ns/m^2 (water))</values>
@@ -430,7 +430,7 @@
 					<comboValues/>
                                         <value name="BC_FARFIELD" defaultValue="NONE" unit="NONE">NONE</value>
 				</variable>
-                                <!--<variable isSelectable="YES" id="2">
+                               <!-- <variable isSelectable="YES" id="2">
                                         <name>Symmetry</name>
 					<help>
 						<definition> TO BE COMPLETED  </definition>
@@ -1265,7 +1265,7 @@
                                             <otherdetails>  TO BE COMPLETED </otherdetails>
                                     </help>
                                     <comboValues/>
-                                   <value name="VMRF_AXIS" subVarNames="name,omega,axis center X, axis center Y, axis center Z, axis normal X, axis normal Y, axis normal Z" defaultValue="name,omega,0,0,0,0,0,1" unit="NONE">name,omega,0,0,0,0,0,1</value>
+                                   <value name="VMRF_AXIS" subVarNames="name,omega,axis center X, axis center Y, axis center Z, axis normal X, axis normal Y, axis normal Z" defaultValue="name,0,0,0,0,0,0,1" unit="NONE">name,0,0,0,0,0,0,1</value>
                             </variable>
                             <variable isSelectable="YES" id="1" isRepeatable="yes" isOptional="yes">
                                     <name>Virtual Rotating Frame INNER Curve</name>
@@ -1275,7 +1275,7 @@
                                             <otherdetails>  TO BE COMPLETED </otherdetails>
                                     </help>
                                     <comboValues/>
-                                   <value name="VMRF_INNER_CURVE" subVarNames="name,count,X1,Y1,X2,Y2" defaultValue="name,count,0,0,0,0" unit="NONE">name,count,0,0,0,0</value>
+                                   <value name="VMRF_INNER_CURVE" subVarNames="name,count,X1,Y1,X2,Y2" defaultValue="name,0,0,0,0,0" unit="NONE">name,0,0,0,0,0</value>
                             </variable>
                             <variable isSelectable="YES" id="2" isRepeatable="yes" isOptional="yes">
                                     <name>Virtual Rotating Frame OUTER Curve</name>
@@ -1285,7 +1285,7 @@
                                             <otherdetails>  TO BE COMPLETED </otherdetails>
                                     </help>
                                     <comboValues/>
-                                   <value name="VMRF_OUTTER_CURVE" subVarNames="name,count, X1,Y1,X2,Y2" defaultValue="name,count,0,0,0,0" unit="NONE">name,count,0,0,0,0</value>
+                                   <value name="VMRF_OUTTER_CURVE" subVarNames="name,count, X1,Y1,X2,Y2" defaultValue="name,0,0,0,0,0" unit="NONE">name,0,0,0,0,0</value>
                             </variable>
                             <variable isSelectable="NO" id="3" isRepeatable="yes" isOptional="yes">
                                     <name>Grid Movement</name>

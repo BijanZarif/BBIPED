@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 #include "qhashhelper.h"
 

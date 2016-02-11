@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
@@ -24,7 +27,7 @@
 #include "Preferences/preferencesmanager.h"
 #include "Defines/General/GeneralDefines.h"
 #include <QAction>
-
+#include "Data/Solver/MeshInfo/meshinfofilereader.h"
 
 /**
  * @brief Create a New Project
@@ -99,6 +102,25 @@ void MainWindow::on_actionOpen_Project_triggered()
             return;
 
     openProject(_projectFilePath);
+
+}
+
+void MainWindow::loadMesh3DProperties()
+{
+   if(_projectData.getSolverDataInformation().isMeshFileEmpty())
+       return;
+   QString _meshFileName = _projectData.getSolverDataInformation().getSolverFilePath();
+
+   if ((!_meshFileName.isEmpty()) || (!_meshFileName.isNull()))
+   {
+        QString _meshConfigFileName = QString(QFileInfo(_meshFileName).completeBaseName());
+        QString _completeMeshConfigFileName = QDir(QDir(_projectData.getProjectPath()).filePath(TOOL4)).filePath(_meshConfigFileName+"."+MESH_CONFIG_SUFFIX);
+
+        importMeshInfoFile(_completeMeshConfigFileName);
+        _meshData.setMeshFileName(_meshFileName); // We update the correspondent su2 filename
+        return;
+   }
+
 }
 
 /**
@@ -441,4 +463,6 @@ void MainWindow::openProject(QString _projectFilePath)
          setEnableSaveProjectIcons(true);
          ui->savePhysicsButton->setEnabled(true);
      }
+
+     loadMesh3DProperties();
 }

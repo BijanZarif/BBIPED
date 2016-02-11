@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
@@ -84,7 +87,8 @@ void MainWindow::on_actionUser_GuideLine_2_triggered()
 void MainWindow::on_actionOnline_Help_triggered()
 {
     HelpManager _helpManager;
-    _helpManager.openHelp("index.html","html");
+    _helpManager.openHelpURL("http://www.bcamath.org/BBIPED_DOXYGEN/");
+            //openHelp("index.html","html");
 }
 
 /**

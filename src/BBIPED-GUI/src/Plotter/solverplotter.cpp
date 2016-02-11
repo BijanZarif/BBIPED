@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 
 #include "solverplotter.h"
@@ -99,7 +102,7 @@ void SolverPlotter::setAxisLayout()
     setAxisTitle( QwtPlot::xBottom, " Iteration No." );
     setAxisScale( QwtPlot::xBottom, 0, HISTORY );
     setAxisTitle( QwtPlot::yLeft, "Log(Residuals)" );
-    setAxisScale( QwtPlot::yLeft, -5, 5 );
+    setAxisScale( QwtPlot::yLeft, _scaleY, _scaleYPlus );
 }
 
 /**
@@ -219,8 +222,8 @@ void SolverPlotter::showPoints(SolverResidualVO * _obj)
        data[resRhoe].curve->setSamples( data[resRhoe]._points);
     }
 
-    if( (_obj->getResRhoe() > 50) || (_obj->getResRhoe() < -50) ||
-           (_obj->getResRho() > 50) || (_obj->getResRho() < -50)  )
+    if( (_obj->getResRhoe() > _scaleYPlus) || (_obj->getResRhoe() < _scaleY) ||
+           (_obj->getResRho() > _scaleYPlus) || (_obj->getResRho() < _scaleY)  )
         setAxisAutoScale(QwtPlot::yLeft,true);
     if (_iteration > 100)
         setAxisAutoScale(QwtPlot::xBottom,true);

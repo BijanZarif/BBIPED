@@ -13,9 +13,9 @@
     <filename>BC_FARFIELD</filename>
     <help>You can set a boundary to Pressure Farfield condition. It could be repeated by other boundary names. The differences between this command and MARKER_FAR are that the details of the condition is must be provided through command but in MARKER_FAR they are entered by MACH_NUMBER,</help>
     <parameters>            
-            <parameter default_value="0.6" type="Number" unit="NONE">Mach</parameter>
+            <parameter default_value="0.8" type="Number" unit="NONE">Mach</parameter>
             <parameter default_value="101325" type="Number" unit="Pascal (Pa)">Pressure</parameter>
-            <parameter default_value="300" type="Number" unit="Kelvin (K)">Temperature</parameter>
+            <parameter default_value="273.15" type="Number" unit="Kelvin (K)">Temperature</parameter>
             <parameter default_value="1" type="Number" unit="NONE">Flow Dir X</parameter>
             <parameter default_value="0" type="Number" unit="NONE">Flow Dir Y</parameter>
             <parameter default_value="0" type="Number" unit="NONE">Flow Dir Z</parameter>

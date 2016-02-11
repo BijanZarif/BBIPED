@@ -25,6 +25,8 @@ public:
 
         NResidualData
     };
+    int _scaleY = -4;
+    int _scaleYPlus = 4;
 
     SolverPlotter( QWidget * = 0 );
     const QwtPlotCurve *plotterCurve( int id ) const

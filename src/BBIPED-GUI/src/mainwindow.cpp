@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 
 #include "mainwindow.h"
@@ -487,8 +490,6 @@ void MainWindow::on_restartButton_clicked()
      _status_NeedToBeSaved = true;
     // Running the simulation
      runSimulation();
-
-
 }
 
 
@@ -1375,7 +1376,8 @@ void MainWindow::removeOldMeshFiles()
     QFile _oldMeshName (QDir(_projectPath).filePath(_oldMeshFileName));
     QFile _oldMeshName_ConfigSuffix (QDir(_projectPath).filePath(QString(QFileInfo(_oldMeshFileName).baseName() + "." + MESH_CONFIG_SUFFIX)));
 
-    if (_oldMeshName.exists())
+    //if (_oldMeshName.exists())
+    if (!_oldMeshFileName.isEmpty())
         _oldMeshName.remove();
     if (_oldMeshName_ConfigSuffix.exists())
         _oldMeshName_ConfigSuffix.remove();
@@ -1405,6 +1407,12 @@ void MainWindow::saveMeshVariables()
  */
 void MainWindow::on_setMeshPropertiesButton_clicked()
 {
+    if (_boundaryMeshValues.isEmpty())
+    {
+        QMessageBox::warning(this, "Mesh not properly selected","Please, check if your mesh is in the appropriate format, and that the generated mesh link is not broken");
+        return;
+
+    }
     loadMeshDialog();
 }
 
@@ -1578,7 +1586,7 @@ void MainWindow::setEnableMenuSolver(bool _val)
 {
     ui->actionCreate_New_Configuration_File->setEnabled(_val);
     ui->actionLoad_Configuration_File->setEnabled(_val);
-    ui->actionRun_Project->setEnabled(_val);
+    ui->actionRun_Project->setEnabled(_val);    
     ui->actionStop_Execution->setEnabled(false);
     ui->actionSave_Residual_Image->setEnabled(_val);
     setEnabledSaveConfigIcons(_val);

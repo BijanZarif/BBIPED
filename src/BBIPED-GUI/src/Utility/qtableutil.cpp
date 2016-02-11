@@ -13,6 +13,9 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
+
 ***/
 #include "qtableutil.h"
 #include <stdio.h>
@@ -357,10 +360,10 @@ QLineEdit * QtableUtil::addEditText(QString _value)
      // Setting the validator
      bool isDouble;
      double _doubleVal = _value.toDouble(&isDouble);
-     if (isDouble)
+     /*if (isDouble)
      {
          addDoubleValidator(_defaultTxt);
-     }
+     }*/
 
      return _defaultTxt;
 }

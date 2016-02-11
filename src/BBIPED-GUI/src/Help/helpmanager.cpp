@@ -13,6 +13,8 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with Foobar. If not, see <http://opensource.org/licenses/LGPL-3.0>.
+ *
+ *  Author: Dec 2016: Carmen Alonso Montes calonso@bcamath.org
 ***/
 #include "helpmanager.h"
 #include <QDir>
@@ -42,6 +44,11 @@ void HelpManager::openHelp(QString _file, QString _folder)
     QDesktopServices::openUrl(_url);
 }
 
+void HelpManager::openHelpURL(QString _externalURL)
+{
+    QUrl  _url  = QUrl(_externalURL);
+    QDesktopServices::openUrl(_url);
+}
 /**
  * @brief This function opens the Qt Assistant with the correspondent help files
  *
